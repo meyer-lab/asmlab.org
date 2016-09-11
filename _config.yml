@@ -1,0 +1,39 @@
+markdown: redcarpet
+highlighter: null
+
+url:
+baseurl:
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed
+
+gems:
+  - jekyll-archives
+  - jekyll-sitemap
+
+jekyll-archives:
+  enabled:
+    - tags
+  layouts:
+    year: year-archives
+    tag: tag-archives
+    category: category-archives
+    month: month-archives
+    day: day-archives
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/:name/'
+
+
+permalink:     /:categories/:title.html
+
+exclude:
+  - Gemfile
+  - Gemfile.lock

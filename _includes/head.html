@@ -1,0 +1,58 @@
+<!-- meta information -->
+<meta charset="utf-8">
+<meta name="description" {% if page.title == "Home" %}
+      content="{{ site.data.brume.description }}" {% else %}
+      content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" {% endif %}>
+<meta name="author" content="{{ site.data.brume.author }}">
+
+<!-- Enable responsiveness on mobile devices-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<!-- title -->
+<title>{{ site.data.brume.name }} &middot; {{ page.title }}</title>
+
+<!-- icons -->
+<link rel="shortcut icon" href="{{site.baseurl}}/public/images/favicon.ico" />
+
+<!-- stylesheets -->
+<link rel="stylesheet" href="{{site.baseurl}}/public/css/main.css">
+
+<!-- Google fonts -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic&subset=latin-ext">
+
+<!-- font Awesome -->
+<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//ameyer.me/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 2]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//ameyer.me/piwik/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+
+
+<script src="{{site.baseurl}}/public/js/raphael.min.js"></script>
+
+<script>
+	window.onload = function () {
+		var paper = Raphael("logo", 100, 100);
+
+		(function () {
+			paper.clear();
+			paper.circle(50, 50, 26).animate({fill: "#000", stroke: "#0067a1", "stroke-width": 35, "stroke-opacity": 0.3}, 1000);
+		})();
+	};
+</script>
+
+<!-- feed links -->
+<link rel="alternate" href="{{ site.baseurl }}/feed.xml" type="application/rss+xml" title="{{ site.name }}">

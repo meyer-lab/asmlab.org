@@ -1,0 +1,51 @@
+---
+layout: default
+title: /
+---
+
+<h2> Systems biology: Building better models </h2>
+
+<p>Our work lies at the intersection of diverse computational approaches including machine learning and mechanistic modeling, combined with translating new methods of assessing biology to systems approaches. Critically, this combination is synergistic; models in systems biology will always be only as good as the information used to assemble them, and as our understanding of biology begins to assemble from information about single proteins, we need quantitative models to understand and even communicate these complex processes.</p>
+
+<br />
+
+
+<h3>News</h3>
+
+{% for post in site.categories.news %}
+
+  <article class="row gutters">
+  <b><time datetime="{{post.date | date: '%Y-%m-%d'}}">{{post.date | date: "%B %-d, %Y" }}</time></b>
+    {{ post.content }}
+  </article>
+
+{% endfor %}
+
+<br/>
+
+
+<h3>Contact</h3>
+
+<div class="col span_4 left">
+<h4>Packages/Lab:</h4>
+    Meyer Lab<br/>
+    Koch Institute at MIT<br/>
+    Building 76, Room 387<br/>
+    500 Main Street<br/>
+    Cambridge, MA 02139
+</div>
+
+<div class="col span_4 left">
+<h4>Mail/Office:</h4>
+Aaron Meyer<br/>
+Koch Institute at MIT<br/>
+Building 76, Room 361F<br/>
+500 Main Street<br/>
+Cambridge, MA 02139<br />
+Phone: (617) 324-4404
+    </div>
+
+
+<div class="clr"></div>
+
+<br /><br /><br />

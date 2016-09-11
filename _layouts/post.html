@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article class="single row gutters">
+  <time class="published" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_long_string }}</time>
+  <h2>{{ page.title }}{% if page.external-url %} - <a href="{{ page.external-url }}"><i class="fa fa-external-link"></i></a>{% endif %}</h2>
+
+    {% if page.img %}<img src="{{ page.img }}">{% endif %}
+
+  {{ content }}
+
+  <div class="post-tag">{% for tag in page.tags %}#<a href="{{ site.baseurl }}/tag/{{tag}}/">{{tag}}</a>&nbsp;&nbsp;{% endfor %}</div>
+</article>

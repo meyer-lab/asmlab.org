@@ -1,0 +1,9 @@
+source 'https://rubygems.org'
+
+gem 'jekyll-sitemap'
+gem 'jekyll-archives'
+gem 'redcarpet'
+gem 'pygments.rb'
+gem 'jekyll'
+gem 'sass'
+gem 'kramdown'

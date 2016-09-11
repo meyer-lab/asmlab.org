@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<h1 class="category">Archive of items with {{ page.type }} '{{ page.title }}'</h1>
+
+<section class="archive">
+
+<div class="bundle row gutters">
+    <div class="posts-by-year col span_12">
+
+
+{% for post in page.posts %}
+
+  <article class="single row gutters">
+    <h3><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" class="col span_10">{{ post.title }}</a></h3>
+    <div class="post-date col span_2">
+      <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date_to_long_string }}</time>
+    </div>
+  </article>
+
+{% endfor %}
+
+</div></div>
+
+</section>

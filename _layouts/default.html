@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <div class="container azul">
+      <header class="top row gutters{% if page.title == "Home" %} fadeInLeft animated{% endif %}">
+        <div class="col span_2 center">
+        <div id="logo"></div>
+          <!-- <a href="{{ site.url }}" id="logo" title="{{ site.data.brume.name }}"
+             style="background-image: url({{site.baseurl}}/public/images/logo.png);"></a> -->
+        </div>
+        {% include navigation.html %}
+      </header>
+
+      {{ content }}
+
+      <footer>
+        
+         <div class="col span_4 center">
+          <a href="http://www.mit.edu"><img src="{{site.baseurl}}/public/images/MITlogo.png"></a>
+         </div>
+         <div class="col span_4 center">
+          <a href="http://ki.mit.edu"><img src="{{site.baseurl}}/public/images/kochlogo.png"></a>
+        </div>
+        <div class="col span_4 center">
+          <a href="http://www.twitter.com/aarmey"><i class="fa fa-twitter fa-3x"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/thanatosmin"><i class="fa fa-github-square fa-3x"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:me@ameyer.me"><i class="fa fa-envelope fa-3x"></i></a>
+        </div>
+          
+
+      </footer>
+    </div>
+
+    <!-- scripts -->
+    <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
+  </body>
+</html>

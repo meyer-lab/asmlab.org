@@ -1,0 +1,17 @@
+- url: /
+  title: /
+
+- url: /team
+  title: Team
+
+- url: /research
+  title: Research
+
+- url: /publications
+  title: Publications
+
+- url: /reading
+  title: Lit Review
+
+- url: /protocols.html
+  title: Protocols/Links
