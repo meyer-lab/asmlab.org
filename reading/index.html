@@ -1,0 +1,27 @@
+---
+layout: default
+title: Essential Reading
+---
+
+<section class="archive">
+<h2>Essential Reading</h2>
+  <div class="bundle row gutters">
+
+{% for post in site.categories.literature %}
+  <article class="row gutters">
+    <h3 class="col span_8"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.external-url %} - <a href="{{ post.external-url }}"><i class="fa fa-external-link"></i></a>{% endif %}</h3>
+
+    <div class="post-date col span_4">
+      <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%-d %B %Y" }}</time>
+    </div>
+
+    <div class="col span_12">
+      {{ post.content }}
+    </div>
+
+  </article>
+{% endfor %}
+
+
+</div>
+</section>

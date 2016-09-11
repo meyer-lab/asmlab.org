@@ -1,0 +1,24 @@
+---
+layout: page
+title: Publications
+---
+
+{% bibtex /publications/_style /publications/pubs.bib %}
+
+
+
+<script>var bqs = document.getElementsByTagName("blockquote");
+for(var i = 0; i < bqs.length; i++) {
+  bqs[i].style.display = "none";
+  var ab = document.createElement('a');
+  ab.setAttribute('href', '#');
+  ab.setAttribute('onClick', 'toggleBq('+i+'); return false;');
+  ab.appendChild(document.createTextNode("[abstract]"));
+  bqs[i].parentNode.insertBefore(ab,bqs[i]);
+}
+function toggleBq(i) {
+  if (bqs[i].style.display == "none")
+    bqs[i].style.display = "block";
+  else
+    bqs[i].style.display = "none";
+}</script>
