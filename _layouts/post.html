@@ -10,5 +10,5 @@ layout: default
 
   {{ content }}
 
-  <div class="post-tag">{% for tag in page.tags %}#<a href="{{ site.baseurl }}/tag/{{tag}}/">{{tag}}</a>&nbsp;&nbsp;{% endfor %}</div>
+  <div class="post-tag">{% for tag in page.tags %}#<a href="{{ site.baseurl }}/tag/{{tag | slugify}}/">{{tag}}</a>&nbsp;&nbsp;{% endfor %}</div>
 </article>

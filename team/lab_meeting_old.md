@@ -20,3 +20,6 @@ title: Previous Lab Meetings
 | 7/14/2016     | Mira M        | Acidosis-driven EMT                    | 9 am, 76-358    |
 | 8/11/2016     | Ryan R        | FcgR project                           | 9 am, 76-358    |
 | 8/25/2016     | Ted R         | TAM immune project                     | 9 am, 76-358    |
+| 9/8/2016      | Aaron M       | TAM signaling project (Cancelled)      | 9 am, 76-358    |
+| 9/22/2016     | Simin M       | Resistance project update              | 9 am, 76-358    |
+| 10/13/2016    | Annelien Z    | AXL induced migration                  | 9 am, 76-358    |

@@ -60,15 +60,15 @@ Ryan joined the lab in January of 2016 as part of a project analyzing the bindin
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/cbray.jpg" width="120px" /></div>
-
-### Christina Bray, Undergraduate Researcher  
-Biological Engineering, MIT     
+### Ning Guan, Undergraduate Researcher  
+Undeclared, MIT     
 
 <br />
 <br />
 
 # Former Members
+
+#### Christina Bray, Undergraduate Researcher, Biological Engineering, MIT
 
 #### Andrea Meister, Undergraduate Researcher, Biological Engineering, MIT
 
