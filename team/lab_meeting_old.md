@@ -23,3 +23,6 @@ title: Previous Lab Meetings
 | 9/8/2016      | Aaron M       | TAM signaling project (Cancelled)      | 9 am, 76-358    |
 | 9/22/2016     | Simin M       | Resistance project update              | 9 am, 76-358    |
 | 10/13/2016    | Annelien Z    | AXL induced migration                  | 9 am, 76-358    |
+| 10/27/2016    | Song          | Introduction / ideas discussion        | 9 am, 76-358    |
+| 12/15/2016    | Ted           | TAM immune project                     | 9 am, 76-358    |
+| 1/12/2017     | Simin         | Noise-induced resistance               | 9 am, 76-358    |
