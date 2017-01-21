@@ -4,11 +4,18 @@ sudo: false
 cache:
   bundler: true
 
+dist: trusty
+
 rvm:
+  - 2.3
+  - 2.4
   - 2.2.2
 
+before_install:
+  - gem install bundler
+
 install:
-  - bundle install
+  - bundle install --jobs=3 --retry=3
   # bibtex2html
   - wget --no-check-certificate http://www.lri.fr/\~filliatr/ftp/bibtex2html/bibtex2html-1.98-linux.tar.gz
   - tar xvfz bibtex2html-1.98-linux.tar.gz
