@@ -10,7 +10,7 @@ fi
 
 rev=$(git rev-parse --short HEAD)
 
-cd stage/_site
+cd _site
 
 git init
 git config user.name "Travis CI"

@@ -28,7 +28,7 @@ install:
   - rm -rf bibtex2html-1.98-linux bibtex2html-1.98-linux.tar.gz
 script:
   - bundle exec jekyll build
-  - bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html
+#  - bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html
 after_success:
   - bash _deploy.sh
 notifications:
