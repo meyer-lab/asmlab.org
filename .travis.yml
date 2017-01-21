@@ -7,11 +7,16 @@ cache:
 dist: trusty
 
 rvm:
-  - 2.3
   - 2.4
-  - 2.2.2
+
+env:
+  global:
+   # GH_TOKEN=     (to push)
+   - secure: "LwPfvsxwK+hor2bVpDJSqRbuOi0E3zILZ+nKtTSIO46A6iJ/UcBnAxBh5f1s+Baspw4c9B1oPzZUtfnmJxK34SnIiZg61ALPu9+pQF5QPQZRmqx/Odt/GAZi3wmW26/5oOwAyIfIfq4A14OrdWlt7u4i+QV9AWwpWbObM/lHs0ho2lGOGWYfihDGUGahDqfIZ17yQFz5dN8gtOTE/bZF6YwcDipREd2Kav4TZPDQmyLuM8sbZmHlAL352gDp/H+tKukYwy/jBTJ8XahYs+Rww3evEh7M0R7js7bLp33U4p2JUK2rtd4i6DnwivGkWS++Rjg6SYV8qhuJMbiUcs+VdC8/fSKofSbgzEH+kAkYw+Lg1oeXIJCusR48Waef7gvwAJ0Xr/svUFbxaACrhuQzx/Cfj1Rom+OiVJGhvj/174+bH4AhYqhrGWhfihmpQ23Wx5+CaSDJT/v2yFrJ3GFKyIXLtaT9EUz5PLZOO5Gej8PTW8YvI4Nbc2sJzNkJQgU5eihpQ9Pj7ZmQFLUnehCGpnan7GcRjQzYNTjMu6vKLflvdHzsseH1J1X/5cz5ax2LzFrOBTCqzTZOk5LRo88rEWhnpOW3jRcBHwKGGxxYRAv18Gtp2HCyGsymMQYITdgeAPGjVhkYmNP/TLkr3/TRBoG1smNXv35DVI0Pw6Ewpps="
 
 before_install:
+  - mkdir ~/bin
+  - export PATH="~/bin:$PATH"
   - gem install bundler
 
 install:
@@ -24,3 +29,9 @@ install:
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html
+after_success:
+  - bash _deploy.sh
+notifications:
+  email:
+    recipients:
+     - travis-builds@asmlab.org
