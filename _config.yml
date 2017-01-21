@@ -37,3 +37,6 @@ permalink:     /:categories/:title.html
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - scripts
+  - tmp

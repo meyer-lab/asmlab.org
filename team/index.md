@@ -2,11 +2,9 @@
 layout: page
 title: Team
 ---
+<img src="/public/photos/group.jpg" width="90%" alt="The group" class="center" />
 
-<center><img src="/public/photos/group.jpg" width="90%" /></center>
-
-
-<div class="span_2 right"><img src="/public/photos/aaron.jpg" width="120px" /></div>
+<div class="span_2 right"><img src="/public/photos/aaron.jpg" width="120px" alt="Aaron's picture" /></div>
 
 ### Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="http://ameyer.me"><i class="fa fa-home"></i></a>  <a href="http://www.twitter.com/aarmey"><i class="fa fa-twitter"></i></a>   <a href="mailto:aameyer@mit.edu"><i class="fa fa-envelope"></i></a>    
 Ph. D., Biological Engineering, MIT    
@@ -16,7 +14,7 @@ B.S., Bioengineering, University of California, Los Angeles
 <br />
 <br />
 
-<div class="span_2 right"><img src="/public/photos/sybae.jpg" width="120px" /></div>
+<div class="span_2 right"><img src="/public/photos/sybae.jpg" width="120px" alt="Song Yi's picture" /></div>
 ### Song Yi Bae, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:sybae@mit.edu"><i class="fa fa-envelope"></i></a>      
 Ph.D., College of Pharmacy, Seoul National University
 B.S., College of Pharmacy, Ewha Womans University
@@ -25,7 +23,7 @@ As a graduate Song Yi focused on identifying biomarkers and mechanisms of acquir
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/ted.jpg" width="120px" /></div>
+<div class="span_2 right"><img src="/public/photos/ted.jpg" width="120px" alt="Ted's picture" /></div>
 ### Edward Richards, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:erichard@mit.edu"><i class="fa fa-envelope"></i></a>      
 Ph. D., Cancer Biology, Moffitt Cancer Center at University of South Florida   
 B.A., M.S. Biology, Saint Anselm College, Tulane University  
@@ -34,7 +32,7 @@ Ted has joined the team as a postdoctoral associate. The focus of his previous r
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/azweemer.jpg" width="120px" /></div>
+<div class="span_2 right"><img src="/public/photos/azweemer.jpg" width="120px" alt="Annelien's picture" /></div>
 ### Annelien Zweemer, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:zweemer@mit.edu"><i class="fa fa-envelope"></i></a>       
 Ph. D., Leiden University  
 
@@ -42,7 +40,7 @@ After completion of her graduate work in the field of Medicinal Chemistry and Ph
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/smanole.jpg" width="120px" /></div>
+<div class="span_2 right"><img src="/public/photos/smanole.jpg" width="120px" alt="Simin's picture" /></div>
 
 ### Simin Manole, Technical Assistant&nbsp;&nbsp;&nbsp;<a href="mailto:smanole@mit.edu"><i class="fa fa-envelope"></i></a>      
 B.S., Microbiology, University of Michigan    
@@ -51,7 +49,7 @@ As the Technical Assistant Simin handles the day-to-day lab duties, managing the
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/rrobinett.jpg" width="120px" /></div>
+<div class="span_2 right"><img src="/public/photos/rrobinett.jpg" width="120px" alt="Ryan's picture" /></div>
 
 ### Ryan Robinett, Undergraduate Researcher  
 Computational Biology, MIT
