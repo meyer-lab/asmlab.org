@@ -25,5 +25,6 @@ git reset upstream/gh-pages
 touch .
 
 git add -A .
-git commit -m "rebuild pages at ${rev}"
+git status
+git commit -m "Lastest site built on successful travis build $TRAVIS_BUILD_NUMBER auto-pushed to github"
 git push -q upstream HEAD:gh-pages
