@@ -8,4 +8,5 @@ install:
   - cp -v bibtex2html-1.98-linux/* ~/bin
   - rm -rf bibtex2html-1.98-linux bibtex2html-1.98-linux.tar.gz
 script:
-  - jekyll build
+  - bundle exec jekyll build
+  - bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html
