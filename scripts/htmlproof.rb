@@ -7,7 +7,7 @@ HTMLProofer.check_directory('./_site', {
 	:cache => {
 		:timeframe => '1w',
 	},
-	:url_ignore => [/www.nature.com/, /insight.jci.org/, /mit-cispro-cloud/, /nature20141/, /www.mit.edu/, /app.asana.com/],
+	:url_ignore => [/www.nature.com/, /insight.jci.org/, /mit-cispro-cloud/, /nature20141/, /www.mit.edu/, /app.asana.com/, /.aacrjournals.org/, /dx.doi.org/],
 	:typhoeus => {
 		:timeout => 15, # seconds
 	},
