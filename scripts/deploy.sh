@@ -8,8 +8,6 @@ then
   exit 0
 fi
 
-rev=$(git rev-parse --short HEAD)
-
 cd _site
 
 git init
