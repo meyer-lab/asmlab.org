@@ -1,7 +1,12 @@
 language: ruby
+sudo: false
+
+cache:
+  bundler: true
+
 rvm:
-  - 2.3
-cache: bundler
+  - 2.2.2
+
 install:
   - bundle install
   # bibtex2html
