@@ -8,6 +8,12 @@ then
   exit 0
 fi
 
+if [ "$TRAVIS_PULL_REQUEST" = "true" ]
+then
+  echo "This is a pull request! No deploy!"
+  exit 0
+fi
+
 cd _site
 
 git init
