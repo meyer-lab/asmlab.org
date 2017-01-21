@@ -1,0 +1,11 @@
+language: ruby
+cache: bundler
+install:
+  - bundle install
+  # bibtex2html
+  - wget --no-check-certificate http://www.lri.fr/\~filliatr/ftp/bibtex2html/bibtex2html-1.98-linux.tar.gz
+  - tar xvfz bibtex2html-1.98-linux.tar.gz
+  - cp -v bibtex2html-1.98-linux/* ~/bin
+  - rm -rf bibtex2html-1.98-linux bibtex2html-1.98-linux.tar.gz
+script:
+  - jekyll build
