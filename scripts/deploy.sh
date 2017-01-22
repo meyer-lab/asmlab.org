@@ -24,7 +24,7 @@ git remote add upstream "https://$GH_TOKEN@github.com/meyer-lab/asmlab.org.git"
 git fetch upstream
 git reset upstream/gh-pages
 
-echo "a.asmlab.org" > CNAME
+echo "asmlab.org" > CNAME
 
 touch .
 
