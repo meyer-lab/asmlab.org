@@ -18,7 +18,7 @@ Targeted therapies extend many cancer patient's lives, but are limited in effica
 
 TAM (Tyro3, AXL, MerTK) receptors are implicated in resistance to targeted therapies and metastasis via tumor cell-intrinsic effects, while more recent evidence has implicated the same receptors expressed on immune cells as a potentially effective therapeutic targets in many cancers. Outside of cancer, these receptors have been implicated in a number of diseases involving immunological dysregulation including lupus, rheumatoid arthritis, endometriosis, viral infection, and asthma. Rationally targeting these receptors, and even understanding how existing therapies function, has been limited by poor understanding of how the receptors are activated.
 
-> <img src="/public/images/TAM.png" width="400px" alt="TAM concept" />  
+> <img src="/public/images/TAM.svg" width="400px" alt="TAM concept" />  
 > In many cancers, a subset of tumor cells overexpress AXL, making them invasive and resistant to therapy. TAM receptor activation within dendritic cells potently inhibits the innate immune response. T cell release of ProS further dampens the immune response. Activation of TAMs inhibits NK cell-mediated lysis. Each of these cell populations express distinct and dynamic combinations of TAM receptor, likely modulating functional changes in microenvironmental response.
 
 [More...](./TAM.html)
