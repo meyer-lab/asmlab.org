@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-## Forthcoming
+### Forthcoming
 
 **Model-Driven Design of TAM Receptor Inhibitors Reveals the Logic of Family Member Specialization.** Edward J. Richards, Aaron S. Meyer.
 
@@ -11,7 +11,7 @@ title: Publications
 
 **Dissecting FcγR Regulation Through a Multivalent Binding Model.** Ryan A. Robinett, Ning Guan, Aaron S. Meyer.
 
-## Published
+### Published
 
 {% bibtex /publications/_style /publications/pubs.bib %}
 
