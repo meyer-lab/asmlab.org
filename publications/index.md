@@ -11,6 +11,8 @@ title: Publications
 
 **Dissecting FcγR Regulation Through a Multivalent Binding Model.** Ryan A. Robinett, Ning Guan, Aaron S. Meyer.
 
+<br />
+
 ### Published
 
 {% bibtex /publications/_style /publications/pubs.bib %}
