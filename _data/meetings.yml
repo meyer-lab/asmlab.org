@@ -6,7 +6,7 @@
 
 - date: 2017-02-16 09:00:00
   presenter: Song Yi
-  topic: Measuring and manipulating PS
+  topic: AXLi/chemotherapy combinations
   room: 76-358
   treats: Ted
 
@@ -36,32 +36,40 @@
 
 - date: 2017-04-20 09:00:00
   presenter: Song Yi
-  topic: Measuring and manipulating PS
+  topic: AXLi/chemotherapy combinations
   room: 76-358
   treats: Simin
+
+
 
 - date: 2017-01-12 09:00:00
   presenter: Simin
   topic: Noise-induced resistance
-  room: 76-358
-  treats: Null
 
 - date: 2016-12-15 09:00:00
   presenter: Ted
   topic: TAM immune project
-  room: 76-358
 
 - date: 2016-10-27 09:00:00
   presenter: Song Yi
   topic: Introduction / ideas discussion
-  room: 76-358
 
 - date: 2016-10-13 09:00:00
   presenter: Annelien
   topic: AXL induced migration
-  room: 76-358
 
 - date: 2016-09-22 09:00:00
   presenter: Simin
   topic: Resistance project update
-  room: 76-358
+
+- date: 2016-09-08 09:00:00
+  presenter: Aaron
+  topic: TAM signaling project (Cancelled)
+
+- date: 2016-08-25 09:00:00
+  presenter: Ted
+  topic: TAM immune project
+
+- date: 2016-08-11 09:00:00
+  presenter: Ryan
+  topic: FcgR project
