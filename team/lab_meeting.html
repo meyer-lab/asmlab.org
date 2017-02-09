@@ -10,6 +10,8 @@ Lab meetings are held roughly every other week and are open to everyone in the l
 {% assign future_meet = (site.data.meetings | sort: 'date' | where_exp:'item', "item.date > site.time") %}
 {% assign past_meet =   (site.data.meetings | sort: 'date' | reverse | where_exp:'item', "item.date < site.time") %}
 
+<br />
+
 <table>
   <tr><thead>
     <th>Date</th>
