@@ -37,7 +37,6 @@ script:
   - set -e
   - bundle exec jekyll build
   - bundle exec ruby scripts/htmlproof.rb
-  - cat ./_site/team/lab_meeting_new.html
 after_success: bash scripts/deploy.sh
 notifications:
   email:

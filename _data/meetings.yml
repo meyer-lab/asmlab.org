@@ -6,7 +6,7 @@
 
 - date: 2017-02-16 09:00:00
   presenter: Song Yi
-  topic: Measuring and manipulating PS
+  topic: AXLi/chemotherapy combinations
   room: 76-358
   treats: Ted
 
@@ -36,15 +36,16 @@
 
 - date: 2017-04-20 09:00:00
   presenter: Song Yi
-  topic: Measuring and manipulating PS
+  topic: AXLi/chemotherapy combinations
   room: 76-358
   treats: Simin
+
+
 
 - date: 2017-01-12 09:00:00
   presenter: Simin
   topic: Noise-induced resistance
   room: 76-358
-  treats: Null
 
 - date: 2016-12-15 09:00:00
   presenter: Ted
