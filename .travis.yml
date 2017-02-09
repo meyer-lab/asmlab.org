@@ -1,6 +1,11 @@
 language: ruby
 sudo: false
 
+addons:
+  apt:
+    packages:
+    - texlive-binaries
+
 cache:
   bundler: true
   directories:
