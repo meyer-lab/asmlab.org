@@ -36,7 +36,7 @@ install:
 script:
   - set -e
   - bundle exec jekyll build
-  - bundle exec ruby scripts/htmlproof.rb
+#  - bundle exec ruby scripts/htmlproof.rb
 after_success: bash scripts/deploy.sh
 notifications:
   email:
