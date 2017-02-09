@@ -4,7 +4,7 @@ sudo: false
 addons:
   apt:
     packages:
-    - texlive-latex-recommended
+    - texlive-binaries
 
 cache:
   bundler: true
@@ -33,7 +33,10 @@ install:
   - tar xvfz bibtex2html-1.98-linux.tar.gz
   - cp -v bibtex2html-1.98-linux/* ~/bin
   - rm -rf bibtex2html-1.98-linux bibtex2html-1.98-linux.tar.gz
-script: bash scripts/cibuild.sh
+script:
+  - set -e
+  - bundle exec jekyll build
+  - bundle exec ruby scripts/htmlproof.rb
 after_success: bash scripts/deploy.sh
 notifications:
   email:

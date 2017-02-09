@@ -1,0 +1,49 @@
+---
+layout: default
+title: Lab Meeting Schedule
+---
+
+<h2>Lab Meeting Schedule</h2>
+
+{% assign meet_sort = (site.data.meetings | sort: 'date') %}
+{% assign future_meet = (meet_sort | where_exp:'item', "item.date.to_i > site.time.to_i") %}
+{% assign past_meet =   (meet_sort | where_exp:'item', "item.date.to_i < site.time.to_i") %}
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Presenter</th>
+    <th>Topic</th>
+    <th>Room</th>
+    <th>Treat Duty</th>
+  </tr>
+  {% for meeting in future_meet %}
+  <tr>
+    <td>{{meeting.date}}</td>
+    <td>{{meeting.presenter}}</td>
+    <td>{{meeting.topic}}</td>
+    <td>{{meeting.room}}</td>
+    <td>{{meeting.treats}}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+
+
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Presenter</th>
+    <th>Topic</th>
+    <th>Room</th>
+    <th>Treat Duty</th>
+  </tr>
+  {% for meeting in past_meet %}
+  <tr>
+    <td>{{meeting.date}}</td>
+    <td>{{meeting.presenter}}</td>
+    <td>{{meeting.topic}}</td>
+  </tr>
+  {% endfor %}
+</table>
