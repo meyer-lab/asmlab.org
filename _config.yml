@@ -40,3 +40,4 @@ exclude:
   - README.md
   - scripts
   - tmp
+  - README.md
