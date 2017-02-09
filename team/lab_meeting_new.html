@@ -6,8 +6,8 @@ title: Lab Meeting Schedule
 <h2>Lab Meeting Schedule</h2>
 
 {% assign meet_sort = (site.data.meetings | sort 'date') %}
-{% assign future_meet = (meet_sort | where_exp:'item', "item.date > 'now'") %}
-{% assign past_meet = (meet_sort | where_exp:'item', "item.date < 'now'") %}
+{% assign future_meet = (meet_sort | where_exp:'item', "item.date.to_i > site.time.to_i") %}
+{% assign past_meet = (meet_sort | where_exp:'item', "item.date.to_i < site.time.to_i") %}
 
 <table>
   <tr>
