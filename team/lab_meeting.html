@@ -5,25 +5,24 @@ title: Lab Meeting Schedule
 
 <h2>Lab Meeting Schedule</h2>
 
-{% assign meet_sort = (site.data.meetings | sort: 'date') %}
-{% assign future_meet = (meet_sort | where_exp:'item', "item.date > site.time") %}
-{% assign past_meet =   (meet_sort | where_exp:'item', "item.date < site.time") %}
+{% assign future_meet = (site.data.meetings | sort: 'date' | where_exp:'item', "item.date > site.time") %}
+{% assign past_meet =   (site.data.meetings | sort: 'date' | reverse | where_exp:'item', "item.date < site.time") %}
 
 <table>
-  <tr>
+  <tr><thead>
     <th>Date</th>
-    <th>Presenter</th>
+    <th style="text-align: center">Presenter</th>
     <th>Topic</th>
     <th>Room</th>
-    <th>Treat Duty</th>
-  </tr>
+    <th style="text-align: center">Treat Duty</th>
+  </thead></tr>
   {% for meeting in future_meet %}
   <tr>
-    <td>{{meeting.date | date: "%b %-d %Y %-I:%-M %P"}}</td>
-    <td>{{meeting.presenter}}</td>
+    <td>{{meeting.date | date: "%b %-d %Y %-I:%M %P"}}</td>
+    <td style="text-align: center">{{meeting.presenter}}</td>
     <td>{{meeting.topic}}</td>
     <td>{{meeting.room}}</td>
-    <td>{{meeting.treats}}</td>
+    <td style="text-align: center">{{meeting.treats}}</td>
   </tr>
   {% endfor %}
 </table>
@@ -35,15 +34,15 @@ title: Lab Meeting Schedule
 <h2>Previous Lab Meetings</h2>
 
 <table>
-  <tr>
+  <tr><thead>
     <th>Date</th>
-    <th>Presenter</th>
+    <th style="text-align: center">Presenter</th>
     <th>Topic</th>
-  </tr>
+  </thead></tr>
   {% for meeting in past_meet %}
   <tr>
     <td>{{meeting.date | date: "%b %-d %Y"}}</td>
-    <td>{{meeting.presenter}}</td>
+    <td style="text-align: center">{{meeting.presenter}}</td>
     <td>{{meeting.topic}}</td>
   </tr>
   {% endfor %}
