@@ -5,7 +5,9 @@ title: Lab Meeting Schedule
 
 <h2>Lab Meeting Schedule</h2>
 
-{% assign meet_sort = (site.data.meetings | sort 'date')    %}
+{% assign meet_sort = (site.data.meetings | sort 'date') %}
+{% assign future_meet = (meet_sort | where_exp:"date", "date > 'now'") %}
+{% assign past_meet = (meet_sort | where_exp:"date", "date < 'now'") %}
 
 <table>
   <tr>
@@ -15,7 +17,7 @@ title: Lab Meeting Schedule
     <th>Room</th>
     <th>Treat Duty</th>
   </tr>
-  {% for meeting in (meet_sort | where_exp:"date", "date > 'now'") %}
+  {% for meeting in future_meet %}
   <tr>
     <td>{{meeting.date}}</td>
     <td>{{meeting.presenter}}</td>
@@ -37,7 +39,7 @@ title: Lab Meeting Schedule
     <th>Room</th>
     <th>Treat Duty</th>
   </tr>
-  {% for meeting in (meet_sort | where_exp:"date", "date < 'now'") %}
+  {% for meeting in past_meet %}
   <tr>
     <td>{{meeting.date}}</td>
     <td>{{meeting.presenter}}</td>
