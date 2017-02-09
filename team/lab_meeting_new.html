@@ -1,0 +1,25 @@
+---
+layout: default
+title: Lab Meeting Schedule
+---
+
+<h2>Lab Meeting Schedule</h2>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Presenter</th>
+    <th>Topic</th>
+    <th>Room</th>
+    <th>Treat Duty</th>
+  </tr>
+  {% for meeting in site.data.meetings %}
+  <tr>
+    <td>{{meeting.date}}</td>
+    <td>{{meeting.presenter}}</td>
+    <td>{{meeting.topic}}</td>
+    <td>{{meeting.room}}</td>
+    <td>{{meeting.treats}}</td>
+  </tr>
+  {% endfor %}
+</table>
