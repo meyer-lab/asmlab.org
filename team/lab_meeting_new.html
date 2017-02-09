@@ -5,7 +5,7 @@ title: Lab Meeting Schedule
 
 <h2>Lab Meeting Schedule</h2>
 
-{% assign meet_sort = (site.data.meetings) %}
+{% assign meet_sort = (site.data.meetings | sort: 'date') %}
 
 
 <table>
