@@ -5,6 +5,8 @@ title: Lab Meeting Schedule
 
 <h2>Lab Meeting Schedule</h2>
 
+Lab meetings are held roughly every other week and are open to everyone in the lab, including UROPs.
+
 {% assign future_meet = (site.data.meetings | sort: 'date' | where_exp:'item', "item.date > site.time") %}
 {% assign past_meet =   (site.data.meetings | sort: 'date' | reverse | where_exp:'item', "item.date < site.time") %}
 
@@ -18,7 +20,7 @@ title: Lab Meeting Schedule
   </thead></tr>
   {% for meeting in future_meet %}
   <tr>
-    <td>{{meeting.date | date: "%b %-d %Y %-I:%M %P"}}</td>
+    <td style="text-align: center">{{meeting.date | date: "%b %-d, %Y %-I:%M %P"}}</td>
     <td style="text-align: center">{{meeting.presenter}}</td>
     <td>{{meeting.topic}}</td>
     <td>{{meeting.room}}</td>
@@ -41,9 +43,11 @@ title: Lab Meeting Schedule
   </thead></tr>
   {% for meeting in past_meet %}
   <tr>
-    <td>{{meeting.date | date: "%b %-d %Y"}}</td>
+    <td style="text-align: center">{{meeting.date | date: "%b %-d, %Y"}}</td>
     <td style="text-align: center">{{meeting.presenter}}</td>
     <td>{{meeting.topic}}</td>
   </tr>
   {% endfor %}
 </table>
+
+<br />
