@@ -64,6 +64,23 @@ Undeclared, MIT
 <br />
 <br />
 
+
+### Minyi Lee, Undergraduate Researcher  
+Computer Science and Molecular Biology, MIT     
+
+<br />
+<br />
+
+
+
+### Colton Stearns, Undergraduate Researcher  
+Computational Biology, MIT     
+
+<br />
+<br />
+
+
+
 # Former Members
 
 #### Christina Bray, Undergraduate Researcher, Biological Engineering, MIT
