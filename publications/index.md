@@ -11,6 +11,8 @@ title: Publications
 
 **Dissecting FcγR Regulation Through a Multivalent Binding Model.** Ryan A. Robinett, Ning Guan, Aaron S. Meyer.
 
+**Apoptotic Cell Bodies Elicit Gas6-mediated Migration of AXL-expressing Tumor Cells.** Annelien Zweemer, Cory B. French, Joshua Mesfin, Simon Gordonov, Aaron S. Meyer, Douglas A. Lauffenburger. *Submitted. Under revision.*
+
 <br />
 
 ### Published
