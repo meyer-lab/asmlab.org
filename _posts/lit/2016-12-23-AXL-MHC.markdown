@@ -1,0 +1,13 @@
+---
+layout: post
+title:  Reprogramming the immunological microenvironment through radiation and targeting Axl
+date:   2016-12-23 00:00:01
+categories: literature
+external-url: http://www.nature.com/articles/ncomms13898
+tags:
+- immunoncology
+- TAM
+- RTKs
+- immunology
+---
+This work shows that in addition to being a tumor cell-intrinsic resistance factor to ionizing radiation, AXL signaling drives decreased MHC-I abundance and immunosuppressive cytokine expression. The AXL-proximal signaling that drives this effect is not worked out---it would be interesting to know what signaling is involved to determine how specific this is to TAM receptors vs. other kinases.
