@@ -59,7 +59,7 @@ Ryan joined the lab in January of 2016 as part of a project analyzing the bindin
 <br />
 
 ### Ning Guan, Undergraduate Researcher  
-Undeclared, MIT     
+Biological Engineering, MIT     
 
 <br />
 <br />
