@@ -5,7 +5,7 @@ require 'html-proofer'
 HTMLProofer.check_directory('./_site', {
 	:check_html => true,
 	:cache => {
-		:timeframe => '6M',
+		:timeframe => '24w',
 	},
 	:url_ignore => [/mit-cispro-cloud/],
 	:typhoeus => {
