@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  emcee: The MCMC Hammer
+title:  "emcee: The MCMC Hammer"
 date:   2013-01-01 00:00:01
 categories: literature
 external-url: http://iopscience.iop.org/article/10.1086/670067/meta
