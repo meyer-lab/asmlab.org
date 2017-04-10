@@ -11,7 +11,9 @@ title: Publications
 
 **Dissecting FcγR Regulation Through a Multivalent Binding Model.** Ryan A. Robinett, Ning Guan, Aaron S. Meyer.
 
-**Apoptotic Cell Bodies Elicit Gas6-mediated Migration of AXL-expressing Tumor Cells.** Annelien Zweemer, Cory B. French, Joshua Mesfin, Simon Gordonov, Aaron S. Meyer, Douglas A. Lauffenburger. *Submitted. Under revision.*
+**Microenvironmental Rewiring Contributes to Sorafenib Resistance via MEK.** Lauren E. Barney, Alyssa D. Schwartz, Lauren E. Jansen, Thuy V. Nguyen, Christopher L. Hall, Aaron S. Meyer, Shelly R. Peyton. *Submitted.*
+
+**Apoptotic Cell Bodies Elicit Gas6-Mediated Migration of AXL-expressing Tumor Cells.** Annelien Zweemer, Cory B. French, Joshua Mesfin, Simon Gordonov, Aaron S. Meyer, Douglas A. Lauffenburger. *Submitted. Under revision.*
 
 <br />
 
