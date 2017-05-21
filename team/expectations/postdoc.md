@@ -1,8 +1,9 @@
-# Mission Statement
-Welcome to the Meyer Lab! The Meyer lab has three central goals:
--	To do quality science
--	To develop each lab member to become a successful scientist
--	To maintain a collegial and intellectually-stimulating environment
+---
+layout: page
+title: Postdoctoral Associate Expectations
+---
+
+*Note: This is not final and so should not be considered lab policy at the moment.*
 
 # What I expect from you
 You will take ownership of your training experience
@@ -27,23 +28,4 @@ You will take ownership of your training experience
 -	When working in the labs of other investigators, be polite, neat, and gracious.  Always follow their rules. If something breaks during your use, report it immediately to the appropriate person.
 -	Be respectful, tolerant of, and work collegially with laboratory colleagues:  respect individual differences in values, personalities, and work styles.  
 
-# What you can expect from me
--	I will set the scientific direction for the lab and provide the means to pursue those directions.  This will include helping you to find a research topic, writing grants to fund the research, and maintaining the necessary university protocols for us to utilize the laboratory. Additionally, I will seek out collaborators for our work to further your opportunities.
--	I am committed to mentoring you now and in the future.  I am committed to your training while in my lab, and to advising and guiding your career development. I will work to promote you and your work.
--	I will encourage you to attend scientific meetings and make an effort to fund these activities. These meetings are important to showcase your work and for the networking opportunities as you pursue positions after your time in my lab ends.
--	I will be available for regular meetings and will provide timely review of research.  In addition, I will do my best to provide an open door policy and respond quickly to e-mails.  Please be aware that there will be times when I will be unavailable due to other obligations – in particular my teaching is on the engineering campus. For abstracts and small data questions, I will generally be able to review in 1-2 days, for papers and thesis, I will need 1-2 weeks.
--	I will provide a work environment that is intellectually stimulating, supportive, safe, and free from harassment. I take seriously any difficulties you experience in relationship to this statement – if there are conflicts with another lab member, please inform me and I will work with you and the other lab member to find a resolution. I will strive to understand your unique situation and am open to your suggestions on how to improve your experience in the lab.
-
-
-# Nuts and Bolts
-## Hours and Vacation
-I do not believe in tracking hours – instead, I am interested to see that you are productive. However, if I sense that this is being taken advantage of, the situation will be addressed. You will quickly recognize that biology is not a 9-5 proposition - night and weekend hours come with the territory. Many appointments do not include vacation/sick/holiday leave. However, to maintain your productivity, I believe it is important to take a some time off for these purposes.  Therefore, you will have two weeks of vacation.  I ask that you discuss with me at least 4 weeks before a planned absence - this way we can determine if it is an appropriate time for a vacation and if there are grant or other deadlines during that period we have ample time to prepare. I expect you to satisfactorily complete all assigned research duties prior to your planned departure.
-
-## Meetings
-Come prepared to discuss/present your recent research and next steps.  A written agenda including what you have done and what you propose to do in the next week must be e-mailed to me by 3 pm the day before the meeting. You must bring your lab notebook to each meeting. Group meetings will rotate between a variety of formats:  research updates, research presentations, and journal clubs. Attendance is mandatory – active participation is essential!
-
-## Annual Evaluations
-Each year we will have an evaluation – this will help us to determine things that are going well or are areas for improvement. I will tell you if I am satisfied with your progress and help identify steps you can take to fix any concerns. This is also an opportunity for you to communicate to me what I can do to help you succeed. Tell me if you feel that you need more guidance, more independence, to meet more often, etc.
-
-## Authorship
-One of the most important tasks in science is disseminating your research through publications and presentations; therefore, authorship on these items is an important indicator to the outside world of your role. Authorship implies a significant contribution to a paper such as intellectual ideas that change the research or experimental contributions (just following instructions and not actively participating in the experimental design/interpretation will be acknowledged, but likely would not result in an authorship). While the order of authors varies by specific field, in general for bioengineering the first author is the student/post-doc who took the lead and wrote the paper, the last author is the PI, and the authors in between are in order of decreasing contribution. Failure to complete papers before leaving the lab may result in a junior member doing so as the 1st author in your place.
+Adapted from documents by [Pam Kreeger](http://www.kreegerlab.org).

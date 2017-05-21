@@ -1,8 +1,4 @@
-# Mission Statement
-Welcome to the Meyer Lab! The Meyer lab has three central goals:
--	To do quality science
--	To develop each lab member to become a successful scientist
--	To maintain a collegial and intellectually-stimulating environment
+
 
 As an undergraduate researcher in this lab, you will typically be paired with a senior lab ‘mentor’ and will work on a component of their project. This is a great time to learn how research is done and get a sense for what life would be like if you choose a career in research through medical or graduate schools.  Please take advantage of this time!
 
@@ -19,16 +15,6 @@ As an undergraduate researcher in this lab, you will typically be paired with a 
 -	Learn how to plan your experiments so that they help you progress on the overall goal of your project.  Make sure your experiments address the question of interest correctly – this includes learning how to do the appropriate controls, techniques, etc.
 -	Work safely in the lab.  Before beginning in the lab you must complete safety training. Be sure to label everything you work with in the lab so that others know what it is. When working in the labs of other investigators, be polite, neat, and gracious. Always follow their rules. If something breaks during your use, report it immediately to the appropriate person.
 -	Learn how to accept and utilize constructive criticism. This feedback is intended to improve your work and is part of the scientific training process.
--	Be respectful, tolerant of, and work collegially with laboratory colleagues:  respect individual differences in values, personalities, and work styles.  
+-	Be respectful, tolerant of, and work collegially with laboratory colleagues:  respect individual differences in values, personalities, and work styles.
 
-# What you can expect from me
--	I am committed to mentoring you now and in the future.  I am committed to your education and training while in my lab, and to advising and guiding your career development. I will work to promote you and your work, and I am your advocate.
--	I will be available for regular meetings and will provide timely review of research.  In addition, I will do my best to provide an open door policy and respond quickly to e-mails.  Please be aware that there will be times when I will be unavailable due to other obligations.  For abstracts and small data questions, I will generally be able to review in 3-4 days, for papers and thesis, I will need 2-3 weeks.
--	I will provide a work environment that is intellectually stimulating, supportive, safe, and free from harassment. I take seriously any difficulties you experience in relationship to this statement – if there are conflicts with another lab member (including your mentor), please inform me and I will work with you and the other lab member to find a resolution. I will strive to understand your unique situation and am open to your suggestions on how to improve your experience in the lab.
-
-# Nuts and Bolts
-## Individual meetings
-Come prepared to discuss/present your recent research and next steps.  A written agenda including what you have done and what you propose to do next must be e-mailed to me by 3pm the day before the meeting. You must bring your lab notebook with you to meetings.
-
-## Group meetings
-Group meetings will be held every other week and will rotate between a variety of formats: research updates, research presentations, and journal clubs. Attendance is mandatory – active participation is essential!
+Adapted from documents by [Pam Kreeger](http://www.kreegerlab.org).
