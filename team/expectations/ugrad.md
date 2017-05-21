@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Undergraduate Student Expectations
+---
 
 As an undergraduate researcher in this lab, you will typically be paired with a senior lab ‘mentor’ and will work on a component of their project. This is a great time to learn how research is done and get a sense for what life would be like if you choose a career in research through medical or graduate schools.  Please take advantage of this time!
 
