@@ -1,11 +1,5 @@
-markdown: redcarpet
-highlighter: null
-
 url:
 baseurl:
-
-redcarpet:
-  extensions: [strikethrough, tables]
 
 sass:
   sass_dir: public/css
