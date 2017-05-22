@@ -1,0 +1,39 @@
+---
+layout: page
+title: Publications
+---
+
+<h3> Forthcoming </h3>
+
+<b>Model-Driven Design of TAM Receptor Inhibitors Reveals the Logic of Family Member Specialization.</b> Edward J. Richards, Aaron S. Meyer.
+
+<b>Dynamic signaling activation heterogeneity drives lung cancer persistence to targeted therapies.</b> Simin Manole, Song Yi Bae, Aaron S. Meyer.
+
+<b>Dissecting FcγR Regulation Through a Multivalent Binding Model.</b> Ryan A. Robinett, Ning Guan, Aaron S. Meyer.
+
+<b>Microenvironmental Rewiring Contributes to Sorafenib Resistance via MEK.</b> Lauren E. Barney, Alyssa D. Schwartz, Lauren E. Jansen, Thuy V. Nguyen, Christopher L. Hall, Aaron S. Meyer, Shelly R. Peyton. <i>Submitted.</i>
+
+<b>Apoptotic Cell Bodies Elicit Gas6-Mediated Migration of AXL-expressing Tumor Cells.</b> Annelien Zweemer, Cory B. French, Joshua Mesfin, Simon Gordonov, Aaron S. Meyer, Douglas A. Lauffenburger. <i>Submitted. Under revision.</i>
+
+<br />
+
+<h3> Published </h3>
+
+{% bibtex /publications/_style /publications/pubs.bib %}
+
+
+<script>var bqs = document.getElementsByTagName("blockquote");
+for(var i = 0; i < bqs.length; i++) {
+  bqs[i].style.display = "none";
+  var ab = document.createElement('a');
+  ab.setAttribute('href', '#');
+  ab.setAttribute('onClick', 'toggleBq('+i+'); return false;');
+  ab.appendChild(document.createTextNode("[abstract]"));
+  bqs[i].parentNode.insertBefore(ab,bqs[i]);
+}
+function toggleBq(i) {
+  if (bqs[i].style.display == "none")
+    bqs[i].style.display = "block";
+  else
+    bqs[i].style.display = "none";
+}</script>
