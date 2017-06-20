@@ -14,7 +14,6 @@ pipeline {
     }
     stage('Test'){
       steps {
-        sh "ls -la ${pwd()}"
         sh 'bundle exec htmlproofer --check-html --assume-extension ./_site'
         }
       }
