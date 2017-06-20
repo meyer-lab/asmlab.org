@@ -2,4 +2,4 @@
 
 Meyer lab website
 
-[![Build Status](https://travis-ci.org/meyer-lab/asmlab.org.svg?branch=master)](https://travis-ci.org/meyer-lab/asmlab.org)
+[![Build Status](http://transduction.mit.edu:8081/buildStatus/icon?job=Meyer lab/asmlab.org/master)](http://transduction.mit.edu:8081/job/Meyer%20lab/job/asmlab.org/job/master/)

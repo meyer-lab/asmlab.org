@@ -2,6 +2,7 @@ pipeline {
   agent any
   environment {
     PATH = "/bin:/usr/sbin:/usr/bin:/usr/local/bin:/usr/local/texlive/2017/bin/x86_64-darwin/:$HOME/.gem/bin"
+    LC_ALL = "en_US.UTF-8"
   }
   stages {
     stage('Build') {
@@ -12,12 +13,15 @@ pipeline {
     }
     stage('Test'){
       steps {
-        sh 'bundle exec scripts/htmlproof.rb'
+        sh 'bundle exec htmlproofer --check-html --assume-extension ./_site'
         }
       }
     stage('Deploy') {
+      when {
+        expression { env.BRANCH_NAME == 'master' }
+      }
       steps {
-        sh 'echo "Deploy step"'
+        sh './scripts/deploy.sh'
       }
     }
   }
