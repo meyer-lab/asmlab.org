@@ -2,4 +2,4 @@
 
 Meyer lab website
 
-[![Build Status](http://transduction.mit.edu:8081/buildStatus/icon?job=Meyer lab/asmlab.org/master)](http://transduction.mit.edu:8081/job/Meyer%20lab/job/asmlab.org/job/master/)
+[![Build Status](https://transduction.mit.edu:8080/buildStatus/icon?job=Meyer%20lab/asmlab.org/master)](https://transduction.mit.edu:8080/job/Meyer%20lab/job/asmlab.org/job/master/)
