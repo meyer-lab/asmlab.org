@@ -7,8 +7,8 @@ title: Lab Meeting Schedule
 
 Lab meetings are held roughly every other week and are open to everyone in the lab, including UROPs.
 
-{% assign future_meet = (site.data.meetings | sort: 'date' | where_exp:'item', "item.date > site.time") %}
-{% assign past_meet =   (site.data.meetings | sort: 'date' | reverse | where_exp:'item', "item.date < site.time") %}
+{% assign future_meet = site.data.meetings | sort: 'date' | where_exp:'item', "item.date > site.time" %}
+{% assign past_meet =   site.data.meetings | sort: 'date' | reverse | where_exp:'item', "item.date < site.time" %}
 
 <br />
 
