@@ -8,7 +8,7 @@ git init
 git config user.name "Jenkins CI"
 git config user.email "jenkins@asmlab.org"
 
-git remote add upstream "https://github.com/meyer-lab/asmlab.org.git"
+git remote add upstream "git@github.com:meyer-lab/asmlab.org.git"
 git fetch upstream
 git reset upstream/gh-pages
 
