@@ -16,8 +16,11 @@ pipeline {
         }
       }
     stage('Deploy') {
+      when {
+        expression { env.BRANCH_NAME == 'master' }
+      }
       steps {
-        sh 'echo "Deploy step"'
+        sh './scripts/deploy.sh'
       }
     }
   }
