@@ -1,0 +1,24 @@
+pipeline {
+  agent any
+  environment {
+    PATH = "/bin:/usr/sbin:/usr/bin:/usr/local/bin:/usr/local/texlive/2017/bin/x86_64-darwin/"
+  }
+  stages {
+    stage('Build') {
+      steps {
+        sh 'bundle install'
+        sh 'bundle exec jekyll build'
+      }
+    }
+    stage('Test'){
+      steps {
+        sh 'bundle exec ruby scripts/htmlproof.rb'
+        }
+      }
+    stage('Deploy') {
+      steps {
+        sh 'echo "Deploy step"'
+      }
+    }
+  }
+}
