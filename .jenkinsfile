@@ -12,7 +12,7 @@ pipeline {
     }
     stage('Test'){
       steps {
-        sh 'bundle exec ruby scripts/htmlproof.rb'
+        sh 'bundle exec scripts/htmlproof.rb'
         }
       }
     stage('Deploy') {
