@@ -3,6 +3,8 @@ layout: page
 title: Graduate Student Expectations
 ---
 
+This complements the [common](common.html) and other guidelines.
+
 *Note: This is not final and so should not be considered lab policy at the moment.*
 
 # What I expect from you
