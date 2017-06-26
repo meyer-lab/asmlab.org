@@ -15,14 +15,19 @@ pipeline {
     stage('Test'){
       steps {
         sh 'bundle exec htmlproofer --check-html --assume-extension ./_site'
-        }
       }
+    }
     stage('Deploy') {
-      when {
-        expression { env.BRANCH_NAME == 'master' }
-      }
+      when { expression { env.BRANCH_NAME == 'master' } }
       steps {
-        sh './scripts/deploy.sh'
+        sh 'cd _site; git init; git config user.name "Jenkins CI"'
+        sh 'cd _site; git config user.email "jenkins@asmlab.org"'
+        sh 'cd _site; git remote add upstream "git@github.com:meyer-lab/asmlab.org.git"'
+        sh 'cd _site; git fetch upstream; git reset upstream/gh-pages'
+        sh 'echo "asmlab.org" > _site/CNAME'
+        sh 'cd _site; touch .; git add -A .; git status'
+        sh 'cd _site; git commit -m "Jenkins $BUILD_ID auto-pushed"'
+        sh 'cd _site; git push -q upstream HEAD:gh-pages'
       }
     }
   }
