@@ -3,7 +3,7 @@ layout: default
 title: Lab Meeting Schedule
 ---
 
-<h2>Lab Meeting Schedule</h2>
+## Lab Meeting Schedule
 
 Lab meetings are held roughly every other week and are open to everyone in the lab, including UROPs.
 
@@ -35,7 +35,7 @@ Lab meetings are held roughly every other week and are open to everyone in the l
 <br />
 <br />
 
-<h2>Previous Lab Meetings</h2>
+## Previous Lab Meetings
 
 <table>
   <tr><thead>
