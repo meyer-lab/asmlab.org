@@ -48,7 +48,10 @@ One of the most important tasks in science is disseminating your research throug
 
 ## Other Guidelines
 
+- [Getting Setup](setup.html)
 - [Undergraduate Students](ugrad.html)
+- [Graduate Students](ugrad.html)
 - [Technical Associates](tech.html)
+- [Postdoctoral Associates](postdoc.html)
 
 Adapted from documents by [Pam Kreeger](http://www.kreegerlab.org).
