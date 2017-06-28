@@ -26,6 +26,7 @@ Welcome to the Meyer Lab! The Meyer lab has three central goals:
 - You will work safely in the lab.  Before beginning in the lab you must complete safety training.
 - You will keep lab protocols up-to-date, as well as accurate and thoroughly document each experiment.
 - When working in the labs of other investigators, be polite, neat, and gracious.  Always follow their rules. If something breaks during your use, report it immediately to the appropriate person.
+- Keep detailed lab notebooks. These are essential to turn your hard work into a finished paper. Your notes should allow your work to be reproduced (meaning they must be understandable by people other than yourself) and will help to assign credit for authorship. They are required by funding agencies and for any potential patents. At a minimum each experiment should clearly identify the date, purpose, what you did, the results, and your conclusions. Your bound notebook should establish links to electronic files and raw data. You are required to leave the originals behind when you leave the lab for others to build upon your work.
 
 ## Nuts and Bolts
 
@@ -44,5 +45,10 @@ Each year we will have an evaluation – this will help us to determine things t
 ### Authorship
 
 One of the most important tasks in science is disseminating your research through publications and presentations; therefore, authorship on these items is an important indicator to the outside world of your role. Authorship implies a significant contribution to a paper such as intellectual ideas that change the research or experimental contributions (just following instructions and not actively participating in the experimental design/interpretation will be acknowledged, but likely would not result in an authorship). While the order of authors varies by specific field, in general for bioengineering the first author is the student/post-doc who took the lead and wrote the paper, the last author is the PI, and the authors in between are in order of decreasing contribution. Failure to complete papers before leaving the lab may result in a junior member doing so as the 1st author in your place.
+
+## Other Guidelines
+
+- [Undergraduate Students](ugrad.html)
+- [Technical Associates](tech.html)
 
 Adapted from documents by [Pam Kreeger](http://www.kreegerlab.org).
