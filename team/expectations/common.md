@@ -50,7 +50,7 @@ One of the most important tasks in science is disseminating your research throug
 
 - [Getting Setup](setup.html)
 - [Undergraduate Students](ugrad.html)
-- [Graduate Students](ugrad.html)
+- [Graduate Students](grad.html)
 - [Technical Associates](tech.html)
 - [Postdoctoral Associates](postdoc.html)
 
