@@ -24,7 +24,7 @@ Welcome to the Meyer Lab! The Meyer lab has three central goals:
 - Be respectful, tolerant of, and work collegially with laboratory colleagues: respect individual differences in values, personalities, and work styles.
 - Data belongs to the lab, not to any one individual – as a result, you will be expected to leave your original notebooks and files when you leave the lab.  In addition, there will be times when you will be asked to assist me in submitting grant applications to NIH/NSF/etc. This activity is essential to provide continuing support for the lab.
 - You will work safely in the lab.  Before beginning in the lab you must complete safety training.
-- You will keep lab protocols up-to-date, as well as accurate and thoroughly document each experiment.
+- You will keep lab protocols up-to-date and accurate, while thoroughly documenting each experiment.
 - When working in the labs of other investigators, be polite, neat, and gracious.  Always follow their rules. If something breaks during your use, report it immediately to the appropriate person.
 - Keep detailed lab notebooks. These are essential to turn your hard work into a finished paper. Your notes should allow your work to be reproduced (meaning they must be understandable by people other than yourself) and will help to assign credit for authorship. They are required by funding agencies and for any potential patents. At a minimum each experiment should clearly identify the date, purpose, what you did, the results, and your conclusions. Your bound notebook should establish links to electronic files and raw data. You are required to leave the originals behind when you leave the lab for others to build upon your work.
 

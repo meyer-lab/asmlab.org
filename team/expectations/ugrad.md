@@ -5,7 +5,7 @@ title: Undergraduate Student Expectations
 
 This complements the [common](common.html) and other guidelines. Suggestions and input are welcome.
 
-As an undergraduate researcher in this lab, you will typically be paired with a senior lab mentor. This is a great time to learn how research is done and get a sense for what life would be like if you choose a career in research through medical or graduate schools. Please take advantage of this time!
+As an undergraduate researcher in this lab, you will typically be paired with a senior lab mentor. This is a great time to learn how research is done. Please take advantage of this time!
 
 ## What I expect from you
 

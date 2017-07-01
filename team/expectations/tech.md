@@ -6,6 +6,7 @@ title: Technical Associate Expectations
 This complements the [common](common.html) and other guidelines. Suggestions and input are welcome.
 
 # What I expect from you
+
 - You will help the lab to make research progress.
 - Communicate regularly with the various lab members to see who needs help with their project.
 - Begin reading the scientific literature—read the papers I suggest, and work toward proactively making yourself aware of the literature.
