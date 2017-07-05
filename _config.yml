@@ -8,6 +8,7 @@ sass:
 plugins:
   - jekyll-archives
   - jekyll-sitemap
+  - jekyll-minifier
 
 jekyll-archives:
   enabled:
@@ -32,3 +33,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+
+jekyll-minifier:
+  exclude: 'feed.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob patterns
