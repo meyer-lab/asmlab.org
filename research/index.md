@@ -23,6 +23,6 @@ TAM (Tyro3, AXL, MerTK) receptors are implicated in resistance to targeted thera
 
 [More...](./TAM.html)
 
-### Improving model parameterization and understanding in systems biology
+### Improving model parameterization and interpretation in systems biology
 
 Models in systems biology are frequently evaluated by their overall predictive ability but are then interpreted on a component-by-component basis. This can lead to spurious conclusions when experimental and model uncertainty is not taken into account. We aim to borrow methods from other fields in which model uncertainty is handled more rigorously to improve the process of model decomposition and interpretation.
