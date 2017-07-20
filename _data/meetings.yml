@@ -49,37 +49,37 @@
 
 
 
-- date: 2017-08-03 09:00:00
+- date: 2017-08-03 10:00:00
   presenter: Ryan
   topic: cRet trafficking
   room: 76-358
   treats: Ted
 
-- date: 2017-08-10 09:00:00
+- date: 2017-08-10 10:00:00
   presenter: Alexa
   topic: Tumor growth models
   room: 76-358
   treats: Ryan
 
-- date: 2017-08-17 09:00:00
+- date: 2017-08-17 10:00:00
   presenter: Simin
   topic: Noise-induced resistance
   room: 76-358
   treats: Alexa
   
-- date: 2017-08-24 09:00:00
+- date: 2017-08-24 10:00:00
   presenter: Annelien
   topic: AXL induced migration
   room: 76-358
   treats: Simin
   
-- date: 2017-08-31 09:00:00
+- date: 2017-08-31 10:00:00
   presenter: Song Yi
   topic: AXLi/chemotherapy combinations
   room: 76-358
   treats: Annelien
   
-- date: 2017-09-07 09:00:00
+- date: 2017-09-07 10:00:00
   presenter: Ted
   topic: Rational TAM inhibitors
   room: 76-358
