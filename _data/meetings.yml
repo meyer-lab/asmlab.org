@@ -59,31 +59,31 @@
   presenter: Alexa
   topic: Tumor growth models
   room: 76-358
-  treats: TBD
+  treats: Ryan
 
 - date: 2017-08-17 09:00:00
   presenter: Simin
   topic: Noise-induced resistance
   room: 76-358
-  treats: TBD
+  treats: Alexa
   
 - date: 2017-08-24 09:00:00
   presenter: Annelien
   topic: AXL induced migration
   room: 76-358
-  treats: TBD
+  treats: Simin
   
 - date: 2017-08-31 09:00:00
   presenter: Song Yi
   topic: AXLi/chemotherapy combinations
   room: 76-358
-  treats: TBD
+  treats: Annelien
   
 - date: 2017-09-07 09:00:00
   presenter: Ted
   topic: Rational TAM inhibitors
   room: 76-358
-  treats: TBD
+  treats: Song Yi
   
   
   
