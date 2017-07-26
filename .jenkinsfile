@@ -14,7 +14,7 @@ pipeline {
     }
     stage('Test'){
       steps {
-        sh 'bundle exec htmlproofer --check-html --url_ignore ["/twitter/"] --assume-extension ./_site'
+        sh 'bundle exec htmlproofer --check-html --assume-extension ./_site'
       }
     }
     stage('Deploy') {
