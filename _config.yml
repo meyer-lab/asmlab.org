@@ -1,5 +1,6 @@
 url:
 baseurl:
+timezone: America/New_York
 
 sass:
   sass_dir: public/css
