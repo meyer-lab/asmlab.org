@@ -1,6 +1,6 @@
 url:
 baseurl:
-timezone: America/New_York
+timezone: Etc/UTC
 
 sass:
   sass_dir: public/css
