@@ -31,10 +31,12 @@
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
+
+  var loc = window.location.href+'';
+  if (loc.indexOf('http://')==0){
+    window.location.href = loc.replace('http://', 'https://');
+  }
 </script>
-<!-- End Piwik Code -->
-
-
 
 <script src="{{site.baseurl}}/public/js/raphael.min.js"></script>
 
