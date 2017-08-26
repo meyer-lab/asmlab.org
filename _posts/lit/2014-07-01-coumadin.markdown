@@ -1,0 +1,22 @@
+---
+layout: post
+title:  Coumadin/warfarin clinical reference list
+date:   2014-07-01 00:00:01
+categories: literature
+tags:
+- coumadin
+- warfarin
+- cancer
+- clinical
+---
+
+We frequently are asked about the use of warfarin in cancer patients and whether it is linked to survival. This is a list of a few studies found in the literature.
+
+- Akl, E. A., Kahale, L., Terrenato, I., Neumann, I., Yosuico, V. E. D., Barba, M., et al. (2014). [Oral anticoagulation in patients with cancer who have no therapeutic or prophylactic indication for anticoagulation.](http://doi.org/10.1002/14651858.CD006466.pub5) The Cochrane Database of Systematic Reviews, 7(7), CD006466.
+- Tagalakis, V., Tamim, H., Blostein, M., Hanley, J. A., & Kahn, S. R. (2013). [Risk of prostate cancer death in long-term users of warfarin: a population-based case–control study.](http://doi.org/10.1007/s10552-013-0185-1) Cancer Causes & Control, 24(6), 1079–1085.
+- Pengo, V., Noventa, F., Denas, G., Pengo, M. F., Gallo, U., Grion, A. M., et al. (2011). [Long-term use of vitamin K antagonists and incidence of cancer: a population-based study.](http://doi.org/10.1182/blood-2010-08-304758) Blood, 117(5), 1707–1709.
+- Pottegård, A., Friis, S., & Hallas, J. (2012). [Cancer risk in long-term users of vitamin K antagonists: A population-based case-control study.](http://doi.org/10.1002/ijc.27905) International Journal of Cancer. Journal International Du Cancer, 132(11), 2606–2612.
+- Chahinian, A. P., Propert, K. J., Ware, J. H., Zimmer, B., Perry, M. C., Hirsh, V., et al. (1989). A randomized trial of anticoagulation with warfarin and of alternating chemotherapy in extensive small-cell lung cancer by the Cancer and Leukemia Group B. Journal of Clinical Oncology, 7(8), 993–1002.
+- Zacharski, L. R., Henderson, W. G., Rickles, F. R., Forman, W. B., Cornell, C. J., Forcier, R. J., et al. (1984). Effect of warfarin anticoagulation on survival in carcinoma of the lung, colon, head and neck, and prostate. Final report of VA Cooperative Study #75. Cancer, 53(10), 2046–2052.
+- Schulman, S., & Lindmarker, P. (2000). [Incidence of cancer after prophylaxis with warfarin against recurrent venous thromboembolism.](http://doi.org/10.1056/NEJM200006293422604) Duration of Anticoagulation Trial. The New England Journal of Medicine, 342(26), 1953–1958.
+- Zacharski, L. R., & Henderson, W. G. (1990). Warfarin for small-cell lung cancer: why not? Journal of Clinical Oncology, 8(7), 1282–1283.
