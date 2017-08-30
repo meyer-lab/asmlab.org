@@ -15,3 +15,4 @@ Interested applicants should submit a short cover letter and CV to Dr. Meyer (ap
 <meta name="twitter:site" content="@aarmey" />
 <meta name="twitter:title" content="Postdoctoral position available" />
 <meta name="twitter:description" content="A postdoctoral associate position is available in the Department of Bioengineering at the University of California, Los Angeles (UCLA) to work in the laboratory of Dr. Aaron Meyer. The Meyer lab is an interdisciplinary academic research team that utilizes combined computational and experimental approaches to better understand cancer cell resistance and innate immune signaling. Multiple projects are available within the scope of the lab’s overall focus." />
+<meta name="twitter:image" content="//public/images/pd-summary.gif">
