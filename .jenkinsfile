@@ -5,10 +5,14 @@ pipeline {
     LC_ALL = "en_US.UTF-8"
   }
   stages {
-    stage('Build') {
+    stage('Setup') {
       steps {
         sh 'git clean -ffdx'
         sh 'bundle install --path ~/.gem'
+      }
+    }
+    stage('Build') {
+      steps {
         sh 'bundle exec jekyll build'
       }
     }
@@ -23,11 +27,9 @@ pipeline {
         sh 'cd _site; git init; git config user.name "Jenkins CI"'
         sh 'cd _site; git config user.email "jenkins@asmlab.org"'
         sh 'cd _site; git remote add upstream "git@github.com:meyer-lab/asmlab.org.git"'
-        sh 'cd _site; git fetch upstream; git reset upstream/gh-pages'
         sh 'echo "asmlab.org" > _site/CNAME'
-        sh 'cd _site; touch .; git add -A .; git status'
-        sh 'cd _site; git commit -m "Jenkins $BUILD_ID auto-pushed"'
-        sh 'cd _site; git push -q upstream HEAD:gh-pages'
+        sh 'cd _site; git add .; git commit -m "Jenkins $BUILD_ID auto-pushed"'
+        sh 'cd _site; git push --force -q upstream HEAD:gh-pages'
       }
     }
   }

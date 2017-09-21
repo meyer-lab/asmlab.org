@@ -16,7 +16,7 @@ B.S., Bioengineering, University of California, Los Angeles
 
 <div class="span_2 right"><img src="/public/photos/sybae.jpg" width="120px" alt="Song Yi's picture" /></div>
 ### Song Yi Bae, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:sybae@mit.edu"><i class="fa fa-envelope"></i></a>      
-Ph.D., College of Pharmacy, Seoul National University
+Ph.D., College of Pharmacy, Seoul National University    
 B.S., College of Pharmacy, Ewha Womans University
 
 As a graduate Song Yi focused on identifying biomarkers and mechanisms of acquired EGFR-TKI resistance in non-small cell lung cancer. The TAM receptor AXL being one of her interest in previous work, she joined the team as a postdoc to further explore the role of AXL in drug resistance. She is currently enthusiastic to study the crosstalk between AXL and other RTKs, and search effective strategies to overcome drug resistance. After work, she likes to relax while listening to the radio.
@@ -40,15 +40,6 @@ After completion of her graduate work in the field of Medicinal Chemistry and Ph
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/smanole.jpg" width="120px" alt="Simin's picture" /></div>
-
-### Simin Manole, Technical Assistant&nbsp;&nbsp;&nbsp;<a href="mailto:smanole@mit.edu"><i class="fa fa-envelope"></i></a>      
-B.S., Microbiology, University of Michigan    
-
-As the Technical Assistant Simin handles the day-to-day lab duties, managing the tissue cultures, and running the occasional assay. As an undergraduate he focused on cell biology and assisted with research focusing on bone repair optimization, working with a rat model and stem cell cultures. His time at the National Cancer Institute focused his career towards cancer through his work with drug dose response, drug discovery, and high-volume cancer cell culture. In his time away from the lab Simin is generally busy watching movies and playing games.
-
-<br />
-
 <div class="span_2 right"><img src="/public/photos/rrobinett.jpg" width="120px" alt="Ryan's picture" /></div>
 
 ### Ryan Robinett, Undergraduate Researcher  
@@ -61,27 +52,18 @@ Ryan joined the lab in January of 2016 as part of a project analyzing the bindin
 ### Ning Guan, Undergraduate Researcher  
 Biological Engineering, MIT     
 
-<br />
-<br />
-
-
-### Minyi Lee, Undergraduate Researcher  
-Computer Science and Molecular Biology, MIT     
 
 <br />
 <br />
-
-
-
-### Colton Stearns, Undergraduate Researcher  
-Computational Biology, MIT     
-
-<br />
-<br />
-
 
 
 # Former Members
+
+#### Simin Manole, Technical Assistant, MIT
+
+#### Colton Stearns, Undergraduate Researcher, Computational Biology, MIT
+
+#### Minyi Lee, Undergraduate Researcher, Computer Science and Molecular Biology, MIT   
 
 #### Christina Bray, Undergraduate Researcher, Biological Engineering, MIT
 
