@@ -16,7 +16,7 @@ B.S., Bioengineering, University of California, Los Angeles
 
 <div class="span_2 right"><img src="/public/photos/sybae.jpg" width="120px" alt="Song Yi's picture" /></div>
 ### Song Yi Bae, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:sybae@mit.edu"><i class="fa fa-envelope"></i></a>      
-Ph.D., College of Pharmacy, Seoul National University
+Ph.D., College of Pharmacy, Seoul National University    
 B.S., College of Pharmacy, Ewha Womans University
 
 As a graduate Song Yi focused on identifying biomarkers and mechanisms of acquired EGFR-TKI resistance in non-small cell lung cancer. The TAM receptor AXL being one of her interest in previous work, she joined the team as a postdoc to further explore the role of AXL in drug resistance. She is currently enthusiastic to study the crosstalk between AXL and other RTKs, and search effective strategies to overcome drug resistance. After work, she likes to relax while listening to the radio.
