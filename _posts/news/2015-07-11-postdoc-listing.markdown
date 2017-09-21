@@ -2,7 +2,7 @@
 layout: post
 title:  Postdoctoral position available
 date:   2015-09-09 00:00:00
-categories: news
+categories: archive
 ---
 
 The Meyer lab is looking to hire a postdoctoral associate, to develop and implement new strategies evaluating immune-tumor cell communication and targeted therapy resistance. Will help design and implement quantitative biochemical and phenotypic assays, analyze data, and interpret biological significance. Responsibilities will include communicating results to the scientific community through publications and presentations.

@@ -5,10 +5,14 @@ pipeline {
     LC_ALL = "en_US.UTF-8"
   }
   stages {
-    stage('Build') {
+    stage('Setup') {
       steps {
         sh 'git clean -ffdx'
         sh 'bundle install --path ~/.gem'
+      }
+    }
+    stage('Build') {
+      steps {
         sh 'bundle exec jekyll build'
       }
     }
