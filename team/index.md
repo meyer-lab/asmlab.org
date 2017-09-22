@@ -52,6 +52,14 @@ Ryan joined the lab in January of 2016 as part of a project analyzing the bindin
 ### Ning Guan, Undergraduate Researcher  
 Biological Engineering, MIT     
 
+<br />
+
+<div class="span_2 right"><img src="/public/photos/aweiner.jpg" width="120px" alt="Adam's picture" /></div>
+
+### Adam Weiner, Undergraduate Researcher  
+Bioengineering, UCLA
+
+Adam joined the Meyer Lab in September 2017 as a member of the cytokine team. Outside of the lab and his studies, Adam enjoys playing pick up basketball at the Wooden Center and watching football on the weekends.
 
 <br />
 <br />
