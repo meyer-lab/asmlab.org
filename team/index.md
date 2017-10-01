@@ -59,7 +59,16 @@ Biological Engineering, MIT
 ### Adam Weiner, Undergraduate Researcher  
 Bioengineering, UCLA
 
-Adam joined the Meyer Lab in September 2017 as a member of the cytokine team. Outside of the lab and his studies, Adam enjoys playing pick up basketball at the Wooden Center and watching football on the weekends.
+Adam joined the Meyer Lab in September 2017 as a member of team cytokine. Outside of the lab and his studies, Adam enjoys playing pick up basketball at the Wooden Center and watching football on the weekends.
+
+<br />
+
+<div class="span_2 right"><img src="/public/photos/afarhat.jpg" width="120px" alt="Ali's picture" /></div>
+
+### Ali Farhat, Undergraduate Researcher  
+Bioengineering, UCLA
+
+Ali joined the Meyer Lab in September 2017 as a member of the team cytokine. When not in lab and not studying, Ali enjoys watching MARVEL and DC Superhero shows on Netflix as well as kicking a soccer ball around with his friends.
 
 <br />
 <br />
