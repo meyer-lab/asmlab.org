@@ -68,7 +68,7 @@ Adam joined the Meyer Lab in September 2017 as a member of team cytokine. Outsid
 ### Ali Farhat, Undergraduate Researcher  
 Bioengineering, UCLA
 
-Ali joined the Meyer Lab in September 2017 as a member of the team cytokine. When not in lab and not studying, Ali enjoys watching MARVEL and DC Superhero shows on Netflix as well as kicking a soccer ball around with his friends.
+Ali joined the Meyer Lab in September 2017 as a member of team cytokine. When not in lab and not studying, Ali enjoys watching MARVEL and DC Superhero shows on Netflix as well as kicking a soccer ball around with his friends.
 
 <br />
 <br />
