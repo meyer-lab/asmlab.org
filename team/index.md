@@ -71,6 +71,15 @@ Bioengineering, UCLA
 Ali joined the Meyer Lab in September 2017 as a member of team cytokine. When not in lab and not studying, Ali enjoys watching MARVEL and DC Superhero shows on Netflix as well as kicking a soccer ball around with his friends.
 
 <br />
+
+<div class="span_2 right"><img src="/public/photos/ryan.jpg" width="120px" alt="Rui's picture" /></div>
+
+### Rui Yan, Undergraduate Researcher  
+Applied Math, UCLA
+
+In the Meyer lab, Rui is offering computational and programming support on the growth model project.
+
+<br />
 <br />
 
 
