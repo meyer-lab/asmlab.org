@@ -1,13 +1,3 @@
-- date: 2017-04-06 09:00:00
-  presenter: Annelien
-  topic: AXL induced migration
-  room: 76-358
-
-- date: 2017-04-20 09:00:00
-  presenter: Song Yi
-  topic: AXLi/chemotherapy combinations
-  room: 76-358
-  
 - date: 2017-05-04 09:00:00
   presenter: Ted
   topic: Rational TAM inhibitors
@@ -77,10 +67,6 @@
   room: 76-358
   treats: Song Yi
 
-
-
-
-
 - date: 2017-10-18 10:00:00
   presenter: Ted
   topic: Rational TAM inhibitors
@@ -93,45 +79,20 @@
   room: 76-358
   treats: TBD
   
-- date: 2017-11-22 10:00:00
+- date: 2017-11-28 10:00:00
   presenter: Song Yi
   topic: AXLi/chemotherapy combinations
   room: 76-358
   treats: TBD
 
-  
-  
-  
-  
-  
-
-
-
-- date: 2017-02-02 09:00:00
-  presenter: Annelien
-  topic: AXL induced migration
-  room: 76-358
-
-- date: 2017-02-16 09:00:00
-  presenter: Song Yi
-  topic: AXLi/chemotherapy combinations
-  room: 76-358
-
-- date: 2017-03-02 09:00:00
+- date: 2017-12-12 10:00:00
   presenter: Ted
   topic: Rational TAM inhibitors
   room: 76-358
-
-- date: 2017-03-09 09:00:00
-  presenter: Simin
-  topic: Noise-induced resistance
-  room: 76-358
-
-- date: 2017-03-16 09:00:00
-  presenter: Aaron
-  topic: Lab overview / Job talk
-  room: 76-358
+  treats: TBD
   
-- date: 2017-01-12 09:00:00
-  presenter: Simin
-  topic: Noise-induced resistance
+- date: 2018-01-03 10:00:00
+  presenter: Annelien
+  topic: AXL induced migration
+  room: 76-358
+  treats: TBD
