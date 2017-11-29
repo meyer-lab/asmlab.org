@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Postdoctoral position available
-date: 2017-08-29 00:00:00
+date: 2017-10-29 00:00:00
 categories: news
 ---
 
