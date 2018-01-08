@@ -100,22 +100,22 @@
   treats: Aaron M
   
 - date: 2018-01-22 9:00:00
-  presenter: Alexa
+  presenter: Song Yi
   topic: Dose responses with cell death
+  room: Eng V 4129
+  treats: Aaron M
+  
+- date: 2018-02-05 9:00:00
+  presenter: Alexa
+  topic: Common gamma-chain cytokines
   room: Eng V 4129
   treats: Song Yi
   
-- date: 2018-02-05 9:00:00
-  presenter: Adam W
-  topic: Common gamma-chain cytokines
-  room: Eng V 4129
-  treats: Ali F
-  
 - date: 2018-02-26 9:00:00
-  presenter: Song Yi
+  presenter: Adam W
   topic: AXLi/chemotherapy combinations
   room: Eng V 4129
-  treats: Adam W
+  treats: Moriah G
   
 - date: 2018-03-12 9:00:00
   presenter: Ali F
