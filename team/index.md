@@ -40,20 +40,6 @@ After completion of her graduate work in the field of Medicinal Chemistry and Ph
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/rrobinett.jpg" width="120px" alt="Ryan's picture" /></div>
-
-### Ryan Robinett, Undergraduate Researcher  
-Computational Biology, MIT
-
-Ryan joined the lab in January of 2016 as part of a project analyzing the binding of immune complexes to immune cells. Outside the lab, Ryan spends copious amounts of time with MIT’s Electric Vehicle Team and with the Cru Christian Fellowship.
-
-<br />
-
-### Ning Guan, Undergraduate Researcher  
-Biological Engineering, MIT     
-
-<br />
-
 <div class="span_2 right"><img src="/public/photos/aweiner.jpg" width="120px" alt="Adam's picture" /></div>
 
 ### Adam Weiner, Undergraduate Researcher  
@@ -80,10 +66,23 @@ Applied Math, UCLA
 In the Meyer lab, Rui is offering computational and programming support on the growth model project.
 
 <br />
+
+<div class="span_2 right"><img src="/public/photos/wwu.jpg" width="120px" alt="Willie's picture" /></div>
+
+### Willie Wu, Undergraduate Researcher  
+Bioengineering, UCLA
+
+Willie joined the Meyer Lab late December of 2017. Aside from class and lab, he is involved with UCLA BMES and Tau Beta Pi and plays board games in his free time.
+
+<br />
 <br />
 
 
 # Former Members
+
+#### Ryan Robinett, Undergraduate Researcher, MIT
+
+#### Ning Guan, Undergraduate Researcher, Biological Engineering, MIT
 
 #### Simin Manole, Technical Assistant, MIT
 
