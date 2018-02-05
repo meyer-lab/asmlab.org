@@ -40,6 +40,14 @@ After completion of her graduate work in the field of Medicinal Chemistry and Ph
 
 <br />
 
+<div class="span_2 right"><img src="/public/photos/mgarcia.jpg" width="120px" alt="Moriah's picture" /></div>
+### Moriah Garcia, Development Engineer&nbsp;&nbsp;&nbsp;<a href="mailto:gmoriah2@ucla.edu"><i class="fa fa-envelope"></i></a>       
+B.S., Biomedical Engineering, Purdue University  
+
+Moriah graduated with a BS in BME from Purdue in 2017. She loves finding new places to hike or explore outside and also recently started learning MMA.
+
+<br />
+
 <div class="span_2 right"><img src="/public/photos/aweiner.jpg" width="120px" alt="Adam's picture" /></div>
 
 ### Adam Weiner, Undergraduate Researcher  
