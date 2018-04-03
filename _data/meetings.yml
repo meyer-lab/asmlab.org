@@ -1,79 +1,14 @@
-
-
-
-- date: 2017-08-03 10:00:00
-  presenter: Ryan
-  topic: cRet trafficking
-  room: 76-358
-  treats: Ted
-
-- date: 2017-08-10 10:00:00
-  presenter: Alexa
-  topic: Tumor growth models
-  room: 76-358
-  treats: Ryan
-
-- date: 2017-08-17 10:00:00
-  presenter: Simin
-  topic: Noise-induced resistance
-  room: 76-358
-  treats: Alexa
-  
-- date: 2017-09-13 10:00:00
-  presenter: Annelien
-  topic: AXL induced migration
-  room: 76-358
-  treats: Simin
-  
-- date: 2017-09-20 10:00:00
-  presenter: Song Yi
-  topic: AXLi/chemotherapy combinations
-  room: 76-358
-  treats: Annelien
-  
-- date: 2017-09-07 10:00:00
-  presenter: Ted
-  topic: Rational TAM inhibitors
-  room: 76-358
-  treats: Song Yi
-
-- date: 2017-10-18 10:00:00
-  presenter: Ted
-  topic: Rational TAM inhibitors
-  room: 76-358
-  treats: TBD
-  
-- date: 2017-11-07 10:00:00
-  presenter: Annelien
-  topic: AXL induced migration
-  room: 76-358
-  treats: TBD
-  
-- date: 2017-11-28 10:00:00
-  presenter: Song Yi
-  topic: AXLi/chemotherapy combinations
-  room: 76-358
-  treats: TBD
-
-- date: 2017-12-12 10:00:00
-  presenter: Ted
-  topic: Rational TAM inhibitors
-  room: 76-358
-  treats: TBD
-  
-  
-
 - date: 2018-01-08 9:00:00
   presenter: Aaron M
   topic: Meet & greet, lab business
   room: Eng V 4129
-  treats: Aaron M
+  treats: Aaron
   
 - date: 2018-01-22 9:00:00
   presenter: Song Yi
   topic: AXLi/chemotherapy combinations
   room: Eng V 4129
-  treats: Aaron M
+  treats: Aaron
   
 - date: 2018-02-05 9:00:00
   presenter: Alexa
@@ -85,7 +20,7 @@
   presenter: Adam W
   topic: Common gamma-chain cytokines
   room: Eng V 4129
-  treats: Aaron M
+  treats: Aaron
   
 - date: 2018-03-12 9:00:00
   presenter: Ali F
@@ -97,10 +32,52 @@
   presenter: Annelien Z
   topic: AXL-induced migration
   room: Eng V 4129 (not yet reserved)
-  treats: TBD
+  treats: Moriah
 
 - date: 2018-04-23 9:00:00
   presenter: Ted R
   topic: Rational TAM inhibitors
   room: Eng V 4129 (not yet reserved)
-  treats: TBD
+  treats: Song Yi
+
+- date: 2018-05-14 9:00:00
+  presenter: Song Yi
+  topic: AXLi/chemotherapy combinations
+  room: Eng V 4129 (not yet reserved)
+  treats: Aaron
+
+- date: 2018-06-11 9:00:00
+  presenter: TBD
+  topic: TBD
+  room: Eng V 4129 (not yet reserved)
+  treats: Moriah
+
+- date: 2018-06-25 9:00:00
+  presenter: TBD
+  topic: TBD
+  room: Eng V 4129 (not yet reserved)
+  treats: Song Yi
+
+- date: 2018-07-09 9:00:00
+  presenter: TBD
+  topic: TBD
+  room: Eng V 4129 (not yet reserved)
+  treats: Aaron
+
+- date: 2018-07-23 9:00:00
+  presenter: Austin R
+  topic: Targeting Gas6-PS interaction
+  room: Eng V 4129 (not yet reserved)
+  treats: Moriah
+
+- date: 2018-08-06 9:00:00
+  presenter: Ted R
+  topic: Rational TAM inhibitors
+  room: Eng V 4129 (not yet reserved)
+  treats: Song Yi
+
+- date: 2018-08-20 9:00:00
+  presenter: Katrina W
+  topic: TBD
+  room: Eng V 4129 (not yet reserved)
+  treats: Aaron
