@@ -16,7 +16,6 @@ Lab meetings are held roughly every other week and are open to everyone in the l
     <th style="text-align: center">Presenter</th>
     <th>Topic</th>
     <th>Room</th>
-    <th style="text-align: center">Treat Duty</th>
   </thead></tr>
   {% for meeting in future_meet %}
   <tr>
@@ -24,7 +23,6 @@ Lab meetings are held roughly every other week and are open to everyone in the l
     <td style="text-align: center">{{meeting.presenter}}</td>
     <td>{{meeting.topic}}</td>
     <td>{{meeting.room}}</td>
-    <td style="text-align: center">{{meeting.treats}}</td>
   </tr>
   {% endfor %}
 </table>
