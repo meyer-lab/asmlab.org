@@ -50,7 +50,7 @@
 
 - date: 2018-07-10 11:00:00
   presenter: Ali F
-  topic: Common gamma-chain cytokines
+  topic: Coffee break due to gas leak
   room: E5 5129
 
 - date: 2018-07-24 11:00:00
@@ -59,8 +59,8 @@
   room: E5 5129
 
 - date: 2018-08-07 11:00:00
-  presenter: Ted R
-  topic: Rational TAM inhibitors
+  presenter: Ali F
+  topic: Common gamma-chain cytokines
   room: E5 5129
 
 - date: 2018-08-21 11:00:00
@@ -69,18 +69,18 @@
   room: E5 5129
 
 - date: 2018-09-04 11:00:00
+  presenter: Ted R
+  topic: Rational TAM inhibitors
+  room: E5 5129
+
+- date: 2018-09-18 11:00:00
   presenter: Song Yi
   topic: AXLi/chemotherapy combinations
   room: E5 5129
 
-- date: 2018-09-18 11:00:00
+- date: 2018-10-02 11:00:00
   presenter: Catera W
   topic: Type III interferons
-  room: E5 5129
-
-- date: 2018-10-02 11:00:00
-  presenter: TBD
-  topic: TBD
   room: E5 5129
 
 - date: 2018-10-16 11:00:00
