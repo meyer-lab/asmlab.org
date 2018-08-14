@@ -32,14 +32,6 @@ Ted has joined the team as a postdoctoral associate. The focus of his previous r
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/azweemer.jpg" width="120px" alt="Annelien's picture" /></div>
-### Annelien Zweemer, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:zweemer@mit.edu"><i class="fa fa-envelope"></i></a>       
-Ph. D., Leiden University  
-
-After completion of her graduate work in the field of Medicinal Chemistry and Pharmacology, Annelien joined MIT as a postdoc co-supervised by Aaron Meyer and Doug Lauffenburger. She is currently studying the role of the TAM receptor AXL in cancer biology, with an emphasis on cell migration and treatment resistance. After work she stills her mind on her yoga-mat, and in the weekends she likes to find a wave to surf or a mountain to hike.
-
-<br />
-
 <div class="span_2 right"><img src="/public/photos/mgarcia.jpg" width="120px" alt="Moriah's picture" /></div>
 ### Moriah Garcia, Development Engineer&nbsp;&nbsp;&nbsp;<a href="mailto:gmoriah2@ucla.edu"><i class="fa fa-envelope"></i></a>       
 B.S., Biomedical Engineering, Purdue University  
@@ -88,24 +80,26 @@ Willie joined the Meyer Lab late December of 2017. Aside from class and lab, he 
 
 # Former Members
 
-#### Ryan Robinett, Undergraduate Researcher, MIT
+#### Annelien Zweemer, Postdoctoral Fellow (currently [Assistant Professor, Leiden University](https://www.universiteitleiden.nl/en/staffmembers/annelien-zweemer))
 
-#### Ning Guan, Undergraduate Researcher, Biological Engineering, MIT
+#### Ryan Robinett, Undergraduate Researcher
 
-#### Simin Manole, Technical Assistant, MIT
+#### Ning Guan, Undergraduate Researcher
 
-#### Colton Stearns, Undergraduate Researcher, Computational Biology, MIT
+#### Simin Manole, Technical Assistant (currently [Technical Assistant, Nedivi Lab](https://nedivilab.mit.edu/team/simin-manole/))
 
-#### Minyi Lee, Undergraduate Researcher, Computer Science and Molecular Biology, MIT   
+#### Colton Stearns, Undergraduate Researcher
 
-#### Christina Bray, Undergraduate Researcher, Biological Engineering, MIT
+#### Minyi Lee, Undergraduate Researcher 
 
-#### Andrea Meister, Undergraduate Researcher, Biological Engineering, MIT
+#### Christina Bray, Undergraduate Researcher
 
-#### Caroline Lang, Undergraduate Researcher, Physics, MIT
+#### Andrea Meister, Undergraduate Researcher
 
-#### Yoshine Saito, Undergraduate Researcher, Undeclared, MIT
+#### Caroline Lang, Undergraduate Researcher
 
-#### Nicole Kramer, Undergraduate Researcher, Biological Engineering, MIT
+#### Yoshine Saito, Undergraduate Researcher
 
-#### Lyla Atta, Undergraduate Researcher, Biological Engineering, MIT
+#### Nicole Kramer, Undergraduate Researcher
+
+#### Lyla Atta, Undergraduate Researcher
