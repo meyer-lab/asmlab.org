@@ -75,6 +75,15 @@ Bioengineering, UCLA
 Willie joined the Meyer Lab late December of 2017. Aside from class and lab, he is involved with UCLA BMES and Tau Beta Pi and plays board games in his free time.
 
 <br />
+
+<div class="span_2 right"><img src="/public/photos/alison.jpg" width="120px" alt="Alison's picture" /></div>
+
+### Alison Tran, Undergraduate Researcher  
+Bioengineering, UCLA
+
+Alison joined the Meyer lab in April 2018. Outside of being in lab, she enjoys going to the beach, traveling, and trying new dessert places.
+
+<br />
 <br />
 
 
