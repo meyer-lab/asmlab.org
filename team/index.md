@@ -32,6 +32,15 @@ Ted has joined the team as a postdoctoral associate. The focus of his previous r
 
 <br />
 
+<div class="span_2 right"><img src="/public/photos/cateraw.jpg" width="120px" alt="Catera's picture" /></div>
+### Catera Wilder, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:erichard@mit.edu"><i class="fa fa-envelope"></i></a>      
+Ph. D., Cancer Biology, Moffitt Cancer Center at University of South Florida   
+B.A., M.S. Biology, Saint Anselm College, Tulane University  
+
+Catera Wilder is a postdoctoral scholar who joined the Meyer group working on a collaborative project studying the interferon (IFN) signaling pathway, a key pathway that regulates the innate immune response. Her interest lies in understanding regulatory mechanisms of two IFN families (i.e. type I and III IFNs) that elicit differential physiological functions and expression of interferon-stimulated genes. In her free time, she enjoys spending time with friends over a good meal and catching up on her favorite TV shows.         
+
+<br />
+
 <div class="span_2 right"><img src="/public/photos/mgarcia.jpg" width="120px" alt="Moriah's picture" /></div>
 ### Moriah Garcia, Development Engineer&nbsp;&nbsp;&nbsp;<a href="mailto:gmoriah2@ucla.edu"><i class="fa fa-envelope"></i></a>       
 B.S., Biomedical Engineering, Purdue University  
