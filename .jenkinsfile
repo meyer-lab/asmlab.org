@@ -18,18 +18,16 @@ pipeline {
     }
     stage('Test'){
       steps {
-        sh 'bundle exec htmlproofer --check-html --timeframe 6M --http-status-ignore "999,400,412" --assume-extension ./_site'
+        sh 'bundle exec htmlproofer --check-html --timeframe 24w --assume-extension ./_site' // --http-status-ignore "999,400,412"
       }
     }
     stage('Deploy') {
       when { expression { env.BRANCH_NAME == 'master' } }
       steps {
-        sh 'cd _site; git init; git config user.name "Jenkins CI"'
-        sh 'cd _site; git config user.email "jenkins@asmlab.org"'
+        sh 'cd _site; git init; git config user.name "Jenkins CI"; git config user.email "jenkins@asmlab.org"'
         sh 'cd _site; git remote add upstream "git@github.com:meyer-lab/asmlab.org.git"'
         sh 'echo "asmlab.org" > _site/CNAME'
-        sh 'cd _site; git add .; git commit -m "Jenkins $BUILD_ID auto-pushed"'
-        sh 'cd _site; git push --force -q upstream HEAD:gh-pages'
+        sh 'cd _site; git add .; git commit -m "Jenkins $BUILD_ID auto-pushed"; git push --force -q upstream HEAD:gh-pages'
       }
     }
   }
