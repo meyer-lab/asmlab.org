@@ -18,7 +18,7 @@ pipeline {
     }
     stage('Test'){
       steps {
-        sh 'bundle exec htmlproofer --check-html --timeframe 24w --assume-extension ./_site' // --http-status-ignore "999,400,412"
+        sh 'bundle exec htmlproofer --check-html --http-status-ignore "412" --timeframe 24w --assume-extension ./_site'
       }
     }
     stage('Deploy') {
