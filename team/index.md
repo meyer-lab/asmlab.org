@@ -15,7 +15,7 @@ B.S., Bioengineering, University of California, Los Angeles
 <br />
 
 <div class="span_2 right"><img src="/public/photos/sybae.jpg" width="120px" alt="Song Yi's picture" /></div>
-### Song Yi Bae, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:sybae@mit.edu"><i class="fa fa-envelope"></i></a>      
+### Song Yi Bae, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:sybae@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 Ph.D., College of Pharmacy, Seoul National University    
 B.S., College of Pharmacy, Ewha Womans University
 
@@ -24,7 +24,7 @@ As a graduate Song Yi focused on identifying biomarkers and mechanisms of acquir
 <br />
 
 <div class="span_2 right"><img src="/public/photos/ted.jpg" width="120px" alt="Ted's picture" /></div>
-### Edward Richards, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:erichard@mit.edu"><i class="fa fa-envelope"></i></a>      
+### Edward Richards, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:erichard@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 Ph.D., Cancer Biology, Moffitt Cancer Center at University of South Florida   
 B.A., M.S. Biology, Saint Anselm College, Tulane University  
 
@@ -33,7 +33,7 @@ Ted has joined the team as a postdoctoral associate. The focus of his previous r
 <br />
 
 <div class="span_2 right"><img src="/public/photos/cateraw.jpg" width="120px" alt="Catera's picture" /></div>
-### Catera Wilder, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:cwilder1@ucla.edu"><i class="fa fa-envelope"></i></a>      
+### Catera Wilder, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:cwilder1@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 Ph.D., Biomedical Engineering, Georgia Tech and Emory University   
 B.S., Biological Engineering, University of Missouri  
 
@@ -42,7 +42,7 @@ Catera Wilder is a postdoctoral scholar who joined the Meyer group working on a 
 <br />
 
 <div class="span_2 right"><img src="/public/photos/mgarcia.jpg" width="120px" alt="Moriah's picture" /></div>
-### Moriah Garcia, Development Engineer&nbsp;&nbsp;&nbsp;<a href="mailto:gmoriah2@ucla.edu"><i class="fa fa-envelope"></i></a>       
+### Moriah Garcia, Development Engineer&nbsp;&nbsp;&nbsp;<a href="mailto:gmoriah2@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>       
 B.S., Biomedical Engineering, Purdue University  
 
 Moriah graduated with a BS in BME from Purdue in 2017. She loves finding new places to hike or explore outside and also recently started learning MMA.
