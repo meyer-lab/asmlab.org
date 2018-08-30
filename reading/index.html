@@ -9,7 +9,7 @@ title: Essential Reading
 
 {% for post in site.categories.literature %}
   <article class="row gutters">
-    <h3 class="col span_8"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.external-url %} - <a href="{{ post.external-url }}"><i class="fa fa-external-link"></i></a>{% endif %}</h3>
+    <h3 class="col span_8"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.external-url %} - <a href="{{ post.external-url }}"><svg class="svg-icon"><use xlink:href="#fa-external"></use></svg></a>{% endif %}</h3>
 
     <div class="post-date col span_4">
       <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%-d %B %Y" }}</time>
