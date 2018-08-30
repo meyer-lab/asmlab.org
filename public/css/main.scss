@@ -210,6 +210,13 @@ footer {
   text-align: right;
 }
 
+.svg-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  fill: currentColor
+}
+
 .not-found {
   margin-top: 150px;
   text-align: center;
