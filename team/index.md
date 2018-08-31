@@ -6,7 +6,7 @@ title: Team
 
 <div class="span_2 right"><img src="/public/photos/aaron.jpg" width="120px" alt="Aaron's picture" /></div>
 
-### Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="http://ameyer.me"><svg class="svg-icon"><use xlink:href="#fa-home"></use></svg></a>  <a href="http://www.twitter.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-twitter"></use></svg></a>   <a href="mailto:aameyer@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>    
+### Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="http://ameyer.me"><svg class="svg-icon"><use xlink:href="#fa-home"></use></svg></a>  <a href="https://github.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="https://www.twitter.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-twitter"></use></svg></a>   <a href="mailto:aameyer@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>    
 Ph. D., Biological Engineering, MIT    
 B.S., Bioengineering, University of California, Los Angeles       
 
