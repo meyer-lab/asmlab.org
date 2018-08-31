@@ -51,7 +51,7 @@ Moriah graduated with a BS in BME from Purdue in 2017. She loves finding new pla
 
 <div class="span_2 right"><img src="/public/photos/aweiner.jpg" width="120px" alt="Adam's picture" /></div>
 
-### Adam Weiner, Undergraduate Researcher  <a href="https://github.com/adamcweiner"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
+### Adam Weiner, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/adamcweiner"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
 Bioengineering, UCLA
 
 Adam joined the Meyer Lab in September 2017 as a member of team cytokine. Outside of the lab and his studies, Adam enjoys playing pick up basketball at the Wooden Center and watching football on the weekends.
@@ -60,7 +60,7 @@ Adam joined the Meyer Lab in September 2017 as a member of team cytokine. Outsid
 
 <div class="span_2 right"><img src="/public/photos/afarhat.jpg" width="120px" alt="Ali's picture" /></div>
 
-### Ali Farhat, Undergraduate Researcher  <a href="https://github.com/alifarhat30"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
+### Ali Farhat, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/alifarhat30"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
 Bioengineering, UCLA
 
 Ali joined the Meyer Lab in September 2017 as a member of team cytokine. When not in lab and not studying, Ali enjoys watching MARVEL and DC Superhero shows on Netflix as well as kicking a soccer ball around with his friends.
@@ -69,7 +69,7 @@ Ali joined the Meyer Lab in September 2017 as a member of team cytokine. When no
 
 <div class="span_2 right"><img src="/public/photos/ryan.jpg" width="120px" alt="Rui's picture" /></div>
 
-### Rui Yan, Undergraduate Researcher  <a href="https://github.com/rui-yan"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
+### Rui Yan, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/rui-yan"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
 Applied Math, UCLA
 
 In the Meyer lab, Rui is offering computational and programming support on the growth model project.
@@ -78,7 +78,7 @@ In the Meyer lab, Rui is offering computational and programming support on the g
 
 <div class="span_2 right"><img src="/public/photos/wwu.jpg" width="120px" alt="Willie's picture" /></div>
 
-### Willie Wu, Undergraduate Researcher  
+### Willie Wu, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/williew17"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
 Bioengineering, UCLA
 
 Willie joined the Meyer Lab late December of 2017. Aside from class and lab, he is involved with UCLA BMES and Tau Beta Pi and plays board games in his free time.
