@@ -15,7 +15,7 @@ B.S., Bioengineering, University of California, Los Angeles
 <br />
 
 <div class="span_2 right"><img src="/public/photos/sybae.jpg" width="120px" alt="Song Yi's picture" /></div>
-### Song Yi Bae, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:sybae@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
+### Song Yi Bae, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="https://github.com/sybae722"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:sybae@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 Ph.D., College of Pharmacy, Seoul National University    
 B.S., College of Pharmacy, Ewha Womans University
 
@@ -24,7 +24,7 @@ As a graduate Song Yi focused on identifying biomarkers and mechanisms of acquir
 <br />
 
 <div class="span_2 right"><img src="/public/photos/ted.jpg" width="120px" alt="Ted's picture" /></div>
-### Edward Richards, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:erichard@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
+### Edward Richards, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="https://github.com/erichards88"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:erichard@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 Ph.D., Cancer Biology, Moffitt Cancer Center at University of South Florida   
 B.A., M.S. Biology, Saint Anselm College, Tulane University  
 
@@ -51,7 +51,7 @@ Moriah graduated with a BS in BME from Purdue in 2017. She loves finding new pla
 
 <div class="span_2 right"><img src="/public/photos/aweiner.jpg" width="120px" alt="Adam's picture" /></div>
 
-### Adam Weiner, Undergraduate Researcher  
+### Adam Weiner, Undergraduate Researcher  <a href="https://github.com/adamcweiner"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
 Bioengineering, UCLA
 
 Adam joined the Meyer Lab in September 2017 as a member of team cytokine. Outside of the lab and his studies, Adam enjoys playing pick up basketball at the Wooden Center and watching football on the weekends.
@@ -60,7 +60,7 @@ Adam joined the Meyer Lab in September 2017 as a member of team cytokine. Outsid
 
 <div class="span_2 right"><img src="/public/photos/afarhat.jpg" width="120px" alt="Ali's picture" /></div>
 
-### Ali Farhat, Undergraduate Researcher  
+### Ali Farhat, Undergraduate Researcher  <a href="https://github.com/alifarhat30"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
 Bioengineering, UCLA
 
 Ali joined the Meyer Lab in September 2017 as a member of team cytokine. When not in lab and not studying, Ali enjoys watching MARVEL and DC Superhero shows on Netflix as well as kicking a soccer ball around with his friends.
@@ -69,7 +69,7 @@ Ali joined the Meyer Lab in September 2017 as a member of team cytokine. When no
 
 <div class="span_2 right"><img src="/public/photos/ryan.jpg" width="120px" alt="Rui's picture" /></div>
 
-### Rui Yan, Undergraduate Researcher  
+### Rui Yan, Undergraduate Researcher  <a href="https://github.com/rui-yan"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
 Applied Math, UCLA
 
 In the Meyer lab, Rui is offering computational and programming support on the growth model project.
