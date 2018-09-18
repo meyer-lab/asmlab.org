@@ -6,7 +6,7 @@ title: Team
 
 <div class="span_2 right"><img src="/public/photos/aaron.jpg" width="120px" alt="Aaron's picture" /></div>
 
-### Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="http://ameyer.me"><svg class="svg-icon"><use xlink:href="#fa-home"></use></svg></a>  <a href="https://github.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="https://www.twitter.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-twitter"></use></svg></a>   <a href="mailto:aameyer@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>    
+### Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="http://ameyer.me"><svg class="svg-icon"><use xlink:href="#fa-home"></use></svg></a>  <a href="https://github.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="https://www.twitter.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-twitter"></use></svg></a>   <a href="mailto:ameyer@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>    
 Ph. D., Biological Engineering, MIT    
 B.S., Bioengineering, University of California, Los Angeles       
 
@@ -15,7 +15,7 @@ B.S., Bioengineering, University of California, Los Angeles
 <br />
 
 <div class="span_2 right"><img src="/public/photos/sybae.jpg" width="120px" alt="Song Yi's picture" /></div>
-### Song Yi Bae, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="https://github.com/sybae722"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:sybae@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
+### Song Yi Bae, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="https://github.com/sybae722"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:sybae@seas.ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 Ph.D., College of Pharmacy, Seoul National University    
 B.S., College of Pharmacy, Ewha Womans University
 
@@ -37,7 +37,7 @@ Ted has joined the team as a postdoctoral associate. The focus of his previous r
 Ph.D., Biomedical Engineering, Georgia Tech and Emory University   
 B.S., Biological Engineering, University of Missouri  
 
-Catera Wilder is a postdoctoral scholar who joined the Meyer group working on a collaborative project studying the interferon (IFN) signaling pathway, a key pathway that regulates the innate immune response. Her interest lies in understanding regulatory mechanisms of two IFN families (i.e. type I and III IFNs) that elicit differential physiological functions and expression of interferon-stimulated genes. In her free time, she enjoys spending time with friends over a good meal and catching up on her favorite TV shows.         
+Catera Wilder is a postdoctoral scholar who joined the Meyer group working on a collaborative project studying the interferon (IFN) signaling pathway, a key pathway that regulates the innate immune response. Her interest lies in understanding regulatory mechanisms of two IFN families (i.e. type I and III IFNs) that elicit differential physiological functions and expression of interferon-stimulated genes. In her free time, she enjoys spending time with friends over a good meal and catching up on her favorite TV shows.
 
 <br />
 
@@ -46,16 +46,15 @@ Catera Wilder is a postdoctoral scholar who joined the Meyer group working on a 
 M.S., Biomedical Sciences, Imperial College London   
 B.S., Biotechnology, University of Barcelona  
 
-Marc is a PhD student in Bioengineering. While a visiting master’s student at the Koch Institute at MIT under the supervision of Prof. Michael B. Yaffe, Marc studied novel functional sites in protein kinases and how cancer mutations perturb these sites in many of them to contribute to malignancy and drug resistance. His interest lies in kinase biology, cellular signal integration, and cancer precision medicine. Outside the lab, Marc enjoys running, nature, and traveling.         
+Marc is a PhD student in Bioengineering. While a visiting master’s student at the Koch Institute at MIT under the supervision of Prof. Michael B. Yaffe, Marc studied novel functional sites in protein kinases and how cancer mutations perturb these sites in many of them to contribute to malignancy and drug resistance. His interest lies in kinase biology, cellular signal integration, and cancer precision medicine. Outside the lab, Marc enjoys running, nature, and traveling.
 
 <br />
 
 <div class="span_2 right"><img src="/public/photos/farnazm.jpg" width="120px" alt="Farnaz's picture" /></div>
 ### Farnaz Mohammadi, Graduate Student&nbsp;&nbsp;&nbsp;      
-Ph.D., Biomedical Engineering, Georgia Tech and Emory University   
-B.S., Biological Engineering, University of Missouri  
+B.Sc. Bioelectrical Engineering, University of Tehran  
 
-Catera Wilder is a postdoctoral scholar who joined the Meyer group working on a collaborative project studying the interferon (IFN) signaling pathway, a key pathway that regulates the innate immune response. Her interest lies in understanding regulatory mechanisms of two IFN families (i.e. type I and III IFNs) that elicit differential physiological functions and expression of interferon-stimulated genes. In her free time, she enjoys spending time with friends over a good meal and catching up on her favorite TV shows.         
+Farnaz Joins Meyer Lab at September 2018 at UCLA as a Ph.D. student and she is going to work on applying tensor factorization method to visualize how different factors change the activation state of the immune cell receptors across different cell populations. In her free time, she likes mountain climbing and watercolor painting.
 
 <br />
 
