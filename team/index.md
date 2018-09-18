@@ -41,6 +41,24 @@ Catera Wilder is a postdoctoral scholar who joined the Meyer group working on a 
 
 <br />
 
+<div class="span_2 right"><img src="/public/photos/marcc.jpg" width="120px" alt="Marc's picture" /></div>
+### Marc Creixell, Graduate Student&nbsp;&nbsp;&nbsp;      
+M.S., Biomedical Sciences, Imperial College London   
+B.S., Biotechnology, University of Barcelona  
+
+Marc is a PhD student in Bioengineering. While a visiting master’s student at the Koch Institute at MIT under the supervision of Prof. Michael B. Yaffe, Marc studied novel functional sites in protein kinases and how cancer mutations perturb these sites in many of them to contribute to malignancy and drug resistance. His interest lies in kinase biology, cellular signal integration, and cancer precision medicine. Outside the lab, Marc enjoys running, nature, and traveling.         
+
+<br />
+
+<div class="span_2 right"><img src="/public/photos/farnazm.jpg" width="120px" alt="Farnaz's picture" /></div>
+### Farnaz Mohammadi, Graduate Student&nbsp;&nbsp;&nbsp;      
+Ph.D., Biomedical Engineering, Georgia Tech and Emory University   
+B.S., Biological Engineering, University of Missouri  
+
+Catera Wilder is a postdoctoral scholar who joined the Meyer group working on a collaborative project studying the interferon (IFN) signaling pathway, a key pathway that regulates the innate immune response. Her interest lies in understanding regulatory mechanisms of two IFN families (i.e. type I and III IFNs) that elicit differential physiological functions and expression of interferon-stimulated genes. In her free time, she enjoys spending time with friends over a good meal and catching up on her favorite TV shows.         
+
+<br />
+
 <div class="span_2 right"><img src="/public/photos/mgarcia.jpg" width="120px" alt="Moriah's picture" /></div>
 ### Moriah Garcia, Development Engineer&nbsp;&nbsp;&nbsp;<a href="mailto:gmoriah2@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>       
 B.S., Biomedical Engineering, Purdue University  
