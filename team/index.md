@@ -46,7 +46,7 @@ Catera Wilder is a postdoctoral scholar who joined the Meyer group working on a 
 M.S., Biomedical Sciences, Imperial College London   
 B.S., Biotechnology, University of Barcelona  
 
-Marc is a PhD student in Bioengineering. While a visiting master’s student at the Koch Institute at MIT under the supervision of Prof. Michael B. Yaffe, Marc studied novel functional sites in protein kinases and how cancer mutations perturb these sites in many of them to contribute to malignancy and drug resistance. His interest lies in kinase biology, cellular signal integration, and cancer precision medicine. Outside the lab, Marc enjoys running, nature, and traveling.
+Marc is a Ph.D. student in Bioengineering. While a visiting master’s student at the Koch Institute at MIT under the supervision of Prof. Michael B. Yaffe, Marc studied novel functional sites in protein kinases and how cancer mutations perturb these sites in many of them to contribute to malignancy and drug resistance. His interest lies in kinase biology, cellular signal integration, and cancer precision medicine. Outside the lab, Marc enjoys running, nature, and traveling.
 
 <br />
 
@@ -54,7 +54,7 @@ Marc is a PhD student in Bioengineering. While a visiting master’s student at 
 ### Farnaz Mohammadi, Graduate Student&nbsp;&nbsp;&nbsp;      
 B.Sc. Bioelectrical Engineering, University of Tehran  
 
-Farnaz Joins Meyer Lab at September 2018 at UCLA as a Ph.D. student and she is going to work on applying tensor factorization method to visualize how different factors change the activation state of the immune cell receptors across different cell populations. In her free time, she likes mountain climbing and watercolor painting.
+Farnaz joined the lab in September 2018 as a Ph.D. student with an interest in mathematical analysis to study cancer-immune cell communication. In her free time, she likes mountain climbing and watercolor painting.
 
 <br />
 
