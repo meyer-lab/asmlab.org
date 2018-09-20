@@ -84,15 +84,15 @@
   room: E5 5129
 
 - date: 2018-10-16 11:00:00
-  presenter: TBD
-  topic: TBD
+  presenter: EH&S
+  topic: Biosafety checkup
   room: E5 5129
 
-- date: 2018-10-30 11:00:00
-  presenter: TBD
-  topic: TBD
-  room: E5 5129
-
+#- date: 2018-10-30 11:00:00
+#  presenter: TBD
+#  topic: TBD
+#  room: E5 5129
+#
 - date: 2018-11-20 11:00:00
   presenter: Ted R
   topic: Rational TAM inhibitors
