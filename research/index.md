@@ -12,8 +12,6 @@ Targeted therapies extend many cancer patient's lives, but are limited in effica
 > <img src="/public/images/resistanceConcept.svg" width="600px" alt="Resistance concept" />  
 > In RTK-driven tumors, signals are transduced from the receptor to various kinases. Upon blocking the original cancer driver, resistance can be conferred by an untargeted receptor. Some receptors, however, do not provide essential resistance signals. By identifying similarities and differences of signaling from each receptor, we will be able to identify measurements pinpointing the relevant receptor causing resistance.
 
-[More...](./resistance.html)
-
 ### Systems Approaches for Rationally Designing Innate Immune Therapies
 
 TAM (Tyro3, AXL, MerTK) receptors are implicated in resistance to targeted therapies and metastasis via tumor cell-intrinsic effects, while more recent evidence has implicated the same receptors expressed on immune cells as a potentially effective therapeutic targets in many cancers. Outside of cancer, these receptors have been implicated in a number of diseases involving immunological dysregulation including lupus, rheumatoid arthritis, endometriosis, viral infection, and asthma. Rationally targeting these receptors, and even understanding how existing therapies function, has been limited by poor understanding of how the receptors are activated.
