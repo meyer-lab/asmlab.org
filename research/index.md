@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-The Meyer lab focuses on the interface of integrating data-driven and mechanistic computational approaches with detailed cell biological experiments to understand molecular systems. We apply both methods in concert, as accounting for the strengths and limitations of both is essential to their integration.
+The Meyer lab integrates data-driven and mechanistic computational approaches with cell biological experiments to understand molecular systems.
 
 ### Identifying Shared Features Among Resistance Mechanisms to Help Predict Effective Combination Therapies for Individual Patients
 
@@ -14,7 +14,7 @@ Targeted therapies extend many cancer patient's lives, but are limited in effica
 
 Relevant publications: [Manole et al](https://asmlab.org/publications/#Manole5219), [Claas et al](https://asmlab.org/publications/#Claas2018), [Schwartz et al](https://asmlab.org/publications/#BarneyPeyton), [Miller et al](https://asmlab.org/publications/#Miller16032016)
 
-### Systems Approaches for Rationally Designing Innate Immune Therapies
+### Systems Approaches for Rational Immune Therapies
 
 TAM (Tyro3, AXL, MerTK) receptors are implicated in resistance to targeted therapies and metastasis via tumor cell-intrinsic effects, while more recent evidence has implicated the same receptors expressed on immune cells as a potentially effective therapeutic targets in many cancers. Outside of cancer, these receptors have been implicated in a number of diseases involving immunological dysregulation including lupus, rheumatoid arthritis, endometriosis, viral infection, and asthma. Rationally targeting these receptors, and even understanding how existing therapies function, has been limited by poor understanding of how the receptors are activated.
 
@@ -22,7 +22,3 @@ TAM (Tyro3, AXL, MerTK) receptors are implicated in resistance to targeted thera
 > In many cancers, a subset of tumor cells overexpress AXL, making them invasive and resistant to therapy. TAM receptor activation within dendritic cells potently inhibits the innate immune response. T cell release of ProS further dampens the immune response. Activation of TAMs inhibits NK cell-mediated lysis. Each of these cell populations express distinct and dynamic combinations of TAM receptor, likely modulating functional changes in microenvironmental response.
 
 [More...](./TAM.html)
-
-### Improving model parameterization and interpretation in systems biology
-
-Models in systems biology are frequently evaluated by their overall predictive ability but are then interpreted on a component-by-component basis. This can lead to spurious conclusions when experimental and model uncertainty is not taken into account. We aim to borrow methods from other fields in which model uncertainty is handled more rigorously to improve the process of model decomposition and interpretation.
