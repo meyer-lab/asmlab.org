@@ -18,7 +18,7 @@ Relevant publications: [Manole et al](https://asmlab.org/publications/#Manole521
 
 Many immune receptors operate as families with multiple ligands and receptors, expressed across diverse cell populations. The lab's efforts operate around the central hypothesis that the multiple members of these families are present to perform computation-like regulation across cell populations. Further, we can use engineering analysis tools to measure and manipulate these systems. We are studying regulation of families like the Tyro3, AXL, MerTK (TAM) tyrosine kinases, Fc gamma, and common gamma chain cytokine receptors. Each is a target of existing or potential therapies which necessarily have pleiotropic effects due to family structure. Therefore, these efforts will be critical to effectively targeting these families therapeutically. Indeed, I plan for my lab to demonstrate these efforts' translational potential by engineering new therapies in cancer.
 
-> <img src="/public/images/TAM.svg" width="400px" alt="TAM concept" />  
+> <img src="/public/images/FcgR.jpg" width="400px" alt="FcgR modeling" />  
 > In many cancers, a subset of tumor cells overexpress AXL, making them invasive and resistant to therapy. TAM receptor activation within dendritic cells potently inhibits the innate immune response. T cell release of ProS further dampens the immune response. Activation of TAMs inhibits NK cell-mediated lysis. Each of these cell populations express distinct and dynamic combinations of TAM receptor, likely modulating functional changes in microenvironmental response.
 
 Relevant publications: 
