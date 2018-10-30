@@ -21,4 +21,4 @@ Many immune receptors operate as families with multiple ligands and receptors, e
 > <img src="/public/images/FcgR.jpg" width="400px" alt="FcgR modeling" />  
 > In many cancers, a subset of tumor cells overexpress AXL, making them invasive and resistant to therapy. TAM receptor activation within dendritic cells potently inhibits the innate immune response. T cell release of ProS further dampens the immune response. Activation of TAMs inhibits NK cell-mediated lysis. Each of these cell populations express distinct and dynamic combinations of TAM receptor, likely modulating functional changes in microenvironmental response.
 
-Relevant publications: [Robinett et al](https://asmlab.org/publications/#FcgR), [Meyer et al](https://asmlab.org/publications/#Meyer:CellSys), 
+Relevant publications: [Robinett et al](https://asmlab.org/publications/#FcgR), [Meyer et al](https://asmlab.org/publications/#Meyer:CellSys), [Muffat et al](https://asmlab.org/publications/#Muffat142497)
