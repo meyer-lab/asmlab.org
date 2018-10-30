@@ -20,6 +20,7 @@ pipeline {
     stage('Test'){
       steps {
         sh 'bundle exec htmlproofer --check-html --http-status-ignore "412" --timeframe 24w --assume-extension ./_site'
+        archiveArtifacts artifacts: '_site', onlyIfSuccessful: true
       }
     }
     stage('Deploy') {
