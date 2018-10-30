@@ -5,7 +5,7 @@ title: Research
 
 The Meyer lab integrates data-driven and mechanistic computational approaches with cell biological experiments to understand molecular systems.
 
-### Identifying Shared Features Among Resistance Mechanisms to Help Predict Effective Combination Therapies for Individual Patients
+### Mapping Mechanisms of Resistance in Cancer
 
 Targeted therapies extend many cancer patient's lives but are limited in efficacy to a subset of patients and by the development of resistance. Enormous efforts undertaken to identify mechanisms of resistance have uncovered numerous changes involving gene expression, post-translational regulation, and even tumor-extrinsic factors such as host-derived growth factors. Combination therapy can effectively combat resistance but requires accurate identification of the relevant resistance mechanism. Precision therapy must account for many genetic and non-genetic intrinsic and adaptive resistance mechanisms if it will accurately select these combinations.
 
