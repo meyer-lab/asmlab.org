@@ -20,6 +20,8 @@ pipeline {
     stage('Test'){
       steps {
         sh 'bundle exec htmlproofer --check-html --http-status-ignore "412" --timeframe 24w --assume-extension ./_site'
+        publishHTML([allowMissing:false, alwaysLinkToLastBuild:false, keepAll:true,
+          reportDir:'_site', reportFiles:'index.html', reportName:'Site', reportTitles:''])
       }
     }
     stage('Deploy') {

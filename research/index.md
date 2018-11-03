@@ -3,26 +3,26 @@ layout: page
 title: Research
 ---
 
-The Meyer lab focuses on the interface of integrating data-driven and mechanistic computational approaches with detailed cell biological experiments to understand molecular systems. We apply both methods in concert, as accounting for the strengths and limitations of both is essential to their integration.
+The Meyer lab integrates data-driven and mechanistic computational approaches with cell biological experiments to understand molecular systems.
 
-### Identifying Shared Features Among Resistance Mechanisms to Help Predict Effective Combination Therapies for Individual Patients
+### Mapping Mechanisms of Resistance in Cancer
 
-Targeted therapies extend many cancer patient's lives, but are limited in efficacy to a subset of patients and by the development of resistance. Enormous efforts undertaken to identify mechanisms of resistance have uncovered numerous changes involving gene expression, post-translational regulation, and even tumor-extrinsic factors such as host-derived growth factors. Combination therapy can effectively combat resistance, but requires accurate identification of the relevant resistance mechanism. Precision therapy must account for many genetic and non-genetic intrinsic and adaptive resistance mechanisms if it will accurately select these combinations.
+Targeted therapies extend many cancer patient's lives but are limited in efficacy to a subset of patients and by the development of resistance. Efforts undertaken to identify mechanisms of resistance have uncovered numerous changes involving gene expression, post-translational regulation, and even tumor-extrinsic factors such as host-derived growth factors. Combination therapy can effectively combat resistance but requires accurate identification of the relevant resistance mechanism. Precision therapy must account for many genetic and non-genetic intrinsic and adaptive resistance mechanisms if it will accurately select these combinations.
 
 > <img src="/public/images/resistanceConcept.svg" width="600px" alt="Resistance concept" />  
-> In RTK-driven tumors, signals are transduced from the receptor to various kinases. Upon blocking the original cancer driver, resistance can be conferred by an untargeted receptor. Some receptors, however, do not provide essential resistance signals. By identifying similarities and differences of signaling from each receptor, we will be able to identify measurements pinpointing the relevant receptor causing resistance.
+> In RTK-driven tumors, signals are transduced from the receptor to various kinases. Upon blocking the original cancer driver, resistance can be conferred by an untargeted receptor. Some receptors, however, do not provide essential resistance signals. By identifying the essential signals driving resistance from each receptor, we aim to develop measurements pinpointing the receptor causing resistance.
 
-[More...](./resistance.html)
+Projects in the lab include mapping the common essential signaling events that drive resistance, quantifying single cell heterogeneity in drug response, and exploring how the extracellular matrix environment directs resistance development.
 
-### Systems Approaches for Rationally Designing Innate Immune Therapies
+Relevant publications: [Manole et al](https://asmlab.org/publications/#Manole5219), [Claas et al](https://asmlab.org/publications/#Claas2018), [Schwartz et al](https://asmlab.org/publications/#BarneyPeyton), [Miller et al](https://asmlab.org/publications/#Miller16032016)
 
-TAM (Tyro3, AXL, MerTK) receptors are implicated in resistance to targeted therapies and metastasis via tumor cell-intrinsic effects, while more recent evidence has implicated the same receptors expressed on immune cells as a potentially effective therapeutic targets in many cancers. Outside of cancer, these receptors have been implicated in a number of diseases involving immunological dysregulation including lupus, rheumatoid arthritis, endometriosis, viral infection, and asthma. Rationally targeting these receptors, and even understanding how existing therapies function, has been limited by poor understanding of how the receptors are activated.
+### Systems Approaches for Rational Immune Therapies
 
-> <img src="/public/images/TAM.svg" width="400px" alt="TAM concept" />  
-> In many cancers, a subset of tumor cells overexpress AXL, making them invasive and resistant to therapy. TAM receptor activation within dendritic cells potently inhibits the innate immune response. T cell release of ProS further dampens the immune response. Activation of TAMs inhibits NK cell-mediated lysis. Each of these cell populations express distinct and dynamic combinations of TAM receptor, likely modulating functional changes in microenvironmental response.
+Many immune receptors operate as families with multiple ligands and receptors, expressed across diverse cell populations. The lab's efforts operate around the central hypothesis that the multiple members of these families are present to perform computation-like regulation across cell populations. Further, we can use engineering analysis tools to measure and manipulate these systems.
 
-[More...](./TAM.html)
+> <img src="/public/images/FcgR.jpg" width="400px" alt="FcgR modeling" />  
+> The Fc portions of IgG antibodies enable communication with many cell populations of the immune system via Fcγ receptors. The consequence of these interactions is influenced by relative affinity among the receptors, valency, and the cell populations present, creating thousands of possibilities. Using a mechanism-based binding model and data-driven analytical techniques, we aim to engineer this communication.
 
-### Improving model parameterization and interpretation in systems biology
+We are studying regulation of families like the Tyro3, AXL, MerTK (TAM) tyrosine kinase, Fcγ, and common γ-chain cytokine receptors. In addition to studying how these receptors operate as a family, we are working to develop tools that make visualizing and manipulating family-wide behavior easier.
 
-Models in systems biology are frequently evaluated by their overall predictive ability but are then interpreted on a component-by-component basis. This can lead to spurious conclusions when experimental and model uncertainty is not taken into account. We aim to borrow methods from other fields in which model uncertainty is handled more rigorously to improve the process of model decomposition and interpretation.
+Relevant publications: [Robinett et al](https://asmlab.org/publications/#FcgR), [Meyer et al](https://asmlab.org/publications/#Meyer:CellSys), [Muffat et al](https://asmlab.org/publications/#Muffat142497)
