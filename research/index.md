@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-The Meyer lab integrates data-driven and mechanistic computational approaches with cell biological experiments to understand molecular systems.
+The Meyer lab integrates data-driven and mechanistic computational approaches with cell biological experiments to study cell behavior.
 
 ### Mapping Mechanisms of Resistance in Cancer
 
