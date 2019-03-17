@@ -93,12 +93,12 @@ In the Meyer lab, Rui is offering computational and programming support on the g
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/wwu.jpg" width="120px" alt="Willie's picture" /></div>
+<div class="span_2 right"><img src="/public/photos/lchang.jpg" width="120px" alt="Linnet's picture" /></div>
 
-### Willie Wu, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/williew17"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
+### Linnet Chang, Undergraduate Researcher  
 Bioengineering, UCLA
 
-Willie joined the Meyer Lab late December of 2017. Aside from class and lab, he is involved with UCLA BMES and Tau Beta Pi and plays board games in his free time.
+Linnet joined the Meyer lab in October 2018. Apart from lab and classes, she enjoys baking desserts, jamming to music, and being involved in UCLA BMES.
 
 <br />
 
