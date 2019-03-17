@@ -117,7 +117,7 @@ Alison joined the Meyer lab in April 2018. Outside of being in lab, she enjoys g
 
 #### Annelien Zweemer, Postdoctoral Fellow (currently [Assistant Professor, Leiden University](https://www.universiteitleiden.nl/en/staffmembers/annelien-zweemer))
 
-#### Ryan Robinett, Undergraduate Researcher
+#### Ryan Robinett, Undergraduate Researcher (currently Ph.D. Student, Computer Science, University of Chicago)
 
 #### Ning Guan, Undergraduate Researcher
 
@@ -125,16 +125,14 @@ Alison joined the Meyer lab in April 2018. Outside of being in lab, she enjoys g
 
 #### Colton Stearns, Undergraduate Researcher
 
-#### Minyi Lee, Undergraduate Researcher 
+#### Minyi Lee, Undergraduate Researcher
 
 #### Christina Bray, Undergraduate Researcher
-
-#### Andrea Meister, Undergraduate Researcher
 
 #### Caroline Lang, Undergraduate Researcher
 
 #### Yoshine Saito, Undergraduate Researcher
 
-#### Nicole Kramer, Undergraduate Researcher
+#### Nicole Kramer, Undergraduate Researcher (currently Ph.D. Student, Bioinformatics and Computational Biology, UNC at Chapel Hill)
 
 #### Lyla Atta, Undergraduate Researcher
