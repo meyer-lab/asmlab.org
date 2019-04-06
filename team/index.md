@@ -51,7 +51,7 @@ Marc is a Ph.D. student in Bioengineering. While a visiting master’s student a
 <br />
 
 <div class="span_2 right"><img src="/public/photos/farnazm.jpg" width="120px" alt="Farnaz's picture" /></div>
-### Farnaz Mohammadi, Graduate Student&nbsp;&nbsp;&nbsp;      
+### Farnaz Mohammadi, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/Farnazmdi"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 B.Sc. Bioelectrical Engineering, University of Tehran  
 
 Farnaz joined the lab in September 2018 as a Ph.D. student with an interest in mathematical analysis to study cancer-immune cell communication. In her free time, she likes mountain climbing and watercolor painting.
