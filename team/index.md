@@ -42,7 +42,7 @@ Catera Wilder is a postdoctoral scholar who joined the Meyer group working on a 
 <br />
 
 <div class="span_2 right"><img src="/public/photos/marcc.jpg" width="120px" alt="Marc's picture" /></div>
-### Marc Creixell, Graduate Student&nbsp;&nbsp;&nbsp;<a href="mailto:creixell@g.ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
+### Marc Creixell, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/mcreixell"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:creixell@g.ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 M.S., Biomedical Sciences, Imperial College London   
 B.S., Biotechnology, University of Barcelona  
 
