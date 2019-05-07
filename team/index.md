@@ -110,6 +110,15 @@ Bioengineering, UCLA
 Alison joined the Meyer lab in April 2018. Outside of being in lab, she enjoys going to the beach, traveling, and trying new dessert places.
 
 <br />
+
+<div class="span_2 right"><img src="/public/photos/micahb.jpg" width="120px" alt="Micah's picture" /></div>
+
+### Micah Bryant, Undergraduate Researcher  
+Bioengineering, UCLA
+
+Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In his free time, Micah enjoys reading books, singing, and playing video games.
+
+<br />
 <br />
 
 
