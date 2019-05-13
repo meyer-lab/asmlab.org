@@ -97,7 +97,7 @@ Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In h
 
 # Former Members
 
-#### Rui Yan, Undergraduate Researcher (currently M.S. Student)
+#### Rui Yan, Undergraduate Researcher (currently M.S./Ph.D. Student, [ICME, Stanford](https://icme.stanford.edu))
 
 #### Ali Farhat, Undergraduate Researcher (currently M.D./Ph.D. Student)
 
