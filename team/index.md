@@ -66,15 +66,6 @@ Moriah graduated with a BS in BME from Purdue in 2017. She loves finding new pla
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/afarhat.jpg" width="120px" alt="Ali's picture" /></div>
-
-### Ali Farhat, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/alifarhat30"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
-Bioengineering, UCLA
-
-Ali joined the Meyer Lab in September 2017 as a member of team cytokine. When not in lab and not studying, Ali enjoys watching MARVEL and DC Superhero shows on Netflix as well as kicking a soccer ball around with his friends.
-
-<br />
-
 <div class="span_2 right"><img src="/public/photos/ryan.jpg" width="120px" alt="Rui's picture" /></div>
 
 ### Rui Yan, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/rui-yan"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
@@ -114,6 +105,8 @@ Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In h
 
 
 # Former Members
+
+#### Ali Farhat, Undergraduate Researcher (currently M.D./Ph.D. Student)
 
 #### Adam Weiner, Undergraduate Researcher (currently Ph.D. Student, [Tri-Institute CompBio](https://compbio.triiprograms.org/))
 
