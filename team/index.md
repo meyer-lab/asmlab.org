@@ -66,33 +66,6 @@ Moriah graduated with a BS in BME from Purdue in 2017. She loves finding new pla
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/aweiner.jpg" width="120px" alt="Adam's picture" /></div>
-
-### Adam Weiner, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/adamcweiner"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
-Bioengineering, UCLA
-
-Adam joined the Meyer Lab in September 2017 as a member of team cytokine. Outside of the lab and his studies, Adam enjoys playing pick up basketball at the Wooden Center and watching football on the weekends.
-
-<br />
-
-<div class="span_2 right"><img src="/public/photos/afarhat.jpg" width="120px" alt="Ali's picture" /></div>
-
-### Ali Farhat, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/alifarhat30"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
-Bioengineering, UCLA
-
-Ali joined the Meyer Lab in September 2017 as a member of team cytokine. When not in lab and not studying, Ali enjoys watching MARVEL and DC Superhero shows on Netflix as well as kicking a soccer ball around with his friends.
-
-<br />
-
-<div class="span_2 right"><img src="/public/photos/ryan.jpg" width="120px" alt="Rui's picture" /></div>
-
-### Rui Yan, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/rui-yan"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
-Applied Math, UCLA
-
-In the Meyer lab, Rui is offering computational and programming support on the growth model project.
-
-<br />
-
 <div class="span_2 right"><img src="/public/photos/lchang.jpg" width="120px" alt="Linnet's picture" /></div>
 
 ### Linnet Chang, Undergraduate Researcher  
@@ -123,6 +96,12 @@ Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In h
 
 
 # Former Members
+
+#### Rui Yan, Undergraduate Researcher (currently M.S. Student)
+
+#### Ali Farhat, Undergraduate Researcher (currently M.D./Ph.D. Student)
+
+#### Adam Weiner, Undergraduate Researcher (currently Ph.D. Student, [Tri-Institute CompBio](https://compbio.triiprograms.org/))
 
 #### Annelien Zweemer, Postdoctoral Fellow (currently [Assistant Professor, Leiden University](https://www.universiteitleiden.nl/en/staffmembers/annelien-zweemer))
 
