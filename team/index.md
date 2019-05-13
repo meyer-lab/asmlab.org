@@ -66,15 +66,6 @@ Moriah graduated with a BS in BME from Purdue in 2017. She loves finding new pla
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/ryan.jpg" width="120px" alt="Rui's picture" /></div>
-
-### Rui Yan, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/rui-yan"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
-Applied Math, UCLA
-
-In the Meyer lab, Rui is offering computational and programming support on the growth model project.
-
-<br />
-
 <div class="span_2 right"><img src="/public/photos/lchang.jpg" width="120px" alt="Linnet's picture" /></div>
 
 ### Linnet Chang, Undergraduate Researcher  
@@ -105,6 +96,8 @@ Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In h
 
 
 # Former Members
+
+#### Rui Yan, Undergraduate Researcher (currently M.S. Student)
 
 #### Ali Farhat, Undergraduate Researcher (currently M.D./Ph.D. Student)
 
