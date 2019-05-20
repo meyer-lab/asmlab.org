@@ -101,7 +101,7 @@ Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In h
 
 #### Rui Yan, Undergraduate Researcher (currently M.S./Ph.D. Student, [ICME, Stanford](https://icme.stanford.edu))
 
-#### Ali Farhat, Undergraduate Researcher (currently M.D./Ph.D. Student)
+#### Ali Farhat, Undergraduate Researcher (currently M.D./Ph.D. Student, [University of Illinois College of Medicine-Chicago](https://chicago.medicine.uic.edu/education/masters-and-doctorate-programs/medical-scientist-training-program/))
 
 #### Adam Weiner, Undergraduate Researcher (currently Ph.D. Student, [Tri-Institute CompBio](https://compbio.triiprograms.org/))
 
