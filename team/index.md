@@ -97,6 +97,8 @@ Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In h
 
 # Former Members
 
+#### Katrina Warner, Amgen Scholar (currently Ph.D. Student, [Biomedical Sciences, Harvard](https://gsas.harvard.edu/programs-of-study/all/biological-and-biomedical-sciences))
+
 #### Rui Yan, Undergraduate Researcher (currently M.S./Ph.D. Student, [ICME, Stanford](https://icme.stanford.edu))
 
 #### Ali Farhat, Undergraduate Researcher (currently M.D./Ph.D. Student)
