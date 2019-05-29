@@ -102,20 +102,10 @@ Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In h
 
 #### Ryan Robinett, Undergraduate Researcher (currently Ph.D. Student, Computer Science, University of Chicago)
 
-#### Ning Guan, Undergraduate Researcher
+#### Ning Guan, Undergraduate Researcher (currently Undergraduate Researcher, [Birnbaum Lab, MIT](https://birnbaum-lab.mit.edu))
 
 #### Simin Manole, Technical Assistant (currently [Technical Assistant, Nedivi Lab](https://nedivilab.mit.edu/team/simin-manole/))
 
-#### Colton Stearns, Undergraduate Researcher
-
-#### Minyi Lee, Undergraduate Researcher
-
 #### Christina Bray, Undergraduate Researcher
 
-#### Caroline Lang, Undergraduate Researcher
-
-#### Yoshine Saito, Undergraduate Researcher
-
 #### Nicole Kramer, Undergraduate Researcher (currently Ph.D. Student, Bioinformatics and Computational Biology, UNC at Chapel Hill)
-
-#### Lyla Atta, Undergraduate Researcher
