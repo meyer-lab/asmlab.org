@@ -14,15 +14,6 @@ B.S., Bioengineering, University of California, Los Angeles
 <br />
 <br />
 
-<div class="span_2 right"><img src="/public/photos/sybae.jpg" width="120px" alt="Song Yi's picture" /></div>
-### Song Yi Bae, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="https://github.com/sybae722"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:sybae@seas.ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
-Ph.D., College of Pharmacy, Seoul National University    
-B.S., College of Pharmacy, Ewha Womans University
-
-As a graduate Song Yi focused on identifying biomarkers and mechanisms of acquired EGFR-TKI resistance in non-small cell lung cancer. The TAM receptor AXL being one of her interest in previous work, she joined the team as a postdoc to further explore the role of AXL in drug resistance. She is currently enthusiastic to study the crosstalk between AXL and other RTKs, and search effective strategies to overcome drug resistance. After work, she likes to relax while listening to the radio.
-
-<br />
-
 <div class="span_2 right"><img src="/public/photos/ted.jpg" width="120px" alt="Ted's picture" /></div>
 ### Edward Richards, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="https://github.com/erichards88"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:erichard@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 Ph.D., Cancer Biology, Moffitt Cancer Center at University of South Florida   
@@ -96,6 +87,8 @@ Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In h
 
 
 # Former Members
+
+#### Song Yi Bae, Postdoctoral Fellow (currently [Postdoctoral Fellow, University of Minnesota](https://www.med.umn.edu/bio/department-of-pharmacology/justin-drake))
 
 #### Katrina Warner, Amgen Scholar (currently Ph.D. Student, [Biomedical Sciences, Harvard](https://gsas.harvard.edu/programs-of-study/all/biological-and-biomedical-sciences))
 
