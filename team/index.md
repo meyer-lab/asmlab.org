@@ -53,7 +53,7 @@ Farnaz joined the lab in September 2018 as a Ph.D. student with an interest in m
 ### Brian Orcutt-Jahns, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/borcuttjahns"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 B.S. Bioengineering, University of California, Los Angeles  
 
-Brian is a Ph.D. student who joined the lab during Summer 2019. Brian completed his B.S. in Bioengineering at UCLA, where he conducted research as member of the [Kasko group](http://kaskolab.com). Brian's research interests include computational analysis of cellular signalling pathways and their processing dynamics, as well as the utility of these models in the process of drug discovery. His interests outside of the lab include playing soccer, lifting weights, and watching cooking shows.
+Brian is a Ph.D. student who joined the lab during Summer 2019. Brian completed his B.S. in Bioengineering at UCLA, where he conducted research as a member of the [Kasko group](http://kaskolab.com). Brian's research interests include computational analysis of cellular signaling pathways and their processing dynamics, as well as the utility of these models in the process of drug discovery. His interests outside of the lab include playing soccer, lifting weights, and watching cooking shows.
 
 <br />
 
