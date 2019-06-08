@@ -4,7 +4,7 @@ title: Team
 ---
 <img src="/public/photos/group.jpg" width="100%" alt="The group" class="center" />
 
-<div class="span_2 right"><img src="/public/photos/aaron.jpg" width="140px" alt="Aaron's picture" /></div>
+<div class="span_2 right"><img src="/public/photos/aaron.jpg" width="150px" alt="Aaron's picture" /></div>
 
 ### Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="http://ameyer.me"><svg class="svg-icon"><use xlink:href="#fa-home"></use></svg></a>  <a href="https://github.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="https://www.twitter.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-twitter"></use></svg></a>   <a href="mailto:ameyer@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>    
 Ph. D., Biological Engineering, MIT    
@@ -14,7 +14,7 @@ B.S., Bioengineering, University of California, Los Angeles
 <br />
 <br />
 
-<div class="span_2 right"><img src="/public/photos/ted.jpg" width="140px" alt="Ted's picture" /></div>
+<div class="span_2 right"><img src="/public/photos/ted.jpg" width="150px" alt="Ted's picture" /></div>
 ### Edward Richards, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="https://github.com/erichards88"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:erichard@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 Ph.D., Cancer Biology, Moffitt Cancer Center at University of South Florida   
 B.A., M.S. Biology, Saint Anselm College, Tulane University  
@@ -23,7 +23,7 @@ Ted has joined the team as a postdoctoral associate. The focus of his previous r
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/cateraw.jpg" width="140px" alt="Catera's picture" /></div>
+<div class="span_2 right"><img src="/public/photos/cateraw.jpg" width="150px" alt="Catera's picture" /></div>
 ### Catera Wilder, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:cwilder1@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 Ph.D., Biomedical Engineering, Georgia Tech and Emory University   
 B.S., Biological Engineering, University of Missouri  
@@ -32,7 +32,7 @@ Catera Wilder is a postdoctoral scholar who joined the Meyer group working on a 
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/marcc.jpg" width="140px" alt="Marc's picture" /></div>
+<div class="span_2 right"><img src="/public/photos/marcc.jpg" width="150px" alt="Marc's picture" /></div>
 ### Marc Creixell, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/mcreixell"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:creixell@g.ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 M.S., Biomedical Sciences, Imperial College London   
 B.S., Biotechnology, University of Barcelona  
@@ -41,7 +41,7 @@ Marc is a Ph.D. student in Bioengineering. While a visiting master’s student i
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/farnazm.jpg" width="140px" alt="Farnaz's picture" /></div>
+<div class="span_2 right"><img src="/public/photos/farnazm.jpg" width="150px" alt="Farnaz's picture" /></div>
 ### Farnaz Mohammadi, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/Farnazmdi"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 B.Sc. Bioelectrical Engineering, University of Tehran  
 
@@ -49,7 +49,7 @@ Farnaz joined the lab in September 2018 as a Ph.D. student with an interest in m
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/brianoj.jpg" width="140px" alt="Brian's picture" /></div>
+<div class="span_2 right"><img src="/public/photos/brianoj.jpg" width="150px" alt="Brian's picture" /></div>
 ### Brian Orcutt-Jahns, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/borcuttjahns"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 B.S. Bioengineering, University of California, Los Angeles  
 
@@ -57,7 +57,7 @@ Brian is a Ph.D. student who joined the lab during Summer 2019. Brian completed 
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/mgarcia.jpg" width="140px" alt="Moriah's picture" /></div>
+<div class="span_2 right"><img src="/public/photos/mgarcia.jpg" width="150px" alt="Moriah's picture" /></div>
 ### Moriah Garcia, Development Engineer&nbsp;&nbsp;&nbsp;<a href="mailto:gmoriah2@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>       
 B.S., Biomedical Engineering, Purdue University  
 
@@ -65,7 +65,7 @@ Moriah graduated with a BS in BME from Purdue in 2017. She loves finding new pla
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/lchang.jpg" width="140px" alt="Linnet's picture" /></div>
+<div class="span_2 right"><img src="/public/photos/lchang.jpg" width="150px" alt="Linnet's picture" /></div>
 
 ### Linnet Chang, Undergraduate Researcher  
 Bioengineering, UCLA
@@ -74,7 +74,7 @@ Linnet joined the Meyer lab in October 2018. Apart from lab and classes, she enj
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/alison.jpg" width="140px" alt="Alison's picture" /></div>
+<div class="span_2 right"><img src="/public/photos/alison.jpg" width="150px" alt="Alison's picture" /></div>
 
 ### Alison Tran, Undergraduate Researcher  
 Bioengineering, UCLA
@@ -83,7 +83,7 @@ Alison joined the Meyer lab in April 2018. Outside of being in lab, she enjoys g
 
 <br />
 
-<div class="span_2 right"><img src="/public/photos/micahb.jpg" width="140px" alt="Micah's picture" /></div>
+<div class="span_2 right"><img src="/public/photos/micahb.jpg" width="150px" alt="Micah's picture" /></div>
 
 ### Micah Bryant, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/micah-bryant"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
 Bioengineering, UCLA
