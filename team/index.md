@@ -13,6 +13,7 @@ B.S., Bioengineering, University of California, Los Angeles
 <br />
 <br />
 <br />
+<br />
 
 <div class="span_3 right"><img src="/public/photos/ted.jpg" width="150px" alt="Ted's picture" /></div>
 ### Edward Richards, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="https://github.com/erichards88"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:erichard@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
@@ -64,6 +65,7 @@ B.S., Biomedical Engineering, Purdue University
 Moriah graduated with a BS in BME from Purdue in 2017. She loves finding new places to hike or explore outside and also recently started learning MMA.
 
 <br />
+<br />
 
 <div class="span_3 right"><img src="/public/photos/lchang.jpg" width="150px" alt="Linnet's picture" /></div>
 
@@ -81,6 +83,7 @@ Bioengineering, UCLA
 
 Alison joined the Meyer lab in April 2018. Outside of being in lab, she enjoys going to the beach, traveling, and trying new dessert places.
 
+<br />
 <br />
 
 <div class="span_3 right"><img src="/public/photos/micahb.jpg" width="150px" alt="Micah's picture" /></div>
