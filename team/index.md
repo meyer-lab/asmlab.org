@@ -14,6 +14,7 @@ B.S., Bioengineering, University of California, Los Angeles
 <br />
 <br />
 <br />
+<br />
 
 <div class="span_3 right"><img src="/public/photos/ted.jpg" width="150px" alt="Ted's picture" /></div>
 ### Edward Richards, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="https://github.com/erichards88"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:erichard@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
@@ -74,6 +75,7 @@ Bioengineering, UCLA
 
 Linnet joined the Meyer lab in October 2018. Apart from lab and classes, she enjoys baking desserts, jamming to music, and being involved in [UCLA BMES](http://bmes.seas.ucla.edu).
 
+<br />
 <br />
 
 <div class="span_3 right"><img src="/public/photos/alison.jpg" width="150px" alt="Alison's picture" /></div>
