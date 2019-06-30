@@ -68,15 +68,6 @@ Brian is a Ph.D. student who joined the lab during Summer 2019. Brian completed 
 
 <br />
 
-<div class="span_3 right"><img src="/public/photos/mgarcia.jpg" width="150px" alt="Moriah's picture" /></div>
-### Moriah Garcia, Development Engineer&nbsp;&nbsp;&nbsp;<a href="mailto:gmoriah2@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>       
-B.S., Biomedical Engineering, Purdue University  
-
-Moriah graduated with a BS in BME from Purdue in 2017. She loves finding new places to hike or explore outside and also recently started learning MMA.
-
-<br />
-<br />
-
 <div class="span_3 right"><img src="/public/photos/lchang.jpg" width="150px" alt="Linnet's picture" /></div>
 
 ### Linnet Chang, Undergraduate Researcher  
@@ -110,19 +101,21 @@ Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In h
 
 # Former Members
 
+#### Moriah Garcia, Development Engineer (currently M.S. student, [Bioengineering, UC Berkeley](http://bioeng.berkeley.edu))
+
 #### Song Yi Bae, Postdoctoral Fellow (currently [Postdoctoral Fellow, University of Minnesota](https://www.med.umn.edu/bio/department-of-pharmacology/justin-drake))
 
-#### Katrina Warner, Amgen Scholar (currently Ph.D. Student, [Biomedical Sciences, Harvard](https://gsas.harvard.edu/programs-of-study/all/biological-and-biomedical-sciences))
+#### Katrina Warner, Amgen Scholar (currently Ph.D. student, [Biomedical Sciences, Harvard](https://gsas.harvard.edu/programs-of-study/all/biological-and-biomedical-sciences))
 
-#### Rui Yan, Undergraduate Researcher (currently M.S./Ph.D. Student, [ICME, Stanford](https://icme.stanford.edu))
+#### Rui Yan, Undergraduate Researcher (currently M.S./Ph.D. student, [ICME, Stanford](https://icme.stanford.edu))
 
-#### Ali Farhat, Undergraduate Researcher (currently M.D./Ph.D. Student, [University of Illinois College of Medicine-Chicago](https://chicago.medicine.uic.edu/education/masters-and-doctorate-programs/medical-scientist-training-program/))
+#### Ali Farhat, Undergraduate Researcher (currently M.D./Ph.D. student, [University of Illinois College of Medicine-Chicago](https://chicago.medicine.uic.edu/education/masters-and-doctorate-programs/medical-scientist-training-program/))
 
-#### Adam Weiner, Undergraduate Researcher (currently Ph.D. Student, [Tri-Institute CompBio](https://compbio.triiprograms.org/))
+#### Adam Weiner, Undergraduate Researcher (currently Ph.D. student, [Tri-Institute CompBio](https://compbio.triiprograms.org/))
 
 #### Annelien Zweemer, Postdoctoral Fellow (currently [Assistant Professor, Leiden University](https://www.universiteitleiden.nl/en/staffmembers/annelien-zweemer))
 
-#### Ryan Robinett, Undergraduate Researcher (currently Ph.D. Student, Computer Science, University of Chicago)
+#### Ryan Robinett, Undergraduate Researcher (currently Ph.D. student, Computer Science, University of Chicago)
 
 #### Ning Guan, Undergraduate Researcher (currently Undergraduate Researcher, [Birnbaum Lab, MIT](https://birnbaum-lab.mit.edu))
 
@@ -130,4 +123,4 @@ Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In h
 
 #### Christina Bray, Undergraduate Researcher
 
-#### Nicole Kramer, Undergraduate Researcher (currently Ph.D. Student, Bioinformatics and Computational Biology, UNC at Chapel Hill)
+#### Nicole Kramer, Undergraduate Researcher (currently Ph.D. student, Bioinformatics and Computational Biology, UNC at Chapel Hill)
