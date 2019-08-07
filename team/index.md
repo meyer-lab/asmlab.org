@@ -98,6 +98,22 @@ Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In h
 <br />
 <br />
 
+<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Robby's picture" /></div>
+
+### Robert Theisen, Undergraduate Researcher  
+Bioengineering, UCLA
+
+<br />
+<br />
+
+<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Zoe's picture" /></div>
+
+### Zoe Kim, Undergraduate Researcher  
+Bioengineering, UCLA
+
+<br />
+<br />
+
 
 # Former Members
 
