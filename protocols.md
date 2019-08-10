@@ -42,8 +42,9 @@ Protocols and other links for resources within the lab.
 </section>
 
 <section class="archive">
-<h2> Safety </h2>
 
-<article class="row gutters"><a href="http://www.bioeng.ucla.edu/dept-iipp/" title="Dept IIPP" class="col span_8">Department Injury and Illness Prevention Program (IIPP) Manual</a></article>
+## Safety
+
+[Department Injury and Illness Prevention Program (IIPP) Manual)](http://www.bioeng.ucla.edu/dept-iipp/)
 
 </section>
