@@ -5,12 +5,11 @@ title: Protocols
 
 <section class="archive">
 
-<h2> Protocols </h2>
+<h2>Protocols</h2>
 
 Protocols and other links for resources within the lab.
 
 {% for post in site.categories.protocols %}
-
 
   <article class="row gutters">
     <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" class="col span_8">{{ post.title }}</a>
@@ -24,34 +23,8 @@ Protocols and other links for resources within the lab.
 
 
 <section class="archive">
-<h2> Links </h2>
 
-<article class="row gutters"><a href="/team/expectations/common.html" title="Common expectations" class="col span_8">Common expectations</a></article>
-
-<article class="row gutters"><a href="https://syno.seas.ucla.edu/drive/oo/r/450933481663373314" title="Lab meeting schedule" class="col span_8">Lab meeting schedule</a></article>
-
-<article class="row gutters"><a href="https://github.com/meyer-lab/" title="Github page" class="col span_8">Github page</a></article>
-  
-<article class="row gutters"><a href="https://github.com/meyer-lab/misc-docs" title="Misc lab documents" class="col span_8">Misc lab documents</a></article>
-
-<article class="row gutters"><a href="https://syno.seas.ucla.edu/drive/d/s/413621497437887399/lUYb4tR1Tm8NOC6FRuwcwmtNvPWoe3ea-KSWA33oChQY_" title="Equipment documentation" class="col span_8">Equipment documentation</a></article>
-  
-<article class="row gutters"><a href="https://github.com/meyer-lab/misc-docs/blob/master/primers/primer_archive.csv" title="Primer database" class="col span_8">Primer database</a></article>
-
-<article class="row gutters"><a href="https://groups.google.com/forum/#!forum/asmlab" title="Email list" class="col span_8">Lab Email list</a></article>
-
-<article class="row gutters"><a href="https://www.purchasing.ucla.edu/purchasing/Purchasing-forms" title="Purchasing forms" class="col span_8">Purchasing forms</a></article>
-
-<article class="row gutters"><a href="/public/BioE-order-form.xlsx" title="Order form" class="col span_8">Department ordering form</a></article>
-  
-</section>
-
-
-
-
-<section class="archive">
-<h2> Safety </h2>
-
-<article class="row gutters"><a href="http://www.bioeng.ucla.edu/dept-iipp/" title="Dept IIPP" class="col span_8">Department Injury and Illness Prevention Program (IIPP) Manual</a></article>
+{% capture my_include %}{% include protocol_links.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 </section>
