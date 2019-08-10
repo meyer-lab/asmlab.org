@@ -5,7 +5,7 @@ title: Protocols
 
 <section class="archive">
 
-<h2> Protocols </h2>
+## Protocols
 
 Protocols and other links for resources within the lab.
 
