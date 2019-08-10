@@ -24,6 +24,7 @@ Protocols and other links for resources within the lab.
 
 <section class="archive">
 
-{{ protocol_links | markdownify }}
+{% capture my_include %}{% include protocol_links.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 </section>
