@@ -21,7 +21,7 @@ On top of Python, we commonly use the [numpy](https://www.numpy.org), [scipy](ht
 
 ### Julia
 
-
+We are increasingly using [Julia](https://docs.julialang.org/en/v1/) for new projects in the lab. The language provides a unique breadth of tools necessary for our work, Matlab-like syntax, and valuable benefits in language expressiveness.
 
 On top of Julia, we commonly use [DifferentialEquations.jl](http://docs.juliadiffeq.org/latest/), [TensorDecompositions.jl](https://github.com/yunjhongwu/TensorDecompositions.jl), [Turing.jl](https://turing.ml), and [Plots.jl](http://docs.juliaplots.org/latest/).
 
