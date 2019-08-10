@@ -10,7 +10,7 @@ title: Getting Started
 
 #### Computational work
 
-Read through the specific [instructions for getting started with computational work](/team/computational_start.md).
+Read through the specific [instructions for getting started with computational work](/team/computational_start.html).
 
 #### Wet lab
 
