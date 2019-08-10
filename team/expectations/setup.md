@@ -10,7 +10,7 @@ title: Getting Started
 
 #### Computational work
 
-- Ask for an account on the lab's compute server (Aretha)
+Read through the specific [instructions for getting started with computational work](/team/computational_start.md).
 
 #### Wet lab
 
