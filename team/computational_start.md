@@ -5,11 +5,8 @@
 
 All computational projects in the lab are stored and coordinated through the version tracking program git and the website Github. Dr. Meyer can invite you to become a member of the [organization account](https://github.com/meyer-lab) as soon as you have made a [Github account](https://github.com).
 
-
-https://try.github.io/
-http://swcarpentry.github.io/git-novice/
-
-
+- [Resources to Learn Git](https://try.github.io/)
+- [Version Control With Git](http://swcarpentry.github.io/git-novice/)
 
 ## Python
 
@@ -18,7 +15,7 @@ The lab primarily uses Python for its computational analysis. This language is o
 - [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
 - [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
 
-On top of Python, we commonly use the [numpy](https://www.numpy.org), [scipy](https://www.scipy.org), [pandas](https://pandas.pydata.org), [scikit-learn](https://scikit-learn.org), [matplotlib](https://matplotlib.org), seaborn, Theano, PyMC3, and Tensorly packages.
+On top of Python, we commonly use the [numpy](https://www.numpy.org), [scipy](https://www.scipy.org), [pandas](https://pandas.pydata.org), [scikit-learn](https://scikit-learn.org), [matplotlib](https://matplotlib.org), [seaborn](https://seaborn.pydata.org), [Theano](http://www.deeplearning.net/software/theano), [PyMC3](https://docs.pymc.io), and [TensorLy](http://tensorly.org) packages.
 
 ## Julia
 
@@ -28,7 +25,7 @@ On top of Python, we commonly use the [numpy](https://www.numpy.org), [scipy](ht
 
 ## Jupyterlab
 
-The lab has a high-performance server that can be used for programming and running programs. The most convenient interface for using this server is JupyterLab at <https://aretha.seas.ucla.edu:8000/hub/>. Dr. Meyer is able to create accounts on this server for you.
+The lab has a high-performance server that can be used for programming and running programs. The most convenient interface for using this server is JupyterLab (<https://aretha.seas.ucla.edu:8000/hub/>). Dr. Meyer is able to create accounts on this server for you.
 
 ## Jenkins
 
