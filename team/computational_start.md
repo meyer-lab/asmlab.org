@@ -27,8 +27,8 @@ On top of Julia, we commonly use [DifferentialEquations.jl](http://docs.juliadif
 
 ### Jupyterlab
 
-The lab has a high-performance server that can be used for programming and running programs. The most convenient interface for using this server is JupyterLab (<https://aretha.seas.ucla.edu:8000/hub/>). Dr. Meyer is able to create accounts on this server for you.
+The lab has a high-performance server that can be used for programming and running programs. The most convenient interface for using this server is JupyterLab (`https://aretha.seas.ucla.edu:8000/hub/`). Dr. Meyer is able to create accounts on this server for you.
 
 ### Jenkins
 
-Most projects in the lab roughly follow continuous integration principles. That is, individuals make desired changes to the project's code on their own branches, then regularly merge their changes with the whole group's version. We use an automated build server to check our code for stylistic rules, correctness, and build the project's outputs (papers, programs, etc). This server (<https://transduc.seas.ucla.edu>) uses Jenkins to automate these tasks. You should have access to the server once your Github account is linked to the lab's organization.
+Most projects in the lab roughly follow continuous integration principles. That is, individuals make desired changes to the project's code on their own branches, then regularly merge their changes with the whole group's version. We use an automated build server to check our code for stylistic rules, correctness, and build the project's outputs (papers, programs, etc). This server (`https://transduc.seas.ucla.edu`) uses Jenkins to automate these tasks. You should have access to the server once your Github account is linked to the lab's organization.
