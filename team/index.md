@@ -32,8 +32,6 @@ B.S., Biological Engineering, University of Missouri
 
 Catera Wilder is a postdoctoral scholar who joined the Meyer group working on a collaborative project studying the interferon (IFN) signaling pathway, a key pathway that regulates the innate immune response. Her interest lies in understanding regulatory mechanisms of two IFN families (i.e. type I and III IFNs) that elicit differential physiological functions and expression of interferon-stimulated genes. In her free time, she enjoys spending time with friends over a good meal and catching up on her favorite TV shows.
 
-<br />
-
 <div class="span_3 right"><img src="/public/photos/marcc.jpg" width="150px" alt="Marc's picture" /></div>
 ### Marc Creixell, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/mcreixell"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:creixell@g.ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 M.S., Biomedical Sciences, Imperial College London   
