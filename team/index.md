@@ -58,7 +58,6 @@ B.S. Biology & Computer Science, Emory University
 Cyrillus is a Bioinformatics Ph.D. student. His research interests include developing computational methods and models to understand biological systems. Aspiring traveler, amateur musician, financial analyst with no actual experience, know-it-all wannabe.
 
 <br />
-<br />
 
 <div class="span_3 right"><img src="/public/photos/brianoj.jpg" width="150px" alt="Brian's picture" /></div>
 ### Brian Orcutt-Jahns, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/borcuttjahns"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
