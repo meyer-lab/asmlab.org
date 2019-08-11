@@ -74,6 +74,7 @@ B.S. Cell & Molecular Biology, University of California, Los Angeles
 
 <br />
 <br />
+<br />
 
 <div class="span_3 right"><img src="/public/photos/lchang.jpg" width="150px" alt="Linnet's picture" /></div>
 
@@ -110,6 +111,7 @@ Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In h
 ### Robert Theisen, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/robthemike1"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 Bioengineering, UCLA
 
+<br />
 <br />
 <br />
 
