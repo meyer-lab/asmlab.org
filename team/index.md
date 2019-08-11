@@ -68,6 +68,13 @@ Brian is a Ph.D. student who joined the lab during Summer 2019. Brian completed 
 
 <br />
 
+<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Scott's picture" /></div>
+### Scott Taylor, Development Engineer&nbsp;&nbsp;&nbsp;<a href="https://github.com/scottdtaylor95"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
+B.S. Cell & Molecular Biology, University of California, Los Angeles  
+
+<br />
+<br />
+
 <div class="span_3 right"><img src="/public/photos/lchang.jpg" width="150px" alt="Linnet's picture" /></div>
 
 ### Linnet Chang, Undergraduate Researcher  
@@ -94,6 +101,22 @@ Alison joined the Meyer lab in April 2018. Outside of being in lab, she enjoys g
 Bioengineering, UCLA
 
 Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In his free time, Micah enjoys reading books, singing, and playing video games.
+
+<br />
+<br />
+
+<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Robby's picture" /></div>
+
+### Robert Theisen, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/robthemike1"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
+Bioengineering, UCLA
+
+<br />
+<br />
+
+<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Zoe's picture" /></div>
+
+### Zoe Kim, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/zoeskim"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
+Bioengineering, UCLA
 
 <br />
 <br />
