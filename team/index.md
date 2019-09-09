@@ -132,7 +132,7 @@ Bioengineering, UCLA
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Zoe's picture" /></div>
+<div class="span_3 right"><img src="/public/photos/slees.jpg" width="150px" alt="Stephen's picture" /></div>
 
 ### Stephen Lees, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/stephendl102"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 Bioengineering, UCLA
