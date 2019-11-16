@@ -22,12 +22,22 @@ As an undergraduate researcher in this lab, you will typically be paired with a 
 - Learn how to plan your experiments so that they help you progress on the overall goal of your project. Make sure your experiments address the question of interest correctly. This includes learning how to do the appropriate controls, techniques, etc.
 - Learn how to accept and utilize constructive criticism. This feedback is intended to improve your work and is part of the scientific training process.
 
+## BE 199
+
+You can take BE 199 to get course credit for your research in just a few easy steps. In addition to your regular research responsibilities, you should:
+
+- Get the enrollment form from the BE office. Fill this out including a short description of what you aim to accomplish with your research this quarter.
+- I try to ensure that students enrolled in BE 199 present in lab meeting that quarter. We will work together to see if that is possible.
+- At the end of the quarter, you will write a 2–3 page report on your results that quarter. I can provide examples of this report, or you may ask around for an example. Please have me review this so I can provide feedback before submitting it. Allow at least a week for me to proof this.
+
+Note that in bioengineering we do not have a separate BE 99 course. If you see 99 courses referenced in material, that is refering to BE 199.
+
 ## Seek out support
 
-There many opportunities for support while pursueing research. Please do take advantage of these. I am always delighted to recommend you for these programs.
+There are many opportunities for support while pursuing research. Please do take advantage of these. I am always delighted to recommend you for these programs.
 
 - [Undergraduate Research Fellows Program (URFP)](http://hass.ugresearch.ucla.edu/scholarships/urfp/) offers funding support for students who haven't participated in a funded opportunity previously. The application deadline is typically around mid-November.
 - [Undergraduate Research Scholars Program (URSP)](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/ursp/) offers experienced students with junior or senior standing funding support. The application deadline is typically around mid-June.
-- [Amgen Scholars](https://amgenscholars.com) is a national program which provides a 10-week immersive research experience in a lab at certain universities.
+- [Amgen Scholars](https://amgenscholars.com) is a national program that provides a 10-week immersive research experience in a lab at certain universities.
 
 Adapted from documents by [Pam Kreeger](http://www.kreegerlab.org).
