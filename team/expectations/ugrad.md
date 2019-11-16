@@ -30,7 +30,7 @@ You can take BE 199 to get course credit for your research in just a few easy st
 - I try to ensure that students enrolled in BE 199 present in lab meeting that quarter. We will work together to see if that is possible.
 - At the end of the quarter, you will write a 2–3 page report on your results that quarter. I can provide examples of this report, or you may ask around for an example. Please have me review this so I can provide feedback before submitting it. Allow at least a week for me to proof this.
 
-Note that in bioengineering we do not have a separate BE 99 course. If you see 99 courses referenced in material, that is refering to BE 199.
+Note that in bioengineering we do not have a separate BE 99 course. If you see 99 courses referenced in material, that is referring to BE 199.
 
 ## Seek out support
 
