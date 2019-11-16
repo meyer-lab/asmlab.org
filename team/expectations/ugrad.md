@@ -22,4 +22,12 @@ As an undergraduate researcher in this lab, you will typically be paired with a 
 - Learn how to plan your experiments so that they help you progress on the overall goal of your project. Make sure your experiments address the question of interest correctly. This includes learning how to do the appropriate controls, techniques, etc.
 - Learn how to accept and utilize constructive criticism. This feedback is intended to improve your work and is part of the scientific training process.
 
+## Seek out support
+
+There many opportunities for support while pursueing research. Please do take advantage of these. I am always delighted to recommend you for these programs.
+
+- [Undergraduate Research Fellows Program (URFP)](http://hass.ugresearch.ucla.edu/scholarships/urfp/) offers funding support for students who haven't participated in a funded opportunity previously. The application deadline is typically around mid-November.
+- [Undergraduate Research Scholars Program (URSP)](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/ursp/) offers experienced students with junior or senior standing funding support. The application deadline is typically around mid-June.
+- [Amgen Scholars](https://amgenscholars.com) is a national program which provides a 10-week immersive research experience in a lab at certain universities.
+
 Adapted from documents by [Pam Kreeger](http://www.kreegerlab.org).
