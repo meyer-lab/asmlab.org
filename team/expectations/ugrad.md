@@ -39,6 +39,6 @@ There are many opportunities for support while pursuing research. Please do take
 - [Undergraduate Research Fellows Program (URFP)](http://hass.ugresearch.ucla.edu/scholarships/urfp/) offers funding support for students who haven't participated in a funded opportunity previously. The application deadline is typically around mid-November.
 - [Undergraduate Research Scholars Program (URSP)](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/ursp/) offers experienced students with junior or senior standing funding support. The application deadline is typically around mid-June.
 - [Amgen Scholars](https://amgenscholars.com) is a national program that provides a 10-week immersive research experience in a lab at certain universities.
-- Ask. The lab may be able to provide a stipend as support for performing research over the summer. I may also have other support opportunities in mind based on the research you are performing.
+- Ask! The lab may be able to provide a stipend as support for performing research over the summer. I may also have other support opportunities in mind based on the research you are performing.
 
 Adapted from documents by [Pam Kreeger](http://www.kreegerlab.org).
