@@ -139,6 +139,7 @@ Bioengineering, UCLA
 
 Stephen joined the lab in September 2018. He is currently part of the team working on the coding side of an immune complex binding model. His future research interests include applying the principles of bioengineering to the field of immunology. Apart from lab and classes, he enjoys volleyball, bouldering, and playing board games with friends.
 
+<br />
 
 <div class="span_3 right"><img src="/public/photos/rayo.jpg" width="150px" alt="Rayo's picture" /></div>
 
