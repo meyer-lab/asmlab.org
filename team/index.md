@@ -86,16 +86,6 @@ Linnet joined the Meyer lab in October 2018. Apart from lab and classes, she enj
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/alison.jpg" width="150px" alt="Alison's picture" /></div>
-
-### Alison Tran, Undergraduate Researcher  
-Bioengineering, UCLA
-
-Alison joined the Meyer lab in April 2018. Outside of being in lab, she enjoys going to the beach, traveling, and trying new dessert places.
-
-<br />
-<br />
-
 <div class="span_3 right"><img src="/public/photos/micahb.jpg" width="150px" alt="Micah's picture" /></div>
 
 ### Micah Bryant, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/micah-bryant"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
@@ -103,18 +93,6 @@ Bioengineering, UCLA
 
 Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In his free time, Micah enjoys reading books, singing, and playing video games.
 
-<br />
-<br />
-
-<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Robby's picture" /></div>
-
-### Robert Theisen, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/robthemike1"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-Bioengineering, UCLA
-
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 
@@ -138,20 +116,16 @@ Bioengineering, UCLA
 Stephen joined the lab in September 2018. He is currently part of the team working on the coding side of an immune complex binding model. His future research interests include applying the principles of bioengineering to the field of immunology. Apart from lab and classes, he enjoys volleyball, bouldering, and playing board games with friends.
 
 <br />
-
-<div class="span_3 right"><img src="/public/photos/rayo.jpg" width="150px" alt="Rayo's picture" /></div>
-
-### Rayo Suseno, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/benediktusrayosuseno"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-Bioengineering, UCLA
-
-Rayo joined the Meyer Lab in September 2019. Other than classes and lab work, he likes playing the piano, running, and sleeping.
-<br />
 <br />
 <br />
 <br />
 
 
 # Former Members
+
+#### Robert Theisen, Undergraduate Researcher (currently Ph.D. student, [Biomedical Engineering, University of Michigan](https://bme.umich.edu))
+
+#### Alison Tran, Undergraduate Researcher (currently Supply Center Specialist, Thermo Fisher)
 
 #### Moriah Garcia, Development Engineer (currently M.S. student, [Bioengineering, UC Berkeley](http://bioeng.berkeley.edu))
 
@@ -169,7 +143,7 @@ Rayo joined the Meyer Lab in September 2019. Other than classes and lab work, he
 
 #### Ryan Robinett, Undergraduate Researcher (currently Ph.D. student, Computer Science, University of Chicago)
 
-#### Ning Guan, Undergraduate Researcher (currently Undergraduate Researcher, [Birnbaum Lab, MIT](https://birnbaum-lab.mit.edu))
+#### Ning Guan, Undergraduate Researcher (currently Ph.D. student, [Systems Biology, Harvard](https://sysbio.med.harvard.edu))
 
 #### Simin Manole, Technical Assistant (currently [Technical Assistant, Nedivi Lab](https://nedivilab.mit.edu/team/simin-manole/))
 
