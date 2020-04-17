@@ -86,16 +86,6 @@ Linnet joined the Meyer lab in October 2018. Apart from lab and classes, she enj
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/micahb.jpg" width="150px" alt="Micah's picture" /></div>
-
-### Micah Bryant, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/micah-bryant"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  
-Bioengineering, UCLA
-
-Micah joined the Meyer Lab in September 2018 as part of team TAM receptors. In his free time, Micah enjoys reading books, singing, and playing video games.
-
-<br />
-<br />
-
 <div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Zoe's picture" /></div>
 
 ### Zoe Kim, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/zoeskim"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
@@ -125,6 +115,8 @@ Stephen joined the lab in September 2018. He is currently part of the team worki
 
 #### Robert Theisen, Undergraduate Researcher (currently Ph.D. student, [Biomedical Engineering, University of Michigan](https://bme.umich.edu))
 
+#### Micah Bryant, Undergraduate Researcher
+
 #### Alison Tran, Undergraduate Researcher (currently Supply Center Specialist, Thermo Fisher)
 
 #### Moriah Garcia, Development Engineer (currently M.S. student, [Bioengineering, UC Berkeley](http://bioeng.berkeley.edu))
@@ -145,7 +137,7 @@ Stephen joined the lab in September 2018. He is currently part of the team worki
 
 #### Ning Guan, Undergraduate Researcher (currently Ph.D. student, [Systems Biology, Harvard](https://sysbio.med.harvard.edu))
 
-#### Simin Manole, Technical Assistant (currently [Technical Assistant, Nedivi Lab](https://nedivilab.mit.edu/team/simin-manole/))
+#### Simin Manole, Technical Assistant (currently Ph.D. student, [Mol & Cell Biol, U Mass Amherst](https://gpls.cns.umass.edu/mcb))
 
 #### Christina Bray, Undergraduate Researcher
 
