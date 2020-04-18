@@ -117,7 +117,7 @@ Stephen joined the lab in September 2018. He is currently part of the team worki
 
 #### Micah Bryant, Undergraduate Researcher
 
-#### Alison Tran, Undergraduate Researcher (currently Supply Center Specialist, Thermo Fisher)
+#### Alison Tran, Undergraduate Researcher (currently Account Manager, Thermo Fisher)
 
 #### Moriah Garcia, Development Engineer (currently M.S. student, [Bioengineering, UC Berkeley](http://bioeng.berkeley.edu))
 
