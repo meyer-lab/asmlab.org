@@ -2,7 +2,7 @@ name: Jekyll publish
 
 on:
   push
-    
+
 jobs:
   jekyll:
     runs-on: ubuntu-16.04
@@ -28,7 +28,7 @@ jobs:
       #    arguments: --http-status-ignore "999,400"
 
       - name: Deploy 🚀
-        if: contains(github.ref, "master")
+        if: contains(github.ref, 'master')
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
