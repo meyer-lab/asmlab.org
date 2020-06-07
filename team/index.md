@@ -110,24 +110,24 @@ Stephen joined the lab in September 2018. He is currently part of the team worki
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Aditya's picture" /></div>
-
-### Aditya Sivakumar, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/aditya-sivakumar"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-Bioengineering, UCLA
-
-Aditya joined the Meyer Lab in January 2020. Besides working on projects for the lab, he enjoys playing volleyball with friends, working out, and learning about trading.
-
-<br />
-<br />
-<br />
-<br />
-
 <div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Shashank's picture" /></div>
 
 ### Shashank Venkat, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/ShashankVenkat918"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 Computational and Systems Biology, UCLA
 
 Shashank joined the Meyer lab in late 2019. He is working on improving cancer drug response predictions through the tensor factorization of cell lines and different regression models. Outside of the lab, he is a part of a neurotech organization called CruX that builds various Brain-Computer Interface projects for neurotech competitions. He also enjoys working out, listening to music, and eating pizza.
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Aditya's picture" /></div>
+
+### Aditya Sivakumar, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/aditya-sivakumar"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
+Bioengineering, UCLA
+
+Aditya joined the Meyer Lab in January 2020. Besides working on projects for the lab, he enjoys playing volleyball with friends, working out, and learning about trading.
 
 <br />
 <br />
