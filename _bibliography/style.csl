@@ -108,54 +108,6 @@
       </substitute>
     </names>
   </macro>
-  <macro name="access">
-    <choose>
-      <if type="thesis">
-        <choose>
-          <if variable="archive" match="any">
-            <group>
-              <text term="retrieved" text-case="capitalize-first" suffix=" "/>
-              <text term="from" suffix=" "/>
-              <text variable="archive" suffix="."/>
-              <text variable="archive_location" prefix=" (" suffix=")"/>
-            </group>
-          </if>
-          <else>
-            <group>
-              <text term="retrieved" text-case="capitalize-first" suffix=" "/>
-              <text term="from" suffix=" "/>
-              <text variable="URL"/>
-            </group>
-          </else>
-        </choose>
-      </if>
-      <else>
-        <choose>
-          <else>
-            <choose>
-              <if type="webpage">
-                <group delimiter=" ">
-                  <text term="retrieved" text-case="capitalize-first" suffix=" "/>
-                  <group>
-                    <date variable="accessed" form="text" suffix=", "/>
-                  </group>
-                  <text term="from"/>
-                  <text variable="URL"/>
-                </group>
-              </if>
-              <else>
-                <group>
-                  <text term="retrieved" text-case="capitalize-first" suffix=" "/>
-                  <text term="from" suffix=" "/>
-                  <text variable="URL"/>
-                </group>
-              </else>
-            </choose>
-          </else>
-        </choose>
-      </else>
-    </choose>
-  </macro>
   <macro name="title">
     <text variable="title" font-style="italic" suffix="."/>
   </macro>
@@ -487,7 +439,6 @@
           <text macro="publisher"/>
         </group>
       </group> -->
-      <text macro="access" prefix=" "/>
     </layout>
   </bibliography>
 </style>
