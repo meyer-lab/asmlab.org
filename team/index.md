@@ -122,25 +122,25 @@ Aditya joined the Meyer Lab in January 2020. Besides working on projects for the
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Zoe's picture" /></div>
+<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Shashank's picture" /></div>
 
-### Zoe Kim, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/ShashankVenkat918"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-Bioengineering, UCLA
+### Shashank Venkat, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/ShashankVenkat918"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
+Computational and Systems Biology, UCLA
+
+Shashank joined the Meyer lab in late 2019. He is working on improving cancer drug response predictions through the tensor factorization of cell lines and different regression models. Outside of the lab, he is a part of a neurotech organization called CruX that builds various Brain-Computer Interface projects for neurotech competitions. He also enjoys working out, listening to music, and eating pizza.
 
 <br />
 <br />
 <br />
 <br />
-<br />
-<br />
 
-<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Eli's picture" /></div>
+<div class="span_3 right"><img src="/public/photos/elis.jpg" width="150px" alt="Eli's picture" /></div>
 
 ### Eli Snyder, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/elisnyder17"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 Bioengineering, UCLA
 
-<br />
-<br />
+Eli joined the lab in April of 2020. He is a member of the team modeling cell-specific interactions to study the regulation of the common gamma chain cytokines. Outside of lab and classes, Eli enjoys surfing, running, and traveling.
+
 <br />
 <br />
 <br />
