@@ -17,5 +17,15 @@ jobs:
         ruby-version: 2.7
     - name: Install dependencies
       run: bundle install
-    - name: Run tests
-      run: bundle exec rake
+    - name: Jekyll build
+      run: bundle exec jekyll build
+    - name: Proof HTML
+      run: bundle exec htmlproofer --check-html --http-status-ignore "412, 400" --timeframe 24w --assume-extension ./_site
+      
+    - name: Deploy 🚀
+      if: github.ref == 'refs/heads/master'
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BRANCH: gh-pages # The branch the action should deploy to.
+        FOLDER: _site # The folder the action should deploy.
