@@ -17,7 +17,7 @@ The lab primarily uses Python for its computational analysis. This language is o
 - [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
 - [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
 
-On top of Python, we commonly use the [numpy](https://www.numpy.org), [scipy](https://www.scipy.org), [pandas](https://pandas.pydata.org), [scikit-learn](https://scikit-learn.org), [matplotlib](https://matplotlib.org), [seaborn](https://seaborn.pydata.org), [Theano](http://www.deeplearning.net/software/theano), [PyMC3](https://docs.pymc.io), and [TensorLy](http://tensorly.org) packages.
+On top of Python, we commonly use the [numpy](https://www.numpy.org), [scipy](https://www.scipy.org), [pandas](https://pandas.pydata.org), [scikit-learn](https://scikit-learn.org), [matplotlib](https://matplotlib.org), [seaborn](https://seaborn.pydata.org), and [TensorLy](http://tensorly.org) packages.
 
 ### Julia
 
