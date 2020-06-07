@@ -11,14 +11,26 @@ jobs:
     - name: Install biber
       run: sudo apt install biber
     - uses: actions/checkout@v2
+
+    - uses: actions/cache@v1
+      with:
+        path: vendor/bundle
+        key: bundle-use-ruby-ubuntu-latest-2.7-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: bundle-use-ruby-ubuntu-latest-2.7-
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.7
+
     - name: Install dependencies
       run: bundle install
     - name: Jekyll build
       run: bundle exec jekyll build
+  
+    - uses: actions/cache@v1
+      with:
+        path: tmp/.htmlproofer/cache.log
+        key: htmlproof-asmlab
     - name: Proof HTML
       run: bundle exec htmlproofer --check-html --http-status-ignore "412, 400" --timeframe 24w --assume-extension ./_site
       
