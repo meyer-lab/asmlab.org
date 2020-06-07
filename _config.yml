@@ -10,6 +10,7 @@ plugins:
   - jekyll-archives
   - jekyll-sitemap
   - jekyll-minifier
+  - jekyll/scholar
 
 jekyll-archives:
   enabled:
@@ -34,6 +35,12 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+
+scholar:
+  style: apa
+  bibliography: publications/pubs.bib
+  replace_strings: true
+  query: "@*"
 
 jekyll-minifier:
   exclude: 'feed.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob patterns
