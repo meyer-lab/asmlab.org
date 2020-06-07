@@ -9,7 +9,6 @@ sass:
 plugins:
   - jekyll-archives
   - jekyll-sitemap
-  - jekyll-minifier
   - jekyll/scholar
 
 jekyll-archives:
@@ -44,6 +43,3 @@ scholar:
   query: "@*"
   sort_by: year,month
   order: descending
-
-jekyll-minifier:
-  exclude: 'feed.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob patterns
