@@ -23,7 +23,10 @@ jobs:
         ruby-version: 2.7
 
     - name: Install dependencies
-      run: bundle install
+      run: |
+        bundle config deployment true
+        bundle config path vendor/bundle
+        bundle install --jobs 4
     - name: Jekyll build
       run: bundle exec jekyll build
   
@@ -32,7 +35,9 @@ jobs:
         path: tmp/.htmlproofer/cache.log
         key: htmlproof-asmlab
     - name: Proof HTML
-      run: bundle exec htmlproofer --check-html --url-ignore "/amgenscholars.com/" --http-status-ignore "412, 400" --timeframe 24w --assume-extension ./_site
+      run: |
+        bundle exec htmlproofer --check-html --url-ignore "/amgenscholars.com/" --http-status-ignore "412, 400" --timeframe 24w --assume-extension ./_site
+        ls -R
       
     - name: Deploy 🚀
       if: github.ref == 'refs/heads/master'
