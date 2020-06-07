@@ -39,6 +39,7 @@ exclude:
 scholar:
   style: apa
   bibliography: publications/pubs.bib
+  bibliography_template: bibtemplate
   replace_strings: true
   query: "@*"
 
