@@ -8,8 +8,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Install biber
-      run: sudo apt install biber
+    - name: Install biber/bibtex2html
+      run: sudo apt install biber bibtex2html
     - uses: actions/checkout@v2
 
     - uses: actions/cache@v1
