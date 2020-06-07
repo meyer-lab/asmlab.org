@@ -37,11 +37,13 @@ exclude:
   - README.md
 
 scholar:
-  style: apa
-  bibliography: publications/pubs.bib
+  style: _bibliography/style.csl
+  bibliography: pubs.bib
   bibliography_template: bibtemplate
-  replace_strings: true
+  bibliography_list_tag: dd
   query: "@*"
+  sort_by: year,month
+  order: descending
 
 jekyll-minifier:
   exclude: 'feed.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob patterns

@@ -108,6 +108,14 @@ dd {
   width: 100%;
 }
 
+dd.bibliography {
+  list-style: none;
+
+  li {
+    margin-bottom: 20px;
+  }
+}
+
 footer {
   font-size: .8rem;
   text-align: center;

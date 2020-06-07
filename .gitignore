@@ -1,3 +1,6 @@
 # Specify filepatterns you want git to ignore.
 **.DS_Store
 vendor
+.jekyll-cache
+.bundle
+_site

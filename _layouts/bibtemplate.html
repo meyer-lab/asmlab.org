@@ -1,33 +1,36 @@
 ---
 ---
-<div class="text-justify">{{reference}}</div>
-<button class="button0"  onclick="toggleBibtex{{entry.key}}()">Bibtex</button>
- 
-{% if entry.doi %}
-    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}"><input class="button1" type="button" value="doi" /></a>
-{% endif %}
- 
-{% if entry.preprint %}
-    <a href="{{ entry.preprint }}"><input class="button2" type="button" value="preprint" /></a>
-{% endif %}
- 
+
 {% if entry.url %}
-    <a href="{{ entry.url }}"><input class="button4" type="button" value="url" /></a>
+    <b><a href="{{entry.url}}">{{entry.title}}.</a></b>
+{% else %}
+    <b>{{entry.title}}.</b>
 {% endif %}
- 
-{% if entry.code %}
-    <a href="{{ entry.code }}"><input class="button3" type="button" value="code" /></a>
+
+{{reference}} <!-- this is just author information -->
+
+<span class="minilinks">
+{% if entry.abstract %}
+    <a onclick="toggle('{{entry.key}}_abstract')">[Abstract]</a>
 {% endif %}
-<div id="a{{entry.key}}" style="display: none;">
-<pre>{{entry.bibtex}}</pre>
-</div>
+
+{% if entry.doi %}
+    <a href="{{entry.doi}}">[DOI]</a>
+{% endif %}
+
+</span>
+
+{% if entry.abstract %}
+    <p class="abstract" id="{{entry.key}}_abstract" style="display:none"> <b>Abstract:</b> {{ entry.abstract }}</p>
+{% endif %}
+
 <script>
-function toggleBibtex{{entry.key}}(parameter) {
-    var x= document.getElementById('a{{entry.key}}');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
+function toggle(key) {
+    var element = document.getElementById(key)
+    if (element.style.display == 'block') {
+        element.style.display = 'none'
     } else {
-        x.style.display = 'none';
+        element.style.display = 'block'
     }
 }
 </script>
