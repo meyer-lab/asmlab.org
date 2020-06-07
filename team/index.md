@@ -119,8 +119,6 @@ Shashank joined the Meyer lab in late 2019. He is working on improving cancer dr
 
 <br />
 <br />
-<br />
-<br />
 
 <div class="span_3 right"><img src="/public/photos/aditya.jpg" width="150px" alt="Aditya's picture" /></div>
 
