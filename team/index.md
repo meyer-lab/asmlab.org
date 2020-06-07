@@ -110,7 +110,7 @@ Stephen joined the lab in September 2018. He is currently part of the team worki
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Shashank's picture" /></div>
+<div class="span_3 right"><img src="/public/photos/shashank.jpg" width="150px" alt="Shashank's picture" /></div>
 
 ### Shashank Venkat, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/ShashankVenkat918"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 Computational and Systems Biology, UCLA
@@ -122,7 +122,7 @@ Shashank joined the Meyer lab in late 2019. He is working on improving cancer dr
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Aditya's picture" /></div>
+<div class="span_3 right"><img src="/public/photos/aditya.jpg" width="150px" alt="Aditya's picture" /></div>
 
 ### Aditya Sivakumar, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/aditya-sivakumar"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 Bioengineering, UCLA
