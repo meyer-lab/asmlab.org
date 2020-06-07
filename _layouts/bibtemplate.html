@@ -1,0 +1,40 @@
+---
+---
+
+{% if entry.url %}
+    <b><a href="{{entry.url}}">{{entry.title}}.</a></b>
+{% else %}
+    <b>{{entry.title}}.</b>
+{% endif %}
+
+{{reference}} <!-- this is just author information -->
+
+<span class="minilinks">
+{% if entry.abstract %}
+    <a onclick="toggle('{{entry.key}}_abstract')">[Abstract]</a>
+{% endif %}
+
+{% if entry.doi %}
+    <a href="https://doi.org/{{entry.doi}}">[DOI]</a>
+{% endif %}
+
+{% if entry.preprint %}
+    <a href="{{entry.preprint}}">[Preprint]</a>
+{% endif %}
+
+</span>
+
+{% if entry.abstract %}
+    <p class="abstract" id="{{entry.key}}_abstract" style="display:none"> <b>Abstract:</b> {{ entry.abstract }}</p>
+{% endif %}
+
+<script>
+function toggle(key) {
+    var element = document.getElementById(key)
+    if (element.style.display == 'block') {
+        element.style.display = 'none'
+    } else {
+        element.style.display = 'block'
+    }
+}
+</script>
