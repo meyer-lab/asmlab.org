@@ -116,6 +116,18 @@ Shashank joined the Meyer lab in late 2019. He is working on improving cancer dr
 
 <br />
 
+<div class="span_3 right"><img src="/public/photos/mmurphy.jpg" width="150px" alt="Madeleine's picture" /></div>
+
+### Madeleine Murphy, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/murphymadeleine21"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
+Computational and Systems Biology, UCLA
+
+Madeleine joined the lab in January 2020. She is currently working in the Fcγ receptor group, working with systems serology data. Outside of lab and classes, she enjoys running, volunteering with her student organization PAC, and traveling.
+
+<br />
+<br />
+<br />
+<br />
+
 <div class="span_3 right"><img src="/public/photos/aditya.jpg" width="150px" alt="Aditya's picture" /></div>
 
 ### Aditya Sivakumar, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/aditya-sivakumar"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
