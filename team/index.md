@@ -86,18 +86,6 @@ Linnet joined the Meyer lab in October 2018. Apart from lab and classes, she enj
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Zoe's picture" /></div>
-
-### Zoe Kim, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/zoeskim"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-Bioengineering, UCLA
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 <div class="span_3 right"><img src="/public/photos/slees.jpg" width="150px" alt="Stephen's picture" /></div>
 
 ### Stephen Lees, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/stephendl102"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
@@ -153,6 +141,8 @@ Eli joined the lab in April of 2020. He is a member of the team modeling cell-sp
 <br />
 
 # Former Members
+
+#### Zoe Kim, Undergraduate Researcher
 
 #### Robert Theisen, Undergraduate Researcher (currently Ph.D. student, [Biomedical Engineering, University of Michigan](https://bme.umich.edu))
 
