@@ -95,6 +95,15 @@ Stephen joined the lab in September 2018. He is currently part of the team worki
 
 <br />
 
+<div class="span_3 right"><img src="/public/photos/jcl.jpg" width="150px" alt="JC's picture" /></div>
+
+### JC Lagarde, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/jclagarde"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
+Bioengineering, UCLA
+
+JC joined the Meyer Lab in September 2019. He is currently working with the Cell Lineage team to develop a computational method to characterize cell heterogeneity. Outside of the lab, he enjoys working in YRL to do 3D printing, volunteering with the student organization SPACE, and cooking.
+
+<br />
+
 <div class="span_3 right"><img src="/public/photos/shashank.jpg" width="150px" alt="Shashank's picture" /></div>
 
 ### Shashank Venkat, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/ShashankVenkat918"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
