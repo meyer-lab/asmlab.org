@@ -104,6 +104,15 @@ JC joined the Meyer Lab in September 2019. He is currently working with the Cell
 
 <br />
 
+<div class="span_3 right"><img src="/public/photos/sumedhak.jpg" width="150px" alt="Sumedha's picture" /></div>
+
+### Sumedha Kanthamneni, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/sumedha-k"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
+Computer Science, UCLA
+
+Sumedha joined the Meyer Lab in October 2019.  She is a member of the team modeling regulation of the Tyro3, AXL, MerTK (TAM) receptors. She is also a member of UCLA BMES and ACM AI Outreach and, in her free time, enjoys drawing, tennis, and sit-coms. 
+
+<br />
+
 <div class="span_3 right"><img src="/public/photos/shashank.jpg" width="150px" alt="Shashank's picture" /></div>
 
 ### Shashank Venkat, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/ShashankVenkat918"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
