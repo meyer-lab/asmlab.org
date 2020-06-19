@@ -168,7 +168,7 @@ Eli joined the lab in April of 2020. He is a member of the team modeling cell-sp
 
 #### Alison Tran, Undergraduate Researcher (currently Account Manager, Thermo Fisher)
 
-#### Moriah Garcia, Development Engineer (currently M.S. student, [Bioengineering, UC Berkeley](http://bioeng.berkeley.edu))
+#### Moriah Garcia, Development Engineer (currently Project Manager, [Genentech](https://www.gene.com))
 
 #### Song Yi Bae, Postdoctoral Fellow (currently [Postdoctoral Fellow, University of Minnesota](https://www.med.umn.edu/bio/department-of-pharmacology/justin-drake))
 
