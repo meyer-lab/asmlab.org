@@ -168,6 +168,18 @@ Eli joined the lab in April of 2020. He is a member of the team modeling cell-sp
 <br />
 <br />
 
+<div class="span_3 right"><img src="/public/photos/vedants.jpg" width="150px" alt="Vedant's picture" /></div>
+
+### Vedant Sathye, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/vsathye"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
+Bioengineering, UCLA
+
+Vedant joined the lab in Spring 2020 and works as part of the tensor factorization team. Outside of the lab, Vedant enjoys hiking, working out, and learning to play the guitar.
+
+<br />
+<br />
+<br />
+<br />
+
 # Former Members
 
 #### Zoe Kim, Undergraduate Researcher
