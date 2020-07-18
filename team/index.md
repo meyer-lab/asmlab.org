@@ -190,11 +190,15 @@ Vedant joined the lab in Spring 2020 and works as part of the tensor factorizati
 
 #### Alison Tran, Undergraduate Researcher (currently Account Manager, Thermo Fisher)
 
+#### Heather Carmen Mercieca, Amgen Scholar
+
 #### Moriah Garcia, Development Engineer (currently Project Manager, [Genentech](https://www.gene.com))
 
 #### Song Yi Bae, Postdoctoral Fellow (currently [Postdoctoral Fellow, University of Minnesota](https://www.med.umn.edu/bio/department-of-pharmacology/justin-drake))
 
 #### Katrina Warner, Amgen Scholar (currently Ph.D. student, [Biomedical Sciences, Harvard](https://gsas.harvard.edu/programs-of-study/all/biological-and-biomedical-sciences))
+
+#### Donya Khashayar, UCLA Transfer Student Summer Research Program
 
 #### Rui Yan, Undergraduate Researcher (currently M.S./Ph.D. student, [ICME, Stanford](https://icme.stanford.edu))
 
