@@ -65,7 +65,7 @@ Brian is a Ph.D. student who joined the lab during Summer 2019. Brian completed 
 
 <br />
 
-<div class="span_3 right"><img src="/public/photos/blank.jpg" width="150px" alt="Scott's picture" /></div>
+<div class="span_3 right"><img src="/public/photos/staylor.jpg" width="150px" alt="Scott's picture" /></div>
 ### Scott Taylor, Development Engineer&nbsp;&nbsp;&nbsp;<a href="https://github.com/scottdtaylor95"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 B.S. Cell & Molecular Biology, University of California, Los Angeles  
 
