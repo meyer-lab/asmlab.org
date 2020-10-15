@@ -39,7 +39,7 @@ We are increasingly using [Julia](https://docs.julialang.org/en/v1/) for new pro
 
 Some common Julia packages we use: 
 
-- Mechanistic modeling: [Optim.jl](https://julianlsolvers.github.io/Optim.jl/) [DifferentialEquations.jl](http://docs.juliadiffeq.org/latest/), [ForwardDiff.jl](https://www.juliadiff.org/)
+- Deterministic modeling: [Optim.jl](https://julianlsolvers.github.io/Optim.jl/), [DifferentialEquations.jl](http://docs.juliadiffeq.org/latest/), [ForwardDiff.jl](https://www.juliadiff.org/)
 - Stochastic modeling: [Turing.jl](https://turing.ml)
 - Machine learning and data-driven methods: [TensorDecompositions.jl](https://github.com/yunjhongwu/TensorDecompositions.jl)
 - Plotting: [Plots.jl](http://docs.juliaplots.org/latest/), [Gadfly.jl](http://gadflyjl.org/)
