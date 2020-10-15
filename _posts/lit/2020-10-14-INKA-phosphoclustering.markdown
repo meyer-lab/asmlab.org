@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  INKA, an integrative data analysis pipeline for phosphoproteomic inference of active kinases Robin
+title:  INKA, an integrative data analysis pipeline for phosphoproteomic inference of active kinases
 date:   2019-04-12 00:00:01
 categories: literature
 external-url: https://www.embopress.org/doi/full/10.15252/msb.20188250
