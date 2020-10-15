@@ -5,7 +5,7 @@ date: 2011-07-19 00:00:01
 categories: literature
 external-url: https://doi.org/10.1016/j.cell.2011.07.026
 tags:
-- Phenotypic Heterogeneity
+- Heterogeneity
 - Cancer Cell States
 - Markov Model
 - State Transition
