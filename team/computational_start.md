@@ -18,6 +18,7 @@ The lab has a high-performance server that can be used for programming and runni
 
 - [Work remotely via VS code](https://code.visualstudio.com/docs/remote/ssh) 
 - [Some common issues on SSH](https://code.visualstudio.com/docs/remote/troubleshooting)
+- Some other useful extensions: [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer), [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 ### Python
 
