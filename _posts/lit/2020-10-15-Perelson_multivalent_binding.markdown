@@ -8,4 +8,4 @@ tags:
 - Computational method
 - Systems Biology
 ---
-Our lab has developed a multi-ligand, multi-receptor, multi-valent binding model. It has been utilized to model the [antibody Fc-FcγR interactions](https://doi.org/10.1016/j.cels.2018.05.018) as well as to improve drug selective cell population binding. This classical work is the original wisdom that inspires our work and many others.
+Our lab has developed a multi-ligand, multi-receptor, multi-valent binding model. It has been utilized to model the [antibody Fc-FcγR interactions](https://doi.org/10.1016/j.cels.2018.05.018) as well as to improve drug selective cell population binding. This classical biophysics work is the original wisdom that inspires our model.
