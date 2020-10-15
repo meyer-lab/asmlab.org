@@ -10,4 +10,4 @@ tags:
 - Markov Model
 - State Transition
 ---
-A study that investigates the dynamics of phenotypic proportions in human breast cancer cell lines. They observe that subpopulations of purified phenotype return to their rquilibrium and they find transition probablities of this stichastic behavior by a Markov model. Their findings contribute to our understanding of cancer heterogeneity and reveal how stochasticity in single-cell behaviors promotes phenotypic equilibrium in populations of cancer cells.
+A study that investigates the dynamics of phenotypic proportions in human breast cancer cell lines. They observe that subpopulations of purified phenotype return to their equilibrium and they find transition probabilities of this stochastic behavior by a Markov model. Their findings contribute to our understanding of cancer heterogeneity and reveal how stochasticity in single-cell behaviors promotes phenotypic equilibrium in populations of cancer cells.
