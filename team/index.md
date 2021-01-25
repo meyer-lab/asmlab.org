@@ -14,15 +14,6 @@ Aaron is an Assistant Professor of [Bioengineering](https://www.bioeng.ucla.edu)
 
 <br />
 
-<div class="span_3 right"><img src="/public/photos/ted.jpg" width="150px" alt="Ted's picture" /></div>
-### Edward Richards, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="https://github.com/erichards88"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:erichard@mit.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
-Ph.D., Cancer Biology, Moffitt Cancer Center at University of South Florida   
-B.A., M.S. Biology, Saint Anselm College, Tulane University  
-
-Ted has joined the team as a postdoctoral associate. The focus of his previous research has aimed at characterizing the function of noncoding RNAs in breast cancer EMT and metastasis. This experience led to an appreciation that cancer is a systems-level disease. Currently, his research focuses on the dynamic relationship between TAM receptors at the tumor-immune interface, and developing targeted therapies in this context. Outside the lab, his research is directed at all aspects of ice hockey and music.      
-
-<br />
-
 <div class="span_3 right"><img src="/public/photos/cateraw.jpg" width="150px" alt="Catera's picture" /></div>
 ### Catera Wilder, Postdoctoral Associate&nbsp;&nbsp;&nbsp;<a href="mailto:cwilder1@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 Ph.D., Biomedical Engineering, Georgia Tech and Emory University   
@@ -181,6 +172,8 @@ Vedant joined the lab in Spring 2020 and works as part of the tensor factorizati
 <br />
 
 # Former Members
+
+#### Edward Richards, Postdoctoral Associate (currently Scientist, [Dragonfly Therapeutics](https://www.dragonflytx.com))
 
 #### Zoe Kim, Undergraduate Researcher
 
