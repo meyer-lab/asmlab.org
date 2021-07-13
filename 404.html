@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- meta information -->
+<meta charset="utf-8">
+<meta name="description" 
+      content="      {% include head.html %}              404              Oh no! You're lost. Or I'm lost. Someone's lost.            " >
+<meta name="author" content="Aaron Meyer">
+
+<!-- Enable responsiveness on mobile devices-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<!-- title -->
+<title>Meyer Lab &middot; Limbo</title>
+
+<!-- icons -->
+<link rel="shortcut icon" href="/public/images/favicon.ico" />
+
+<!-- stylesheets -->
+<link rel="stylesheet" href="/public/css/main.css">
+
+<script src="/public/js/raphael.min.js"></script>
+
+<script>
+	window.onload = function () {
+		var paper = Raphael("logo", 100, 100);
+
+		(function () {
+			paper.clear();
+			paper.circle(50, 50, 26).animate({fill: "#000", stroke: "#0067a1", "stroke-width": 35, "stroke-opacity": 0.3}, 1000);
+		})();
+	};
+</script>
+
+<!-- feed links -->
+<link rel="alternate" href="/feed.xml" type="application/rss+xml" title="">
+
+  </head>
+  <body>
+    <div class="container not-found">
+      <h1 class="bounceInDown animated">404</h1>
+      <p>
+        Oh no! You're lost. Or I'm lost. Someone's lost.
+      </p>
+    </div>
+  </body>
+</html>

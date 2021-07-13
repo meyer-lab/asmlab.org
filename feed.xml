@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meyer Lab</title>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <description>The internet of the Aaron S. Meyer lab.</description>
+    <language>en-us</language>
+    <pubDate>Tue, 13 Jul 2021 13:16:38 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Jul 2021 13:16:38 +0000</lastBuildDate>
+
+    
+      <item>
+        <title>Welcome Jackson</title>
+        <link>/news/Jackson-welcome.html</link>
+        <pubDate>Sun, 11 Oct 2020 12:00:00 +0000</pubDate>
+        <author>Aaron Meyer</author>
+        <description>&lt;p&gt;Welcome to Jackson Chin! He previously studied bioengineering at University of Washington, and is joining the lab for his Ph.D.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Vanderbilt Seminar</title>
+        <link>/news/Vanderbilt-talk.html</link>
+        <pubDate>Wed, 07 Oct 2020 00:00:01 +0000</pubDate>
+        <author>Aaron Meyer</author>
+        <description>&lt;p&gt;Dr. Meyer will talk about the lab’s efforts for modeling tumor cell heterogeneity and AXL-driven drug resistance at &lt;a href=&quot;https://csbconsortium.org/research-centers/the-csbc-u54-research-center-vanderbilt/&quot;&gt;Vanderbilt’s CSBC program&lt;/a&gt;.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>New funding</title>
+        <link>/news/tHMM-funding.html</link>
+        <pubDate>Mon, 17 Aug 2020 12:00:00 +0000</pubDate>
+        <author>Aaron Meyer</author>
+        <description>&lt;p&gt;The lab has been awarded a grant from the &lt;a href=&quot;https://www.jktgfoundation.org&quot;&gt;Jayne Koskinas Ted Giovanis Foundation for Health and Policy&lt;/a&gt;. This will continue support for our work on using &lt;a href=&quot;https://github.com/meyer-lab/tHMM&quot;&gt;lineage tree-based hidden Markov models&lt;/a&gt; to quantify the heterogeneity of drug response in tumor cell populations. The project is in collaboration with the &lt;a href=&quot;https://www.ohsu.edu/people/laura-m-heiser-phd&quot;&gt;Heiser lab at OHSU&lt;/a&gt;.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>New funding</title>
+        <link>/news/autoencoder-pilot.html</link>
+        <pubDate>Sun, 16 Aug 2020 12:00:00 +0000</pubDate>
+        <author>Aaron Meyer</author>
+        <description>&lt;p&gt;The lab has been awarded a pilot grant from the NCI to combine mechanistic models and AI in the form of autoencoders to model patient-specific phosphoproteomic changes. This is in collaboration with &lt;a href=&quot;https://www.ohsu.edu/people/emek-demir&quot;&gt;Emek Demir at OHSU&lt;/a&gt;, &lt;a href=&quot;https://saragosline.wordpress.com&quot;&gt;Sara Gosline at PNNL&lt;/a&gt;, and &lt;a href=&quot;https://scholar.harvard.edu/fabianfroehlich/home&quot;&gt;Fabian Fröhlich at Harvard&lt;/a&gt;.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>New funding</title>
+        <link>/news/NIAID-U01-funding.html</link>
+        <pubDate>Wed, 18 Dec 2019 12:00:00 +0000</pubDate>
+        <author>Aaron Meyer</author>
+        <description>&lt;p&gt;The lab has been awarded a grant from the NIH National Institute of Allergy and Infectious Diseases. This project builds on our &lt;a href=&quot;https://doi.org/10.1016/j.cels.2018.05.018&quot;&gt;model of IgGs binding to effector cells&lt;/a&gt;, to predict the effect of antibody combinations. The work is in collaboration with the &lt;a href=&quot;https://www.genetik.nat.fau.de/ag-nimmerjahn-2/&quot;&gt;Nimmerjahn&lt;/a&gt; lab at FAU Erlangen, and has has potential application to many diseases and therapies. As part of this funding, we will also participate in a consortium of labs working to improve antibody engineering.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>A TAZ-AXL-ABL2 Feed-Forward Signaling Axis Promotes Lung Adenocarcinoma Brain Metastasis</title>
+        <link>/literature/AXL-ABL2-TAZ-LUAD.html</link>
+        <pubDate>Tue, 10 Dec 2019 00:00:01 +0000</pubDate>
+        <author>Aaron Meyer</author>
+        <description>&lt;p&gt;Really relevant work on how the axis AXL-ABL2-TAZ engage in an autocrine positive feedback loop to promote brain metastasis in lung adenocarcinoma. These results suggest that the combination treatment of the AXL inhibitor R428 and the ABL allosteric inhibitor asciminib could be a novel route to block disease progression in AXL-driven lung cancers.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Brian Welcome</title>
+        <link>/news/welcome-brian.html</link>
+        <pubDate>Sun, 01 Sep 2019 00:00:01 +0000</pubDate>
+        <author>Aaron Meyer</author>
+        <description>&lt;p&gt;Welcome to Brian Orcutt-Jahns, who is joining the lab for his Ph.D.! Brian is continuing at UCLA where he studied bioengineering.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Tensor Decompositions and Applications</title>
+        <link>/literature/tensor-decomposition.html</link>
+        <pubDate>Mon, 05 Aug 2019 00:00:01 +0000</pubDate>
+        <author>Aaron Meyer</author>
+        <description>&lt;p&gt;Tensor decomposition techniques have been used extensively in many projects in our lab, such as mapping model-predicted common gamma chain cytokine responses, reasoning antigen-specific systems serology data, and improving cancer cell line drug response predictions. To understand tensor decomposition methods, this paper is a good place to start.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Faculty Career Development Award</title>
+        <link>/news/FCDA.html</link>
+        <pubDate>Fri, 28 Jun 2019 00:00:01 +0000</pubDate>
+        <author>Aaron Meyer</author>
+        <description>&lt;p&gt;Dr. Meyer has received a &lt;a href=&quot;https://equity.ucla.edu/programs-resources/funding-opportunities/#fcda&quot;&gt;UCLA Faculty Career Development Award&lt;/a&gt;!&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Welcome Cyrillus</title>
+        <link>/news/Cyrillus-welcome.html</link>
+        <pubDate>Sun, 16 Jun 2019 00:00:01 +0000</pubDate>
+        <author>Aaron Meyer</author>
+        <description>&lt;p&gt;Welcome to Cyrillus Tan, who is joining the lab for his Ph.D.! Cyrillus is a student in the bioinformatics program, with a background in computer science.&lt;/p&gt;
+</description>
+      </item>
+    
+
+  </channel>
+</rss>

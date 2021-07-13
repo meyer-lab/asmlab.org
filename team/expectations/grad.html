@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- meta information -->
+<meta charset="utf-8">
+<meta name="description" 
+      content="This complements the [common](common.html) and other guidelines. Suggestions and input are welcome.## What I expect f..." >
+<meta name="author" content="Aaron Meyer">
+
+<!-- Enable responsiveness on mobile devices-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<!-- title -->
+<title>Meyer Lab &middot; Graduate Student Expectations</title>
+
+<!-- icons -->
+<link rel="shortcut icon" href="/public/images/favicon.ico" />
+
+<!-- stylesheets -->
+<link rel="stylesheet" href="/public/css/main.css">
+
+<script src="/public/js/raphael.min.js"></script>
+
+<script>
+	window.onload = function () {
+		var paper = Raphael("logo", 100, 100);
+
+		(function () {
+			paper.clear();
+			paper.circle(50, 50, 26).animate({fill: "#000", stroke: "#0067a1", "stroke-width": 35, "stroke-opacity": 0.3}, 1000);
+		})();
+	};
+</script>
+
+<!-- feed links -->
+<link rel="alternate" href="/feed.xml" type="application/rss+xml" title="">
+
+  </head>
+  <body>
+    <svg style="display: none">
+  <defs>
+    <symbol id="fa-envelope" viewBox="0 0 512 512">
+      <title>envelope</title>
+      <path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path>
+    </symbol>
+    <symbol id="fa-external" viewBox="0 0 448 512">
+      <title>external link</title>
+      <path d="M448 80v352c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h352c26.51 0 48 21.49 48 48zm-88 16H248.029c-21.313 0-32.08 25.861-16.971 40.971l31.984 31.987L67.515 364.485c-4.686 4.686-4.686 12.284 0 16.971l31.029 31.029c4.687 4.686 12.285 4.686 16.971 0l195.526-195.526 31.988 31.991C358.058 263.977 384 253.425 384 231.979V120c0-13.255-10.745-24-24-24z"></path>
+    </symbol>
+    <symbol id="fa-twitter" viewBox="0 0 512 512">
+      <path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path>
+    </symbol>
+    <symbol id="fa-github" viewBox="0 0 448 512">
+      <path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"></path>
+    </symbol>
+    <symbol id="fa-home" viewBox="0 0 576 512">
+	    <path d="M488 312.7V456c0 13.3-10.7 24-24 24H348c-6.6 0-12-5.4-12-12V356c0-6.6-5.4-12-12-12h-72c-6.6 0-12 5.4-12 12v112c0 6.6-5.4 12-12 12H112c-13.3 0-24-10.7-24-24V312.7c0-3.6 1.6-7 4.4-9.3l188-154.8c4.4-3.6 10.8-3.6 15.3 0l188 154.8c2.7 2.3 4.3 5.7 4.3 9.3zm83.6-60.9L488 182.9V44.4c0-6.6-5.4-12-12-12h-56c-6.6 0-12 5.4-12 12V117l-89.5-73.7c-17.7-14.6-43.3-14.6-61 0L4.4 251.8c-5.1 4.2-5.8 11.8-1.6 16.9l25.5 31c4.2 5.1 11.8 5.8 16.9 1.6l235.2-193.7c4.4-3.6 10.8-3.6 15.3 0l235.2 193.7c5.1 4.2 12.7 3.5 16.9-1.6l25.5-31c4.2-5.2 3.4-12.7-1.7-16.9z"></path>
+    </symbol>
+  </defs>
+</svg>
+
+    
+    <div class="container azul">
+      <header class="top row gutters">
+        <div class="col span_2 center">
+        <div id="logo"></div>
+        </div>
+        <nav class="col span_10 top-navbar">
+  
+  <a href="/" title="/"
+     >/</a>
+  
+  <a href="/team" title="Team"
+     >Team</a>
+  
+  <a href="/research" title="Research"
+     >Research</a>
+  
+  <a href="/publications" title="Publications"
+     >Publications</a>
+  
+  <a href="/reading" title="Lit Review"
+     >Lit Review</a>
+  
+  <a href="/protocols.html" title="Protocols/Links"
+     >Protocols/Links</a>
+  
+</nav>
+
+      </header>
+
+      <article class="single row gutters">
+  <h2>Graduate Student Expectations</h2>
+
+  <p>This complements the <a href="common.html">common</a> and other guidelines. Suggestions and input are welcome.</p>
+
+<h2 id="what-i-expect-from-you">What I expect from you</h2>
+
+<h3 id="you-will-take-ownership-of-your-educational-experience">You will take ownership of your educational experience</h3>
+
+<ul>
+  <li>You will need to determine the requirements for your individual graduate program and are responsible for insuring that you are in compliance. As you progress, I will work with you to select courses, qualifying exams, and committee members.</li>
+  <li>You will keep me updated on your research progress and challenges.</li>
+  <li>To earn your degree you must transition towards independence. We will work together to track this process, but ultimately when you earn a degree will be up to the work you produce, not simply the time you put in.</li>
+  <li>Seek out professional development opportunities—being a successful scientist involves more than being good at the bench. You must communicate well (presentations, papers, grants), develop personal skills (lab management, mentoring), maintain high ethical standards, and for a faculty career, teach. At the same time, these opportunities must be balanced with the most important element of your career development—research progress towards your thesis.</li>
+</ul>
+
+<h3 id="you-will-develop-your-personal-research-skills">You will develop your personal research skills</h3>
+
+<ul>
+  <li>Keep up to date with the scientific literature: Read the papers I suggest. Spend some time each week updating your literature and just browsing. Subscribe to relevant eTOCs.</li>
+  <li>Learn how to plan your experiments so that they help you progress on the overall goal of your project. Make sure your experiments address the question of interest correctly – this includes learning how to do the appropriate controls, techniques, etc. You will also need to learn how to effectively plan and multi-task to prevent down times. Develop plans with short/medium/long-term goals.</li>
+  <li>Develop your writing and presentation skills.  As you start to make progress, begin outlining a paper’s figures and drafting the text. Be prepared to go through rounds of revisions before submitting an abstract or paper. Although the availability of travel funds will vary, I encourage you to submit your work for presentation at one conference per year. Attend relevant seminars; I suggest 1-2/month to learn both science and how to give a good talk.</li>
+  <li>Consider applying for fellowships, traineeships, and travel grants. Not only will an award help your career and the overall lab funding, the experience of writing the proposal will help you think about what you are doing more deeply.</li>
+  <li>Learn how to accept and utilize constructive criticism. Feedback from me, colleagues, committee members, and course instructors is intended to improve your work.</li>
+</ul>
+
+<h3 id="you-will-contribute-to-the-lab-and-be-a-good-lab-citizen">You will contribute to the lab and be a good lab citizen</h3>
+
+<ul>
+  <li>Senior graduate students are responsible for helping to train new graduate students in the ways of the world (e.g. lab procedures, how individual/group meetings work, literature searches). Science is a community; many people will help you along the way and you should return the favor. Share your insider knowledge of techniques with others.</li>
+  <li>You will have designated lab jobs such as ordering, general maintenance, taking care of one of the instruments, etc.  Failure to do your lab jobs not only affects you, it can impede the entire lab and will not be tolerated. Everyone is expected to help with dishes, making sure that supplies do not run out, reporting problems with equipment to the person in charge, aliquotting, and general lab cleanliness.</li>
+</ul>
+
+<h2 id="what-is-required-for-a-ms-degree">What is Required for a M.S. Degree</h2>
+
+<p>My definition for when the M.S. degree is complete represents a combination of scientific productivity and intellectual development. Scientific productivity reflects papers publishing and meeting presentations. Intellectual development derives from your ability to function as a researcher and to organize scientific data and assemble a story. For a master’s student, I would expect one to two published papers to be submitted before or at graduation. Generally, a M.S. can be completed in two years.</p>
+
+<p>1st year – Goal: Become familiar with the laboratory and the techniques used. You should be able to perform the techniques and understand why each component is done in the way in which it is performed. During this time, you will learn a great deal from the senior people within the lab. Be courteous: make an appointment with them, and do as much background reading as possible to be able to have a discussion. During this year, you need to develop the skills to multi-task, as classes should not take up all of your time.</p>
+
+<p>2nd year – Goal: Collecting focused data that will allow you to submit papers for publication. During this year, you will finish your required courses, but experiments will be your most important responsibility, as you begin to acquire greater depth in the field through analysis of data, conversations with other in the lab, as well as reading the literature.  As you leave, you will ensure your project can be continued by a future student through careful documentation and/or hands-on training. We will also begin working on strategies to transition to your next career stage.</p>
+
+<h2 id="what-is-required-for-a-phd-degree">What is Required for a Ph.D. Degree</h2>
+
+<p>My definition for when the PhD is complete represents a combination of scientific productivity and intellectual development (much like for M.S. degree, but these are much more in depth for a doctoral candidate). Scientific productivity reflects papers publishing and meeting presentations. Intellectual development derives from your ability to function as an independent researcher, to organize complex ideas, and assemble a multi-part story. For a PhD student, I would expect two to four published papers to be submitted before or at graduation.  The amount of time this takes can vary, but outlined below is a general plan.</p>
+
+<p>1st year – Goal: Become familiar with the laboratory and the techniques used. You should be able to perform the techniques and understand why each component is done in the way in which it is performed. During this time, you will learn a great deal from the senior people within the lab. Be courteous: make an appointment with them, and do as much background reading as possible to be able to have a discussion. In terms of the project, I generally provide a starting point, and it is up to the graduate student to identify which direction you would like your project to go, within reason (I help to identify what is reasonable). During first two years, you need to develop the skills to multi-task, as classes should not take up all of your time.</p>
+
+<p>2nd year – Goal: Preparing for qualifying exams and research preliminary. Experiments continue as you finish classes, however you begin to acquire greater depth in the field through conversations with other in the lab, as well as reading the literature. You are able to design your own experiments, and are able to integrate the necessary techniques available in the lab to your project. You should be able to critically evaluate the techniques and their potential/limitations. Group meetings and individual meetings are opportunities to present and discuss ideas, gain feedback from others, and to work through the details so that the best experiments are performed as you refine your project.</p>
+
+<p>3rd year – Goal:  Complete research preliminary. You are the major driver of your project and you now have the time to focus on the research. You should be completely comfortable performing your research (designing experiments) and know all of the necessary background. Because of your understanding of the lab, you should be able to go beyond the techniques available in the lab and incorporate new skills into your research. In regards to your project, I expect that you become more of an expert about your project than I am. You are done with classes and should really pick up the pace of your research.  You should be preparing to assume a leadership position in the lab and help the less experienced people joining the lab. This year is often very challenging as you navigate these transitions.</p>
+
+<p>4th year and on – Goal: Write manuscripts and thesis. While the exact timing of when manuscripts are written will vary, you will hopefully have one to two projects nearing publication stage. We will then discuss what you should focus your remaining time on to complete your thesis. At this time, you will take a greater responsibility in developing future projects, while at the same time mentoring newer students. Mentoring newer students is expected of you, though you can require that they make appointments with you. We will also begin working on strategies to transition to your next career stage.</p>
+
+<p>Adapted from documents by <a href="http://www.kreegerlab.org">Pam Kreeger</a>.</p>
+
+</article>
+
+
+      <footer>
+        <div class="col span_8 center">
+          <a href="https://www.ucla.edu"><img src="/public/images/uclalogo.svg" alt="UCLA logo"></a>
+        </div>
+        <div class="col span_4 center">
+          <span style="font-size: 3em;"><a href="https://github.com/meyer-lab"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:me@ameyer.me"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a></span>
+        </div>
+      </footer>
+    </div>
+
+  </body>
+</html>
