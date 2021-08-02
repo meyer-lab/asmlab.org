@@ -77,15 +77,6 @@ Linnet joined the Meyer lab in October 2018. Apart from lab and classes, she enj
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/slees.jpg" width="150px" alt="Stephen's picture" /></div>
-
-### Stephen Lees, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/stephendl102"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-Bioengineering, UCLA
-
-Stephen joined the lab in September 2018. He is currently part of the team working on the coding side of an immune complex binding model. His future research interests include applying the principles of bioengineering to the field of immunology. Apart from lab and classes, he enjoys volleyball, bouldering, and playing board games with friends.
-
-<br />
-
 <div class="span_3 right"><img src="/public/photos/jcl.jpg" width="150px" alt="JC's picture" /></div>
 
 ### JC Lagarde, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/jclagarde"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
@@ -172,6 +163,8 @@ Vedant joined the lab in Spring 2020 and works as part of the tensor factorizati
 <br />
 
 # Former Members
+
+#### Stephen Lees, Undergraduate Researcher (currently Ph.D. student, [Biomedical Engineering, University of Virginia](https://engineering.virginia.edu/departments/biomedical-engineering))
 
 #### Edward Richards, Postdoctoral Associate (currently Scientist, [Dragonfly Therapeutics](https://www.dragonflytx.com))
 
