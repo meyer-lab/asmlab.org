@@ -138,18 +138,6 @@ Aditya joined the Meyer Lab in January 2020. Besides working on projects for the
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/elis.jpg" width="150px" alt="Eli's picture" /></div>
-
-### Eli Snyder, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/elisnyder17"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-Bioengineering, UCLA
-
-Eli joined the lab in April of 2020. He is a member of the team modeling cell-specific interactions to study the regulation of the common gamma chain cytokines. Outside of lab and classes, Eli enjoys surfing, running, and traveling.
-
-<br />
-<br />
-<br />
-<br />
-
 <div class="span_3 right"><img src="/public/photos/vedants.jpg" width="150px" alt="Vedant's picture" /></div>
 
 ### Vedant Sathye, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/vsathye"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
@@ -163,6 +151,8 @@ Vedant joined the lab in Spring 2020 and works as part of the tensor factorizati
 <br />
 
 # Former Members
+
+#### Eli Snyder, Undergraduate Researcher (currently Associate Consultant, Putnam Associates)
 
 #### Stephen Lees, Undergraduate Researcher (currently Ph.D. student, [Biomedical Engineering, University of Virginia](https://engineering.virginia.edu/departments/biomedical-engineering))
 
