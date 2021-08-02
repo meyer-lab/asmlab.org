@@ -67,16 +67,6 @@ B.S. Cell & Molecular Biology, University of California, Los Angeles
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/lchang.jpg" width="150px" alt="Linnet's picture" /></div>
-
-### Linnet Chang, Undergraduate Researcher  
-Bioengineering, UCLA
-
-Linnet joined the Meyer lab in October 2018. Apart from lab and classes, she enjoys baking desserts, jamming to music, and being involved in [UCLA BMES](http://bmes.seas.ucla.edu).
-
-<br />
-<br />
-
 <div class="span_3 right"><img src="/public/photos/jcl.jpg" width="150px" alt="JC's picture" /></div>
 
 ### JC Lagarde, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/jclagarde"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
@@ -151,6 +141,8 @@ Vedant joined the lab in Spring 2020 and works as part of the tensor factorizati
 <br />
 
 # Former Members
+
+#### Linnet Chang, Undergraduate Researcher (currently Analyst, Accenture)
 
 #### Eli Snyder, Undergraduate Researcher (currently Associate Consultant, Putnam Associates)
 
