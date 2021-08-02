@@ -85,16 +85,6 @@ Sumedha joined the Meyer Lab in October 2019.  She is a member of the team model
 
 <br />
 
-<div class="span_3 right"><img src="/public/photos/atsao.jpg" width="150px" alt="Amanda's picture" /></div>
-
-### Amanda Tsao, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/ajtsao1"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-Computational and Systems Biology, UCLA
-
-Amanda joined the lab in Fall 2019 as a member of the TAM modeling team. In her free time, Amanda enjoys reading, playing volleyball, and volunteering in her community.
-
-<br />
-<br />
-
 <div class="span_3 right"><img src="/public/photos/shashank.jpg" width="150px" alt="Shashank's picture" /></div>
 
 ### Shashank Venkat, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/ShashankVenkat918"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
@@ -141,6 +131,8 @@ Vedant joined the lab in Spring 2020 and works as part of the tensor factorizati
 <br />
 
 # Former Members
+
+#### Amanda Tsao, Undergraduate Researcher (currently M.D. student, University of Southern California)
 
 #### Linnet Chang, Undergraduate Researcher (currently Analyst, Accenture)
 
