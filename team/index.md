@@ -56,6 +56,14 @@ Brian is a Ph.D. student who joined the lab during Summer 2019. Brian completed 
 
 <br />
 
+<div class="span_3 right"><img src="/public/photos/brianoj.jpg" width="150px" alt="Jackson's picture" /></div>
+### Jackson Chin, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/JacksonLChin"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
+B.S. Bioengineering, University of California, Los Angeles  
+
+Jackson is a Ph.D. student who joined the lab during Fall 2020. He joins the lab from Pacific Northwest National Laboratory where he researched using metabolomics to predict Type 1 Diabetes onset. Jackson’s research interests include developing interpretable deep learning methods for understanding the mechanisms of cancer. Outside of lab, Jackson is an avid soccer fan, board game collector, burrito connoisseur, and foodie.
+
+<br />
+
 <div class="span_3 right"><img src="/public/photos/staylor.jpg" width="150px" alt="Scott's picture" /></div>
 ### Scott Taylor, Development Engineer&nbsp;&nbsp;&nbsp;<a href="https://github.com/scottdtaylor95"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 B.S. Cell & Molecular Biology, University of California, Los Angeles  
