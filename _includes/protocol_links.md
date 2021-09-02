@@ -1,6 +1,6 @@
 ## Links
 
-- [Lab meeting schedule](https://syno.seas.ucla.edu/drive/oo/r/450933481663373314)
+- [Lab meeting schedule](https://app.box.com/s/fhtn0311b1qmw0l73qz3ccbaacq22cqj)
 - [Common expectations](/team/expectations/common.html)
     - [Getting started](/team/expectations/setup.html)
     - [Undergraduate students](/team/expectations/ugrad.html)
