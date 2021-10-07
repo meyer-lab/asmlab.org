@@ -93,15 +93,6 @@ Sumedha joined the Meyer Lab in October 2019.  She is a member of the team model
 
 <br />
 
-<div class="span_3 right"><img src="/public/photos/shashank.jpg" width="150px" alt="Shashank's picture" /></div>
-
-### Shashank Venkat, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/ShashankVenkat918"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-Computational and Systems Biology, UCLA
-
-Shashank joined the Meyer lab in late 2019. He is working on improving cancer drug response predictions through the tensor factorization of cell lines and different regression models. Outside of the lab, he is a part of a neurotech organization called CruX that builds various Brain-Computer Interface projects for neurotech competitions. He also enjoys working out, listening to music, and eating pizza.
-
-<br />
-
 <div class="span_3 right"><img src="/public/photos/mmurphy.jpg" width="150px" alt="Madeleine's picture" /></div>
 
 ### Madeleine Murphy, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/murphymadeleine21"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
@@ -120,18 +111,6 @@ Madeleine joined the lab in January 2020. She is currently working in the Fcγ r
 Bioengineering, UCLA
 
 Aditya joined the Meyer Lab in January 2020. Besides working on projects for the lab, he enjoys playing volleyball with friends, working out, and learning about trading.
-
-<br />
-<br />
-<br />
-<br />
-
-<div class="span_3 right"><img src="/public/photos/vedants.jpg" width="150px" alt="Vedant's picture" /></div>
-
-### Vedant Sathye, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/vsathye"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-Bioengineering, UCLA
-
-Vedant joined the lab in Spring 2020 and works as part of the tensor factorization team. Outside of the lab, Vedant enjoys hiking, working out, and learning to play the guitar.
 
 <br />
 <br />
