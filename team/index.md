@@ -67,7 +67,7 @@ Jackson is a Ph.D. student who joined the lab during Fall 2020. He joins the lab
 <div class="span_3 right"><img src="/public/photos/mmurphy.jpg" width="150px" alt="Madeleine's picture" /></div>
 
 ### Madeleine Murphy, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/murphymadeleine21"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-Computational and Systems Biology, UCLA
+Bioinformatics, UCLA
 
 Madeleine joined the lab in January 2020 and continued as an M.S. student in fall 2021. She is currently working in the Fcγ receptor group, working with systems serology data. Outside of lab and classes, she enjoys running, volunteering with her student organization PAC, and traveling.
 
