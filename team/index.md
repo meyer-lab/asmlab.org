@@ -2,7 +2,7 @@
 layout: page
 title: Team
 ---
-<img src="/public/photos/group2020.jpg" width="100%" alt="The group" class="center" />
+<img src="/public/photos/group2021.jpg" width="100%" alt="The group" class="center" />
 
 <div class="span_3 right"><img src="/public/photos/aaron.jpg" width="150px" alt="Aaron's picture" /></div>
 
