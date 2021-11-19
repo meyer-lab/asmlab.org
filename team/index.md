@@ -64,6 +64,14 @@ Jackson is a Ph.D. student who joined the lab during Fall 2020. He joins the lab
 
 <br />
 
+<div class="span_3 right"><img src="/public/photos/andrewr.webp" width="150px" alt="Andrew's picture" /></div>
+### Andrew Ramirez, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/andrewram4287"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
+B.S. Chemical Engineering, University of California, Davis
+
+Andrew is a Bioengineering Ph.D. student who joined in Fall 2021. In his free time, Andrew is an avid Netflix/Hulu watcher for shows like Modern Family, Dragon Ball Z, and Parks and Recreation, loves boba, and enjoys walking his pitbull Misty.
+
+<br />
+
 <div class="span_3 right"><img src="/public/photos/mmurphy.jpg" width="150px" alt="Madeleine's picture" /></div>
 
 ### Madeleine Murphy, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/murphymadeleine21"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
