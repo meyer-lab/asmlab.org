@@ -81,7 +81,6 @@ Madeleine joined the lab in January 2020 and continued as an M.S. student in fal
 
 <br />
 <br />
-<br />
 
 <div class="span_3 right"><img src="/public/photos/staylor.jpg" width="150px" alt="Scott's picture" /></div>
 ### Scott Taylor, Development Engineer&nbsp;&nbsp;&nbsp;<a href="https://github.com/scottdtaylor95"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
@@ -109,15 +108,6 @@ JC joined the Meyer Lab in September 2019. He is currently working with the Cell
 Computer Science, UCLA
 
 Sumedha joined the Meyer Lab in October 2019.  She is a member of the team modeling regulation of the Tyro3, AXL, MerTK (TAM) receptors. She is also a member of UCLA BMES and ACM AI Outreach and, in her free time, enjoys drawing, tennis, and sit-coms. 
-
-<br />
-
-<div class="span_3 right"><img src="/public/photos/aditya.jpg" width="150px" alt="Aditya's picture" /></div>
-
-### Aditya Sivakumar, Undergraduate Researcher&nbsp;&nbsp;&nbsp;<a href="https://github.com/aditya-sivakumar"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-Bioengineering, UCLA
-
-Aditya joined the Meyer Lab in January 2020. Besides working on projects for the lab, he enjoys playing volleyball with friends, working out, and learning about trading.
 
 <br />
 <br />
