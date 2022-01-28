@@ -82,7 +82,6 @@ Madeleine joined the lab in January 2020 and continued as an M.S. student in fal
 <br />
 <br />
 <br />
-<br />
 
 <div class="span_3 right"><img src="/public/photos/staylor.jpg" width="150px" alt="Scott's picture" /></div>
 ### Scott Taylor, Development Engineer&nbsp;&nbsp;&nbsp;<a href="https://github.com/scottdtaylor95"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
