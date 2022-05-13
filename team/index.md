@@ -72,6 +72,15 @@ Andrew is a Bioengineering Ph.D. student who joined in Fall 2021. In his free ti
 
 <br />
 
+<div class="span_3 right"><img src="/public/photos/mloui.webp" width="150px" alt="Michelle's picture" /></div>
+### Michelle Loui, Graduate Student      
+M.S., Biomedical Engineering, Arizona State University  
+B.S.E., Biomedical Engineering, Arizona State University
+
+Michelle joined the lab in Spring 2022 as a bioengineering Ph.D. student. During her earlier studies, she worked on developing an injectable polymer for treating cerebral aneurysms and researched the extreme properties of amyloid materials through individual fibril analysis. Her research interests include therapeutic resistance in cancer. Outside of the lab, Michelle enjoys playing Animal Crossing and Mario Kart, consuming sweets, and volunteering at the West LA animal shelter.
+
+<br />
+
 <div class="span_3 right"><img src="/public/photos/mmurphy.jpg" width="150px" alt="Madeleine's picture" /></div>
 
 ### Madeleine Murphy, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/murphymadeleine21"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
