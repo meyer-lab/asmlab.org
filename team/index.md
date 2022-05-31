@@ -72,16 +72,6 @@ Michelle joined the lab in Spring 2022 as a bioengineering Ph.D. student. During
 
 <br />
 
-<div class="span_3 right"><img src="/public/photos/mmurphy.jpg" width="150px" alt="Madeleine's picture" /></div>
-
-### Madeleine Murphy, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/murphymadeleine21"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-Bioinformatics, UCLA
-
-Madeleine joined the lab in January 2020 and continued as an M.S. student in fall 2021. She is currently working in the Fcγ receptor group, working with systems serology data. Outside of lab and classes, she enjoys running, volunteering with her student organization PAC, and traveling.
-
-<br />
-<br />
-
 <div class="span_3 right"><img src="/public/photos/staylor.jpg" width="150px" alt="Scott's picture" /></div>
 ### Scott Taylor, Development Engineer&nbsp;&nbsp;&nbsp;<a href="https://github.com/scottdtaylor95"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 B.S. Cell & Molecular Biology, University of California, Los Angeles  
@@ -115,6 +105,10 @@ Sumedha joined the Meyer Lab in October 2019.  She is a member of the team model
 <br />
 
 # Former Members
+
+#### Madeleine Murphy, M.S. Student (currently Associate Computational Biologist, Broad Institute of MIT & Harvard)
+
+#### Catera Wilder, Postdoctoral Fellow (currently Assistant Professor, University of California, San Fransisco)
 
 #### Amanda Tsao, Undergraduate Researcher (currently M.D. student, University of Southern California)
 
