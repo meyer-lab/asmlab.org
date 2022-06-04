@@ -97,6 +97,8 @@ JC joined the Meyer Lab in September 2019. He is currently working with the Cell
 
 # Former Members
 
+#### Eva Hunter, Undergraduate Researcher (currently Medical Assistant, Glaucoma Center of San Francisco)
+
 #### Sumedha Kanthamneni, Undergraduate Researcher
 
 #### Madeleine Murphy, M.S. Student (currently Associate Computational Biologist, Broad Institute of MIT & Harvard)
