@@ -29,4 +29,7 @@ Relevant publications: [Manole et al](https://asmlab.org/publications/#Manole521
 
 ### Multi-Modal Data Analysis
 
+> <img src="/public/images/tensor-summary.svg" width="600px" alt="Tensor summary" />  
+> Systems serology measurements can advance our understanding of humoral immunity. A data reduction method, “coupled matrix-tensor factorization”, effectively analyzes such data by recognizing conserved patterns and separating antigen from Fc property effects.
+
 Relevant publications: [Farhat et al](https://asmlab.org/publications/#Farhat2019), [Tan et al](https://asmlab.org/publications/#SysSerol), [Orcutt-Jahns et al](https://asmlab.org/publications/#Jahns2021)
