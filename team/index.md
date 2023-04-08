@@ -14,15 +14,6 @@ Aaron is an Assistant Professor of [Bioengineering](https://www.bioeng.ucla.edu)
 
 <br />
 
-<div class="span_3 right"><img src="/public/photos/marcc.jpg" width="150px" alt="Marc's picture" /></div>
-### Marc Creixell, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/mcreixell"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:creixell@g.ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
-M.S., Biomedical Sciences, Imperial College London   
-B.S., Biotechnology, University of Barcelona  
-
-Marc is a Ph.D. student in Bioengineering. While a visiting master’s student in the [Yaffe lab](https://yaffelab.mit.edu) at MIT, Marc studied novel functional sites in protein kinases and how cancer mutations perturb these sites in many of them to contribute to malignancy and drug resistance. His interest lies in kinase biology, cellular signal integration, and cancer precision medicine. Outside the lab, Marc enjoys running, nature, and traveling.
-
-<br />
-
 <div class="span_3 right"><img src="/public/photos/farnazm.jpg" width="150px" alt="Farnaz's picture" /></div>
 ### Farnaz Mohammadi, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/Farnazmdi"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 B.Sc. Bioelectrical Engineering, University of Tehran  
@@ -71,12 +62,6 @@ B.S.E., Biomedical Engineering, Arizona State University
 Michelle joined the lab in Spring 2022 as a bioengineering Ph.D. student. During her earlier studies, she worked on developing an injectable polymer for treating cerebral aneurysms and researched the extreme properties of amyloid materials through individual fibril analysis. Her research interests include therapeutic resistance in cancer. Outside of the lab, Michelle enjoys playing Animal Crossing and Mario Kart, consuming sweets, and volunteering at the West LA animal shelter.
 
 <br />
-
-<div class="span_3 right"><img src="/public/photos/staylor.jpg" width="150px" alt="Scott's picture" /></div>
-### Scott Taylor, Development Engineer&nbsp;&nbsp;&nbsp;<a href="https://github.com/scottdtaylor95"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-B.S. Cell & Molecular Biology, University of California, Los Angeles  
-
-<br />
 <br />
 <br />
 <br />
@@ -84,6 +69,10 @@ B.S. Cell & Molecular Biology, University of California, Los Angeles
 <br />
 
 # Former Members
+
+#### Scott Taylor, Development Engineer (currently Research Associate, Xencor)
+
+#### Marc Creixell, Ph.D. Student (currently Scientist, Calico Life Sciences)
 
 #### JC Lagarde, Undergraduate Researcher (currently Process Engineer, Illumina)
 
@@ -99,7 +88,7 @@ B.S. Cell & Molecular Biology, University of California, Los Angeles
 
 #### Linnet Chang, Undergraduate Researcher (currently Analyst, Accenture)
 
-#### Eli Snyder, Undergraduate Researcher (currently Associate Consultant, Putnam Associates)
+#### Eli Snyder, Undergraduate Researcher (currently M.D. student, University of Hawaii)
 
 #### Stephen Lees, Undergraduate Researcher (currently Ph.D. student, [Biomedical Engineering, University of Virginia](https://engineering.virginia.edu/departments/biomedical-engineering))
 
