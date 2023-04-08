@@ -64,9 +64,6 @@ Michelle joined the lab in Spring 2022 as a bioengineering Ph.D. student. During
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 
 # Former Members
 
