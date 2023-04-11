@@ -62,6 +62,21 @@ B.S.E., Biomedical Engineering, Arizona State University
 Michelle joined the lab in Spring 2022 as a bioengineering Ph.D. student. During her earlier studies, she worked on developing an injectable polymer for treating cerebral aneurysms and researched the extreme properties of amyloid materials through individual fibril analysis. Her research interests include therapeutic resistance in cancer. Outside of the lab, Michelle enjoys playing Animal Crossing and Mario Kart, consuming sweets, and volunteering at the West LA animal shelter.
 
 <br />
+
+<div class="span_3 right"><img src="/public/photos/meera.webp" width="150px" alt="Meera's picture" /></div>
+### Meera Trisal, Graduate Student      
+B.S., Biological Sciences, University of California, Santa Barbara  
+
+Meera is an M.S. student who joined the lab in Fall 2022. Before coming to UCLA, Meera worked at Stanford University where she studied the mechanisms underlying the adaptive immune response to vaccination. In her free time, Meera enjoys spending time with friends, reading, playing soccer, dancing, and binge-watching TV. 
+
+<br />
+
+<div class="span_3 right"><img src="/public/photos/armaan.webp" width="150px" alt="Armaan's picture" /></div>
+### Armaan Abraham, Undergraduate Student      
+
+Armaan is an undergraduate student majoring in biophysics and computer science. He is interested in computational modeling, biological measurement, and nanoengineering. He enjoys science fiction, weightlifting, and the beach.
+
+<br />
 <br />
 <br />
 
