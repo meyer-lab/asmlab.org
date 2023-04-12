@@ -77,6 +77,20 @@ Meera is an M.S. student who joined the lab in Fall 2022. Before coming to UCLA,
 Armaan is an undergraduate student majoring in biophysics and computer science. He is interested in computational modeling, biological measurement, and nanoengineering. He enjoys science fiction, weightlifting, and the beach.
 
 <br />
+
+<div class="span_3 right"><img src="/public/photos/victoria.webp" width="150px" alt="Victoria's picture" /></div>
+### Victoria Gong, Undergraduate Student      
+
+Victoria is an undergraduate student majoring in biochemistry. She is interested in cancer-related immunology research, protein engineering and structural analysis, and drug discovery/design. In her free time, she enjoys archery and singing.
+
+<br />
+
+<div class="span_3 right"><img src="/public/photos/het.webp" width="150px" alt="Het's picture" /></div>
+### Het Desai, Undergraduate Student      
+
+Het is a Bioengineering undergraduate student who joined the lab in Fall 2022. He works on the cancer serology project investigating the properties of anti-tumor antibodies. In his spare time, he enjoys hiking and camping, checking out the food scene in LA, and watching sitcoms and whodunnits.
+
+<br />
 <br />
 <br />
 
