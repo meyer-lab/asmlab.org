@@ -79,11 +79,28 @@ Armaan is an undergraduate student majoring in biophysics and computer science. 
 <br />
 <br />
 
+<div class="span_3 right"><img src="/public/photos/emily.webp" width="150px" alt="Emily's picture" /></div>
+### Emily Lin, Undergraduate Student      
+
+Emily is an undergraduate student majoring in bioengineering. She is interested in computational approaches to immunotherapeutic research, tissue engineering, and pharmaceutical engineering. Outside of academics, she enjoys consuming and creating fiction and stories in all forms, including novels, movies, and video games.
+
+<br />
+<br />
+
+<div class="span_3 right"><img src="/public/photos/ethan.webp" width="150px" alt="Ethan's picture" /></div>
+### Ethan Hung, Undergraduate Student      
+
+Ethan is an undergraduate student majoring in Computational & Systems Biology who joined the lab in Fall 2021. He's interested in computational approaches to biological data and more broadly, how they can be applied in medicine. Outside the lab, he's a big foodie, loves playing tennis and rock climbing, and spends his free time folding origami and watching Netflix.
+
+<br />
+<br />
+
 <div class="span_3 right"><img src="/public/photos/victoria.webp" width="150px" alt="Victoria's picture" /></div>
 ### Victoria Gong, Undergraduate Student      
 
 Victoria is an undergraduate student majoring in biochemistry. She is interested in cancer-related immunology research, protein engineering and structural analysis, and drug discovery/design. In her free time, she enjoys archery and singing.
 
+<br />
 <br />
 
 <div class="span_3 right"><img src="/public/photos/het.webp" width="150px" alt="Het's picture" /></div>
