@@ -42,7 +42,7 @@ Brian is a Ph.D. student who joined the lab during Summer 2019. Brian completed 
 ### Jackson Chin, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/JacksonLChin"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 B.S. Bioengineering, University of Washington
 
-Jackson is a Ph.D. student who joined the lab during Fall 2020. He joins the lab from Pacific Northwest National Laboratory where he researched using metabolomics to predict type 1 diabetes onset. Jackson’s research interests include developing interpretable deep learning methods for understanding the mechanisms of cancer. Outside of lab, Jackson is an avid soccer fan, board game collector, burrito connoisseur, and foodie.
+Jackson is a Ph.D. student who joined the lab during Fall 2020. He joins the lab from Pacific Northwest National Laboratory where he researched using metabolomics to predict type 1 diabetes onset. Jackson’s research interests include applying and developing tensor-based methods to unravel the mechanisms of disease. Outside of lab, Jackson is an avid soccer fan, board game collector, burrito connoisseur, and foodie.
 
 <br />
 
