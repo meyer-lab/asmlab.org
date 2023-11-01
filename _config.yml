@@ -41,5 +41,5 @@ scholar:
   bibliography_template: bibtemplate
   bibliography_list_tag: dd
   query: "@*"
-  sort_by: year,month
+  sort_by: year,month,day
   order: descending
