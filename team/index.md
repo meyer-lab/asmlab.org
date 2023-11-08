@@ -14,14 +14,6 @@ Aaron is an Associate Professor of [Bioengineering](https://www.bioeng.ucla.edu)
 
 <br />
 
-<div class="span_3 right"><img src="/public/photos/farnazm.jpg" width="150px" alt="Farnaz's picture" /></div>
-### Farnaz Mohammadi, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/Farnazmdi"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-B.Sc. Bioelectrical Engineering, University of Tehran  
-
-Farnaz joined the lab in September 2018 as a Ph.D. student with an interest in mathematical analysis to study cancer-immune cell communication. In her free time, she likes mountain climbing and watercolor painting.
-
-<br />
-
 <div class="span_3 right"><img src="/public/photos/ctan.jpg" width="150px" alt="Cyrillus's picture" /></div>
 ### Cyrillus Tan, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/cyrillustan"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:cytan@g.ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
 B.S. Biology & Computer Science, Emory University  
@@ -113,6 +105,8 @@ Het is a Bioengineering undergraduate student who joined the lab in Fall 2022. H
 <br />
 
 # Former Members
+
+#### Farnaz Mohammadi, Ph.D. Student (currently Postdoctoral Associate, Genentech)
 
 #### Scott Taylor, Development Engineer (currently Research Associate, Xencor)
 
