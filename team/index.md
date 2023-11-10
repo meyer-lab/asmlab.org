@@ -62,6 +62,16 @@ B.S., Biological Sciences, University of California, Santa Barbara
 Meera is an M.S. student who joined the lab in Fall 2022. Before coming to UCLA, Meera worked at Stanford University where she studied the mechanisms underlying the adaptive immune response to vaccination. In her free time, Meera enjoys spending time with friends, reading, playing soccer, dancing, and binge-watching TV. 
 
 <br />
+<br />
+
+<div class="span_3 right"><img src="/public/photos/het.webp" width="150px" alt="Het's picture" /></div>
+### Het Desai, Graduate Student      
+B.S., Bioengineering, University of California, Los Angeles 
+
+Het is a Bioengineering M.S. student who joined the lab in Fall 2022. He works on the cancer serology project investigating the properties of anti-tumor antibodies. In his spare time, he enjoys hiking and camping, checking out the food scene in LA, and watching sitcoms and whodunnits.
+
+<br />
+<br />
 
 <div class="span_3 right"><img src="/public/photos/armaan.webp" width="150px" alt="Armaan's picture" /></div>
 ### Armaan Abraham, Undergraduate Student      
@@ -95,10 +105,10 @@ Victoria is an undergraduate student majoring in biochemistry. She is interested
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/het.webp" width="150px" alt="Het's picture" /></div>
-### Het Desai, Undergraduate Student      
+<div class="span_3 right"><img src="/public/photos/allisonb.webp" width="150px" alt="Allison's picture" /></div>
+### Allison Brookhart, Undergraduate Student      
 
-Het is a Bioengineering undergraduate student who joined the lab in Fall 2022. He works on the cancer serology project investigating the properties of anti-tumor antibodies. In his spare time, he enjoys hiking and camping, checking out the food scene in LA, and watching sitcoms and whodunnits.
+Allison (Allie) is an undergraduate student at UCLA who joined the lab in the summer of 2022. She is currently working on the cancer serology project to help profile anti-tumor antibody responses. Allie is interested in the intersection between technology and medicine to improve the quality of care for patients. She also enjoys crocheting, being active, and exploring Los Angeles in her free time. 
 
 <br />
 <br />
