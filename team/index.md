@@ -74,9 +74,10 @@ Het is a Bioengineering M.S. student who joined the lab in Fall 2022. He works o
 <br />
 
 <div class="span_3 right"><img src="/public/photos/armaan.webp" width="150px" alt="Armaan's picture" /></div>
-### Armaan Abraham, Undergraduate Student      
+### Armaan Abraham, Development Engineer      
+B.S., Biophysics and Computer Science, University of California, Los Angeles  
 
-Armaan is an undergraduate student majoring in biophysics and computer science. He is interested in computational modeling, biological measurement, and nanoengineering. He enjoys science fiction, weightlifting, and the beach.
+Armaan is a computational scientist in the lab, supporting several projects. He is interested in computational modeling, biological measurement, and nanoengineering. He enjoys science fiction, weightlifting, and the beach.
 
 <br />
 <br />
