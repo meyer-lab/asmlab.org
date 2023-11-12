@@ -109,7 +109,15 @@ Victoria is an undergraduate student majoring in biochemistry. She is interested
 <div class="span_3 right"><img src="/public/photos/allisonb.webp" width="150px" alt="Allison's picture" /></div>
 ### Allison Brookhart, Undergraduate Student      
 
-Allison (Allie) is an undergraduate student at UCLA who joined the lab in the summer of 2022. She is currently working on the cancer serology project to help profile anti-tumor antibody responses. Allie is interested in the intersection between technology and medicine to improve the quality of care for patients. She also enjoys crocheting, being active, and exploring Los Angeles in her free time. 
+Allison (Allie) is an undergraduate student at UCLA who joined the lab in the summer of 2022. She is currently working on the cancer serology project to help profile anti-tumor antibody responses. Allie is interested in the intersection between technology and medicine to improve the quality of care for patients. She also enjoys crocheting, being active, and exploring Los Angeles in her free time.
+
+<br />
+<br />
+
+<div class="span_3 right"><img src="/public/photos/nthomas.webp" width="150px" alt="Nathaniel's picture" /></div>
+### Nathaniel Thomas, Undergraduate Student      
+
+Nathaniel is an undergraduate student majoring in Computer Science who joined the lab in the summer of 2023. His research interests include applying computational methods to further understand biological and chemical systems. In his free time, he enjoys playing pop songs on the piano, trying new foods, and keeping up with the latest TV shows.
 
 <br />
 <br />
