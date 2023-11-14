@@ -121,6 +121,14 @@ Nathaniel is an undergraduate student majoring in Computer Science who joined th
 
 <br />
 <br />
+
+<div class="span_3 right"><img src="/public/photos/bremigio.webp" width="150px" alt="Breanna's picture" /></div>
+### Breanna Remigio, Undergraduate Student      
+
+Breanna is an undergraduate student majoring in Computational and Systems Biology who joined the lab in the fall of 2022. She is interested in applying computational methods to biological systems to further understand how these systems function. In her free time, she enjoys playing tennis, film photography, and dancing traditional Peruvian dances.
+
+<br />
+<br />
 <br />
 
 # Former Members
