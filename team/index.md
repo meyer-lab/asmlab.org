@@ -82,6 +82,15 @@ Armaan is a computational scientist in the lab, supporting several projects. He 
 <br />
 <br />
 
+<div class="span_3 right"><img src="/public/photos/crystalx.webp" width="150px" alt="Crystal's picture" /></div>
+### Crystal Xiao, Development Engineer      
+M.S., Bioengineering, University of California, Los Angeles  
+
+Crystal Xiao is a research associate/lab manager who supports several projects. She has previously worked on immunotherapies, tissue engineering, and drug delivery related projects. In her spare time, she enjoys making tea and observing animals.
+
+<br />
+<br />
+
 <div class="span_3 right"><img src="/public/photos/emily.webp" width="150px" alt="Emily's picture" /></div>
 ### Emily Lin, Undergraduate Student      
 
