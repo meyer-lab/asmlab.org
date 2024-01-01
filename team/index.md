@@ -6,7 +6,7 @@ title: Team
 
 <div class="span_3 right"><img src="/public/photos/aaron.jpg" width="150px" alt="Aaron's picture" /></div>
 
-### Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="http://ameyer.me"><svg class="svg-icon"><use xlink:href="#fa-home"></use></svg></a>  <a href="https://github.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a rel="me" href="https://mstdn.science/@aarmey"><svg class="svg-icon"><use xlink:href="#fa-mastadon"></use></svg></a>  <a href="https://www.twitter.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-twitter"></use></svg></a>   <a href="mailto:ameyer@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>    
+### Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="https://ameyer.me"><svg class="svg-icon"><use xlink:href="#fa-home"></use></svg></a>  <a href="https://github.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a rel="me" href="https://mstdn.science/@aarmey"><svg class="svg-icon"><use xlink:href="#fa-mastadon"></use></svg></a>  <a href="https://www.twitter.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-twitter"></use></svg></a>   <a href="mailto:ameyer@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>    
 Ph. D., Biological Engineering, MIT    
 B.S., Bioengineering, University of California, Los Angeles       
 
@@ -26,7 +26,7 @@ Cyrillus is a Bioinformatics Ph.D. student. His research interests include devel
 ### Brian Orcutt-Jahns, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/borcuttjahns"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 B.S. Bioengineering, University of California, Los Angeles  
 
-Brian is a Ph.D. student who joined the lab during Summer 2019. Brian completed his B.S. in Bioengineering at UCLA, where he conducted research as a member of the [Kasko group](http://kaskolab.com). Brian's research interests include computational analysis of cellular signaling pathways and their processing dynamics, as well as the utility of these models in the process of drug discovery. His interests outside of the lab include playing soccer, lifting weights, and watching cooking shows.
+Brian is a Ph.D. student who joined the lab during Summer 2019. Brian completed his B.S. in Bioengineering at UCLA, where he conducted research as a member of the [Kasko group](https://kaskolab.com). Brian's research interests include computational analysis of cellular signaling pathways and their processing dynamics, as well as the utility of these models in the process of drug discovery. His interests outside of the lab include playing soccer, lifting weights, and watching cooking shows.
 
 <br />
 

@@ -25,4 +25,4 @@ This complements the [common](common.html) and other guidelines. Suggestions and
 - Senior personnel are responsible for helping to train new lab members in the ways of the world (e.g. lab procedures, how individual/group meetings work, literature searches). Science is a community - many people will help you along the way and you should return the favor. Share your insider knowledge of techniques with others. As a post-doc, it is expected that you will take a leading role in this training – this is a wonderful time to refine your mentoring style for your future roles.
 - You will have designated lab jobs such as ordering, general maintenance, taking care of one of the instruments, etc. Failure to do your lab jobs not only affects you, it can impede the entire lab and will not be tolerated. Everyone is expected to help with dishes, making sure that supplies do not run out, reporting problems with equipment to the person in charge, aliquotting, and general lab cleanliness.  
 
-Adapted from documents by [Pam Kreeger](http://www.kreegerlab.org).
+Adapted from documents by [Pam Kreeger](https://www.kreegerlab.org).
