@@ -5,7 +5,7 @@ date:   2012-09-15 00:00:00
 categories: protocols
 ---
 
-<div class="alert info">This is a detailed protocol we use for an inverted invasion assay, as used in <a href="http://www.pnas.org/content/early/2013/05/14/1222387110.abstract">Miller et al</a>. </div>
+<div class="alert info">This is a detailed protocol we use for an inverted invasion assay, as used in <a href="https://www.pnas.org/content/early/2013/05/14/1222387110.abstract">Miller et al</a>. </div>
              
 <!--more-->
              
