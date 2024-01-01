@@ -4,3 +4,4 @@ vendor
 .jekyll-cache
 .bundle
 _site
+.ruby-version

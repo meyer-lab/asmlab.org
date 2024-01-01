@@ -26,4 +26,4 @@ This complements the [common](common.html) and other guidelines. Suggestions and
 - Reporting anything to me that needs my attention (lab conflict, equipment problem, etc)
 - As a research specialist, it is expected that you will take a leading role in training new lab personnel – to many people, you will be the ‘go to’ person to field questions. If you are not the best person to help with a particular question, please help them find the right person in the lab.
 
-Adapted from documents by [Pam Kreeger](http://www.kreegerlab.org).
+Adapted from documents by [Pam Kreeger](https://www.kreegerlab.org).

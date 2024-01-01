@@ -58,4 +58,4 @@ One of the most important tasks in science is disseminating your research throug
 
 - Regular feedback from your talks (including lab meeting!) is essential to honing your presentation skills. Consider soliciting anonymous feedback with an [online form that your audience can open with a QR code](https://twitter.com/arjunrajlab/status/1105665075824787456).
 
-Adapted from documents by [Pam Kreeger](http://www.kreegerlab.org).
+Adapted from documents by [Pam Kreeger](https://www.kreegerlab.org).

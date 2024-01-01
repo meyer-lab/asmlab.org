@@ -15,4 +15,4 @@
 
 ## Safety
 
-[Department Injury and Illness Prevention Program (IIPP) Manual)](http://www.bioeng.ucla.edu/dept-iipp/)
+[Department Injury and Illness Prevention Program (IIPP) Manual)](https://www.bioeng.ucla.edu/dept-iipp/)

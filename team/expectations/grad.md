@@ -47,4 +47,4 @@ My definition for when the PhD is complete represents a combination of scientifi
 
 4th year and on – Goal: Write manuscripts and thesis. While the exact timing of when manuscripts are written will vary, you will hopefully have one to two projects nearing publication stage. We will then discuss what you should focus your remaining time on to complete your thesis. At this time, you will take a greater responsibility in developing future projects, while at the same time mentoring newer students. Mentoring newer students is expected of you, though you can require that they make appointments with you. We will also begin working on strategies to transition to your next career stage.  
 
-Adapted from documents by [Pam Kreeger](http://www.kreegerlab.org).
+Adapted from documents by [Pam Kreeger](https://www.kreegerlab.org).

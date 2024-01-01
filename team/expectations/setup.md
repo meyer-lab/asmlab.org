@@ -18,5 +18,5 @@ Read through the specific [instructions for getting started with computational w
 - Complete your required safety training through [Worksafe](https://worksafe.ucla.edu/UCLA/Programs/Standard/Control/elmLearner.wml?portalid=Learnerweb)
 - Read through and sign each of the Standard Operating Proceedures in the safety binder
 - Ask the lab safety representative to complete your lab specific training
-- Fill out the [key request form](http://www.bioeng.ucla.edu/wp-content/uploads/bioeng/Bioengineering-Key-Request-Form-4-2-15.pdf) to obtain your keys
+- Fill out the [key request form](https://www.bioeng.ucla.edu/wp-content/uploads/bioeng/Bioengineering-Key-Request-Form-4-2-15.pdf) to obtain your keys
 - Signup for an account on the Incucyte and ChemiDoc machines

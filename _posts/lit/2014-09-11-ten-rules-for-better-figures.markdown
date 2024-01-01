@@ -3,7 +3,7 @@ layout: post
 title:  Ten Simple Rules for Better Figures
 date:   2014-09-11 00:00:01
 categories: literature
-external-url: http://dx.plos.org/10.1371/journal.pcbi.1003833
+external-url: https://dx.plos.org/10.1371/journal.pcbi.1003833
 tags:
 - presentation
 - scientific method
