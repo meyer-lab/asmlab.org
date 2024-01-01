@@ -3,7 +3,7 @@ layout: post
 title:  Antibiotic tolerance facilitates the evolution of resistance
 date:   2017-02-24 00:00:01
 categories: literature
-external-url: http://science.sciencemag.org/content/355/6327/826
+external-url: https://science.sciencemag.org/content/355/6327/826
 tags:
 - resistance
 - tolerance

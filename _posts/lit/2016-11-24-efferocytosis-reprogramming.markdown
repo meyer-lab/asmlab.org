@@ -3,7 +3,7 @@ layout: post
 title:  Different tissue phagocytes sample apoptotic cells to direct distinct homeostasis programs
 date:   2016-11-24 00:00:01
 categories: literature
-external-url: http://www.nature.com/nature/journal/v539/n7630/full/nature20138.html
+external-url: https://www.nature.com/nature/journal/v539/n7630/full/nature20138.html
 tags:
 - efferocytosis
 - immunology
