@@ -73,6 +73,15 @@ Het is a Bioengineering M.S. student who joined the lab in Fall 2022. He works o
 <br />
 <br />
 
+<div class="span_3 right"><img src="/public/photos/mana.webp" width="150px" alt="Mana's picture" /></div>
+### Manmeet Bains, Graduate Student      
+B.S., Biology, University of California, Los Angeles 
+
+Manmeet (Mana) is a M.S. student under the Chemistry and Biochemistry Department. She joined the lab in Spring 2023 to complete her capstone project on characterizing antibody-dependent effector responses. Outside of the lab, she enjoys playing tennis, cooking and spending time at the beach.
+
+<br />
+<br />
+
 <div class="span_3 right"><img src="/public/photos/armaan.webp" width="150px" alt="Armaan's picture" /></div>
 ### Armaan Abraham, Development Engineer      
 B.S., Biophysics and Computer Science, University of California, Los Angeles  
