@@ -14,9 +14,18 @@ Read through the specific [instructions for getting started with computational w
 
 #### Wet lab
 
-- Ask the lab safety representative to add you to the Laboratory Hazards Assessment Tool (LHAT)
-- Complete your required safety training through [Worksafe](https://worksafe.ucla.edu/UCLA/Programs/Standard/Control/elmLearner.wml?portalid=Learnerweb)
-- Read through and sign each of the Standard Operating Proceedures in the safety binder
-- Ask the lab safety representative to complete your lab specific training
-- Fill out the [key request form](https://www.bioeng.ucla.edu/wp-content/uploads/bioeng/Bioengineering-Key-Request-Form-4-2-15.pdf) to obtain your keys
-- Signup for an account on the Incucyte and ChemiDoc machines
+Here are some basic tasks to help you get started and situated in the lab.
+1.	Online trainings—complete these prior to the on-site lab safety training. These can be found [here](https://worksafe.ucla.edu/UCLA/Programs/Standard/Control/elmLearner.wml)
+    a.	NIH Guidelines for UCLA Researchers: IBC Compliance Training
+    b.	Lab Safety Fundamentals
+    c.	Chemical Hygiene Plan
+    d.	Medical Waste Management Online Training
+    e.	Injury & Illness Prevention Program Online Training
+    f.	Biosafety Fundamentals: BSL2 and BSL2+
+    g.	Bloodborne Pathogens Online Training
+    h.	Safe Use of Biosafety Cabinets
+2.	On-site safety training—print out [this form](https://ucla.app.box.com/s/xpuqfo20nen0smimu9sgljvyz6knt4dv) and have it ready to fill out during the training: 
+3.	Key and BruinCard request forms—the process for obtaining these can be found [here](https://www.bioeng.ucla.edu/resources/).
+    a.	Room numbers:
+        i.	Lab room (physical key access): 5030 and 5031
+        ii.	Graduate student offices (BruinCard access): 5122)
