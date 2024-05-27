@@ -22,14 +22,6 @@ Cyrillus is a Bioinformatics Ph.D. student. His research interests include devel
 
 <br />
 
-<div class="span_3 right"><img src="/public/photos/brianoj.jpg" width="150px" alt="Brian's picture" /></div>
-### Brian Orcutt-Jahns, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/borcuttjahns"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
-B.S. Bioengineering, University of California, Los Angeles  
-
-Brian is a Ph.D. student who joined the lab during Summer 2019. Brian completed his B.S. in Bioengineering at UCLA, where he conducted research as a member of the [Kasko group](https://kaskolab.com). Brian's research interests include computational analysis of cellular signaling pathways and their processing dynamics, as well as the utility of these models in the process of drug discovery. His interests outside of the lab include playing soccer, lifting weights, and watching cooking shows.
-
-<br />
-
 <div class="span_3 right"><img src="/public/photos/jacksonc.jpg" width="150px" alt="Jackson's picture" /></div>
 ### Jackson Chin, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/JacksonLChin"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 B.S. Bioengineering, University of Washington
@@ -150,6 +142,8 @@ Breanna is an undergraduate student majoring in Computational and Systems Biolog
 <br />
 
 # Former Members
+
+### Brian Orcutt-Jahns, Ph.D. Student (currently Postdoctoral Associate, Genentech)
 
 #### Farnaz Mohammadi, Ph.D. Student (currently Postdoctoral Associate, Genentech)
 
