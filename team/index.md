@@ -92,14 +92,6 @@ Crystal Xiao is a research associate/lab manager who supports several projects. 
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/emily.webp" width="150px" alt="Emily's picture" /></div>
-### Emily Lin, Undergraduate Student      
-
-Emily is an undergraduate student majoring in bioengineering. She is interested in computational approaches to immunotherapeutic research, tissue engineering, and pharmaceutical engineering. Outside of academics, she enjoys consuming and creating fiction and stories in all forms, including novels, movies, and video games.
-
-<br />
-<br />
-
 <div class="span_3 right"><img src="/public/photos/ethan.webp" width="150px" alt="Ethan's picture" /></div>
 ### Ethan Hung, Undergraduate Student      
 
@@ -143,11 +135,13 @@ Breanna is an undergraduate student majoring in Computational and Systems Biolog
 
 # Former Members
 
-### Brian Orcutt-Jahns, Ph.D. Student (currently Postdoctoral Associate, Genentech)
+#### Emily Lin, Undergraduate Student (currently Ph.D. student, Bioengineering, University of Pennsylvania)
+
+#### Brian Orcutt-Jahns, Ph.D. Student (currently Postdoctoral Associate, Genentech)
 
 #### Farnaz Mohammadi, Ph.D. Student (currently Postdoctoral Associate, Genentech)
 
-#### Scott Taylor, Development Engineer (currently Research Associate, Xencor)
+#### Scott Taylor, Development Engineer (currently Senior Research Associate, Xencor)
 
 #### Marc Creixell, Ph.D. Student (currently Scientist, Calico Life Sciences)
 
