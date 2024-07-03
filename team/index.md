@@ -51,25 +51,7 @@ Michelle joined the lab in Spring 2022 as a bioengineering Ph.D. student. During
 ### Meera Trisal, Graduate Student      
 B.S., Biological Sciences, University of California, Santa Barbara  
 
-Meera is an M.S. student who joined the lab in Fall 2022. Before coming to UCLA, Meera worked at Stanford University where she studied the mechanisms underlying the adaptive immune response to vaccination. In her free time, Meera enjoys spending time with friends, reading, playing soccer, dancing, and binge-watching TV. 
-
-<br />
-<br />
-
-<div class="span_3 right"><img src="/public/photos/het.webp" width="150px" alt="Het's picture" /></div>
-### Het Desai, Graduate Student      
-B.S., Bioengineering, University of California, Los Angeles 
-
-Het is a Bioengineering M.S. student who joined the lab in Fall 2022. He works on the cancer serology project investigating the properties of anti-tumor antibodies. In his spare time, he enjoys hiking and camping, checking out the food scene in LA, and watching sitcoms and whodunnits.
-
-<br />
-<br />
-
-<div class="span_3 right"><img src="/public/photos/mana.webp" width="150px" alt="Mana's picture" /></div>
-### Manmeet Bains, Graduate Student      
-B.S., Biology, University of California, Los Angeles 
-
-Manmeet (Mana) is a M.S. student under the Chemistry and Biochemistry Department. She joined the lab in Spring 2023 to complete her capstone project on characterizing antibody-dependent effector responses. Outside of the lab, she enjoys playing tennis, cooking and spending time at the beach.
+Meera is an Ph.D. student who joined the lab in Fall 2022. Before coming to UCLA, Meera worked at Stanford University where she studied the mechanisms underlying the adaptive immune response to vaccination. In her free time, Meera enjoys spending time with friends, reading, playing soccer, dancing, and binge-watching TV.
 
 <br />
 <br />
@@ -134,6 +116,10 @@ Breanna is an undergraduate student majoring in Computational and Systems Biolog
 <br />
 
 # Former Members
+
+#### Het Desai, Graduate Student
+
+#### Manmeet Bains, Graduate Student
 
 #### Emily Lin, Undergraduate Student (currently Ph.D. student, Bioengineering, University of Pennsylvania)
 
