@@ -149,7 +149,7 @@ Breanna is an undergraduate student majoring in Computational and Systems Biolog
 
 #### Stephen Lees, Undergraduate Researcher (currently Ph.D. student, [Biomedical Engineering, University of Virginia](https://engineering.virginia.edu/departments/biomedical-engineering))
 
-#### Edward Richards, Postdoctoral Associate (currently Scientist, [Dragonfly Therapeutics](https://www.dragonflytx.com))
+#### Edward Richards, Postdoctoral Associate (currently Associate Principal Scientist, AstraZeneca)
 
 #### Zoe Kim, Undergraduate Researcher
 
@@ -163,7 +163,7 @@ Breanna is an undergraduate student majoring in Computational and Systems Biolog
 
 #### Moriah Garcia, Development Engineer (currently Project Manager, [Genentech](https://www.gene.com))
 
-#### Song Yi Bae, Postdoctoral Fellow (currently [Postdoctoral Fellow, University of Minnesota](https://www.med.umn.edu/bio/department-of-pharmacology/justin-drake))
+#### Song Yi Bae, Postdoctoral Fellow (currently Senior Scientist, Astrin Biosciences)
 
 #### Katrina Warner, Amgen Scholar (currently Ph.D. student, [Biomedical Sciences, Harvard](https://gsas.harvard.edu/programs-of-study/all/biological-and-biomedical-sciences))
 
@@ -185,4 +185,4 @@ Breanna is an undergraduate student majoring in Computational and Systems Biolog
 
 #### Christina Bray, Undergraduate Researcher
 
-#### Nicole Kramer, Undergraduate Researcher (currently Ph.D. student, Bioinformatics and Computational Biology, UNC at Chapel Hill)
+#### Nicole Kramer, Undergraduate Researcher (currently Postdoctoral Research Associate, Bioinformatics and Computational Biology, UNC at Chapel Hill)
