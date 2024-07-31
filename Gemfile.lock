@@ -101,7 +101,7 @@ GEM
     mini_portile2 (2.8.7)
     namae (1.2.0)
       racc (~> 1.7)
-    nokogiri (1.16.6)
+    nokogiri (1.16.7)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -113,7 +113,7 @@ GEM
       ruby-rc4
       ttfunk
     public_suffix (6.0.1)
-    racc (1.8.0)
+    racc (1.8.1)
     rainbow (3.1.1)
     rake (13.2.1)
     rb-fsevent (0.11.2)
@@ -137,7 +137,7 @@ GEM
     unicode-display_width (2.5.0)
     webrick (1.8.1)
     yell (2.2.2)
-    zeitwerk (2.6.16)
+    zeitwerk (2.6.17)
 
 PLATFORMS
   ruby
@@ -149,7 +149,6 @@ DEPENDENCIES
   jekyll-scholar
   jekyll-sitemap
   kramdown
-  rouge
 
 BUNDLED WITH
    2.4.19
