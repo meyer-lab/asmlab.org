@@ -6,7 +6,13 @@ title: Team
 
 <div class="span_3 right"><img src="/public/photos/aaron.jpg" width="150px" alt="Aaron's picture" /></div>
 
-### Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="https://ameyer.me"><svg class="svg-icon"><use xlink:href="#fa-home"></use></svg></a>  <a href="https://github.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a rel="me" href="https://mstdn.science/@aarmey"><svg class="svg-icon"><use xlink:href="#fa-mastadon"></use></svg></a>  <a href="https://www.twitter.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-twitter"></use></svg></a>   <a href="mailto:ameyer@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>    
+### Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;
+<a href="https://ameyer.me"><svg class="svg-icon"><use xlink:href="#fa-home"></use></svg></a>
+<a href="https://github.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>
+<a href="https://mstdn.science/@aarmey"><svg class="svg-icon"><use xlink:href="#fa-mastadon"></use></svg></a>
+<a href="https://www.twitter.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-twitter"></use></svg></a>
+<a href="https://orcid.org/0000-0003-4513-1840"><svg class="svg-icon"><use xlink:href="#fa-orcid"></use></svg></a>
+<a href="mailto:ameyer@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>    
 Ph. D., Biological Engineering, MIT    
 B.S., Bioengineering, University of California, Los Angeles       
 
@@ -31,7 +37,9 @@ Jackson is a Ph.D. student who joined the lab during Fall 2020. He joins the lab
 <br />
 
 <div class="span_3 right"><img src="/public/photos/andrewr.webp" width="150px" alt="Andrew's picture" /></div>
-### Andrew Ramirez, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/andrewram4287"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
+### Andrew Ramirez, Graduate Student&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/andrewram4287"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>
+<a href="https://orcid.org/0009-0006-5746-9477"><svg class="svg-icon"><use xlink:href="#fa-orcid"></use></svg></a>      
 B.S. Chemical Engineering, University of California, Davis
 
 Andrew is a Bioengineering Ph.D. student who joined in Fall 2021. In his free time, Andrew is an avid Netflix/Hulu watcher for shows like Modern Family, Dragon Ball Z, and Parks and Recreation, loves boba, and enjoys walking his pitbull Misty.
