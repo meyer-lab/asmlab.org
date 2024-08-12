@@ -1,0 +1,47 @@
+- name: Het Desai
+  position: M.S. Student
+  keywords: serology, wet lab
+
+- name: Manmeet Bains
+  position: M.S. Student
+  keywords: antibodies, wet lab
+
+- name: Emily Lin
+  position: Undergraduate Student
+  postposition: Ph.D. student, Bioengineering, University of Pennsylvania
+  keywords: cytokines, computational
+
+- name: Brian Orcutt-Jahns
+  position: Ph.D. Student
+  postposition: Postdoctoral Associate, Genentech
+  keywords: cytokines, computational
+
+- name: Farnaz Mohammadi
+  position: Ph.D. Student
+  postposition: Postdoctoral Associate, Genentech
+  keywords: cancer, computational
+
+- name: Scott Taylor
+  position: Development Engineer
+  postposition: Senior Research Associate, Xencor
+  keywords: antibodies, wet lab, cytokines, cancer
+
+- name: Marc Creixell
+  position: Ph.D. Student
+  postposition: Scientist, Calico Life Sciences
+  keywords: cancer, computational, wet lab
+
+- name: JC Lagarde
+  position: Undergraduate Researcher
+  postposition: Process Engineer, Illumina
+  keywords: computational, cancer
+
+- name: Eva Hunter
+  position: Undergraduate Researcher
+  postposition: Medical Assistant, Glaucoma Center of San Francisco
+  keywords: computational, antibodies
+
+- name: Sumedha Kanthamneni
+  position: Undergraduate Researcher
+  postposition: Software Engineer, Google
+  keywords: computational, cancer, antibodies

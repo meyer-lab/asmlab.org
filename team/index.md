@@ -117,25 +117,9 @@ Breanna is an undergraduate student majoring in Computational and Systems Biolog
 
 # Former Members
 
-#### Het Desai, Graduate Student
-
-#### Manmeet Bains, Graduate Student
-
-#### Emily Lin, Undergraduate Student (currently Ph.D. student, Bioengineering, University of Pennsylvania)
-
-#### Brian Orcutt-Jahns, Ph.D. Student (currently Postdoctoral Associate, Genentech)
-
-#### Farnaz Mohammadi, Ph.D. Student (currently Postdoctoral Associate, Genentech)
-
-#### Scott Taylor, Development Engineer (currently Senior Research Associate, Xencor)
-
-#### Marc Creixell, Ph.D. Student (currently Scientist, Calico Life Sciences)
-
-#### JC Lagarde, Undergraduate Researcher (currently Process Engineer, Illumina)
-
-#### Eva Hunter, Undergraduate Researcher (currently Medical Assistant, Glaucoma Center of San Francisco)
-
-#### Sumedha Kanthamneni, Undergraduate Researcher
+{% for person in site.data.team %}
+#### {{ person.name }}, {{ person.position }} {% if person.postposition %} (currently {{ person.postposition }}) {% endif %}
+{% endfor %}
 
 #### Madeleine Murphy, M.S. Student (currently Associate Computational Biologist, Broad Institute of MIT & Harvard)
 
