@@ -29,7 +29,7 @@
 - name: Marc Creixell
   position: Ph.D. Student
   postposition: Scientist, Calico Life Sciences
-  keywords: cancer, computational, wet lab
+  keywords: cancer, computational, wet lab, signaling
 
 - name: JC Lagarde
   position: Undergraduate Researcher
@@ -46,8 +46,73 @@
   postposition: Software Engineer, Google
   keywords: computational, cancer, antibodies
 
+- name: Madeleine Murphy
+  position: M.S. Student
+  postposition: Associate Computational Biologist, Broad Institute of MIT & Harvard
+  keywords: computational, tensors, serology
+
+- name: Catera Wilder
+  position: Postdoctoral Fellow
+  postposition: Assistant Professor, University of California, San Francisco
+  keywords: immunology, signaling
+
+- name: Amanda Tsao
+  position: Undergraduate Researcher
+  postposition: M.D. student, University of Southern California
+  keywords: computational
+
+# TODO: Need to add Aarman's B.S.
+- name: Armaan Abraham
+  position: Development Engineer
+  keywords: computational, tensors, serology
+  description: Armaan is a computational scientist in the lab, supporting several projects. He is interested in computational modeling, biological measurement, and nanoengineering. He enjoys science fiction, weightlifting, and the beach.
+  photo: armaan.webp
+  current: True
+
+# TODO: Need to add Crystal's B.S. and M.S.
+- name: Crystal Xiao
+  position: Development Engineer
+  keywords: wet lab, cytokines, serology, signaling
+  description: Crystal Xiao is a research associate/lab manager who supports several projects. She has previously worked on immunotherapies, tissue engineering, and drug delivery related projects. In her spare time, she enjoys making tea and observing animals.
+  joined: 2023
+  photo: crystalx.webp
+  current: True
+
+- name: Ethan Hung
+  position: Undergraduate Researcher
+  keywords: tensors, computational
+  description: Ethan is an undergraduate student majoring in Computational & Systems Biology who joined the lab in Fall 2021. He's interested in computational approaches to biological data and more broadly, how they can be applied in medicine. Outside the lab, he's a big foodie, loves playing tennis and rock climbing, and spends his free time folding origami and watching Netflix.
+  joined: 2021
+  photo: ethan.webp
+  current: True
+
+- name: Victoria Gong
+  position: Undergraduate Researcher
+  keywords: cancer, serology, wet lab
+  description: Victoria is an undergraduate student majoring in biochemistry. She is interested in cancer-related immunology research, protein engineering and structural analysis, and drug discovery/design. In her free time, she enjoys archery and singing.
+  photo: victoria.webp
+  current: True
+
+- name: Allison Brookhart
+  position: Undergraduate Researcher
+  keywords: cancer, serology, wet lab
+  description: Allison (Allie) is an undergraduate student at UCLA who joined the lab in the summer of 2022. She is currently working on the cancer serology project to help profile anti-tumor antibody responses. Allie is interested in the intersection between technology and medicine to improve the quality of care for patients. She also enjoys crocheting, being active, and exploring Los Angeles in her free time.
+  joined: 2022
+  photo: allisonb.webp
+  current: True
+
+- name: Nathaniel Thomas
+  position: Undergraduate Researcher
+  keywords: computational, tensors
+  description: Nathaniel is an undergraduate student majoring in Computer Science who joined the lab in the summer of 2023. His research interests include applying computational methods to further understand biological and chemical systems. In his free time, he enjoys playing pop songs on the piano, trying new foods, and keeping up with the latest TV shows.
+  joined: 2023
+  photo: nthomas.webp
+  current: True
+
 - name: Breanna Remigio
   position: Undergraduate Researcher
   keywords: computational, tensors
   description: Breanna is an undergraduate student majoring in Computational and Systems Biology who joined the lab in the fall of 2022. She is interested in applying computational methods to biological systems to further understand how these systems function. In her free time, she enjoys playing tennis, film photography, and dancing traditional Peruvian dances.
+  joined: 2022
+  photo: bremigio.webp
   current: True

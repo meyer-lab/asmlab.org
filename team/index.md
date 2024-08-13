@@ -56,64 +56,18 @@ Meera is an Ph.D. student who joined the lab in Fall 2022. Before coming to UCLA
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/armaan.webp" width="150px" alt="Armaan's picture" /></div>
-### Armaan Abraham, Development Engineer      
-B.S., Biophysics and Computer Science, University of California, Los Angeles  
 
-Armaan is a computational scientist in the lab, supporting several projects. He is interested in computational modeling, biological measurement, and nanoengineering. He enjoys science fiction, weightlifting, and the beach.
+{% for person in site.data.team %}
+{% if person.current %}
+<div class="span_3 right"><img src="/public/photos/{{ person.photo }}" alt="{{ person.name }}'s picture" /></div>
+### {{ person.name }}, {{ person.position }}      
 
-<br />
-<br />
-
-<div class="span_3 right"><img src="/public/photos/crystalx.webp" width="150px" alt="Crystal's picture" /></div>
-### Crystal Xiao, Development Engineer      
-M.S., Bioengineering, University of California, Los Angeles  
-
-Crystal Xiao is a research associate/lab manager who supports several projects. She has previously worked on immunotherapies, tissue engineering, and drug delivery related projects. In her spare time, she enjoys making tea and observing animals.
-
-<br />
-<br />
-
-<div class="span_3 right"><img src="/public/photos/ethan.webp" width="150px" alt="Ethan's picture" /></div>
-### Ethan Hung, Undergraduate Student      
-
-Ethan is an undergraduate student majoring in Computational & Systems Biology who joined the lab in Fall 2021. He's interested in computational approaches to biological data and more broadly, how they can be applied in medicine. Outside the lab, he's a big foodie, loves playing tennis and rock climbing, and spends his free time folding origami and watching Netflix.
-
-<br />
-<br />
-
-<div class="span_3 right"><img src="/public/photos/victoria.webp" alt="Victoria's picture" /></div>
-### Victoria Gong, Undergraduate Student      
-
-Victoria is an undergraduate student majoring in biochemistry. She is interested in cancer-related immunology research, protein engineering and structural analysis, and drug discovery/design. In her free time, she enjoys archery and singing.
-
-<br />
-<br />
-
-<div class="span_3 right"><img src="/public/photos/allisonb.webp" alt="Allison's picture" /></div>
-### Allison Brookhart, Undergraduate Student      
-
-Allison (Allie) is an undergraduate student at UCLA who joined the lab in the summer of 2022. She is currently working on the cancer serology project to help profile anti-tumor antibody responses. Allie is interested in the intersection between technology and medicine to improve the quality of care for patients. She also enjoys crocheting, being active, and exploring Los Angeles in her free time.
-
-<br />
-<br />
-
-<div class="span_3 right"><img src="/public/photos/nthomas.webp" alt="Nathaniel's picture" /></div>
-### Nathaniel Thomas, Undergraduate Student      
-
-Nathaniel is an undergraduate student majoring in Computer Science who joined the lab in the summer of 2023. His research interests include applying computational methods to further understand biological and chemical systems. In his free time, he enjoys playing pop songs on the piano, trying new foods, and keeping up with the latest TV shows.
-
-<br />
-<br />
-
-<div class="span_3 right"><img src="/public/photos/bremigio.webp" alt="Breanna's picture" /></div>
-### Breanna Remigio, Undergraduate Student      
-
-Breanna is an undergraduate student majoring in Computational and Systems Biology who joined the lab in the fall of 2022. She is interested in applying computational methods to biological systems to further understand how these systems function. In her free time, she enjoys playing tennis, film photography, and dancing traditional Peruvian dances.
-
+{% if person.bio %}{{ person.bio }}{% endif %}
 <br />
 <br />
 <br />
+{% endif %}
+{% endfor %}
 
 # Former Members
 
@@ -122,12 +76,6 @@ Breanna is an undergraduate student majoring in Computational and Systems Biolog
 #### {{ person.name }}, {{ person.position }} {% if person.postposition %} (currently {{ person.postposition }}) {% endif %}
 {% endunless %}
 {% endfor %}
-
-#### Madeleine Murphy, M.S. Student (currently Associate Computational Biologist, Broad Institute of MIT & Harvard)
-
-#### Catera Wilder, Postdoctoral Fellow (currently Assistant Professor, University of California, San Francisco)
-
-#### Amanda Tsao, Undergraduate Researcher (currently M.D. student, University of Southern California)
 
 #### Linnet Chang, Undergraduate Researcher (currently Analyst, Accenture)
 
