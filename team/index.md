@@ -82,7 +82,7 @@ Ethan is an undergraduate student majoring in Computational & Systems Biology wh
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/victoria.webp" width="150px" alt="Victoria's picture" /></div>
+<div class="span_3 right"><img src="/public/photos/victoria.webp" alt="Victoria's picture" /></div>
 ### Victoria Gong, Undergraduate Student      
 
 Victoria is an undergraduate student majoring in biochemistry. She is interested in cancer-related immunology research, protein engineering and structural analysis, and drug discovery/design. In her free time, she enjoys archery and singing.
@@ -90,7 +90,7 @@ Victoria is an undergraduate student majoring in biochemistry. She is interested
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/allisonb.webp" width="150px" alt="Allison's picture" /></div>
+<div class="span_3 right"><img src="/public/photos/allisonb.webp" alt="Allison's picture" /></div>
 ### Allison Brookhart, Undergraduate Student      
 
 Allison (Allie) is an undergraduate student at UCLA who joined the lab in the summer of 2022. She is currently working on the cancer serology project to help profile anti-tumor antibody responses. Allie is interested in the intersection between technology and medicine to improve the quality of care for patients. She also enjoys crocheting, being active, and exploring Los Angeles in her free time.
@@ -98,7 +98,7 @@ Allison (Allie) is an undergraduate student at UCLA who joined the lab in the su
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/nthomas.webp" width="150px" alt="Nathaniel's picture" /></div>
+<div class="span_3 right"><img src="/public/photos/nthomas.webp" alt="Nathaniel's picture" /></div>
 ### Nathaniel Thomas, Undergraduate Student      
 
 Nathaniel is an undergraduate student majoring in Computer Science who joined the lab in the summer of 2023. His research interests include applying computational methods to further understand biological and chemical systems. In his free time, he enjoys playing pop songs on the piano, trying new foods, and keeping up with the latest TV shows.
@@ -106,7 +106,7 @@ Nathaniel is an undergraduate student majoring in Computer Science who joined th
 <br />
 <br />
 
-<div class="span_3 right"><img src="/public/photos/bremigio.webp" width="150px" alt="Breanna's picture" /></div>
+<div class="span_3 right"><img src="/public/photos/bremigio.webp" alt="Breanna's picture" /></div>
 ### Breanna Remigio, Undergraduate Student      
 
 Breanna is an undergraduate student majoring in Computational and Systems Biology who joined the lab in the fall of 2022. She is interested in applying computational methods to biological systems to further understand how these systems function. In her free time, she enjoys playing tennis, film photography, and dancing traditional Peruvian dances.
