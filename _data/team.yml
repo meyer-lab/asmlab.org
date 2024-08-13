@@ -45,3 +45,9 @@
   position: Undergraduate Researcher
   postposition: Software Engineer, Google
   keywords: computational, cancer, antibodies
+
+- name: Breanna Remigio
+  position: Undergraduate Researcher
+  keywords: computational, tensors
+  description: Breanna is an undergraduate student majoring in Computational and Systems Biology who joined the lab in the fall of 2022. She is interested in applying computational methods to biological systems to further understand how these systems function. In her free time, she enjoys playing tennis, film photography, and dancing traditional Peruvian dances.
+  current: True

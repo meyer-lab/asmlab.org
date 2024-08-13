@@ -118,7 +118,9 @@ Breanna is an undergraduate student majoring in Computational and Systems Biolog
 # Former Members
 
 {% for person in site.data.team %}
+{% unless person.current %}
 #### {{ person.name }}, {{ person.position }} {% if person.postposition %} (currently {{ person.postposition }}) {% endif %}
+{% endunless %}
 {% endfor %}
 
 #### Madeleine Murphy, M.S. Student (currently Associate Computational Biologist, Broad Institute of MIT & Harvard)
