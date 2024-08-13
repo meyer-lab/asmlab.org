@@ -61,9 +61,13 @@ Meera is an Ph.D. student who joined the lab in Fall 2022. Before coming to UCLA
 {% if person.current %}
 <div class="span_3 right"><img src="/public/photos/{{ person.photo }}" alt="{{ person.name }}'s picture" /></div>
 ### {{ person.name }}, {{ person.position }}      
+{% if person.degrees %}
+{% for degree in person.degrees %}
+{{ degree }}  
+{% endfor %}
+{% endif %}
 
 {% if person.description %}{{ person.description }}{% endif %}
-<br />
 <br />
 <br />
 <br />
