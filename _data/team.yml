@@ -61,17 +61,20 @@
   postposition: M.D. student, University of Southern California
   keywords: computational
 
-# TODO: Need to add Aarman's B.S.
+# TODO: Need to print degrees.
 - name: Armaan Abraham
   position: Development Engineer
+  degrees:
+    - B.S., Biophysics and Computer Science, University of California, Los Angeles
   keywords: computational, tensors, serology
   description: Armaan is a computational scientist in the lab, supporting several projects. He is interested in computational modeling, biological measurement, and nanoengineering. He enjoys science fiction, weightlifting, and the beach.
   photo: armaan.webp
   current: True
 
-# TODO: Need to add Crystal's B.S. and M.S.
 - name: Crystal Xiao
   position: Development Engineer
+  degrees:
+    - M.S., Bioengineering, University of California, Los Angeles
   keywords: wet lab, cytokines, serology, signaling
   description: Crystal Xiao is a research associate/lab manager who supports several projects. She has previously worked on immunotherapies, tissue engineering, and drug delivery related projects. In her spare time, she enjoys making tea and observing animals.
   joined: 2023
