@@ -61,6 +61,82 @@
   postposition: M.D. student, University of Southern California
   keywords: computational
 
+- name: Linnet Chang
+  position: Undergraduate Researcher
+  postposition: Analyst, Accenture
+  keywords:
+
+- name: Eli Snyder
+  position: Undergraduate Researcher
+  postposition: M.D. Student, University of Hawaii
+  keywords: 
+
+- name: Stephen Lees
+  position: Undergraduate Researcher
+  postposition: Ph.D. Student, Biomedical Engineering, University of Virginia
+  keywords: 
+
+- name: Edward Richards
+  position: Postdoctoral Associate
+  postposition: Associate Principal Scientist, AstraZeneca
+  keywords: 
+
+- name: Zoe Kim
+  position: Undergraduate Researcher
+  keywords: 
+
+- name: Robert Theisen
+  position: Undergraduate Researcher
+  postposition: Ph.D. student, Biomedical Engineering, University of Michigan
+  keywords: 
+
+- name: Micah Bryant
+  position: Undergraduate Researcher
+  keywords: 
+
+- name: Alison Tran
+  position: Undergraduate Researcher
+  postposition: Account Manager, Thermo Fisher
+  keywords: 
+
+- name: Heather Carmen Mercieca
+  position: Amgen Scholar
+  keywords: 
+
+- name: Moriah Garcia
+  position: Development Engineer
+  postposition: Project Manager, Genentech
+  keywords: 
+
+- name: Song Yi Bae
+  position: Postdoctoral Fellow
+  postposition: Senior Scientist, Astrin Biosciences
+  keywords: 
+
+- name: Katrina Warner
+  position: Amgen Scholar
+  postposition: Ph.D. student, Biomedical Sciences, Harvard
+  keywords: 
+
+- name: Donya Khashayar
+  position: UCLA Transfer Student Summer Research Program
+  keywords: 
+
+- name: Rui Yan
+  position: Undergraduate Researcher
+  postposition: M.S./Ph.D. student, ICME, Stanford
+  keywords: 
+
+- name: Ali Farhat
+  position: Undergraduate Researcher
+  postposition: M.D./Ph.D. Student, University of Illinois College of Medicine-Chicago
+  keywords: 
+
+- name: Adam Weiner
+  position: Undergraduate Researcher
+  postposition: Ph.D. Student, Tri-Institute CompBio
+  keywords: 
+
 # TODO: Need to print degrees.
 - name: Armaan Abraham
   position: Development Engineer

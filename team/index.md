@@ -83,38 +83,6 @@ Meera is an Ph.D. student who joined the lab in Fall 2022. Before coming to UCLA
 {% endunless %}
 {% endfor %}
 
-#### Linnet Chang, Undergraduate Researcher (currently Analyst, Accenture)
-
-#### Eli Snyder, Undergraduate Researcher (currently M.D. student, University of Hawaii)
-
-#### Stephen Lees, Undergraduate Researcher (currently Ph.D. student, [Biomedical Engineering, University of Virginia](https://engineering.virginia.edu/departments/biomedical-engineering))
-
-#### Edward Richards, Postdoctoral Associate (currently Associate Principal Scientist, AstraZeneca)
-
-#### Zoe Kim, Undergraduate Researcher
-
-#### Robert Theisen, Undergraduate Researcher (currently Ph.D. student, [Biomedical Engineering, University of Michigan](https://bme.umich.edu))
-
-#### Micah Bryant, Undergraduate Researcher
-
-#### Alison Tran, Undergraduate Researcher (currently Account Manager, Thermo Fisher)
-
-#### Heather Carmen Mercieca, Amgen Scholar
-
-#### Moriah Garcia, Development Engineer (currently Project Manager, [Genentech](https://www.gene.com))
-
-#### Song Yi Bae, Postdoctoral Fellow (currently Senior Scientist, Astrin Biosciences)
-
-#### Katrina Warner, Amgen Scholar (currently Ph.D. student, [Biomedical Sciences, Harvard](https://gsas.harvard.edu/programs-of-study/all/biological-and-biomedical-sciences))
-
-#### Donya Khashayar, UCLA Transfer Student Summer Research Program
-
-#### Rui Yan, Undergraduate Researcher (currently M.S./Ph.D. student, [ICME, Stanford](https://icme.stanford.edu))
-
-#### Ali Farhat, Undergraduate Researcher (currently M.D./Ph.D. student, [University of Illinois College of Medicine-Chicago](https://chicago.medicine.uic.edu/education/masters-and-doctorate-programs/medical-scientist-training-program/))
-
-#### Adam Weiner, Undergraduate Researcher (currently Ph.D. student, [Tri-Institute CompBio](https://compbio.triiprograms.org/))
-
 #### Annelien Zweemer, Postdoctoral Fellow (currently [Assistant Professor, Leiden University](https://www.universiteitleiden.nl/en/staffmembers/annelien-zweemer))
 
 #### Ryan Robinett, Undergraduate Researcher (currently Ph.D. student, Computer Science, University of Chicago)
