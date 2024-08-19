@@ -137,7 +137,15 @@
   postposition: Ph.D. Student, Tri-Institute CompBio
   keywords: 
 
-# TODO: Need to print degrees.
+- name: Meera Trisal
+  position: Graduate Student
+  degrees:
+    - B.S., Biological Sciences, University of California, Santa Barbara
+  keywords: serology, wet lab
+  description: Meera is an Ph.D. student who joined the lab in Fall 2022. Before coming to UCLA, Meera worked at Stanford University where she studied the mechanisms underlying the adaptive immune response to vaccination. In her free time, Meera enjoys spending time with friends, reading, playing soccer, dancing, and binge-watching TV.
+  photo: meera.webp
+  current: True
+
 - name: Armaan Abraham
   position: Development Engineer
   degrees:

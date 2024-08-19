@@ -47,15 +47,6 @@ Michelle joined the lab in Spring 2022 as a bioengineering Ph.D. student. During
 
 <br />
 
-<div class="span_3 right"><img src="/public/photos/meera.webp" width="150px" alt="Meera's picture" /></div>
-### Meera Trisal, Graduate Student      
-B.S., Biological Sciences, University of California, Santa Barbara  
-
-Meera is an Ph.D. student who joined the lab in Fall 2022. Before coming to UCLA, Meera worked at Stanford University where she studied the mechanisms underlying the adaptive immune response to vaccination. In her free time, Meera enjoys spending time with friends, reading, playing soccer, dancing, and binge-watching TV.
-
-<br />
-<br />
-
 
 {% for person in site.data.team %}
 {% if person.current %}
