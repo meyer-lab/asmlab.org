@@ -14,14 +14,6 @@ Aaron is an Associate Professor of [Bioengineering](https://www.bioeng.ucla.edu)
 
 <br />
 
-<div class="span_3 right"><img src="/public/photos/ctan.jpg" width="150px" alt="Cyrillus's picture" /></div>
-### Cyrillus Tan, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/cyrillustan"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>  <a href="mailto:cytan@g.ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>      
-B.S. Biology & Computer Science, Emory University  
-
-Cyrillus is a Bioinformatics Ph.D. student. His research interests include developing computational methods and models to understand biological systems. Aspiring traveler, amateur musician, financial analyst with no actual experience, know-it-all wannabe.
-
-<br />
-
 <div class="span_3 right"><img src="/public/photos/jacksonc.jpg" width="150px" alt="Jackson's picture" /></div>
 ### Jackson Chin, Graduate Student&nbsp;&nbsp;&nbsp;<a href="https://github.com/JacksonLChin"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>      
 B.S. Bioengineering, University of Washington

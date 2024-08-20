@@ -1,3 +1,16 @@
+- name: Cyrillus Tan
+  position: Ph.D. Student
+  degrees:
+    - B.S. Biology & Computer Science, Emory University
+  keywords: tensors, antibodies, computational
+  description: Cyrillus is a Bioinformatics Ph.D. student. His research interests include developing computational methods and models to understand biological systems. Aspiring traveler, amateur musician, financial analyst with no actual experience, know-it-all wannabe.
+  joined: 2018
+  left: 2024
+  github: cyrillustan
+  orcid: 0000-0002-5498-5509
+  postposition: Postdoctoral Associate, New York University
+  photo: ctan.jpg
+
 - name: Crystal Xiao
   position: Development Engineer
   degrees:
