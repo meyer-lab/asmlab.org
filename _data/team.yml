@@ -160,6 +160,39 @@
   postposition: Ph.D. Student, Tri-Institute CompBio
   keywords: 
 
+- name: Jackson Chin
+  position: Graduate Student
+  degrees:
+    - B.S. Bioengineering, University of Washington
+  keywords: tensors, MRSA, computational, scRNAseq
+  description: Jackson is a Ph.D. student who joined the lab during Fall 2020. He joins the lab from Pacific Northwest National Laboratory where he researched using metabolomics to predict type 1 diabetes onset. Jackson’s research interests include applying and developing tensor-based methods to unravel the mechanisms of disease. Outside of lab, Jackson is an avid soccer fan, board game collector, burrito connoisseur, and foodie.
+  photo: jacksonc.jpg
+  orcid: 0000-0001-6124-9625
+  github: JacksonLChin
+  current: True
+
+- name: Andrew Ramirez
+  position: Graduate Student
+  degrees:
+    - B.S. Chemical Engineering, University of California, Davis
+  keywords: tensors, scRNAseq, computational
+  description: Andrew is a Bioengineering Ph.D. student who joined in Fall 2021. In his free time, Andrew is an avid Netflix/Hulu watcher for shows like Modern Family, Dragon Ball Z, and Parks and Recreation, loves boba, and enjoys walking his pitbull Misty.
+  photo: andrewr.webp
+  orcid: 0009-0006-5746-9477
+  github: andrewram4287
+  current: True
+
+- name: Michelle Loui
+  position: Graduate Student
+  degrees:
+    - M.S., Biomedical Engineering, Arizona State University
+    - B.S.E., Biomedical Engineering, Arizona State University
+  keywords: serology, wet lab
+  description: Michelle joined the lab in Spring 2022 as a bioengineering Ph.D. student. During her earlier studies, she worked on developing an injectable polymer for treating cerebral aneurysms and researched the extreme properties of amyloid materials through individual fibril analysis. Her research interests include therapeutic resistance in cancer. Outside of the lab, Michelle enjoys playing Animal Crossing and Mario Kart, consuming sweets, and volunteering at the West LA animal shelter.
+  photo: mloui.webp
+  orcid: 0009-0005-9097-3213
+  current: True
+
 - name: Meera Trisal
   position: Graduate Student
   degrees:
@@ -167,6 +200,7 @@
   keywords: serology, wet lab
   description: Meera is an Ph.D. student who joined the lab in Fall 2022. Before coming to UCLA, Meera worked at Stanford University where she studied the mechanisms underlying the adaptive immune response to vaccination. In her free time, Meera enjoys spending time with friends, reading, playing soccer, dancing, and binge-watching TV.
   photo: meera.webp
+  orcid: 0000-0002-8895-1163
   current: True
 
 - name: Armaan Abraham
