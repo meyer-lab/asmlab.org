@@ -1,3 +1,13 @@
+- name: Crystal Xiao
+  position: Development Engineer
+  degrees:
+    - M.S., Bioengineering, University of California, Los Angeles
+  keywords: wet lab, cytokines, serology, signaling
+  description: Crystal Xiao is a research associate/lab manager who supports several projects. She has previously worked on immunotherapies, tissue engineering, and drug delivery related projects. In her spare time, she enjoys making tea and observing animals.
+  joined: 2023
+  left: 2024
+  photo: crystalx.webp
+
 - name: Het Desai
   position: M.S. Student
   keywords: serology, wet lab
@@ -153,16 +163,6 @@
   keywords: computational, tensors, serology
   description: Armaan is a computational scientist in the lab, supporting several projects. He is interested in computational modeling, biological measurement, and nanoengineering. He enjoys science fiction, weightlifting, and the beach.
   photo: armaan.webp
-  current: True
-
-- name: Crystal Xiao
-  position: Development Engineer
-  degrees:
-    - M.S., Bioengineering, University of California, Los Angeles
-  keywords: wet lab, cytokines, serology, signaling
-  description: Crystal Xiao is a research associate/lab manager who supports several projects. She has previously worked on immunotherapies, tissue engineering, and drug delivery related projects. In her spare time, she enjoys making tea and observing animals.
-  joined: 2023
-  photo: crystalx.webp
   current: True
 
 - name: Ethan Hung
