@@ -18,11 +18,11 @@ Aaron is an Associate Professor of [Bioengineering](https://www.bioeng.ucla.edu)
 {% for person in site.data.team %}
 {% if person.current %}
 <div class="span_3 right"><img src="/public/photos/{{ person.photo }}" alt="{{ person.name }}'s picture" /></div>
-### {{ person.name }}, {{ person.position }} {% if person.orcid %}<a href="https://orcid.org/{{ person.orcid }}"><svg class="svg-icon"><use xlink:href="#fa-orcid"></use></svg></a>{% endif %}      
+### {{ person.name }}, {{ person.position }}&nbsp;&nbsp;&nbsp;{% if person.orcid %}<a href="https://orcid.org/{{ person.orcid }}"><svg class="svg-icon"><use xlink:href="#fa-orcid"></use></svg></a>{% endif %}      
 {% if person.degrees %}
 {% for degree in person.degrees %}
-{{ degree }}  
-{% endfor %}
+{{ degree }}
+{% endfor %}  
 {% endif %}
 
 {% if person.description %}{{ person.description }}{% endif %}
