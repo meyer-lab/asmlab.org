@@ -203,6 +203,15 @@
   orcid: 0000-0002-8895-1163
   current: True
 
+- name: James Popoli
+  position: Graduate Student
+  degrees:
+    - B.S., Bioengineering, University of California, Los Angeles
+  keywords: tensors, computational, systems immunology
+  description: James is a Bioengineering Ph.D. student who joined in Summer 2024. His academic interests center around leveraging human biosystems to engineer new therapies or gain further understanding of how the body functions. For hobbies, James enjoys playing video games, practicing archery, and exploring Harbor Freight to find new tools for projects.
+  photo: jpopoli.webp
+  current: True
+
 - name: Armaan Abraham
   position: Development Engineer
   degrees:
