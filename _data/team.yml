@@ -208,7 +208,7 @@
   degrees:
     - B.S., Bioengineering, University of California, Los Angeles
   keywords: tensors, computational, systems immunology
-  description: James is a Bioengineering Ph.D. student who joined in Summer 2024. His academic interests center around leveraging human biosystems to engineer new therapies or gain further understanding of how the body functions. For hobbies, James enjoys playing video games, practicing archery, and exploring Harbor Freight to find new tools for projects.
+  description: James is a bioengineering Ph.D. student who joined in Summer 2024. His academic interests center around leveraging human biosystems to engineer new therapies or gain further understanding of how the body functions. For hobbies, James enjoys playing video games, practicing archery, and exploring Harbor Freight to find new tools for projects.
   photo: jpopoli.webp
   current: True
 
@@ -220,6 +220,15 @@
   description: Sam is a bioengineering Ph.D. student who joined the Meyer lab in Fall of 2024. He grew up in St. Paul, Minnesota where he worked at pharmaceutical companies and University of Minnesota genetics and neural engineering labs. Through these experiences, Sam found broad interests in biological systems, drug design, and machine learning approaches. He likes to spend his free time outdoors—camping, hiking, fishing, and running, and has recently gotten into nature photography.
   photo: samidon.webp
   github: samuel-amidon
+  current: True
+
+- name: Saki Minamino
+  position: Graduate Student
+  degrees:
+    - B.E., Chemical Science and Engineering, Kobe University
+  keywords: drug resistance, AXL, wet lab
+  description: Saki is a Master's student who joined the lab in 2024. Her previous research involved developing a cancer drug for photodynamic therapy targeting NRAS mRNA. Saki's current research interests include therapeutic resistance in cancer and cancer-related immunology research. In her free time, Saki enjoys playing tennis, practicing photography, and cooking.
+  photo: sminamino.webp
   current: True
 
 - name: Armaan Abraham
