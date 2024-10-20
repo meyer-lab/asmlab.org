@@ -222,6 +222,16 @@
   github: samuel-amidon
   current: True
 
+- name: Nicole Bedanova
+  position: Graduate Student
+  degrees:
+    - B.S.E., Bioengineering, University of Pennsylvania
+  keywords: cytokines, wet lab
+  description: Nicole is a bioengineering Ph.D. student who joined the Meyer lab in Fall of 2024. She previously worked at the Wistar Institute developing DNA based immunotherapy approaches for the prevention and treatment of infectious diseases and cancer. She is interested in using experimental and computational methods to better understand the immune response in the context of diseases and develop novel therapeutics. In her free time she enjoys running, trying new restaurants, making matcha, and exploring the outdoors.
+  photo: nbedanova.webp
+  github: nbedanova
+  current: True
+
 - name: Saki Minamino
   position: Graduate Student
   degrees:
