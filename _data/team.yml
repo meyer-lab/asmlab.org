@@ -288,3 +288,11 @@
   joined: 2022
   photo: bremigio.webp
   current: True
+
+- name: Aoi Tomoeda
+  position: Undergraduate Researcher
+  keywords: cancer, serology, wet lab
+  description: Aoi is an undergraduate student majoring in Chemical and Biomolecular Engineering who joined the lab in fall of 2024. She is interested in cancer-related immunology research, protein engineering, and drug discovery and development. Outside of the lab, she likes watching J-dramas, K-dramas, and exploring different cafes.
+  joined: 2024
+  photo: atomoeda.webp
+  current: True
