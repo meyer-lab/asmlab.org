@@ -249,6 +249,7 @@
   description: Armaan is a computational scientist in the lab, supporting several projects. He is interested in computational modeling, biological measurement, and nanoengineering. He enjoys science fiction, weightlifting, and the beach.
   photo: armaan.webp
   current: True
+  homepage: http://armaanabraham.com/
 
 - name: Ethan Hung
   position: Undergraduate Researcher
