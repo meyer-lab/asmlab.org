@@ -4,7 +4,7 @@ title: Team
 ---
 <img src="/public/photos/group2023.webp" width="100%" alt="Group photo from Marc's defense celebration." class="center" />
 
-<div class="span_3 right"><img src="/public/photos/aaron.jpg" width="150px" alt="Aaron's picture" /></div>
+<div class="span_3 right"><img src="/public/photos/aaron.jpg" width="150px" alt="Aaron's photo" /></div>
 
 ### Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="https://ameyer.me"><svg class="svg-icon"><use xlink:href="#fa-home"></use></svg></a> <a href="https://github.com/aarmey"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a> <a href="https://mstdn.science/@aarmey"><svg class="svg-icon"><use xlink:href="#fa-mastadon"></use></svg></a> <a href="https://orcid.org/0000-0003-4513-1840"><svg class="svg-icon"><use xlink:href="#fa-orcid"></use></svg></a> <a href="mailto:ameyer@ucla.edu"><svg class="svg-icon"><use xlink:href="#fa-envelope"></use></svg></a>    
 Ph. D., Biological Engineering, MIT    
@@ -17,7 +17,7 @@ Aaron is an Associate Professor of [Bioengineering](https://www.bioeng.ucla.edu)
 
 {% for person in site.data.team %}
 {% if person.current %}
-<div class="span_3 right"><img src="/public/photos/{{ person.photo }}" alt="{{ person.name }}'s picture" /></div>
+<div class="span_3 right"><img src="/public/photos/{{ person.photo }}" alt="{{ person.name }}'s photo" /></div>
 ### {{ person.name }}, {{ person.position }}&nbsp;&nbsp;&nbsp;{% if person.homepage %} <a href="{{ person.homepage }}"><svg class="svg-icon"><use xlink:href="#fa-home"></use></svg></a>{% endif %}{% if person.orcid %} <a href="https://orcid.org/{{ person.orcid }}"><svg class="svg-icon"><use xlink:href="#fa-orcid"></use></svg></a>{% endif %}{% if person.github %} <a href="https://github.com/{{ person.github }}"><svg class="svg-icon"><use xlink:href="#fa-github"></use></svg></a>{% endif %}      
 {% if person.degrees %}
 {% for degree in person.degrees %}
