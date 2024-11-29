@@ -169,7 +169,7 @@ footer {
     margin-top: -5px;
     text-transform: uppercase;
     border-radius: 0 0 5px 5px;
-    border-bottom: 1px solid lighten($contrast-color, 10%);
+    border-bottom: 1px solid color.adjust($contrast-color, $lightness: 10%, $space: hsl);
     text-decoration: none;
     transition: all ease-in-out .3s;
 
@@ -206,7 +206,7 @@ footer {
 }
 
 .bundle {
-  border-top: 1px solid lighten($contrast-color, 50%);
+  border-top: 1px solid color.adjust($contrast-color, $lightness: 50%, $space: hsl);
   padding-top: 10px;
   margin-bottom: 10px;
 }
