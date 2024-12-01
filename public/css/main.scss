@@ -2,10 +2,9 @@
 ---
 
 @use "sass:color";
-
-@import 'syntax';
-@import 'responsive12col';
-@import 'gfont';
+@use "syntax";
+@use "responsive12col";
+@use "gfont";
 
 $site-background-color: #fbfbfb;
 $contrast-color: #333;
