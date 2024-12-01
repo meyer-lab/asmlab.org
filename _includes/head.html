@@ -20,18 +20,34 @@
 <!-- mastodon -->
 <link rel="me" href="https://mastodon.social/@aarmey">
 
-<script src="{{site.baseurl}}/public/js/raphael.min.js"></script>
+<!-- animation -->
+<style>
+    @keyframes logoAnimation {
+        0% {
+            transform: scale(0);
+            opacity: 0;
+            box-shadow: 0 0 0 0 rgba(0, 103, 161, 0);
+        }
+        30% {
+            transform: scale(1);
+            opacity: 1;
+            box-shadow: 0 0 0 0 rgba(0, 103, 161, 0);
+        }
+        100% {
+            transform: scale(1);
+            opacity: 1;
+            box-shadow: 0 0 0 17.5px rgba(0, 103, 161, 0.3);
+        }
+    }
 
-<script>
-	window.onload = function () {
-		var paper = Raphael("logo", 100, 100);
-
-		(function () {
-			paper.clear();
-			paper.circle(50, 50, 26).animate({fill: "#000", stroke: "#0067a1", "stroke-width": 35, "stroke-opacity": 0.3}, 1000);
-		})();
-	};
-</script>
+    #logo {
+        width: 52px;
+        height: 52px;
+        background-color: #000;
+        border-radius: 50%;
+        animation: logoAnimation 1s ease-out forwards;
+    }
+</style>
 
 <!-- feed links -->
 <link rel="alternate" href="{{ site.baseurl }}/feed.xml" type="application/rss+xml" title="{{ site.name }}">
