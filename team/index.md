@@ -41,7 +41,7 @@ Aaron is an Associate Professor of [Bioengineering](https://www.bioeng.ucla.edu)
 {% endunless %}
 {% endfor %}
 
-#### Annelien Zweemer, Postdoctoral Fellow (currently [Assistant Professor, Leiden University](https://www.universiteitleiden.nl/en/staffmembers/annelien-zweemer))
+#### Annelien Zweemer, Postdoctoral Fellow (currently Assistant Professor, Leiden University)
 
 #### Ryan Robinett, Undergraduate Researcher (currently Ph.D. student, Computer Science, University of Chicago)
 

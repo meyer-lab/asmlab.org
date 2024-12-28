@@ -1,5 +1,5 @@
-url:
-baseurl:
+url: https://asmlab.org/
+baseurl: /
 timezone: Etc/UTC
 
 sass:
