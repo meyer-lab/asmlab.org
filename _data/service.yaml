@@ -1,0 +1,421 @@
+service:
+  department:
+    - role: Member
+      organization: Ad Hoc Promotion Committee
+      date: 2023, 2024
+
+    - role: Poster Judge
+      organization: Bioengineering Research Day
+      date: 2024
+
+    - role: Equity, Diversity, & Inclusion Panel Member
+      organization: Biomedical Engineering Society
+      date: 2024
+
+    - role: Member
+      organization: Ad Hoc P&T Committee
+      date: 2023
+
+    - role: Judge
+      organization: Biomedical Engineering Society BioHack
+      date: 2022–2023
+
+    - role: Member
+      organization: Diversity, Equity and Inclusion Committee
+      date: 2021–2024
+
+    - role: Member
+      organization: Bioengineering Hiring Search Committee
+      date: 2021–2022, 2023–2024, 2024–2025
+
+    - role: Member
+      organization: Teaching Facility & Shared Equipment Committee
+      date: 2021–2024
+
+    - role: Member
+      organization: Strategic Planning Committee
+      date: 2020
+
+    - role: Co-Chair
+      organization: Bioengineering and Computational Medicine Joint Hiring Search
+      date: 2019–2020
+
+    - role: Field Chair
+      organization: Biosystem Science and Engineering
+      date: 2019–Present
+
+    - role: Co-Chair
+      organization: Graduate Admissions Committee
+      date: 2019–Present
+
+    - role: Member
+      organization: Undergraduate Curriculum Committee
+      date: 2019–Present
+
+    - role: Member
+      organization: Bioengineering Alumni Committee
+      date: 2018–Present
+
+    - role: Chair
+      organization: Department of Bioengineering Seminar Series
+      date: 2018–2019
+
+    - role: Member
+      organization: Publicity Committee
+      date: 2017–2018
+  school:
+    - role: Bioengineering Representative
+      organization: HSSEAS GPU Ad Hoc Committee
+      date: "2024"
+
+    - role: Member
+      organization: Hiring Committee, Hispanic Serving Institution STEM Faculty Director
+      date: "2024"
+
+    - role: Member
+      organization: HSSEAS Strategic Planning Committee
+      date: "2024"
+
+    - role: Chair
+      organization: Campus Response to the Climate Crisis Special Committee, Faculty Senate
+      date: 2023–Present
+
+    - role: Ad Hoc Member
+      organization: Executive Board, Faculty Senate
+      date: 2023–Present
+
+    - role: Faculty Speaker
+      organization: UCLA Life Sciences Webinar Series
+      date: "2023"
+
+    - role: Dean's Prize Poster Judge
+      organization: Undergraduate Research and Creativity Showcase
+      date: "2023"
+
+    - role: Poster Judge
+      organization: Jonsson Cancer Center Annual Retreat
+      date: "2023"
+
+    - role: Reviewer
+      organization: Tau Beta Pi Chapter Excellence Scholarship
+      date: 2021–2023
+
+    - role: Selection Committee
+      organization: Faculty Career Development Award, Office of Equity, Diversity and Inclusion
+      date: "2022"
+
+    - role: Faculty Participant
+      organization: Coffee Chat Series, Computational & Systems Biology
+      date: "2022"
+
+    - role: Member
+      organization: Minors Committee, Computational & Systems Biology
+      date: 2021–2023
+
+    - role: Panelist
+      organization: Graduate School Panel, Computational & Systems Biology
+      date: "2021"
+
+    - role: Faculty Representative
+      organization: Samueli Engineering Grad School Info Session
+      date: "2020"
+
+    - role: Faculty Representative
+      organization: Annual Biomedical Research Conference for Minority Students
+      date: 2018, 2020
+
+    - role: Curriculum Advisory Committee
+      organization: Computational & Systems Biology
+      date: 2020–Present
+
+    - role: Written Qualifying Exam Evaluator
+      organization: Bioinformatics IDP
+      date: "2020"
+
+    - role: Mentor
+      organization: B.I.G. Summer
+      date: 2020–2024
+
+    - role: Member
+      organization: SPUR "Life of a Faculty Member" Panel
+      date: "2020"
+
+    - role: Ad Hoc Member
+      organization: HSSEAS Faculty Executive Committee
+      date: April 2020
+
+    - role: Application Reviewer
+      organization: Amgen Scholars Program
+      date: 2020, 2022, 2023, 2024
+
+    - role: Reviewer
+      organization: Graduate Division's Faculty Review Committee
+      date: "2020"
+
+    - role: Faculty Volunteer
+      organization: Society of Women Engineers Recruitment Dinner
+      date: 2019, 2020
+
+    - role: Member
+      organization: HSSEAS SEASnet Review Committee
+      date: "2019"
+
+    - role: Faculty Advisor
+      organization: Tau Beta Pi
+      date: 2017–Present
+
+    - role: Faculty Volunteer
+      organization: Amgen Scholars Symposium
+      date: 2018–2024
+
+    - role: Member
+      organization: HSSEAS Awards Committee for Outstanding Student Awards
+      date: "2018"
+
+    - role: Faculty Speaker
+      organization: UCLA Engineering Alumni Reunion
+      date: "2018"
+  profession:
+    - role: Co-Chair
+      organization: Modeling Working Group, Systems Biology for Infectious Diseases Consortium
+      date: 2023–Present
+
+    - role: Webmaster
+      organization: BME Underrepresented Needs In Technology & Engineering (UNITE)
+      date: 2022–Present
+
+    - role: Co-Organizer
+      organization: BME UNITE Webinar Series
+      date: 2021–Present
+
+    - role: Chalk Talk Mentor
+      organization: BME Underrepresented Needs In Technology & Engineering (UNITE)
+      date: 2024–Present
+
+    - role: Organizer
+      organization: Sys. Immunol. Approaches in Transplantation Tolerance and Rejection Conference
+      date: 2024–2025
+
+    - role: Poster Judge
+      organization: Immunology LA Conference
+      date: "2024"
+
+    - role: Ad Hoc External Tenure Case Evaluator
+      organization: University of California, San Diego
+      date: "2024"
+
+    - role: Ad Hoc Reviewer
+      organization: Cell
+      date: "2024"
+
+    - role: Ad Hoc Reviewer
+      organization: La Matematica
+      date: "2024"
+
+    - role: Reviewer
+      organization: National Centre of Competence in Research, Swiss National Science Foundation
+      date: "2024"
+
+    - role: Ad Hoc Reviewer
+      organization: Genome Medicine
+      date: "2024"
+
+    - role: Ad Hoc Study Section
+      organization: NCI Human Tumor Atlas Network
+      date: "2024"
+
+    - role: Ad Hoc Reviewer
+      organization: Metabolomics
+      date: "2023"
+
+    - role: Ad Hoc Reviewer
+      organization: Cancer Gene Therapy
+      date: "2023"
+
+    - role: Ad Hoc Reviewer (4x)
+      organization: Science Signaling
+      date: 2020–2023
+
+    - role: Ad Hoc Reviewer (3x)
+      organization: Science Advances
+      date: 2020–2023
+
+    - role: "Track Chair: Computational & Systems Biology"
+      organization: Biomedical Engineering Society Annual Meeting
+      date: "2023"
+
+    - role: Abstract Reviewer
+      organization: UC Systemwide Bioengineering Symposium
+      date: 2023
+
+    - role: F31 Co-Sponsor
+      organization: Mollie Harrison (Advisor Stephanie Seidlits, University of Texas, Austin)
+      date: 2022
+
+    - role: Ad Hoc Reviewer
+      organization: Cancer Immunology Research
+      date: 2022
+
+    - role: Co-Chair
+      organization: Resource & Data Sharing Working Group, Cancer Systems Biology Consortium
+      date: 2022–2024
+
+    - role: Ad Hoc Reviewer
+      organization: iScience
+      date: 2022
+
+    - role: Poster Judge
+      organization: Cellular & Molecular Bioengineering Meeting
+      date: 2022
+
+    - role: Example U01 proposal
+      organization: NIH National Institute of Allergy and Infectious Diseases
+      date: 2021
+
+    - role: Reviewer
+      organization: Australia Medical Research Future Fund
+      date: 2022
+
+    - role: Local Organizing Committee
+      organization: Southern California Systems Biology Conference
+      date: 2022
+
+    - role: Ad Hoc Reviewer
+      organization: Soft Matter
+      date: 2022
+
+    - role: Ad Hoc Reviewer
+      organization: FEBS Letters
+      date: 2021
+
+    - role: Abstract Reviewer
+      organization: Biomedical Engineering Society Annual Meeting
+      date: 2021, 2022
+
+    - role: Financial Officer
+      organization: Association of Cancer Systems Biologists
+      date: 2021–Present
+
+    - role: Session Co-Chair
+      organization: Biomedical Engineering Society Annual Meeting
+      date: 2020
+
+    - role: Volunteer Speed Interviewer
+      organization: Biomedical Engineering Society Annual Meeting
+      date: 2020
+
+    - role: Volunteer Resume Reviewer
+      organization: Biomedical Engineering Society Annual Meeting
+      date: 2020
+
+    - role: Member
+      organization: BME Underrepresented Needs In Technology & Engineering (UNITE)
+      date: 2020–Present
+
+    - role: Panelist
+      organization: Amgen Scholars Summer Science Series
+      date: 2020
+
+    - role: Ad Hoc Reviewer
+      organization: PLOS Biology
+      date: 2020, 2021
+
+    - role: Ad Hoc Reviewer
+      organization: Cancer Research
+      date: 2020
+
+    - role: External Reviewer
+      organization: Ming Hsieh Institute, USC
+      date: 2020
+
+    - role: Ad Hoc Reviewer
+      organization: Cell Systems
+      date: 2020
+
+    - role: Ad Hoc Reviewer
+      organization: APL Bioengineering
+      date: 2020
+
+    - role: Ad Hoc Reviewer
+      organization: Integrative Biology
+      date: 2019
+
+    - role: Ad Hoc Reviewer
+      organization: Scientific Reports
+      date: 2019
+
+    - role: Ad Hoc Reviewer
+      organization: PNAS
+      date: 2019
+
+    - role: Ad Hoc Reviewer
+      organization: Current Opinion in Systems Biology
+      date: 2019
+
+    - role: Co-Chair
+      organization: Association of Cancer Systems Biologists
+      date: 2017–2021
+
+    - role: Ad Hoc Reviewer
+      organization: PLOS Computational Biology
+      date: 2018, 2024
+
+    - role: Interviewee
+      organization: Prescriber Magazine
+      date: 2017
+
+    - role: Ad Hoc Reviewer
+      organization: WIREs Systems Biology and Medicine
+      date: 2017
+
+    - role: Ad Hoc Remote Reviewer
+      organization: Irish Research Council
+      date: 2017
+
+    - role: Ad Hoc Reviewer
+      organization: Cell Reports
+      date: 2017, 2023
+
+    - role: Graduate Research Fellowship Program Review Panelist
+      organization: National Science Foundation
+      date: 2016–2017
+
+    - role: Meeting Organizer & Member
+      organization: Association of Early Career Cancer Systems Biologists
+      date: 2015–2016
+
+    - role: Ad Hoc Reviewer
+      organization: Biomedical Engineering Society Annual Meeting
+      date: 2016
+
+    - role: Ad Hoc Reviewer
+      organization: Drug Discovery Today
+      date: 2016
+
+    - role: Ad Hoc Reviewer
+      organization: Molecular Cell
+      date: 2015
+
+    - role: Member
+      organization: Biomedical Engineering Society
+      date: 2010–Present
+
+    - role: Coordinator
+      organization: MIT Biological Engineering Graduate Student Board
+      date: 2010–2013
+
+    - role: Ad Hoc Reviewer
+      organization: Oncogene
+      date: 2013
+
+    - role: Ad Hoc Reviewer
+      organization: Nature
+      date: 2013
+
+    - role: Member
+      organization: MIT Biological Engineering Retreat Organizing Committee
+      date: 2010–2012
+
+    - role: Ad Hoc Reviewer
+      organization: J. Cell Biol.
+      date: 2011–2012
