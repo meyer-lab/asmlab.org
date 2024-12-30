@@ -10,6 +10,8 @@
   orcid: 0000-0002-5498-5509
   postposition: Postdoctoral Associate, New York University
   photo: ctan.jpg
+  awards:
+    - Dissertation Year Fellowship, UCLA Graduate Division
 
 - name: Crystal Xiao
   position: Development Engineer
@@ -35,18 +37,31 @@
 
 - name: Emily Lin
   position: Undergraduate Student
+  joined: 2021
+  left: 2024
   postposition: Ph.D. student, Bioengineering, University of Pennsylvania
   keywords: cytokines, computational
 
 - name: Brian Orcutt-Jahns
   position: Ph.D. Student
+  joined: 2019
+  left: 2024
   postposition: Postdoctoral Associate, Genentech
   keywords: cytokines, computational
+  awards:
+    - Best Poster Award, CSBC Junior Investigator Meeting
+    - Best Poster Award, Cytokine Society
+    - Best Presentation Award, Los Angeles Bioscience Ecosystem Summit
+    - Outstanding Ph.D. Award, Department of Bioengineering
 
 - name: Farnaz Mohammadi
   position: Ph.D. Student
   postposition: Postdoctoral Associate, Genentech
   keywords: cancer, computational
+  joined: 2018
+  left: 2023
+  awards:
+    - Dissertation Year Fellowship, UCLA Graduate Division
 
 - name: Scott Taylor
   position: Development Engineer
@@ -56,10 +71,16 @@
 - name: Marc Creixell
   position: Ph.D. Student
   postposition: Scientist, Calico Life Sciences
+  joined: 2018
+  left: 2020
   keywords: cancer, computational, wet lab, signaling
+  awards:
+    - JCCC Fellowship
 
 - name: JC Lagarde
   position: Undergraduate Researcher
+  joined: 2019
+  left: 2022
   postposition: Process Engineer, Illumina
   keywords: computational, cancer
 
@@ -67,10 +88,14 @@
   position: Undergraduate Researcher
   postposition: Medical Assistant, Glaucoma Center of San Francisco
   keywords: computational, antibodies
+  joined: 2021
+  left: 2022
 
 - name: Sumedha Kanthamneni
   position: Undergraduate Researcher
   postposition: Software Engineer, Google
+  joined: 2019
+  left: 2022
   keywords: computational, cancer, antibodies
 
 - name: Madeleine Murphy
@@ -102,6 +127,8 @@
 - name: Linnet Chang
   position: Undergraduate Researcher
   postposition: Analyst, Accenture
+  joined: 2018
+  left: 2021
   keywords:
 
 - name: Eli Snyder
@@ -112,7 +139,9 @@
 - name: Stephen Lees
   position: Undergraduate Researcher
   postposition: Ph.D. Student, Biomedical Engineering, University of Virginia
-  keywords: 
+  joined: 2018
+  left: 2021
+  keywords: antibodies
 
 - name: Edward Richards, Ph.D.
   position: Postdoctoral Associate
@@ -132,20 +161,30 @@
 
 - name: Zoe Kim
   position: Undergraduate Researcher
+  postposition: GaN Corporation
   keywords: 
+  joined: 2018
+  left: 2020
 
 - name: Robert Theisen
   position: Undergraduate Researcher
   postposition: Ph.D. student, Biomedical Engineering, University of Michigan
   keywords: 
+  joined: 2018
+  left: 2020
 
 - name: Micah Bryant
   position: Undergraduate Researcher
+  postposition: M.S., Mechanical Engineering, UCSD
+  joined: 2018
+  left: 2020
   keywords: 
 
 - name: Alison Tran
   position: Undergraduate Researcher
-  postposition: Account Manager, Thermo Fisher
+  postposition: Biosciences Account Manager, Thermo Fisher Scientific
+  joined: 2018
+  left: 2020
   keywords: 
 
 - name: Heather Carmen Mercieca
@@ -168,6 +207,8 @@
   position: Amgen Scholar
   postposition: Ph.D. student, Biomedical Sciences, Harvard
   keywords: 
+  joined: 2018
+  left: 2018
 
 - name: Donya Khashayar
   position: UCLA Transfer Student Summer Research Program
@@ -181,37 +222,54 @@
 - name: Ali Farhat
   position: Undergraduate Researcher
   postposition: M.D./Ph.D. Student, University of Illinois College of Medicine-Chicago
+  awards:
+    - Rose Hills Foundation Scholar
+  joined: 2017
+  left: 2019
   keywords: 
 
-- name: Adam Weiner
+- name: Adam Weiner, Ph.D.
   position: Undergraduate Researcher
   postposition: Ph.D. Student, Tri-Institute CompBio
+  joined: 2017
+  left: 2019
+  awards:
+    - Internet Research Initiative Award
   keywords: 
 
 - name: Jackson Chin
-  position: Graduate Student
+  position: Ph.D. Student
   degrees:
     - B.S. Bioengineering, University of Washington
   keywords: tensors, MRSA, computational, scRNAseq
   description: Jackson is a Ph.D. student who joined the lab during Fall 2020. He joins the lab from Pacific Northwest National Laboratory where he researched using metabolomics to predict type 1 diabetes onset. Jackson’s research interests include applying and developing tensor-based methods to unravel the mechanisms of disease. Outside of lab, Jackson is an avid soccer fan, board game collector, burrito connoisseur, and foodie.
   photo: jacksonc.jpg
   orcid: 0000-0001-6124-9625
+  joined: 2020
+  left: 2025
   github: JacksonLChin
   current: True
+  awards:
+    - Best Poster Award, QC Bio Retreat, 2022
 
 - name: Andrew Ramirez
-  position: Graduate Student
+  position: Ph.D. Student
   degrees:
     - B.S. Chemical Engineering, University of California, Davis
   keywords: tensors, scRNAseq, computational
   description: Andrew is a Bioengineering Ph.D. student who joined in Fall 2021. In his free time, Andrew is an avid Netflix/Hulu watcher for shows like Modern Family, Dragon Ball Z, and Parks and Recreation, loves boba, and enjoys walking his pitbull Misty.
   photo: andrewr.webp
+  joined: 2021
   orcid: 0009-0006-5746-9477
   github: andrewram4287
   current: True
+  awards:
+    - NSF Graduate Research Fellowship
+    - Cota Robles Fellowship
+    - UCLA EDI Student Leadership Award
 
 - name: Michelle Loui
-  position: Graduate Student
+  position: Ph.D. Student
   degrees:
     - M.S., Biomedical Engineering, Arizona State University
     - B.S.E., Biomedical Engineering, Arizona State University
@@ -219,53 +277,62 @@
   description: Michelle joined the lab in Spring 2022 as a bioengineering Ph.D. student. During her earlier studies, she worked on developing an injectable polymer for treating cerebral aneurysms and researched the extreme properties of amyloid materials through individual fibril analysis. Her research interests include therapeutic resistance in cancer. Outside of the lab, Michelle enjoys playing Animal Crossing and Mario Kart, consuming sweets, and volunteering at the West LA animal shelter.
   photo: mloui.webp
   orcid: 0009-0005-9097-3213
+  joined: 2022
   current: True
+  awards:
+    - SURF Fellowship, UCLA Graduate Division
+    - JCCC Fellowship
 
 - name: Meera Trisal
-  position: Graduate Student
+  position: Ph.D. Student
   degrees:
     - B.S., Biological Sciences, University of California, Santa Barbara
   keywords: serology, wet lab
   description: Meera is an Ph.D. student who joined the lab in Fall 2022. Before coming to UCLA, Meera worked at Stanford University where she studied the mechanisms underlying the adaptive immune response to vaccination. In her free time, Meera enjoys spending time with friends, reading, playing soccer, dancing, and binge-watching TV.
   photo: meera.webp
+  joined: 2023
   orcid: 0000-0002-8895-1163
   current: True
 
 - name: James Popoli
-  position: Graduate Student
+  position: Ph.D. Student
   degrees:
     - B.S., Bioengineering, University of California, Los Angeles
   keywords: tensors, computational, systems immunology
+  joined: 2024
   description: James is a bioengineering Ph.D. student who joined in Summer 2024. His academic interests center around leveraging human biosystems to engineer new therapies or gain further understanding of how the body functions. For hobbies, James enjoys playing video games, practicing archery, and exploring Harbor Freight to find new tools for projects.
   photo: jpopoli.webp
   github: MrBones1102
   current: True
 
 - name: Sam Amidon
-  position: Graduate Student
+  position: Ph.D. Student
   degrees:
     - B.S., Biomedical Engineering, University of Minnesota
   keywords: cytokines, wet lab
   description: Sam is a bioengineering Ph.D. student who joined the Meyer lab in Fall of 2024. He grew up in St. Paul, Minnesota where he worked at pharmaceutical companies and University of Minnesota genetics and neural engineering labs. Through these experiences, Sam found broad interests in biological systems, drug design, and machine learning approaches. He likes to spend his free time outdoors—camping, hiking, fishing, and running, and has recently gotten into nature photography.
   photo: samidon.webp
+  joined: 2024
   github: samuel-amidon
   current: True
 
 - name: Nicole Bedanova
-  position: Graduate Student
+  position: Ph.D. Student
   degrees:
     - B.S.E., Bioengineering, University of Pennsylvania
   keywords: cytokines, wet lab
   description: Nicole is a bioengineering Ph.D. student who joined the Meyer lab in Fall of 2024. She previously worked at the Wistar Institute developing DNA based immunotherapy approaches for the prevention and treatment of infectious diseases and cancer. She is interested in using experimental and computational methods to better understand the immune response in the context of diseases and develop novel therapeutics. In her free time she enjoys running, trying new restaurants, making matcha, and exploring the outdoors.
   photo: nbedanova.webp
+  joined: 2024
   github: nbedanova
   current: True
 
 - name: Saki Minamino
-  position: Graduate Student
+  position: M.S. Student
   degrees:
     - B.E., Chemical Science and Engineering, Kobe University
   keywords: drug resistance, AXL, wet lab
+  joined: 2024
   description: Saki is a Master's student who joined the lab in 2024. Her previous research involved developing a cancer drug for photodynamic therapy targeting NRAS mRNA. Saki's current research interests include therapeutic resistance in cancer and cancer-related immunology research. In her free time, Saki enjoys playing tennis, practicing photography, and cooking.
   photo: sminamino.webp
   current: True
@@ -285,14 +352,19 @@
   keywords: tensors, computational
   description: Ethan is an undergraduate student majoring in Computational & Systems Biology who joined the lab in Fall 2021. He's interested in computational approaches to biological data and more broadly, how they can be applied in medicine. Outside the lab, he's a big foodie, loves playing tennis and rock climbing, and spends his free time folding origami and watching Netflix.
   joined: 2021
+  left: 2024
   photo: ethan.webp
   current: True
+  awards:
+    - Amgen Scholar, Berkeley
+    - Bruins-in-Genomics, UCLA
 
 - name: Victoria Gong
   position: Undergraduate Researcher
   keywords: cancer, serology, wet lab
   description: Victoria is an undergraduate student majoring in biochemistry. She is interested in cancer-related immunology research, protein engineering and structural analysis, and drug discovery/design. In her free time, she enjoys archery and singing.
   photo: victoria.webp
+  joined: 2023
   current: True
 
 - name: Allison Brookhart
@@ -326,3 +398,14 @@
   joined: 2024
   photo: atomoeda.webp
   current: True
+
+- name: Jamie Stickelmaier
+  position: Undergraduate Researcher
+  joined: 2021
+  left: 2023
+
+- name: Hakan Alpay
+  position: Undergraduate Researcher
+  postposition: Frontend Engineer, Facebook
+  joined: 2021
+  left: 2021
