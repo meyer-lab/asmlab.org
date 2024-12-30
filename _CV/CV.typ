@@ -1,7 +1,7 @@
 #import "modernpro-cv.typ": *
 
 #show: cv-single.with(
-  font-type: "Avenir",
+  font-type: "Liberation Sans",
   continue-header: "false",
   name: "Aaron S. Meyer",
   address: [],
