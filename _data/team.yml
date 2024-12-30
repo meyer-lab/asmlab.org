@@ -122,6 +122,8 @@
 - name: Amanda Tsao
   position: Undergraduate Researcher
   postposition: M.D. student, University of Southern California
+  joined: 2019
+  left: 2021
   keywords: computational
 
 - name: Linnet Chang
@@ -134,6 +136,8 @@
 - name: Eli Snyder
   position: Undergraduate Researcher
   postposition: M.D. Student, University of Hawaii
+  joined: 2020
+  left: 2021
   keywords: 
 
 - name: Stephen Lees
@@ -189,6 +193,8 @@
 
 - name: Heather Carmen Mercieca
   position: Amgen Scholar
+  joined: 2019
+  left: 2019
   keywords: 
 
 - name: Moriah Garcia
@@ -212,12 +218,60 @@
 
 - name: Donya Khashayar
   position: UCLA Transfer Student Summer Research Program
+  joined: 2018
+  left: 2018
   keywords: 
 
 - name: Rui Yan
   position: Undergraduate Researcher
   postposition: M.S./Ph.D. student, ICME, Stanford
+  joined: 2017
+  left: 2019
+  awards:
+    - Cathy Bank Scholarship
   keywords: 
+
+- name: Luka Karginov
+  position: NCI CSBC Summer Scholar
+  postposition: Ph.D. student, Biological Engineering, MIT
+  joined: 2020
+  left: 2021
+  keywords:
+
+- name: Aditya Sivakumar
+  position: Undergraduate Researcher
+  joined: 2020
+  left: 2021
+  keywords:
+
+- name: Peter Emmel
+  position: Undergraduate Researcher
+  joined: 2019
+  left: 2022
+  keywords:
+
+- name: Willie Wu
+  position: Undergraduate Researcher
+  postposition: Software Engineer, Rivian
+  joined: 2018
+  left: 2019
+  keywords:
+
+- name: Ning Guan
+  position: Undergraduate Researcher
+  postposition: Ph.D. student, Systems Biology, Harvard
+  joined: 2015
+  left: 2017
+  keywords: antibodies
+
+- name: Ryan Robinett
+  position: Undergraduate Researcher
+  postposition: Ph.D. student, Computer Science, University of Chicago
+  joined: 2015
+  left: 2017
+  awards:
+    - National Science Foundation Graduate Research Fellowship
+  keywords: antibodies
 
 - name: Ali Farhat
   position: Undergraduate Researcher

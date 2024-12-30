@@ -430,22 +430,6 @@ Massachusetts Institute of Technology
 #subsection("Undergraduate Students")
 #student_list(uteam)
 
-/*
-- Luka Karginov (NCI CSBC Summer Scholar; Ph.D., Biological Engineering, MIT) #h(1fr) 2020--2021
-- Aditya Sivakumar #h(1fr) 2020--2021
-- Eli Snyder (M.D., University of Hawaii) #h(1fr) 2020--2021
-- Peter Emmel #h(1fr) 2019--2022
-- Amanda Tsao (M.D., University of Southern California) #h(1fr) 2019--2021
-- Heather Carmen Mercieca (Amgen Scholar) #h(1fr) 2019
-- Willie Wu (Software Engineer, Rivian) #h(1fr) 2018--2019
-- Donya Khashayar (Transfer Student Summer Research Program) #h(1fr) 2018
-- Rui Yan (Ph.D., ICME, Stanford) #h(1fr) 2017--2019
-  - Cathy Bank Scholarship
-- Ning Guan (Ph.D., Systems Biology, Harvard) #h(1fr) 2015--2017
-- Ryan Robinett (Ph.D., Comp. Sci., U. Chicago) #h(1fr) 2015--2017
-  - National Science Foundation Graduate Research Fellowship
-*/
-
 #section("Service")
 
 #let data = yaml("../_data/service.yaml")
