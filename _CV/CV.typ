@@ -178,10 +178,15 @@ _Siebel Scholar, Class of 2014_ #h(1fr) 2013
 )
 #show regex(authors.join("|")): strong
 
+#let re = regex("\[([0-9]+)\]")
+#show re: it => {
+  let d = 53 - int(it.text.match(re).captures.at(0))
+  [#sym.bracket.l#d#sym.bracket.r]
+}
+
 #bibliography("../_bibliography/pubs.bib", title: none, full: true, style: "./ieee.csl")
 
 ]
-
 
 
 #section("Research Support")
@@ -396,77 +401,39 @@ Massachusetts Institute of Technology
 
 #section("Research Supervision")
 
-#subsection("Postdoctoral Fellows")
+#let student_list(msteam) = {
+  for post in msteam [
+    - #post.name#if "postposition" in post [~(#post.postposition)]  #h(1fr) #post.joined#sym.dash.en#if "left" in post [#post.left] else [Present]
+    #if "awards" in post [
+      #set list(marker: [‣], indent: 10pt)
+      #for award in post.awards [
+        - #award
+      ]
+    ]
+  ]
+}
 
-- Catera Wilder, Ph.D.~(Assistant Professor, UCSF)  #h(1fr)  2018--2022
-- Song Yi Bae, Ph.D.~(Senior Scientist, Astrin Biosciences) #h(1fr) 2016--2019
-- Edward Richards, Ph.D.~(Senior Scientist, Dragonfly Therapeutics) #h(1fr) 2015--2020
-  - American Cancer Society Postdoctoral Fellowship
-- Annelien Zweemer, Ph.D.~(Assistant Professor, Leiden University) #h(1fr) 2014--2017
+#let team = yaml("../_data/team.yml")
+#let posts = team.filter(x => x.position.contains("Postdoctoral")).sorted(key: x => x.joined).rev()
+
+#subsection("Postdoctoral Fellows")
+#student_list(posts)
+
+
+#let phdteam = team.filter(x => x.position.contains("Ph.D.")).sorted(key: x => x.joined).rev()
 
 #subsection("Ph.D. Students")
+#student_list(phdteam)
 
-- Meera Trisal #h(1fr) 2023--Present
-- Michelle Loui #h(1fr) 2022--Present
-  - SURF Fellowship, UCLA Graduate Division
-- Andrew Ramirez #h(1fr) 2021--Present
-  - NSF Graduate Research Fellowship
-  - Cota Robles Fellowship
-  - UCLA EDI Student Leadership Award
-- Jackson Chin #h(1fr) 2020--2025
-  - Best Poster Award, QC Bio Retreat, 2022
-- Brian Orcutt-Jahns (Postdoctoral Associate, Genentech) #h(1fr) 2019--2024
-  - Best Poster Award, CSBC Junior Investigator Meeting
-  - Best Poster Award, Cytokine Society
-  - Best Presentation Award, Los Angeles Bioscience Ecosystem Summit
-  - Outstanding Ph.D.~Award, Department of Bioengineering
-- Cyrillus Tan #h(1fr) 2019--2024
-  - Dissertation Year Fellowship, UCLA Graduate Division
-- Farnaz Mohammadi (Postdoctoral Associate, Genentech) #h(1fr) 2018--2023
-  - Dissertation Year Fellowship, UCLA Graduate Division
-- Marc Creixell (Scientist, Calico Life Sciences) #h(1fr) 2018--2023
-  - JCCC Fellowship
+#let msteam = team.filter(x => x.position.contains("M.S.")).sorted(key: x => x.joined).rev()
 
 #subsection("M.S. Students")
+#student_list(msteam)
 
-- Het Desai #h(1fr) 2023--2024
-- Manmeet Bains #h(1fr) 2023--2024
-- Enio Hodzic (Machine Learning Algorithm Engineer, Adaptive Dynamics) #h(1fr) 2021--2023
-- Madeleine Murphy (Computational Biologist, Broad Institute) #h(1fr) 2020--2022
+#let uteam = team.filter(x => x.position.contains("Undergraduate")).sorted(key: x => x.joined).rev()
 
 #subsection("Undergraduate Students")
-
-- Jamie Stickelmaier #h(1fr) 2021--2023
-- Ethan Hung (Amgen Scholar, Berkeley) #h(1fr) 2021--2024
-- Eva Hunter #h(1fr) 2021--2022
-- Hakan Alpay (Frontend Engineer, Facebook) #h(1fr) 2021
-- Luka Karginov (NCI CSBC Summer Scholar; Ph.D., Biological Engineering, MIT) #h(1fr) 2020--2021
-- Aditya Sivakumar #h(1fr) 2020--2021
-- Eli Snyder (M.D., University of Hawaii) #h(1fr) 2020--2021
-- Peter Emmel #h(1fr) 2019--2022
-- Amanda Tsao (M.D., University of Southern California) #h(1fr) 2019--2021
-- JC Lagarde #h(1fr) 2019--2022
-- Sumedha Kanthamneni (Google) #h(1fr) 2019--2022
-- Heather Carmen Mercieca (Amgen Scholar) #h(1fr) 2019
-- Linnet Chang (Analyst, Accenture) #h(1fr) 2018--2021
-- Stephen Lees (Ph.D., Biomedical Engineering, UVA) #h(1fr) 2018--2021
-- Zoe Kim (Engineer, GaN Corporation) #h(1fr) 2018--2020
-- Micah Bryant (M.S., Mechanical Engineering, UCSD) #h(1fr) 2018--2020
-- Robby Theisen (Ph.D., Biomedical Engineering, University of Michigan) #h(1fr) 2018--2020
-- Alison Tran (Biosciences Account Manager, Thermo Fisher Scientific) #h(1fr) 2018--2020
-- Willie Wu (Software Engineer, Rivian) #h(1fr) 2018--2019
-- Katrina Warner (Amgen Scholar; Ph.D., Biomedical Sciences, Harvard) #h(1fr) 2018
-- Donya Khashayar (Transfer Student Summer Research Program) #h(1fr) 2018
-- Rui Yan (Ph.D., ICME, Stanford) #h(1fr) 2017--2019
-  - Cathy Bank Scholarship
-- Ali Farhat (M.D./Ph.D., U Illinois) #h(1fr) 2017--2019
-  - Rose Hills Foundation Scholar
-- Adam Weiner (Ph.D., Tri-Institute CompBio) #h(1fr) 2017--2019
-  - Internet Research Initiative Award
-- Ning Guan (Ph.D., Systems Biology, Harvard) #h(1fr) 2015--2017
-- Ryan Robinett (Ph.D., Comp. Sci., U. Chicago) #h(1fr) 2015--2017
-  - National Science Foundation Graduate Research Fellowship
-
+#student_list(uteam)
 
 #section("Service")
 
