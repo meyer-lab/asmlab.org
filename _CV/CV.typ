@@ -414,29 +414,11 @@ Massachusetts Institute of Technology
 #subsection("Postdoctoral Fellows")
 #student_list(posts)
 
+
+#let phdteam = team.filter(x => x.position.contains("Ph.D.")).sorted(key: x => x.joined).rev()
+
 #subsection("Ph.D. Students")
-
-- Meera Trisal #h(1fr) 2023--Present
-- Michelle Loui #h(1fr) 2022--Present
-  - SURF Fellowship, UCLA Graduate Division
-- Andrew Ramirez #h(1fr) 2021--Present
-  - NSF Graduate Research Fellowship
-  - Cota Robles Fellowship
-  - UCLA EDI Student Leadership Award
-- Jackson Chin #h(1fr) 2020--2025
-  - Best Poster Award, QC Bio Retreat, 2022
-- Brian Orcutt-Jahns (Postdoctoral Associate, Genentech) #h(1fr) 2019--2024
-  - Best Poster Award, CSBC Junior Investigator Meeting
-  - Best Poster Award, Cytokine Society
-  - Best Presentation Award, Los Angeles Bioscience Ecosystem Summit
-  - Outstanding Ph.D.~Award, Department of Bioengineering
-- Cyrillus Tan #h(1fr) 2019--2024
-  - Dissertation Year Fellowship, UCLA Graduate Division
-- Farnaz Mohammadi (Postdoctoral Associate, Genentech) #h(1fr) 2018--2023
-  - Dissertation Year Fellowship, UCLA Graduate Division
-- Marc Creixell (Scientist, Calico Life Sciences) #h(1fr) 2018--2023
-  - JCCC Fellowship
-
+#student_list(phdteam)
 
 #let msteam = team.filter(x => x.position.contains("M.S.")).sorted(key: x => x.joined).rev()
 
@@ -459,19 +441,12 @@ Massachusetts Institute of Technology
 - Heather Carmen Mercieca (Amgen Scholar) #h(1fr) 2019
 - Linnet Chang (Analyst, Accenture) #h(1fr) 2018--2021
 - Stephen Lees (Ph.D., Biomedical Engineering, UVA) #h(1fr) 2018--2021
-- Zoe Kim (Engineer, GaN Corporation) #h(1fr) 2018--2020
 - Micah Bryant (M.S., Mechanical Engineering, UCSD) #h(1fr) 2018--2020
-- Robby Theisen (Ph.D., Biomedical Engineering, University of Michigan) #h(1fr) 2018--2020
 - Alison Tran (Biosciences Account Manager, Thermo Fisher Scientific) #h(1fr) 2018--2020
 - Willie Wu (Software Engineer, Rivian) #h(1fr) 2018--2019
-- Katrina Warner (Amgen Scholar; Ph.D., Biomedical Sciences, Harvard) #h(1fr) 2018
 - Donya Khashayar (Transfer Student Summer Research Program) #h(1fr) 2018
 - Rui Yan (Ph.D., ICME, Stanford) #h(1fr) 2017--2019
   - Cathy Bank Scholarship
-- Ali Farhat (M.D./Ph.D., U Illinois) #h(1fr) 2017--2019
-  - Rose Hills Foundation Scholar
-- Adam Weiner (Ph.D., Tri-Institute CompBio) #h(1fr) 2017--2019
-  - Internet Research Initiative Award
 - Ning Guan (Ph.D., Systems Biology, Harvard) #h(1fr) 2015--2017
 - Ryan Robinett (Ph.D., Comp. Sci., U. Chicago) #h(1fr) 2015--2017
   - National Science Foundation Graduate Research Fellowship
