@@ -396,13 +396,23 @@ Massachusetts Institute of Technology
 
 #section("Research Supervision")
 
-#subsection("Postdoctoral Fellows")
+#let student_list(msteam) = {
+  for post in msteam [
+    - #post.name#if "postposition" in post [~(#post.postposition)]  #h(1fr) #post.joined#sym.dash.en#post.left
+    #if "awards" in post [
+      #set list(marker: [‣], indent: 10pt)
+      #for award in post.awards [
+        - #award
+      ]
+    ]
+  ]
+}
 
-- Catera Wilder, Ph.D.~(Assistant Professor, UCSF)  #h(1fr)  2018--2022
-- Song Yi Bae, Ph.D.~(Senior Scientist, Astrin Biosciences) #h(1fr) 2016--2019
-- Edward Richards, Ph.D.~(Senior Scientist, Dragonfly Therapeutics) #h(1fr) 2015--2020
-  - American Cancer Society Postdoctoral Fellowship
-- Annelien Zweemer, Ph.D.~(Assistant Professor, Leiden University) #h(1fr) 2014--2017
+#let team = yaml("../_data/team.yml")
+#let posts = team.filter(x => x.position.contains("Postdoctoral")).sorted(key: x => x.joined).rev()
+
+#subsection("Postdoctoral Fellows")
+#student_list(posts)
 
 #subsection("Ph.D. Students")
 
@@ -427,12 +437,11 @@ Massachusetts Institute of Technology
 - Marc Creixell (Scientist, Calico Life Sciences) #h(1fr) 2018--2023
   - JCCC Fellowship
 
-#subsection("M.S. Students")
 
-- Het Desai #h(1fr) 2023--2024
-- Manmeet Bains #h(1fr) 2023--2024
-- Enio Hodzic (Machine Learning Algorithm Engineer, Adaptive Dynamics) #h(1fr) 2021--2023
-- Madeleine Murphy (Computational Biologist, Broad Institute) #h(1fr) 2020--2022
+#let msteam = team.filter(x => x.position.contains("M.S.")).sorted(key: x => x.joined).rev()
+
+#subsection("M.S. Students")
+#student_list(msteam)
 
 #subsection("Undergraduate Students")
 

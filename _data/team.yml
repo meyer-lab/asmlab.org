@@ -23,10 +23,14 @@
 
 - name: Het Desai
   position: M.S. Student
+  joined: 2023
+  left: 2024
   keywords: serology, wet lab
 
 - name: Manmeet Bains
   position: M.S. Student
+  joined: 2023
+  left: 2024
   keywords: antibodies, wet lab
 
 - name: Emily Lin
@@ -71,13 +75,24 @@
 
 - name: Madeleine Murphy
   position: M.S. Student
+  joined: 2020
+  left: 2022
   postposition: Associate Computational Biologist, Broad Institute of MIT & Harvard
   keywords: computational, tensors, serology
 
-- name: Catera Wilder
+- name: Enio Hodzic
+  position: M.S. Student
+  joined: 2021
+  left: 2023
+  postposition: Machine Learning Algorithm Engineer, Adaptive Dynamics
+  keywords: computational, tensors
+
+- name: Catera Wilder, Ph.D.
   position: Postdoctoral Fellow
   postposition: Assistant Professor, University of California, San Francisco
   keywords: immunology, signaling
+  joined: 2018
+  left: 2022
 
 - name: Amanda Tsao
   position: Undergraduate Researcher
@@ -99,10 +114,21 @@
   postposition: Ph.D. Student, Biomedical Engineering, University of Virginia
   keywords: 
 
-- name: Edward Richards
+- name: Edward Richards, Ph.D.
   position: Postdoctoral Associate
   postposition: Associate Principal Scientist, AstraZeneca
-  keywords: 
+  keywords: AXL
+  joined: 2015
+  left: 2020
+  awards:
+    - American Cancer Society Postdoctoral Fellowship
+
+- name: Annelien Zweemer, Ph.D.
+  position: Postdoctoral Associate
+  postposition: Assistant Professor, Leiden University
+  keywords: AXL
+  joined: 2014
+  left: 2017
 
 - name: Zoe Kim
   position: Undergraduate Researcher
@@ -131,10 +157,12 @@
   postposition: Project Manager, Genentech
   keywords: 
 
-- name: Song Yi Bae
+- name: Song Yi Bae, Ph.D.
   position: Postdoctoral Fellow
   postposition: Senior Scientist, Astrin Biosciences
   keywords: 
+  joined: 2016
+  left: 2019
 
 - name: Katrina Warner
   position: Amgen Scholar
