@@ -178,10 +178,15 @@ _Siebel Scholar, Class of 2014_ #h(1fr) 2013
 )
 #show regex(authors.join("|")): strong
 
+#let re = regex("\[([0-9]+)\]")
+#show re: it => {
+  let d = 53 - int(it.text.match(re).captures.at(0))
+  [#sym.bracket.l#d#sym.bracket.r]
+}
+
 #bibliography("../_bibliography/pubs.bib", title: none, full: true, style: "./ieee.csl")
 
 ]
-
 
 
 #section("Research Support")
