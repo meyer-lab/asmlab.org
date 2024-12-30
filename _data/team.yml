@@ -40,7 +40,26 @@
   joined: 2021
   left: 2024
   postposition: Ph.D. student, Bioengineering, University of Pennsylvania
+  awards:
+    - Amgen Scholar, Caltech
+    - Research Poster Award, BE Research Day
   keywords: cytokines, computational
+
+# - Research Poster Award, BE Research Day, Helen Kaidantzis, 2024
+# - Helen Kaidantzis (Computational and Systems Biology)
+# - Priyanka Shrestha (Amgen Scholar)
+# - Carly Gordon (Bruins in Genomics Summer Research Program)
+# - Jalissa Emmens (Bruins in Genomics Summer Research Program)
+# - Hamza Ahmed (Bruins in Genomics Summer Research Program)
+# - Jacqueline Durney (Bruins in Genomics Summer Research Program)
+# - Madison Wahlsten (Bruins in Genomics Summer Research Program)
+
+- name: Sean Pascoe
+  position: Amgen Scholar
+  joined: 2023
+  left: 2023
+  postposition: Ph.D. Student, Biological Engineering, Massachusetts Institute of Technology
+  keywords: tensors, computational
 
 - name: Brian Orcutt-Jahns
   position: Ph.D. Student
@@ -195,6 +214,8 @@
   position: Amgen Scholar
   joined: 2019
   left: 2019
+  awards:
+    - National Science Foundation Graduate Research Fellowship
   keywords: 
 
 - name: Moriah Garcia
