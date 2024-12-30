@@ -7,7 +7,7 @@
   address: [],
   lastupdated: "true",
   pagecount: "true",
-  date: "2024-07-03",
+  date: "2024-12-30",
   contacts: (
     (text: [4121G Engineering V]),
     (text: [Los Angeles, CA 90095]),
@@ -178,8 +178,7 @@ _Siebel Scholar, Class of 2014_ #h(1fr) 2013
 )
 #show regex(authors.join("|")): strong
 
-//#show bibliography: set heading(numbering: "1.")
-// #bibliography("pubs.bib", title: none, full: true, style: "./ieee.csl")
+#bibliography("../_bibliography/pubs.bib", title: none, full: true, style: "./ieee.csl")
 
 ]
 

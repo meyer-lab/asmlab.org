@@ -327,6 +327,9 @@
   </citation>
   <!-- Bibliography -->
   <bibliography entry-spacing="0" second-field-align="flush">
+    <sort>
+      <key variable="issued" sort="descending" />
+    </sort>
     <layout>
       <!-- Citation Number -->
       <text variable="citation-number" prefix="[" suffix="]"/>
