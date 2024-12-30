@@ -1,0 +1,160 @@
+presentations:
+  - venue: "Systems Immunology in Transplantation: Advances, Challenges, and Opportunities"
+    type: Invited Oral Presentation
+    date: 2024-03-27
+    title: "Integration of multi-modal and multidimensional analysis."
+
+  - venue: Maintaining Immunity After Immunization Kickoff Meeting
+    type: Invited Oral Presentation
+    date: 2024-11-05
+    title: "Systems analyses of induction and maintenance of immunity to SARS-CoV-2 vaccination in KTx receiving MMF."
+
+  - venue: UCLA, Bioengineering
+    type: Invited Dept. Seminar
+    date: 2024-10-24
+    title: "Building an integrative view of immunity with tensors."
+
+  - venue: Massachusetts Institute of Technology, Biological Engineering
+    type: Invited Oral Presentation
+    date: 2024-09-01
+    title: "Experiment structure is the message: building an integrative view of immunity with tensors."
+
+  - venue: UCLA Bruins-In-Genomics Summer Program
+    type: Invited Oral Presentation
+    date: 2024-07-01
+    title: "Experiment structure is the message: building an integrative view of immunity with tensors."
+
+  - venue: Fc Mechanisms of Cell Killing Workshop
+    type: Invited Oral Presentation
+    date: 2024-06-01
+    title: "Mapping the effector response space of antibody combinations"
+
+  - venue: Cytokine Based Drug Development Summit
+    type: Invited Oral Presentation
+    date: 2024-05-01
+    title: "New Cytokine Targeting Strategies Enabled by Multivalent Cis-Targeted Complexes."
+
+  - venue: NIAID Systems Biology Consortium Webinar
+    type: Invited Oral Presentation
+    date: 2024-05-01
+    title: "Tensor Modeling of Clinical Outcomes in S. aureus Bacteremia."
+
+  - venue: Tracer Precision Health Workshop
+    type: Invited Oral Presentation
+    date: 2024-04-01
+    title: "Mechanistic, integrative, and high-resolution dissection of single-cell studies with PARAFAC2."
+
+  - venue: Cancer Systems Biology Program
+    type: Invited Oral Presentation
+    date: 2023-12-01
+    title: "Analysis and modeling of cancer drug responses using cell cycle phase-specific rate effects."
+
+  - venue: Systems Biology Consortium for Infectious Diseases
+    type: Invited Oral Presentation
+    date: 2023-09-01
+    title: "Developing integrative signatures across omics, studies, and diseases with tensor-based analysis."
+
+  - venue: UCLA Bioinformatics Retreat
+    type: Invited Oral Presentation
+    date: 2023-07-01
+    title: "Building the tensor learning universe."
+
+  - venue: Antibodies & Complement
+    type: Selected Oral Presentation
+    date: 2023-06-01
+    title: "Cancer systems serology reveals active humoral immunity but disrupted Fc-elicited interactions."
+
+  - venue: CSBC Annual Meeting
+    type: Invited Oral Presentation
+    date: 2023-03-01
+    title: "Phosphoproteomic Analysis of AXL Identifies YAP as a Key Regulator of Resistance."
+
+  - venue: UCLA Musculoskeletal Devices & Tech. Development Group
+    type: Invited Seminar
+    date: 2022-09-01
+    title: "Uncovering immunologic mechanisms of MRSA persistence by tensor-mediated data integration."
+
+  - venue: SIAM Conference on Mathematics of Data Science
+    type: Invited Podium Presentation
+    date: 2022-09-01
+    title: "Mechanistic and Data-Driven Dissection of Cell Communication Through Tensor Methods."
+
+  - venue: American Assoc. for Cancer Research Annual Meeting
+    type: Invited Podium Presentation
+    date: 2022-04-01
+    title: "Systems approaches for identifying cell states and pathways modulating therapy response."
+
+  - venue: Southern California Systems Biology Conference
+    type: Invited Podium Presentation
+    date: 2022-04-01
+    title: "Mechanistic and Data-Driven Dissection of Cell Communication Through Tensor Methods."
+
+  - venue: Johns Hopkins Univ., Institute for Comp. Medicine
+    type: Invited Seminar
+    date: 2022-02-01
+    title: "Mechanistic and Data-Driven Dissection of Cell Communication Through Tensor Methods."
+
+  - venue: Cellular & Molecular Bioengineering
+    type: Selected Oral Presentation
+    date: 2022-01-01
+    title: "Rapid Prototyping of Multivalent And Multi-Specific Drugs To Overcome The Limited Selectivity Of IL-2 Toward Regulatory T Cells"
+
+  - venue: Biomedical Engineering Society Annual Meeting
+    type: Invited Podium Presentation
+    date: 2021-10-01
+    title: "Tensor Factorization-Based Data Fusion Improves Predictions and Interpretation of MRSA Outcome."
+
+  - venue: CSHL Systems Immunology
+    type: Selected Oral Presentation
+    date: 2021-04-01
+    title: "Developing a Mechanistic View of Mixed IgG Antibody Immune Effector Responses."
+
+  - venue: University of Massachusetts, Mol & Cell Biol Program
+    type: Invited Seminar
+    date: 2021-03-01
+    title: "Mixture models of cell populations and signaling to understand heterogeneous drug response."
+
+  - venue: International Conference on Biomolecular Engineering
+    type: Selected Oral Presentation
+    date: 2021-01-01
+    title: "Developing a Mechanistic View of Mixed IgG Antibody Immune Effector Responses."
+
+  - venue: Vanderbilt University, QSBC Center
+    type: Invited Center Seminar
+    date: 2020-10-01
+    title: "Mixture models of cell populations and signaling to understand heterogeneous drug response."
+
+  - venue: Buffalo Quantitative Systems Pharmacology Symposium
+    type: Invited Speaker
+    date: 2021-07-01
+    title: "Deeply profiling pharmacodynamic response with single cell dynamics."
+
+  - venue: Tufts University, Dept. of Bioengineering
+    type: Invited Dept. Seminar
+    date: 2020-03-01
+    title: "Linking Statistical and Mechanistic Models for Drug Development."
+
+  - venue: Univ. of Calif., Los Angeles, Immunogenetics Center
+    type: Invited Speaker
+    date: 2020-01-01
+    title: "Using models with incomplete information to study and engineer antibody effector response."
+
+  - venue: Biomedical Engineering Society Annual Meeting
+    type: Selected Oral Presentation
+    date: 2019-10-01
+    title: "A Binding Model Predicts In Vivo Effector Cell-Elicited Killing Across Multiple Disease Models."
+
+  - venue: Xencor, Inc.
+    type: Invited Oral Presentation
+    date: 2019-07-01
+    title: "Computational molecular models for immune engineering."
+
+  - venue: Antibodies & Complement
+    type: Selected Oral Presentation
+    date: 2019-05-01
+    title: "A Multivalent Binding Model Predicts FcγR Regulation and Effector Cell-Elicited Killing."
+
+  - venue: CSBC West Coast Meeting
+    type: Selected Oral Presentation
+    date: 2019-05-01
+    title: "Hidden Markov models on a tree as a general approach to single cell plasticity analysis."

@@ -1,0 +1,186 @@
+committees:
+  - name: Daniel Bradbury
+    program: Bioengineering (Ph.D.)
+    advisor: Daniel Kamei
+    start_date: 2017
+    end_date: 2020
+
+  - name: Giovanni Valdez
+    program: Bioengineering (Ph.D.)
+    advisor: Grace Xiao
+    start_date: 2018
+    end_date: 2021
+
+  - name: Hiromi Miwa
+    program: Bioengineering (Ph.D.)
+    advisor: Dino Di Carlo
+    start_date: 2019
+    end_date: 2022
+
+  - name: Mark van Zee
+    program: Bioengineering (Ph.D.)
+    advisor: Dino Di Carlo
+    start_date: 2019
+    end_date: 2022
+
+  - name: Rob Dimatteo
+    program: Bioengineering (Ph.D.)
+    advisor: Dino Di Carlo
+    start_date: 2019
+    end_date: 2021
+
+  - name: Alexander Wickstrom
+    program: Bioengineering (M.S.)
+    advisor: Jonathan Kao
+    start_date: 2019
+    end_date: 2019
+
+  - name: Hector E Muñoz
+    program: Bioengineering (Ph.D.)
+    advisor: Dino Di Carlo
+    start_date: 2019
+    end_date: 2020
+
+  - name: Wei-Chia Elizabeth Luo
+    program: Bioengineering (Ph.D.)
+    advisor: Gerard Wong
+    start_date: 2020
+    end_date: 2025
+
+  - name: Mohammadali Alidoost
+    program: Bioengineering (Ph.D.)
+    advisor: Jennifer Wilson
+    start_date: 2021
+    end_date: 2024
+
+  - name: Cameron S. Movassaghi
+    program: Chemistry (Ph.D.)
+    advisor: Anne M. Andrews
+    start_date: 2021
+    end_date: 2024
+
+  - name: Felis Doyeon Koo
+    program: Bioengineering (Ph.D.)
+    advisor: Dino Di Carlo
+    start_date: 2021
+    end_date: 2023
+
+  - name: Favour Esedebe
+    program: Bioinformatics (Ph.D.)
+    advisor: Tom Graeber
+    start_date: 2021
+    end_date: 2025
+
+  - name: Connor Razma
+    program: Bioinformatics (M.S.)
+    advisor: Alexander Hoffmann
+    start_date: 2022
+    end_date: 2023
+
+  - name: Mai Tran
+    program: Earth, Planetary & Space Sci. (Ph.D.)
+    advisor: William Newman
+    start_date: 2022
+    end_date: 2023
+
+  - name: Nilay Shah
+    program: Computer Science (M.S.)
+    advisor: Bolei Zhou
+    start_date: 2022
+    end_date: 2023
+
+  - name: Rayo Suseno
+    program: Bioengineering (M.S.)
+    advisor: Jennifer Wilson
+    start_date: 2022
+    end_date: 2023
+
+  - name: Shawn Liu
+    program: Bioengineering (M.S.)
+    advisor: Jennifer Wilson
+    start_date: 2023
+    end_date: 2024
+
+  - name: Helen Huang
+    program: Bioinformatics (Ph.D.)
+    advisor: Alexander Hoffman
+    start_date: 2022
+    end_date: Present
+
+  - name: Emily Bozich
+    program: Bioengineering (Ph.D.)
+    advisor: Jennifer Wilson
+    start_date: 2023
+    end_date: Present
+
+  - name: Jingwen Sun
+    program: Chemistry & Biochemistry (Ph.D.)
+    advisor: Chong Liu
+    start_date: 2023
+    end_date: Present
+
+  - name: Seth Hilliard
+    program: Comp. & Quant. Medicine (Ph.D.)
+    advisor: Andrei Rodin (City of Hope)
+    start_date: 2023
+    end_date: 2023
+
+  - name: Frances Nicklen
+    program: Bioengineering (Ph.D.)
+    advisor: Daniel Kamei
+    start_date: 2023
+    end_date: Present
+
+  - name: Michael Mellody
+    program: Bioengineering (Ph.D.)
+    advisor: Dino Di Carlo
+    start_date: 2023
+    end_date: Present
+
+  - name: Citra Soemardy
+    program: Bioengineering (Ph.D.)
+    advisor: Dino Di Carlo
+    start_date: 2023
+    end_date: Present
+
+  - name: Shivani Kumar
+    program: Bioengineering (M.S.)
+    advisor: Mireille Kamariza
+    start_date: 2024
+    end_date: 2024
+
+  - name: Alejandro Miron Jabalera
+    program: Bioengineering (Ph.D.)
+    advisor: Tzung Hsiai
+    start_date: 2024
+    end_date: Present
+
+  - name: Ahmed Ali
+    program: Bioengineering (M.S.)
+    advisor: Jennifer Wilson
+    start_date: 2023
+    end_date: 2024
+
+  - name: Katarina Reid
+    program: Bioengineering (M.S.)
+    advisor: Joseph DiStefano
+    start_date: 2024
+    end_date: 2025
+
+  - name: Calvin Lee
+    program: Bioengineering (M.S.)
+    advisor: Roel Ophoff
+    start_date: 2024
+    end_date: Present
+
+  - name: Dexter Lai
+    program: Bioengineering (Ph.D.)
+    advisor: Jun Park
+    start_date: 2024
+    end_date: Present
+
+  - name: Yuyang Han
+    program: Chemistry (Ph.D.)
+    advisor: Anne Andrews
+    start_date: 2024
+    end_date: Present
