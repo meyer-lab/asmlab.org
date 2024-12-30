@@ -21,14 +21,11 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
-      - name: Typst
-        uses: lvignoli/typst-action@main
-        with:
-          source_file: _CV/CV.typ
-          options: --root .
+      - name: Install Typst
+        uses: typst-community/setup-typst@v3
 
-      - name: Copy CV to website
-        run: cp _CV/CV.pdf public/
+      - name: Run Typst
+        run: typst compile --root . _CV/CV.typ public/CV.pdf
 
       - name: Build jekyll
         run: bundle exec jekyll build
