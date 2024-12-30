@@ -463,3 +463,23 @@
   postposition: Frontend Engineer, Facebook
   joined: 2021
   left: 2021
+
+- name: Simin Manole
+  position: Technical Assistant
+  postposition: Ph.D. student, Molecular & Cell Biology, University of Massachusetts Amherst
+  keywords:
+  joined: 2014
+  left: 2017
+
+- name: Christina Bray
+  position: Undergraduate Researcher
+  keywords:
+  joined: 2014
+  left: 2015
+
+- name: Nicole Kramer
+  position: Undergraduate Researcher
+  postposition: Postdoctoral Research Associate, UNC at Chapel Hill
+  keywords:
+  joined: 2015
+  left: 2016

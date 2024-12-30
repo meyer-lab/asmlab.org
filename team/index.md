@@ -35,20 +35,10 @@ Aaron is an Associate Professor of [Bioengineering](https://www.bioeng.ucla.edu)
 
 # Former Members
 
-{% for person in site.data.team %}
+{% assign sorted_people = site.data.team | sort: "joined" %}
+
+{% for person in sorted_people %}
 {% unless person.current %}
 #### {{ person.name }}, {{ person.position }} {% if person.postposition %} (currently {{ person.postposition }}) {% endif %}
 {% endunless %}
 {% endfor %}
-
-#### Annelien Zweemer, Postdoctoral Fellow (currently Assistant Professor, Leiden University)
-
-#### Ryan Robinett, Undergraduate Researcher (currently Ph.D. student, Computer Science, University of Chicago)
-
-#### Ning Guan, Undergraduate Researcher (currently Ph.D. student, [Systems Biology, Harvard](https://sysbio.med.harvard.edu))
-
-#### Simin Manole, Technical Assistant (currently Ph.D. student, [Mol & Cell Biol, U Mass Amherst](https://gpls.cns.umass.edu/mcb))
-
-#### Christina Bray, Undergraduate Researcher
-
-#### Nicole Kramer, Undergraduate Researcher (currently Postdoctoral Research Associate, Bioinformatics and Computational Biology, UNC at Chapel Hill)
