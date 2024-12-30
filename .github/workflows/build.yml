@@ -25,7 +25,7 @@ jobs:
         uses: typst-community/setup-typst@v3
 
       - name: Run Typst
-        run: typst compile --root . _CV/CV.typ public/CV.pdf
+        run: typst fonts # compile --root . _CV/CV.typ public/CV.pdf
 
       - name: Build jekyll
         run: bundle exec jekyll build
