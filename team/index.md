@@ -35,7 +35,7 @@ Aaron is an Associate Professor of [Bioengineering](https://www.bioeng.ucla.edu)
 
 # Former Members
 
-{% assign sorted_people = site.data.team | sort: "joined" %}
+{% assign sorted_people = site.data.team | sort: "joined" | reverse %}
 
 {% for person in sorted_people %}
 {% unless person.current %}
