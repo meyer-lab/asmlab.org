@@ -14,6 +14,16 @@ presentations:
     date: 2024-10-24
     title: "Building an integrative view of immunity with tensors."
 
+  - venue: Systems Biology Consortium for Infectious Diseases Modeling Working Group
+    type: Invited Oral Presentation
+    date: 2024-11-18
+    title: "Integrative analysis of single cell data using tensor structures."
+
+  - venue: Systems Biology Consortium for Infectious Diseases Annual Meeting
+    type: Invited Oral Presentation
+    date: 2024-09-26
+    title: "Tensor-based methods to model infectious disease outcomes."
+
   - venue: Massachusetts Institute of Technology, Biological Engineering
     type: Invited Oral Presentation
     date: 2024-09-01
