@@ -5,3 +5,4 @@ vendor
 .bundle
 _site
 .ruby-version
+.aider*
