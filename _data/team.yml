@@ -423,7 +423,8 @@
   keywords: computational, tensors, serology
   description: Armaan is a computational scientist in the lab, supporting several projects. He is interested in computational modeling, biological measurement, and nanoengineering. He enjoys science fiction, weightlifting, and the beach.
   photo: armaan.webp
-  current: True
+  joined: 2022
+  left: 2025
   homepage: http://armaanabraham.com/
 
 - name: Ethan Hung
@@ -433,7 +434,6 @@
   joined: 2021
   left: 2024
   photo: ethan.webp
-  current: True
   awards:
     - Amgen Scholar, Berkeley
     - Bruins-in-Genomics, UCLA
