@@ -5,6 +5,8 @@ title: Industry Consulting & Collaboration
 
 ### Multivalent Binding Modeling for Therapeutic Design Optimization
 
+<img src="binding.webp" width="90%" />
+
 Our lab offers advanced multivalent binding modeling services to help biotechnology companies optimize the design of multi-specific immunotherapeutic agents. Using a flexible multivalent binding framework (relevant publications), we can:
 
 - Accurately model complex interactions between multi-specific agents and target cells
