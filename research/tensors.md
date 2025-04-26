@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tensors
+title: Tensor Learning Publications
 ---
 
 {% bibliography --query @*[keywords ~= tensor] %}
