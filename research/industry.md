@@ -25,11 +25,7 @@ Our services include:
 
 We work closely with clients to address specific scientific questions and provide actionable insights for therapeutic design optimization. We have worked with several organizations, from early startups to large pharmaceutical organizations, both as a grant or work for hire. Our expertise can help accelerate your drug development process and improve candidate selection.
 
-#### Relevant Publications
-
-{% bibliography --query @*[keywords ~= binding] %}
-
-<br />
+[Relevant Publications](binding.html)
 
 ### Tensor Modeling and Big Data Exploration
 
@@ -52,6 +48,4 @@ Our potential services include:
 
 We work collaboratively with clients to implement these advanced analytical approaches, providing accessible software tools, comprehensive documentation, and expert consultation to ensure tensor methods enhance your research capabilities.
 
-#### Relevant Publications
-
-{% bibliography --query @*[keywords ~= tensors] %}
+[Relevant Publications](tensors.html)
