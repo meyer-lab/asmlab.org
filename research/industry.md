@@ -29,6 +29,8 @@ We work closely with clients to address specific scientific questions and provid
 
 {% bibliography --query @*[keywords ~= binding] %}
 
+<br />
+
 ### Tensor Modeling and Big Data Exploration
 
 <img src="RISE.svg" width="100%" />
