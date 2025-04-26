@@ -3,9 +3,11 @@ layout: page
 title: Industry Consulting & Collaboration
 ---
 
-### Multivalent Binding Modeling for Therapeutic Design Optimization
+Working with UCLA's Institute for Commercialization & Industry Collaboration, our lab offers specialized skills to external parties through a fee-for-service model with greater flexibility as compared to traditional grant mechanisms.
 
-<img src="binding.webp" width="90%" />
+### Multivalent Binding Modeling for Optimizing Therapeutic Designs
+
+<img src="binding.svg" width="90%" />
 
 Our lab offers advanced multivalent binding modeling services to help biotechnology companies optimize the design of multi-specific immunotherapeutic agents. Using a flexible multivalent binding framework (relevant publications), we can:
 
@@ -27,7 +29,6 @@ We work closely with clients to address specific scientific questions and provid
 
 {% bibliography --query @*[keywords ~= binding] %}
 
-
 ### Tensor Modeling and Big Data Exploration
 
 <img src="RISE.svg" width="100%" />
@@ -47,7 +48,7 @@ Our potential services include:
 - **Interpretable Feature Extraction**: Identifying key factors and interactions across multiple dimensions that drive biological phenomena, making complex results accessible to domain experts
 - **Integration of Multi-Omic Data**: Combining diverse data types (genomics, proteomics, metabolomics, etc.) within unified tensor frameworks to reveal cross-platform patterns
 
-Our team works collaboratively with clients to implement these advanced analytical approaches, providing accessible software tools, comprehensive documentation, and expert consultation to ensure tensor methods enhance your research capabilities.
+We work collaboratively with clients to implement these advanced analytical approaches, providing accessible software tools, comprehensive documentation, and expert consultation to ensure tensor methods enhance your research capabilities.
 
 #### Relevant Publications
 
