@@ -9,7 +9,7 @@ Working with UCLA's Institute for Commercialization & Industry Collaboration, ou
 
 <img src="binding.svg" width="90%" />
 
-Our lab offers advanced multivalent binding modeling services to help biotechnology companies optimize the design of multi-specific immunotherapeutic agents. Using a flexible multivalent binding framework (relevant publications), we can:
+Our lab offers advanced multivalent binding modeling services to help biotechnology companies optimize the design of multi-specific immunotherapeutic agents. Using a flexible multivalent binding framework ([relevant publications](binding.html)), we can:
 
 - Accurately model complex interactions between multi-specific agents and target cells
 - Quantitatively characterize receptor engagement dynamics
@@ -18,14 +18,12 @@ Our lab offers advanced multivalent binding modeling services to help biotechnol
 
 Our services include:
 
-- Data fitting and analysis of in vitro assay results
+- Data fitting and analysis of _in vitro_ assay results
 - Modeling of immune cell interactions in the presence and absence of tumor cells
 - Comprehensive reports on parameter contributions to predicted outcomes
 - Custom software for reproducing analyses
 
-We work closely with clients to address specific scientific questions and provide actionable insights for therapeutic design optimization. We have worked with several organizations, from early startups to large pharmaceutical organizations, both as a grant or work for hire. Our expertise can help accelerate your drug development process and improve candidate selection.
-
-[Relevant Publications](binding.html)
+We work closely with clients to address specific scientific questions and provide actionable insights for therapeutic design optimization. We have worked with several organizations, from early startups to large pharmaceutical organizations, both as a grant or work for hire. Our expertise can help accelerate the drug development process and improve candidate selection.
 
 ### Tensor Modeling and Big Data Exploration
 
@@ -36,7 +34,7 @@ Our lab specializes in applying innovative tensor-based approaches to analyze co
 - Preservation of data structure and relationships that would be lost in matrix-based approaches
 - Increased statistical power through proper modeling of experimental design
 - Discovery of higher-order interactions not detectable with standard methods
-- Reduction in dimensionality while maintaining interpretability
+- Dimensionality reduction while maintaining interpretability
 - Robust handling of sparse, noisy, or incomplete datasets common in biological studies
 
 Our potential services include:
