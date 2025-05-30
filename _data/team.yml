@@ -381,6 +381,7 @@
   joined: 2024
   description: James is a bioengineering Ph.D. student who joined in Summer 2024. His academic interests center around leveraging human biosystems to engineer new therapies or gain further understanding of how the body functions. For hobbies, James enjoys playing video games, practicing archery, and exploring Harbor Freight to find new tools for projects.
   photo: jpopoli.webp
+  orcid: 0009-0007-9666-9321
   github: MrBones1102
   current: True
 
@@ -391,6 +392,7 @@
   keywords: cytokines, wet lab
   description: Sam is a bioengineering Ph.D. student who joined the Meyer lab in Fall of 2024. He grew up in St. Paul, Minnesota where he worked at pharmaceutical companies and University of Minnesota genetics and neural engineering labs. Through these experiences, Sam found broad interests in biological systems, drug design, and machine learning approaches. He likes to spend his free time outdoors—camping, hiking, fishing, and running, and has recently gotten into nature photography.
   photo: samidon.webp
+  orcid: 0009-0008-6878-8689
   joined: 2024
   github: samuel-amidon
   current: True
@@ -402,6 +404,7 @@
   keywords: cytokines, wet lab
   description: Nicole is a bioengineering Ph.D. student who joined the Meyer lab in Fall of 2024. She previously worked at the Wistar Institute developing DNA based immunotherapy approaches for the prevention and treatment of infectious diseases and cancer. She is interested in using experimental and computational methods to better understand the immune response in the context of diseases and develop novel therapeutics. In her free time she enjoys running, trying new restaurants, making matcha, and exploring the outdoors.
   photo: nbedanova.webp
+  orcid: 0000-0002-0962-9601
   joined: 2024
   github: nbedanova
   current: True
