@@ -184,3 +184,9 @@ committees:
     advisor: Anne Andrews
     start_date: 2024
     end_date: Present
+
+  - name: Anjali Sivanandan
+    program: Bioengineering (Ph.D.)
+    advisor: Jen Wilson
+    start_date: 2025
+    end_date: Present
