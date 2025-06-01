@@ -45,14 +45,26 @@
     - Research Poster Award, BE Research Day
   keywords: cytokines, computational
 
-# - Research Poster Award, BE Research Day, Helen Kaidantzis, 2024
-# - Helen Kaidantzis (Computational and Systems Biology)
+- name: Helen Kaidantzis
+  position: Undergraduate Student
+  joined: 2022
+  left: 2025
+  awards:
+    - Research Poster Award, BE Research Day
+  keywords: cytokines, computational
+
 # - Priyanka Shrestha (Amgen Scholar)
 # - Carly Gordon (Bruins in Genomics Summer Research Program)
 # - Jalissa Emmens (Bruins in Genomics Summer Research Program)
 # - Hamza Ahmed (Bruins in Genomics Summer Research Program)
 # - Jacqueline Durney (Bruins in Genomics Summer Research Program)
-# - Madison Wahlsten (Bruins in Genomics Summer Research Program)
+
+- name: Madison Wahlsten
+  position: Bruins in Genomics Summer Research Program
+  joined: 2020
+  left: 2020
+  postposition: Ph.D. Student, Bioengineering, University of Pennsylvania
+  keywords: cytokines, computational
 
 - name: Sean Pascoe
   position: Amgen Scholar
