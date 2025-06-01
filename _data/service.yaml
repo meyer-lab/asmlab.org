@@ -1,5 +1,21 @@
 service:
   department:
+    - role: Chair
+      organization: Fellowship & Proposal Training Committee
+      date: "2024–2025"
+
+    - role: Member
+      organization: Graduate Communications Training Committee
+      date: "2024–2025"
+
+    - role: Chair
+      organization: Post-ATC Graduate Mentorship Committee
+      date: "2024–2025"
+
+    - role: Department Representative
+      organization: UCLA Faculty Senate Legislative Assembly
+      date: 2021–Present
+
     - role: Member
       organization: Ad Hoc Promotion Committee
       date: 2023, 2024
