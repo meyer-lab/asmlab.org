@@ -190,3 +190,21 @@ committees:
     advisor: Jen Wilson
     start_date: 2025
     end_date: Present
+
+  - name: Andres Michel
+    program: Bioengineering (M.S.)
+    advisor: Jen Wilson
+    start_date: 2025
+    end_date: Present
+
+  - name: Yifei Hao
+    program: Bioengineering (M.S.)
+    advisor: Jen Wilson
+    start_date: 2025
+    end_date: Present
+
+  - name: Auggie Wirasaputra
+    program: Biomedical Engineering (Ph.D., Tufts)
+    advisor: Shelly Peyton
+    start_date: 2025
+    end_date: Present
