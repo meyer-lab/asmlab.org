@@ -64,9 +64,13 @@ service:
       organization: Publicity Committee
       date: 2017–2018
   school:
+    - role: Member
+      organization: UCLA Samueli Awards Selection Committee
+      date: "2025"
+
     - role: Bioengineering Representative
       organization: HSSEAS GPU Ad Hoc Committee
-      date: "2024"
+      date: "2024–2025"
 
     - role: Member
       organization: Hiring Committee, Hispanic Serving Institution STEM Faculty Director
