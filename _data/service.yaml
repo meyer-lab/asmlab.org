@@ -196,6 +196,10 @@ service:
       organization: Sys. Immunol. Approaches in Transplantation Tolerance and Rejection Conference
       date: 2024–2025
 
+    - role: Ad Hoc Reviewer
+      organization: EMBO Molecular Medicine
+      date: "2025"
+
     - role: Poster Judge
       organization: Immunology LA Conference
       date: "2024"
@@ -206,7 +210,7 @@ service:
 
     - role: Ad Hoc Reviewer
       organization: Cell
-      date: "2024"
+      date: "2024, 2025"
 
     - role: Ad Hoc Reviewer
       organization: La Matematica
