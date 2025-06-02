@@ -57,7 +57,12 @@
 # - Carly Gordon (Bruins in Genomics Summer Research Program)
 # - Jalissa Emmens (Bruins in Genomics Summer Research Program)
 # - Hamza Ahmed (Bruins in Genomics Summer Research Program)
-# - Jacqueline Durney (Bruins in Genomics Summer Research Program)
+
+- name: Jacqueline Durney
+  position: Bruins in Genomics Summer Research Program
+  joined: 2023
+  left: 2023
+  keywords: tensors, computational
 
 - name: Madison Wahlsten
   position: Bruins in Genomics Summer Research Program
@@ -459,6 +464,9 @@
   keywords: cancer, serology, wet lab
   description: Victoria is an undergraduate student majoring in biochemistry. She is interested in cancer-related immunology research, protein engineering and structural analysis, and drug discovery/design. In her free time, she enjoys archery and singing.
   photo: victoria.webp
+  awards:
+    - UCLA URC-Sciences Summer Program Scholar
+    - 2025 Biomedical Research Summer Scholarship (declined)
   joined: 2023
   current: True
 
@@ -466,6 +474,8 @@
   position: Undergraduate Researcher
   keywords: cancer, serology, wet lab
   description: Allison (Allie) is an undergraduate student at UCLA who joined the lab in the summer of 2022. She is currently working on the cancer serology project to help profile anti-tumor antibody responses. Allie is interested in the intersection between technology and medicine to improve the quality of care for patients. She also enjoys crocheting, being active, and exploring Los Angeles in her free time.
+  awards:
+    - CDU/UCLA Undergraduate Cancer Research & Training Program Fellow
   joined: 2022
   photo: allisonb.webp
   current: True
@@ -474,6 +484,8 @@
   position: Undergraduate Researcher
   keywords: computational, tensors
   description: Nathaniel is an undergraduate student majoring in Computer Science who joined the lab in the summer of 2023. His research interests include applying computational methods to further understand biological and chemical systems. In his free time, he enjoys playing pop songs on the piano, trying new foods, and keeping up with the latest TV shows.
+  awards:
+    - 2025 UCLA Samueli Engineering Summer Undergraduate Research Program Scholar
   joined: 2023
   photo: nthomas.webp
   current: True
@@ -481,8 +493,13 @@
 - name: Breanna Remigio
   position: Undergraduate Researcher
   keywords: computational, tensors
+  degrees:
+    - B.S., Computational & Systems Biology
   description: Breanna is an undergraduate student majoring in Computational and Systems Biology who joined the lab in the fall of 2022. She is interested in applying computational methods to biological systems to further understand how these systems function. In her free time, she enjoys playing tennis, film photography, and dancing traditional Peruvian dances.
+  awards:
+    - UC Leadership Excellence through Advanced Degrees (UC LEADS) Scholar
   joined: 2022
+  left: 2025
   photo: bremigio.webp
   current: True
 
