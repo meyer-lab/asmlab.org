@@ -12,13 +12,25 @@ service:
       organization: Post-ATC Graduate Mentorship Committee
       date: "2024–2025"
 
+    - role: Member
+      organization: Bioengineering Hiring Search Committee
+      date: "2021–2022, 2023–2024, 2024–2025"
+
     - role: Department Representative
       organization: UCLA Faculty Senate Legislative Assembly
       date: 2021–Present
 
+    - role: Faculty Participant
+      organization: Coffee Chat Series, Biomedical Engineering Society
+      date: "2025"
+
     - role: Member
-      organization: Ad Hoc Promotion Committee
+      organization: Ad Hoc Promotion & Tenure Committee
       date: 2023, 2024, 2025 (x2)
+
+    - role: Faculty Reviewer
+      organization: BGA NSF GRFP Fellowship Preparation Course
+      date: "2024"
 
     - role: Poster Judge
       organization: Bioengineering Research Day
@@ -28,10 +40,6 @@ service:
       organization: Biomedical Engineering Society
       date: 2024
 
-    - role: Member
-      organization: Ad Hoc P&T Committee
-      date: 2023
-
     - role: Judge
       organization: Biomedical Engineering Society BioHack
       date: 2022–2023
@@ -39,10 +47,6 @@ service:
     - role: Member
       organization: Diversity, Equity and Inclusion Committee
       date: 2021–2024
-
-    - role: Member
-      organization: Bioengineering Hiring Search Committee
-      date: 2021–2022, 2023–2024, 2024–2025
 
     - role: Member
       organization: Teaching Facility & Shared Equipment Committee
@@ -88,6 +92,10 @@ service:
       organization: HSSEAS GPU Ad Hoc Committee
       date: "2024–2025"
 
+    - role: Judge
+      organization: BioHackathon 2025
+      date: "2025"
+
     - role: Member
       organization: Hiring Committee, Hispanic Serving Institution STEM Faculty Director
       date: "2024"
@@ -95,6 +103,10 @@ service:
     - role: Member
       organization: HSSEAS Strategic Planning Committee
       date: "2024"
+
+    - role: Reviewer
+      organization: Undergraduate Cancer Research Training Program
+      date: "2025"
 
     - role: Chair
       organization: Campus Response to the Climate Crisis Special Committee, Faculty Senate
@@ -118,7 +130,7 @@ service:
 
     - role: Reviewer
       organization: Tau Beta Pi Chapter Excellence Scholarship
-      date: 2021–2023
+      date: 2021–2025
 
     - role: Selection Committee
       organization: Faculty Career Development Award, Office of Equity, Diversity and Inclusion
@@ -166,7 +178,7 @@ service:
 
     - role: Application Reviewer
       organization: Amgen Scholars Program
-      date: 2020, 2022, 2023, 2024
+      date: "2020, 2022–2025"
 
     - role: Reviewer
       organization: Graduate Division's Faculty Review Committee
@@ -186,7 +198,7 @@ service:
 
     - role: Faculty Volunteer
       organization: Amgen Scholars Symposium
-      date: 2018–2024
+      date: 2018–2025
 
     - role: Member
       organization: HSSEAS Awards Committee for Outstanding Student Awards
