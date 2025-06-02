@@ -10,10 +10,10 @@
 ///////////////////////////////
 
 // Define the colour scheme
-#let date-colour = rgb("#666666")
+#let date-colour = rgb("#000000")
 #let primary-colour = rgb("#000000")
-#let headings-colour = rgb("#2b2b2b")
-#let subheadings-colour = rgb("#333333")
+#let headings-colour = rgb("#000000")
+#let subheadings-colour = rgb("#000000")
 
 #let sectionsep = {
   [#v(0.5pt)]
