@@ -18,7 +18,7 @@ service:
 
     - role: Member
       organization: Ad Hoc Promotion Committee
-      date: 2023, 2024
+      date: 2023, 2024, 2025 (x2)
 
     - role: Poster Judge
       organization: Bioengineering Research Day
@@ -57,7 +57,7 @@ service:
       date: 2019–2020
 
     - role: Field Chair
-      organization: Biosystem Science and Engineering
+      organization: Biomedical Data Science
       date: 2019–Present
 
     - role: Co-Chair
@@ -98,11 +98,11 @@ service:
 
     - role: Chair
       organization: Campus Response to the Climate Crisis Special Committee, Faculty Senate
-      date: 2023–Present
+      date: 2023–2025
 
-    - role: Ad Hoc Member
+    - role: Elected Member
       organization: Executive Board, Faculty Senate
-      date: 2023–Present
+      date: 2023–2026
 
     - role: Faculty Speaker
       organization: UCLA Life Sciences Webinar Series

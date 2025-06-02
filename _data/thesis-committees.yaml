@@ -135,7 +135,7 @@ committees:
     program: Bioengineering (Ph.D.)
     advisor: Dino Di Carlo
     start_date: 2023
-    end_date: Present
+    end_date: 2025
 
   - name: Citra Soemardy
     program: Bioengineering (Ph.D.)
@@ -204,7 +204,7 @@ committees:
     end_date: Present
 
   - name: Auggie Wirasaputra
-    program: Biomedical Engineering (Ph.D., Tufts)
-    advisor: Shelly Peyton
+    program: Biomedical Eng. (Ph.D.)
+    advisor: Shelly Peyton (Tufts University)
     start_date: 2025
     end_date: Present

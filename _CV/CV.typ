@@ -7,7 +7,7 @@
   address: [],
   lastupdated: "true",
   pagecount: "true",
-  date: "2024-12-30",
+  date: "2025-06-01",
   contacts: (
     (text: [4121G Engineering V]),
     (text: [Los Angeles, CA 90095]),
@@ -510,12 +510,3 @@ Miller, M.A., M.J. Oudin, A.S. Meyer, L.G. Griffith, F.B. Gertler, D.A. Lauffenb
 )
 
 #committee-grid(sorted-committees)
-
-
-
-
-
-
-
-
-

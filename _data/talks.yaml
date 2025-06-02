@@ -153,33 +153,3 @@ presentations:
     type: Invited Speaker
     date: 2021-07-01
     title: "Deeply profiling pharmacodynamic response with single cell dynamics."
-
-  - venue: Tufts University, Dept. of Bioengineering
-    type: Invited Dept. Seminar
-    date: 2020-03-01
-    title: "Linking Statistical and Mechanistic Models for Drug Development."
-
-  - venue: Univ. of Calif., Los Angeles, Immunogenetics Center
-    type: Invited Speaker
-    date: 2020-01-01
-    title: "Using models with incomplete information to study and engineer antibody effector response."
-
-  - venue: Biomedical Engineering Society Annual Meeting
-    type: Selected Oral Presentation
-    date: 2019-10-01
-    title: "A Binding Model Predicts In Vivo Effector Cell-Elicited Killing Across Multiple Disease Models."
-
-  - venue: Xencor, Inc.
-    type: Invited Oral Presentation
-    date: 2019-07-01
-    title: "Computational molecular models for immune engineering."
-
-  - venue: Antibodies & Complement
-    type: Selected Oral Presentation
-    date: 2019-05-01
-    title: "A Multivalent Binding Model Predicts FcγR Regulation and Effector Cell-Elicited Killing."
-
-  - venue: CSBC West Coast Meeting
-    type: Selected Oral Presentation
-    date: 2019-05-01
-    title: "Hidden Markov models on a tree as a general approach to single cell plasticity analysis."
