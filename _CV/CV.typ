@@ -193,6 +193,13 @@ _Siebel Scholar, Class of 2014_ #h(1fr) 2013
 
 _Contact PI on all grants unless indicated otherwise._
 
+_IAC Immunology Research Stimulus Awards (Co-I)_ #h(1fr) 2024–2026 \
+"Cellular Reprogramming Mechanisms Driving Acute to Chronic Lung Allograft Dysfunction"
+
+_Research Contract_ #h(1fr) 2024–2025 \
+Avidicure B.V. \
+"Engineering highly avid booster molecules"
+
 _NIH NIAID U01-AI179524 (Co-I)_ #h(1fr) 2024–2029 \
 "Systems Analyses of Induction and Maintenance of Immunity to SARS-CoV-2 Vaccination in Kidney Transplant Recipients Receiving Mycophenolate Mofetil Immunotherapy"
 
