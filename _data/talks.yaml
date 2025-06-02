@@ -1,8 +1,23 @@
 presentations:
-  - venue: "Systems Immunology in Transplantation: Advances, Challenges, and Opportunities"
+  - venue: "Society for Mathematical Biology Annual Meeting (Canada)"
+    type: Selected Mini-Symposium
+    date: 2025-07-14
+    title: "Bridging single cell features to the tissue and patient scale with tensor modeling"
+
+  - venue: "Systems Biology of Human Disease (Germany)"
     type: Invited Oral Presentation
-    date: 2024-03-27
-    title: "Integration of multi-modal and multidimensional analysis."
+    date: 2025-06-17
+    title: "Generating predictive models of patient-level phenotypes from scRNA-seq with Unaligned Low-rank Tensor Regression with Attention (ULTRA)"
+
+  - venue: "Systems Biology of Single Cells"
+    type: Selected Oral Presentation
+    date: 2025-05-09
+    title: "Generating predictive models of patient-level phenotypes from scRNA-seq with Unaligned Low-rank Tensor Regression with Attention (ULTRA)"
+
+  - venue: "Research in the Age of AI Sympoosium"
+    type: Invited Oral Presentation
+    date: 2025-04-24
+    title: "Stealing concepts from AI to build integrative models of immunity"
 
   - venue: Maintaining Immunity After Immunization Kickoff Meeting
     type: Invited Oral Presentation
@@ -49,7 +64,7 @@ presentations:
     date: 2024-05-01
     title: "Tensor Modeling of Clinical Outcomes in S. aureus Bacteremia."
 
-  - venue: Tracer Precision Health Workshop
+  - venue: Tracer Precision Health Workshop (Norway)
     type: Invited Oral Presentation
     date: 2024-04-01
     title: "Mechanistic, integrative, and high-resolution dissection of single-cell studies with PARAFAC2."

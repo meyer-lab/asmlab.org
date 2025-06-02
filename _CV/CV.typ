@@ -358,7 +358,7 @@ Massachusetts Institute of Technology
   position: "Guest Speaker",
   institution: "Introduction to Bioengineering",
   location: "UCLA, Department of Bioengineering",
-  date: "2017, 2019, 2020, 2023, 2024",
+  date: "2017, 2019, 2020, 2023, 2024, 2025",
   description: [
     - Guest speaker to discuss research program and opportunities in bioengineering
   ])
