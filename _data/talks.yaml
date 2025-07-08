@@ -14,7 +14,7 @@ presentations:
     date: 2025-05-09
     title: "Generating predictive models of patient-level phenotypes from scRNA-seq with Unaligned Low-rank Tensor Regression with Attention (ULTRA)"
 
-  - venue: "Research in the Age of AI Sympoosium"
+  - venue: "Research in the Age of AI Symposium"
     type: Invited Oral Presentation
     date: 2025-04-24
     title: "Stealing concepts from AI to build integrative models of immunity"
