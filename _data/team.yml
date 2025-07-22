@@ -182,7 +182,7 @@
   postposition: M.D. Student, University of Hawaii
   joined: 2020
   left: 2021
-  keywords: 
+  keywords:
 
 - name: Stephen Lees
   position: Undergraduate Researcher
@@ -210,14 +210,14 @@
 - name: Zoe Kim
   position: Undergraduate Researcher
   postposition: GaN Corporation
-  keywords: 
+  keywords:
   joined: 2018
   left: 2020
 
 - name: Robert Theisen
   position: Undergraduate Researcher
   postposition: Ph.D. student, Biomedical Engineering, University of Michigan
-  keywords: 
+  keywords:
   joined: 2018
   left: 2020
 
@@ -226,14 +226,14 @@
   postposition: M.S., Mechanical Engineering, UCSD
   joined: 2018
   left: 2020
-  keywords: 
+  keywords:
 
 - name: Alison Tran
   position: Undergraduate Researcher
   postposition: Biosciences Account Manager, Thermo Fisher Scientific
   joined: 2018
   left: 2020
-  keywords: 
+  keywords:
 
 - name: Heather Carmen Mercieca
   position: Amgen Scholar
@@ -241,26 +241,26 @@
   left: 2019
   awards:
     - National Science Foundation Graduate Research Fellowship
-  keywords: 
+  keywords:
 
 - name: Moriah Garcia
   position: Development Engineer
   postposition: Project Manager, Genentech
   joined: 2017
   left: 2019
-  keywords: 
+  keywords:
 
 - name: Song Yi Bae, Ph.D.
   position: Postdoctoral Fellow
   postposition: Senior Scientist, Astrin Biosciences
-  keywords: 
+  keywords:
   joined: 2016
   left: 2019
 
 - name: Katrina Warner
   position: Amgen Scholar
   postposition: Ph.D. student, Biomedical Sciences, Harvard
-  keywords: 
+  keywords:
   joined: 2018
   left: 2018
 
@@ -268,7 +268,7 @@
   position: UCLA Transfer Student Summer Research Program
   joined: 2018
   left: 2018
-  keywords: 
+  keywords:
 
 - name: Rui Yan
   position: Undergraduate Researcher
@@ -277,7 +277,7 @@
   left: 2019
   awards:
     - Cathy Bank Scholarship
-  keywords: 
+  keywords:
 
 - name: Luka Karginov
   position: NCI CSBC Summer Scholar
@@ -328,7 +328,7 @@
     - Rose Hills Foundation Scholar
   joined: 2017
   left: 2019
-  keywords: 
+  keywords:
 
 - name: Adam Weiner, Ph.D.
   position: Undergraduate Researcher
@@ -337,10 +337,11 @@
   left: 2019
   awards:
     - Internet Research Initiative Award
-  keywords: 
+  keywords:
 
-- name: Jackson Chin
+- name: Jackson Chin, Ph.D.
   position: Ph.D. Student
+  postposition: Postdoctoral Associate, Pacific Northwest National Lab
   degrees:
     - B.S. Bioengineering, University of Washington
   keywords: tensors, MRSA, computational, scRNAseq
@@ -350,7 +351,6 @@
   joined: 2020
   left: 2025
   github: JacksonLChin
-  current: True
   awards:
     - Best Poster Award, QC Bio Retreat, 2022
 
@@ -508,7 +508,6 @@
   left: 2025
   postposition: Ph.D. student, Bioinformatics, University of Colorado
   photo: bremigio.webp
-  current: True
 
 - name: Aoi Tomoeda
   position: Undergraduate Researcher
