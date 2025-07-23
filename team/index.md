@@ -35,10 +35,59 @@ Aaron is an Associate Professor of [Bioengineering](https://www.bioeng.ucla.edu)
 
 # Former Members
 
+<div id="alumni-filter-buttons">
+  <button class="filter-btn" onclick="filterAlumni('Undergraduate Researcher', this)">Undergraduate Students</button>
+  <button class="filter-btn" onclick="filterAlumni(['Amgen Scholar', 'Bruins in Genomics Summer Research Program', 'NCI CSBC Summer Scholar', 'UCLA Transfer Student Summer Research Program'], this)">Summer Scholars</button>
+  <button class="filter-btn" onclick="filterAlumni(['Ph.D. Student', 'M.S. Student'], this)">Graduate Students</button>
+  <button class="filter-btn" onclick="filterAlumni(['Postdoctoral Associate', 'Postdoctoral Fellow'], this)">Postdoctoral Associates</button>
+  <button class="filter-btn" onclick="filterAlumni(['Development Engineer', 'Technical Assistant'], this)">Staff</button>
+</div>
+
+<div id="alumni-list">
 {% assign sorted_people = site.data.team | sort: "joined" | reverse %}
 
 {% for person in sorted_people %}
 {% unless person.current %}
-#### {{ person.name }}, {{ person.position }} {% if person.postposition %} (currently {{ person.postposition }}) {% endif %}
+<div class="alumni-member" data-position="{{ person.position }}" style="display: none;">
+<h4>{{ person.name }}, {{ person.position }} {% if person.postposition %} (currently {{ person.postposition }}) {% endif %}</h4>
+</div>
 {% endunless %}
 {% endfor %}
+</div>
+
+<script>
+function filterAlumni(positions, buttonEl) {
+  // Update active button
+  document.querySelectorAll('#alumni-filter-buttons .filter-btn').forEach(button => {
+    button.classList.remove('active');
+  });
+  buttonEl.classList.add('active');
+
+  // Filter members
+  document.querySelectorAll('#alumni-list .alumni-member').forEach(member => {
+    const memberPosition = member.dataset.position;
+    let shouldShow = false;
+    if (Array.isArray(positions)) {
+      shouldShow = positions.includes(memberPosition);
+    } else {
+      shouldShow = memberPosition === positions;
+    }
+    member.style.display = shouldShow ? 'block' : 'none';
+  });
+}
+</script>
+
+<style>
+#alumni-filter-buttons .filter-btn {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+#alumni-filter-buttons .filter-btn.active {
+  background-color: #ddd;
+  font-weight: bold;
+}
+</style>
