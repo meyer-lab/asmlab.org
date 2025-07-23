@@ -63,15 +63,12 @@ function filterAlumni(positions, buttonEl) {
   });
   buttonEl.classList.add('active');
 
+  const positionsToShow = Array.isArray(positions) ? positions : [positions];
+
   // Filter members
   document.querySelectorAll('#alumni-list .alumni-member').forEach(member => {
     const memberPosition = member.dataset.position;
-    let shouldShow = false;
-    if (Array.isArray(positions)) {
-      shouldShow = positions.includes(memberPosition);
-    } else {
-      shouldShow = memberPosition === positions;
-    }
+    const shouldShow = positionsToShow.includes(memberPosition);
     member.style.display = shouldShow ? 'block' : 'none';
   });
 }
