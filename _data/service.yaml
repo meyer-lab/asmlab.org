@@ -208,6 +208,10 @@ service:
       organization: UCLA Engineering Alumni Reunion
       date: "2018"
   profession:
+    - role: Judge
+      organization: Vivli AMR Data Challenge
+      date: "2025"
+
     - role: Ad Hoc Reviewer
       organization: Bioinformatics
       date: "2025"
