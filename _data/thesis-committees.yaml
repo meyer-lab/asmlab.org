@@ -117,7 +117,7 @@ committees:
     program: Chemistry & Biochemistry (Ph.D.)
     advisor: Chong Liu
     start_date: 2023
-    end_date: Present
+    end_date: 2025
 
   - name: Seth Hilliard
     program: Comp. & Quant. Medicine (Ph.D.)
@@ -129,7 +129,7 @@ committees:
     program: Bioengineering (Ph.D.)
     advisor: Daniel Kamei
     start_date: 2023
-    end_date: Present
+    end_date: 2025
 
   - name: Michael Mellody
     program: Bioengineering (Ph.D.)
@@ -141,7 +141,7 @@ committees:
     program: Bioengineering (Ph.D.)
     advisor: Dino Di Carlo
     start_date: 2023
-    end_date: Present
+    end_date: 2025
 
   - name: Shivani Kumar
     program: Bioengineering (M.S.)
@@ -206,5 +206,11 @@ committees:
   - name: Auggie Wirasaputra
     program: Biomedical Eng. (Ph.D.)
     advisor: Shelly Peyton (Tufts University)
+    start_date: 2025
+    end_date: Present
+
+  - name: Hye Sook Shin
+    program: Bioengineering (Ph.D.)
+    advisor: Song Li
     start_date: 2025
     end_date: Present
