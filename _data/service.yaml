@@ -208,6 +208,10 @@ service:
       organization: UCLA Engineering Alumni Reunion
       date: "2018"
   profession:
+    - role: Ad Hoc Reviewer
+      organization: Bioinformatics
+      date: "2025"
+
     - role: Co-Chair
       organization: Modeling Working Group, Systems Biology for Infectious Diseases Consortium
       date: 2023–Present
