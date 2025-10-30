@@ -495,6 +495,14 @@
   photo: nthomas.webp
   current: True
 
+- name: Lipika Goel
+  position: Undergraduate Researcher
+  keywords: computational, virtual cells
+  description: Lipika Goel is an undergraduate student majoring in computational biology and joined the lab in fall 2025. She is currently working on the project to build gene networks for virtual cell models and is interested in using computational methods to advance biological discovery. In her free time, she enjoys exploring LA with friends, going to concerts, and reading.
+  joined: 2025
+  photo: lipika.webp
+  current: True
+
 - name: Breanna Remigio
   position: Undergraduate Researcher
   keywords: computational, tensors
