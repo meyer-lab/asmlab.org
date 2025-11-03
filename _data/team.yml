@@ -495,7 +495,7 @@
   photo: nthomas.webp
   current: True
 
-  - name: Sebastian Seljak
+- name: Sebastian Seljak
   position: Undergraduate Researcher
   keywords: computational, tensors
   description: Sebastian is majoring in Math & Chemistry, and joined the lab in the spring of 2024. His interests include adapting machine learning models to chemical and biological systems, particularly using graph neural networks and the attention mechanism. When relaxing, he enjoys cooking and trying new restaurants, street photography, and lap swimming.
