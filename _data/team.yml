@@ -503,6 +503,14 @@
   photo: lipika.webp
   current: True
 
+- name: Maxence Larour-Debonneuil
+  position: Undergraduate Researcher
+  keywords: computational, virtual cells
+  description: Max is an undergraduate student majoring in Chemical Engineering who joined the lab in fall 2025. His research interests are in computationally modeling chemical and biological systems and is working on reconstructing gene networks for virtual cell models. In his free time, he is passionate about soccer, philosophy, and politics.  
+  joined: 2025
+  photo: mlarour.webp
+  current: True
+
 - name: Breanna Remigio
   position: Undergraduate Researcher
   keywords: computational, tensors
