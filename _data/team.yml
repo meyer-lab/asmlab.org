@@ -370,18 +370,6 @@
     - Cota Robles Fellowship
     - UCLA EDI Student Leadership Award
 
-- name: Ethan Hurt
-  position: Ph.D. Student
-  degrees:
-    - B.S.E., Biomedical Engineering, Arizona State University
-  keywords: tensors, scRNAseq, computational
-  description: Ethan is a bioengineering Ph.D. student who joined the lab in Fall 2025. Before grad school, he spent time in both research and industry, where he discovered his drive to create technologies that advance a preventative approach to healthcare. His current work focuses on using machine learning and statistical methods to build single-cell RNA-sequencing models that help capture and understand cell phenotypes. When he’s not in the lab, you’ll probably find him climbing, skiing, backpacking, or tinkering with his never fully organized zettelkasten.
-  photo: ehurt.jpg
-  joined: 2025
-  orcid: 0009-0000-8856-1539
-  github: fishidaho
-  current: True
-
 - name: Michelle Loui
   position: Ph.D. Student
   degrees:
@@ -442,6 +430,18 @@
   orcid: 0000-0002-0962-9601
   joined: 2024
   github: nbedanova
+  current: True
+
+- name: Ethan Hurt
+  position: Ph.D. Student
+  degrees:
+    - B.S.E., Biomedical Engineering, Arizona State University
+  keywords: tensors, scRNAseq, computational
+  description: Ethan is a bioengineering Ph.D. student who joined the lab in Fall 2025. Before grad school, he spent time in both research and industry, where he discovered his drive to create technologies that advance a preventative approach to healthcare. His current work focuses on using machine learning and statistical methods to build single-cell RNA-sequencing models that help capture and understand cell phenotypes. When he’s not in the lab, you’ll probably find him climbing, skiing, backpacking, or tinkering with his never fully organized zettelkasten.
+  photo: ehurt.jpg
+  joined: 2025
+  orcid: 0009-0000-8856-1539
+  github: fishidaho
   current: True
 
 - name: Saki Minamino
