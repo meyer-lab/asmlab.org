@@ -357,7 +357,7 @@
 - name: Andrew Ramirez
   position: Ph.D. Student
   degrees:
-    - B.S. Chemical Engineering, University of California, Davis
+    - B.S., Chemical Engineering, University of California, Davis
   keywords: tensors, scRNAseq, computational
   description: Andrew is a Bioengineering Ph.D. student who joined in Fall 2021. In his free time, Andrew is an avid Netflix/Hulu watcher for shows like Modern Family, Dragon Ball Z, and Parks and Recreation, loves boba, and enjoys walking his pitbull Misty.
   photo: andrewr.webp
@@ -369,6 +369,18 @@
     - NSF Graduate Research Fellowship
     - Cota Robles Fellowship
     - UCLA EDI Student Leadership Award
+
+- name: Ethan Hurt
+  position: Ph.D. Student
+  degrees:
+    - B.S.E., Biomedical Engineering, Arizona State University
+  keywords: tensors, scRNAseq, computational
+  description: Ethan is a bioengineering Ph.D. student who joined the lab in Fall 2025. Before grad school, he spent time in both research and industry, where he discovered his drive to create technologies that advance a preventative approach to healthcare. His current work focuses on using machine learning and statistical methods to build single-cell RNA-sequencing models that help capture and understand cell phenotypes. When he’s not in the lab, you’ll probably find him climbing, skiing, backpacking, or tinkering with his never fully organized zettelkasten.
+  photo: ehurt.jpg
+  joined: 2025
+  orcid: 0009-0000-8856-1539
+  github: fishidaho
+  current: True
 
 - name: Michelle Loui
   position: Ph.D. Student
@@ -514,7 +526,7 @@
 - name: Maxence Larour-Debonneuil
   position: Undergraduate Researcher
   keywords: computational, virtual cells
-  description: Max is an undergraduate student majoring in Chemical Engineering who joined the lab in fall 2025. His research interests are in computationally modeling chemical and biological systems and is working on reconstructing gene networks for virtual cell models. In his free time, he is passionate about soccer, philosophy, and politics.  
+  description: Max is an undergraduate student majoring in Chemical Engineering who joined the lab in fall 2025. His research interests are in computationally modeling chemical and biological systems and is working on reconstructing gene networks for virtual cell models. In his free time, he is passionate about soccer, philosophy, and politics.
   joined: 2025
   photo: mlarour.webp
   current: True
