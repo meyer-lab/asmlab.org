@@ -7,8 +7,8 @@
 - url: /research
   title: Research
 
-- url: /publications
-  title: Publications
-
 - url: /research/industry.html
   title: Industry
+
+- url: /contact
+  title: Contact/Operations
