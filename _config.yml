@@ -1,10 +1,10 @@
 url: https://asmlab.org/
-baseurl: https://asmlab.org/
+baseurl: ""
 timezone: Etc/UTC
 
 sass:
   sass_dir: public/css
-  style: :compressed
+  style: compressed
 
 plugins:
   - jekyll-archives
@@ -21,14 +21,13 @@ jekyll-archives:
     month: month-archives
     day: day-archives
   permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/:name/'
+    year: "/:year/"
+    month: "/:year/:month/"
+    day: "/:year/:month/:day/"
+    tag: "/tag/:name/"
+    category: "/:name/"
 
-
-permalink:     /:categories/:title.html
+permalink: /:categories/:title.html
 
 exclude:
   - Gemfile
