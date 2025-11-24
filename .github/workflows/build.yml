@@ -39,7 +39,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
-          args: --root-dir "$(pwd)/_site" --verbose --accept '100..=103,200..=299,403' --cache --max-cache-age 14d _site
+          args: --root-dir "$(pwd)/_site" --accept '100..=103,200..=299,403' --cache --max-cache-age 14d _site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
