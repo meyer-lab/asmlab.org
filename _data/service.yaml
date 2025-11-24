@@ -208,6 +208,10 @@ service:
       organization: UCLA Engineering Alumni Reunion
       date: "2018"
   profession:
+    - role: Organizer
+      organization: Systems Immunology in Transplantation
+      date: "2024–2025"
+
     - role: Reviewer
       organization: HUB Innovation Grants Program
       date: "2025"
