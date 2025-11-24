@@ -1,7 +1,6 @@
 name: Build website
 
-on:
-  push
+on: push
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -13,12 +12,12 @@ jobs:
   jekyll:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Install ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.4'
+          ruby-version: "3.4"
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
       - name: Install Typst
@@ -40,12 +39,12 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
-          args: "--base _site --accept '100..=103,200..=299,403' --cache --max-cache-age 14d _site"
+          args: --root-dir "$(pwd)/_site" --verbose --accept '100..=103,200..=299,403' --cache --max-cache-age 14d _site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '_site'
+          path: "_site"
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/main'
         id: deployment
