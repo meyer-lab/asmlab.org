@@ -180,7 +180,8 @@ _Siebel Scholar, Class of 2014_ #h(1fr) 2013
 
 #let re = regex("\[([0-9]+)\]")
 #show re: it => {
-  let d = 53 - int(it.text.match(re).captures.at(0))
+  let num = int(it.text.match(re).captures.at(0))
+  let d = 56 - num
   [#sym.bracket.l#d#sym.bracket.r]
 }
 
@@ -313,7 +314,7 @@ Massachusetts Institute of Technology
   location: "UCLA, Department of Bioengineering",
   date: "2018–2024",
   description: [
-    - Lab-based introduction to basics of experimental design and laboratory work in bioengineering 
+    - Lab-based introduction to basics of experimental design and laboratory work in bioengineering
   ])
 
 #job(
@@ -331,7 +332,7 @@ Massachusetts Institute of Technology
   location: "UCLA, Molecular, Cell, and Developmental Biology",
   date: "2021, 2022",
   description: [
-    - Led discussion of a paper from the lab used as a project within the class 
+    - Led discussion of a paper from the lab used as a project within the class
   ])
 
 #job(
@@ -398,10 +399,10 @@ Massachusetts Institute of Technology
 ]
 
 #for pres in presentations [
-  #let parsed_date = toml.decode("date = " + pres.date).date
+  #let parsed_date = toml(bytes("date = " + pres.date)).date
 
   #format_presentation(pres, parsed_date)
-  
+
   #v(0.5em)
 ]
 
@@ -493,7 +494,7 @@ A.S. Meyer. "Altering cytokine specificity through binding valency." U.S. patent
 
 Miller, M.A., M.J. Oudin, A.S. Meyer, L.G. Griffith, F.B. Gertler, D.A. Lauffenburger. "Methods of Reducing Kinase Inhibitor Resistance." US patent application 14/690,001, 2015.
 
-// 
+//
 // THESIS COMMITTEE MEMBERSHIP
 
 #let data = yaml("../_data/thesis-committees.yaml")

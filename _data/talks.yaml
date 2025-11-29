@@ -1,4 +1,19 @@
 presentations:
+  - venue: UCLA, Biostatistics
+    type: Invited Dept. Seminar
+    date: 2026-02-04
+    title: "Building an integrative view of immunity with data tensors"
+
+  - venue: QCBio Research Forum
+    type: Invited Oral Presentation
+    date: 2025-12-09
+    title: "Optimizing the selective delivery of cytokines: what and where"
+
+  - venue: NIAID Maintaining Immunity After Immunization Program Meeting
+    type: Invited Oral Presentation
+    date: 2025-10-30
+    title: "Tensor analysis of serological responses to SARS-CoV-2 vaccination in transplant recipients"
+
   - venue: "Society for Mathematical Biology Annual Meeting (Canada)"
     type: Selected Mini-Symposium
     date: 2025-07-14
