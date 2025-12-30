@@ -1,37 +1,16 @@
 ---
 layout: page
-title: Research
+title: Research Summary
 ---
 
-The Meyer lab applies experimental and computational strategies to measure, model, and then therapeutically manipulate cell-to-cell communication, with applications in the development of immune and cancer therapies.
+Our lab integrates experimental and computational strategies to measure, model, and therapeutically manipulate cell-to-cell communication, with applications in the development of immune and cancer therapies.
 
-### Mapping and Manipulating Immune Cell Communication
+Our work is built on the principle that cells communicate through genetically-defined pathways. A deep understanding of these pathways allows us to engineer interventions that drive desired cellular behaviors or resolve pathological dysfunction. To achieve this, our lab combines a "bottom-up," mechanistic approach with a "top-down," integrative perspective. Our bottom-up strategy uses mechanistic models of binding and signaling processes to predict and optimize therapeutically useful cell communication. In parallel, our top-down strategy leverages the observation that cellular circuits create coordinated activity across cells, tissues, and individuals. We develop and apply new data analysis techniques to uncover the structure and emergent function of these pathways from this systems-level view. These two approaches are synergistic: a mechanistic understanding is necessary to engineer pathway function, while the top-down view provides critical insights from their natural context.
 
-Many immune receptors operate as families with multiple ligands and receptors, expressed across diverse cell populations. The lab's efforts operate around the central hypothesis that the multiple members of these families are present to perform computation-like regulation across cell populations. Further, we can use engineering analysis tools to measure and manipulate these systems.
+We currently focus this integrated approach on the immune system, specifically on the mechanisms of selective cytokine and antibody Fc signaling. We investigate the structural principles that enable selective signal delivery, retention within the tissue microenvironment, and signal processing at the cell surface. We are also developing techniques for the integrative analysis of single-cell observations to link coordinated cellular changes with tissue- and patient-level outcomes.
 
-> <img src="/public/images/FcgR.jpg" width="400px" alt="FcgR modeling" />  
-> The Fc portions of IgG antibodies enable communication with many cell populations of the immune system via Fcγ receptors. The consequence of these interactions is influenced by relative affinity among the receptors, valency, and the cell populations present, creating thousands of possibilities. Using a mechanism-based binding model and data-driven analytical techniques, we aim to engineer this communication.
+## Selected publications
 
-We are studying regulation of families like the Tyro3, AXL, MerTK (TAM) tyrosine kinases, Fcγ, and common γ-chain cytokine receptors. In addition to studying how these receptors operate as a family, we are working to develop tools that make visualizing and manipulating family-wide behavior easier.
+{% bibliography --query @Article[keywords ~= highlight] %}
 
-Relevant publications: [Robinett et al](https://asmlab.org/publications/#FcgR), [Tan et al](https://asmlab.org/publications/#SysSerol), [VanDyke et al](https://asmlab.org/publications/#VanDyke2022)
-
-### Multidimensional Data Analysis
-
-Traditional data analysis methods organize data into matrix form—a two-dimensional (2D) grid of numbers wherein each column is a measurement and each row is an observation (e.g., genes by subjects). However, this approach overlooks how measurements are often systematically collected in biology. For example, measurements to understand the molecular response of cells to therapy might be collected over concentrations of drug, time, different sources of cells, and molecular features. In these cases, the data can be organized into a multidimensional (e.g., 4D) form. Generalization of statistical tools into these multidimensional/tensor forms exist, but their use has only begun to catch on in studies of biology and medicine because there is a lack of (1) knowledge about their benefits, (2) practical and useful implementations, and (3) algorithms for specific challenges that arise with biological data. By applying these techniques, developing new algorithms, and providing accessible implementations, we are [making these tools available in biomedical research](https://tensorly.org/stable/index.html).
-
-[Relevant publications](./tensors.html)
-
-> <img src="/public/images/tensor-summary.svg" width="600px" alt="Tensor summary" />  
-> Systems serology measurements can advance our understanding of humoral immunity. A data reduction method, “coupled matrix-tensor factorization”, effectively analyzes such data by recognizing conserved patterns and separating antigen from Fc property effects.
-
-### Mapping Mechanisms of Resistance in Cancer
-
-Targeted therapies extend many cancer patients' lives but are limited in efficacy to a subset of patients and by the development of resistance. Efforts undertaken to identify mechanisms of resistance have uncovered numerous changes involving gene expression, post-translational regulation, and even tumor-extrinsic factors such as host-derived growth factors. Combination therapy can effectively combat resistance but requires accurate identification of the relevant resistance mechanism. Precision therapy must account for many genetic and non-genetic intrinsic and adaptive resistance mechanisms if it will accurately select these combinations.
-
-> <img src="/public/images/resistanceConcept.svg" width="600px" alt="Resistance concept" />  
-> In RTK-driven tumors, signals are transduced from the receptor to various kinases. Upon blocking the original cancer driver, resistance can be conferred by an untargeted receptor. Some receptors, however, do not provide essential resistance signals. By identifying the essential signals driving resistance from each receptor, we aim to develop measurements pinpointing the receptor causing resistance.
-
-Projects in the lab include mapping the common essential signaling events that drive resistance, quantifying single cell heterogeneity in drug response, and exploring how the extracellular matrix environment directs resistance development.
-
-Relevant publications: [Manole et al](https://asmlab.org/publications/#Manole5219), [Claas et al](https://asmlab.org/publications/#Claas2018), [Schwartz et al](https://asmlab.org/publications/#BarneyPeyton), [Creixell et al](https://asmlab.org/publications/#CreixellDDMC)
+[Full publication list](https://asmlab.org/publications/)
