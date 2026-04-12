@@ -21,7 +21,7 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
       - name: Install Typst
-        uses: typst-community/setup-typst@v3
+        uses: typst-community/setup-typst@v5
 
       - name: Run Typst
         run: typst compile --root . _CV/CV.typ public/CV.pdf
