@@ -194,6 +194,7 @@ _Siebel Scholar, Class of 2014_ #h(1fr) 2013
 }
 
 #let fmt_author(a) = {
+  if "literal" in a { return a.literal }
   let initials = init_name(a.given)
   if "dropping-particle" in a {
     initials + " " + a.at("dropping-particle") + " " + a.family
