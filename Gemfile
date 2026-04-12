@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll-sitemap'
-gem 'jekyll-archives'
-gem 'kramdown'
 gem 'jekyll'
-gem 'jekyll-scholar'
+gem 'jekyll-archives'
+gem 'jekyll-sitemap'
+gem 'kramdown'

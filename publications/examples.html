@@ -9,10 +9,20 @@ title: Representative lab publications
 
 <p>These publications have a stronger focus on computational analyses and methods.</p>
 
-{% bibliography --query @Article[keywords ~= computational-example] %}
+{% assign comp_refs = site.data.pubs.references | where_exp: "ref", "ref.type == 'article-journal' and ref.keyword contains 'computational-example'" | sort: "issued" | reverse %}
+<dl>
+{% for ref in comp_refs %}
+{% include pubentry.html ref=ref %}
+{% endfor %}
+</dl>
 
 <h3>Experimental</h3>
 
 <p>These publications are focused on experimental observations.</p>
 
-{% bibliography --query @Article[keywords ~= experimental-example] %}
+{% assign exp_refs = site.data.pubs.references | where_exp: "ref", "ref.type == 'article-journal' and ref.keyword contains 'experimental-example'" | sort: "issued" | reverse %}
+<dl>
+{% for ref in exp_refs %}
+{% include pubentry.html ref=ref %}
+{% endfor %}
+</dl>

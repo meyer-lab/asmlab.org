@@ -9,7 +9,6 @@ sass:
 plugins:
   - jekyll-archives
   - jekyll-sitemap
-  - jekyll/scholar
 
 jekyll-archives:
   enabled:
@@ -34,11 +33,3 @@ exclude:
   - Gemfile.lock
   - README.md
 
-scholar:
-  style: _bibliography/style.csl
-  bibliography: pubs.bib
-  bibliography_template: bibtemplate
-  bibliography_list_tag: dd
-  query: "@*"
-  sort_by: year,month,day
-  order: descending
