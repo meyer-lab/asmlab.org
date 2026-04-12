@@ -111,7 +111,7 @@ references:
   page: 27-32
   title: Integrated pathway analysis of genome-wide expression changes
     associated with serum-free suspension adaptation of an
-    antibody-producing chinese hamster ovary (CHO) cell line
+    antibody-producing Chinese Hamster Ovary (CHO) cell line
   type: chapter
   url: "https://dx.doi.org/10.1007/978-90-481-3892-0_5"
   volume: 16
@@ -1017,7 +1017,7 @@ references:
   issued: 2019
   page: 5031
   pmid: 31695028
-  title: An engineered human fc domain that behaves like a pH-toggle
+  title: An engineered human Fc domain that behaves like a pH-toggle
     switch for ultra-long circulation persistence
   type: article-journal
   url: "https://doi.org/10.1038/s41467-019-13108-2"
@@ -1219,8 +1219,8 @@ references:
   keyword: tensors, experimental-example, cytokines, immunology,
     binding, highlight
   pmid: 37847758
-  title: Multivalent, asymmetric IL-2--fc fusions show enhanced
-    selectivity for regulatory t cells
+  title: Multivalent, asymmetric IL-2--Fc fusions show enhanced
+    selectivity for regulatory T cells
   type: article-journal
   url: "https://www.science.org/stoken/author-tokens/ST-1486/full"
 - abstract: A critical property of many therapies is their selective
@@ -1599,7 +1599,7 @@ references:
   issued: 2022
   pmid: 36261022
   title: Engineered human cytokine/antibody fusion proteins expand
-    regulatory t cells and confer autoimmune disease protection
+    regulatory T cells and confer autoimmune disease protection
   type: article-journal
   url: "https://www.cell.com/cell-reports/pdf/S2211-1247(22)01328-6.pdf"
 - abstract: Type I interferons (IFN) induce powerful antiviral and
@@ -1847,7 +1847,7 @@ references:
   issued: 2023
   keyword: binding
   pmid: 37421619
-  title: Mixed IgG fc immune complexes exhibit blended binding profiles
+  title: Mixed IgG Fc immune complexes exhibit blended binding profiles
     and refine FcR affinity estimates
   type: article-journal
   url: "https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00745-3"
@@ -2338,7 +2338,7 @@ references:
     highlight
   page: e1012663
   pmid: 39715286
-  title: A multivalent binding model infers antibody fc species from
+  title: A multivalent binding model infers antibody Fc species from
     systems serology
   type: article-journal
   url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012663"
