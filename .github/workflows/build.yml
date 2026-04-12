@@ -45,7 +45,7 @@ jobs:
         run: |
           tar \
             --dereference --hard-dereference \
-            --directory public \
+            --directory _site \
             -cvf "$RUNNER_TEMP/artifact.tar" \
             --exclude=.git \
             --exclude=.github \
