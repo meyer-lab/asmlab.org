@@ -178,14 +178,78 @@ _Siebel Scholar, Class of 2014_ #h(1fr) 2013
 )
 #show regex(authors.join("|")): strong
 
-#let re = regex("\[([0-9]+)\]")
-#show re: it => {
-  let num = int(it.text.match(re).captures.at(0))
-  let d = 56 - num
-  [#sym.bracket.l#d#sym.bracket.r]
+#let pubs_data = yaml("../_data/pubs.yaml")
+#let all_refs = pubs_data.references
+
+#let get_year(ref) = {
+  let y = ref.issued
+  if type(y) == int { y } else { int(str(y).slice(0, 4)) }
 }
 
-#bibliography("../_bibliography/pubs.bib", title: none, full: true, style: "./ieee.csl")
+#let sorted_refs = all_refs.sorted(key: x => get_year(x)).rev()
+#let total = sorted_refs.len()
+
+#let init_name(given) = {
+  given.split(" ").map(p => if p.len() > 0 { p.slice(0, 1) + "." } else { "" }).filter(p => p.len() > 0).join(" ")
+}
+
+#let fmt_author(a) = {
+  if "literal" in a { return a.literal }
+  let initials = init_name(a.given)
+  if "dropping-particle" in a {
+    initials + " " + a.at("dropping-particle") + " " + a.family
+  } else {
+    initials + " " + a.family
+  }
+}
+
+#let fmt_authors(auths) = {
+  let fmted = auths.map(fmt_author)
+  if fmted.len() == 1 { fmted.at(0) }
+  else if fmted.len() == 2 { fmted.at(0) + " and " + fmted.at(1) }
+  else { fmted.slice(0, fmted.len() - 1).join(", ") + ", and " + fmted.last() }
+}
+
+#let fmt_date(issued) = {
+  let s = str(issued)
+  if s.len() == 4 { s }
+  else if s.len() >= 7 {
+    let m = int(s.slice(5, 7))
+    let months = ("Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec.")
+    months.at(m - 1) + " " + s.slice(0, 4)
+  } else { s }
+}
+
+#let clean_str(s) = s.replace("\\[", "[").replace("\\]", "]")
+
+#let make_locators(ref, dt) = {
+  let parts = ()
+  if "volume" in ref { parts.push("vol. " + str(ref.volume)) }
+  if "issue" in ref { parts.push("no. " + str(ref.issue)) }
+  if "page" in ref {
+    let p = str(ref.page)
+    parts.push((if p.contains("-") { "pp. " } else { "p. " }) + p)
+  }
+  parts.push(dt)
+  parts.join(", ")
+}
+
+#for (i, ref) in sorted_refs.enumerate() [
+  #let num = total - i
+  #let author_str = fmt_authors(ref.author)
+  #let title = clean_str(ref.title)
+  #let ct = if "container-title" in ref { clean_str(ref.at("container-title")) } else { "" }
+  #let dt = fmt_date(ref.issued)
+  #let locators = make_locators(ref, dt)
+
+  #v(0.4em)
+  #grid(
+    columns: (26pt, 1fr),
+    column-gutter: 4pt,
+    [#sym.bracket.l#num#sym.bracket.r],
+    [#author_str, "#title," #if ref.type == "chapter" [in ]#emph(ct), #locators#if "doi" in ref [, doi: #(ref.at("doi")).] else [.]]
+  )
+]
 
 ]
 

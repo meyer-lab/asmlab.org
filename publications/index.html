@@ -3,5 +3,14 @@ layout: page
 title: Publications
 ---
 
+{% assign sorted_refs = site.data.pubs.references | sort: "issued" | reverse %}
+{% assign grouped = sorted_refs | group_by_exp: "ref", "ref.issued | prepend: '' | slice: 0, 4" %}
 
-{% bibliography --group_by year --group_order descending %}
+{% for group in grouped %}
+<h3>{{ group.name }}</h3>
+<dl>
+{% for ref in group.items %}
+{% include pubentry.html ref=ref %}
+{% endfor %}
+</dl>
+{% endfor %}
