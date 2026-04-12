@@ -15,14 +15,6 @@
 #let headings-colour = rgb("#000000")
 #let subheadings-colour = rgb("#000000")
 
-#let sectionsep = {
-  [#v(0.5pt)]
-}
-
-#let subsectionsep = {
-  [#v(0.5pt)]
-}
-
 // Section Headings (Education, Experience, etc)
 #let section(title) = {
   text(12pt, fill: headings-colour, weight: "bold")[
@@ -49,25 +41,6 @@
   }
 }
 
-// Projects
-#let project(title, date, info) = {
-  text(11pt, fill: subheadings-colour, weight: "semibold")[#title ]
-  if date != [] or date != "" {
-    h(1fr)
-    text(11pt, fill: headings-colour, weight: "medium")[#date \ ]
-  } else {
-    [\ ]
-  }
-  if info != [] or info != "" {
-    text(11pt, fill: primary-colour, weight: "light")[#info ]
-  }
-}
-
-// Description of a job, degree, etc
-#let descript(content) = {
-  text(11pt, fill: subheadings-colour, weight: "regular")[#content ]
-}
-
 // Job title
 #let job(position: "", institution: "", location: "", date: "", description: "") = {
   text(11pt, fill: subheadings-colour, weight: "semibold")[#position]
@@ -81,52 +54,12 @@
   }
 }
 
-// Details
-#let info(content) = {
-  text(11pt, fill: primary-colour, weight: "light")[#content\ ]
-}
-
-#let oneline-title-item(title: "", content: "") = {
-  text(11pt, fill: subheadings-colour, weight: "bold")[#title: ]
-  text(11pt, fill: primary-colour, weight: "light")[#content \ ]
-}
-
-#let oneline-two(entry1: "", entry2: "") = {
-  text(11pt, fill: subheadings-colour, weight: "regular")[#entry1]
-  h(1fr)
-  text(11pt, fill: primary-colour, weight: "regular")[#entry2 \ ]
-}
-
-#let twoline-item(entry1: none, entry2: none, entry3: none, entry4: none, description: none) = {
-  text(11pt, fill: subheadings-colour, weight: "semibold")[#entry1]
-  if entry2 != none {
-    h(1fr)
-    text(11pt, style: "italic", fill: headings-colour, weight: "regular")[#entry2 \ ]
-  }
-  if entry3 != [] or entry3 != "" != none {
-    text(11pt, style: "italic", fill: subheadings-colour, weight: "medium")[#entry3]
-  }
-  if entry4 != none {
-    h(1fr)
-    text(11pt, style: "italic", fill: headings-colour, weight: "regular")[#entry4 \ ]
-  }
-  if description != [] or description != "" {
-    text(11pt, fill: primary-colour, weight: "regular")[#description]
-  }
-}
-
 #let award(award: "", institution: "", date: "") = {
   [#text(11pt, fill: primary-colour, weight: "medium")[#award,] #text(
       11pt,
       fill: primary-colour,
       weight: "regular",
     )[#emph(institution)] #h(1fr) #text(11pt, fill: primary-colour, weight: "regular")[#emph(date)\ ]]
-}
-
-// Publications
-#let publication(path, styletype) = {
-  set text(11pt, fill: primary-colour, weight: "light")
-  bibliography(path, title: none, full: true, style: styletype)
 }
 
 // show contact details

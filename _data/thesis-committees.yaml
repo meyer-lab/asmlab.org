@@ -207,7 +207,7 @@ committees:
     program: Biomedical Eng. (Ph.D.)
     advisor: Shelly Peyton (Tufts University)
     start_date: 2025
-    end_date: Present
+    end_date: 2025
 
   - name: Hye Sook Shin
     program: Bioengineering (Ph.D.)
@@ -219,4 +219,16 @@ committees:
     program: Bioengineering (Ph.D.)
     advisor: Song Li
     start_date: 2025
+    end_date: 2025
+
+  - name: Amy Le
+    program: Bioengineering (Ph.D.)
+    advisor: Jen Wilson
+    start_date: 2026
+    end_date: Present
+
+  - name: Stellina Ao
+    program: Bioengineering (M.S.)
+    advisor: Anne Churchland
+    start_date: 2026
     end_date: Present

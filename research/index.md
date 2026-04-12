@@ -11,6 +11,11 @@ We currently focus this integrated approach on the immune system, specifically o
 
 ## Selected publications
 
-{% bibliography --query @Article[keywords ~= highlight] %}
+{% assign highlight_refs = site.data.pubs.references | where_exp: "ref", "ref.keyword contains 'highlight'" | sort: "issued" | reverse %}
+<dl>
+{% for ref in highlight_refs %}
+{% include pubentry.html ref=ref %}
+{% endfor %}
+</dl>
 
 [Full publication list](https://asmlab.org/publications/)

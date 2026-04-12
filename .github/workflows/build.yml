@@ -21,7 +21,7 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
       - name: Install Typst
-        uses: typst-community/setup-typst@v3
+        uses: typst-community/setup-typst@v5
 
       - name: Run Typst
         run: typst compile --root . _CV/CV.typ public/CV.pdf
@@ -30,7 +30,7 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Restore lychee cache
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
@@ -40,11 +40,13 @@ jobs:
         with:
           fail: false
           args: --root-dir "$(pwd)/_site" --accept '100..=103,200..=299,403' --cache --max-cache-age 14d _site
-
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v7
         with:
-          path: "_site"
+          name: github-pages
+          path: _site
+          retention-days: 7
+          if-no-files-found: error
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/main'
         id: deployment
