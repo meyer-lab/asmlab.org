@@ -1,0 +1,20 @@
+{{ $ref := .ref }}
+{{ $year := $ref.issued }}
+
+<dd>
+{{ if $ref.url }}<b><a href="{{ $ref.url }}">{{ $ref.title }}.</a></b>
+{{ else }}<b>{{ $ref.title }}.</b>
+{{ end }}
+
+{{ range $i, $author := $ref.author }}{{ if $i }}, {{ end }}{{ $author.family }} {{ substr $author.given 0 1 }}.{{ end }}
+<em>{{ index $ref "container-title" }}</em>{{ if $ref.volume }} {{ $ref.volume }}{{ if $ref.issue }}({{ $ref.issue }}){{ end }}{{ end }}{{ if $ref.page }}:{{ $ref.page }}{{ end }}, {{ $year }}.
+
+<span class="minilinks">
+{{ if $ref.pmid }}<a title="pubmed" href="https://pubmed.ncbi.nlm.nih.gov/{{ $ref.pmid }}/"><svg class="svg-icon"><use href="#scif-pubmed"></use></svg></a>
+{{ else if $ref.pmcid }}<a title="pubmed" href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ $ref.pmcid }}/"><svg class="svg-icon"><use href="#scif-pubmed"></use></svg></a>{{ end }}
+{{ if $ref.doi }}<a title="doi" href="https://doi.org/{{ $ref.doi }}"><svg class="svg-icon"><use href="#scif-doi"></use></svg></a>{{ end }}
+{{ if $ref.abstract }}<a href="#" onclick="toggle('{{ $ref.id }}_abstract')">[Abstract]</a>{{ end }}
+</span>
+
+{{ if $ref.abstract }}<p class="abstract" id="{{ $ref.id }}_abstract" style="display:none"><b>Abstract:</b> {{ $ref.abstract }}</p>{{ end }}
+</dd>

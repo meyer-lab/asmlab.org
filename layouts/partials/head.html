@@ -1,0 +1,58 @@
+<!-- meta information -->
+<meta charset="utf-8">
+{{ if eq .Title "/" -}}
+<meta name="description" content="{{ .Site.Params.description }}">
+{{- else -}}
+<meta name="description" content="{{ .Content | plainify | truncate 120 }}">
+{{- end }}
+<meta name="author" content="{{ .Site.Params.author }}">
+
+<!-- Enable responsiveness on mobile devices-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- title -->
+<title>{{ .Site.Params.siteName }} &middot; {{ .Title }}</title>
+
+<!-- icons -->
+<link rel="icon" href="/public/images/favicon.ico">
+
+<!-- stylesheets -->
+{{ $scss := resources.Get "css/main.scss" }}
+{{ $css := $scss | toCSS (dict "outputStyle" "compressed") }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+
+<!-- mastodon -->
+<link rel="me" href="https://mastodon.social/@aarmey">
+
+<!-- animation -->
+<style>
+    @keyframes logoAnimation {
+        0% {
+            transform: scale(0);
+            opacity: 0;
+            box-shadow: 0 0 0 0 rgba(0, 103, 161, 0);
+        }
+        30% {
+            transform: scale(1);
+            opacity: 1;
+            box-shadow: 0 0 0 0 rgba(0, 103, 161, 0);
+        }
+        100% {
+            transform: scale(1);
+            opacity: 1;
+            box-shadow: 0 0 0 17.5px rgba(0, 103, 161, 0.3);
+        }
+    }
+
+    #logo {
+        width: 52px;
+        height: 52px;
+        background-color: #000;
+        border-radius: 50%;
+        margin-top: 20px;
+        animation: logoAnimation 1s ease-out forwards;
+    }
+</style>
+
+<!-- feed links -->
+<link rel="alternate" href="/feed.xml" type="application/rss+xml" title="{{ .Site.Params.siteName }}">

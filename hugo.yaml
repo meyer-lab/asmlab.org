@@ -1,0 +1,29 @@
+baseURL: https://asmlab.org/
+languageCode: en-us
+timeZone: Etc/UTC
+publishDir: _site
+title: Meyer Lab
+
+taxonomies:
+  tag: tag
+
+outputFormats:
+  RSS:
+    mediatype: application/rss+xml
+    baseName: feed
+    noUgly: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  siteName: Meyer Lab
+  author: Aaron Meyer
+  description: The website for the Aaron S. Meyer lab.

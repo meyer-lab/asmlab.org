@@ -1,0 +1,33 @@
+{{ define "main" }}
+<h2>Meyer Lab at UCLA</h2>
+
+<p>
+    We integrate experimental and computational strategies to measure, model,
+    and therapeutically manipulate cell-to-cell communication, with applications
+    in the development of immune and cancer therapies.
+</p>
+
+<br />
+<br />
+
+<h3>News</h3>
+
+{{ range first 13 (where .Site.RegularPages "Section" "news") }}
+
+<article class="row gutters">
+    <b
+        ><time datetime="{{ .Date.Format "2006-01-02" }}"
+            >{{ .Date.Format "January 2, 2006" }}</time
+        ></b
+    >
+    {{ .Content }}
+</article>
+
+{{ end }}
+
+<br />
+
+<div class="clr"></div>
+
+<br /><br /><br />
+{{ end }}
