@@ -2851,6 +2851,7 @@ references:
       given: Aaron S
   container-title: bioRxiv \[Preprint\]
   id: Ramirez2026
+  issued: 2026-04
   keyword: tensors, single cell
   title: Tracing cell communication programs across conditions at single cell resolution with CCC-RISE
   type: article-journal
