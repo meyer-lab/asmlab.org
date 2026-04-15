@@ -14,7 +14,7 @@
     (text: [(310) 794-4821], link: "tel:1-310-794-4821"),
     (text: [ameyer\@ucla.edu], link: "mailto:ameyer@ucla.edu"),
     (text: [https://ameyer.me], link: "https://ameyer.me"),
-  )
+  ),
 )
 
 
@@ -34,7 +34,7 @@
   institution: [University of California, Los Angeles],
   major: [B.S., Bioengineering, magna cum laude],
   date: "2005–2009",
-  location: "CA"
+  location: "CA",
 )
 
 
@@ -47,7 +47,7 @@
   institution: "University of California, Los Angeles",
   location: "Los Angeles, CA",
   date: "2023–Present",
-  description: [#linebreak() Bioengineering Department #linebreak() Bioinformatics Interdepartmental Graduate Program #linebreak() Computational & Systems Biology Interdepartmental Program]
+  description: [#linebreak() Bioengineering Department #linebreak() Bioinformatics Interdepartmental Graduate Program #linebreak() Computational & Systems Biology Interdepartmental Program],
 )
 
 #job(
@@ -55,21 +55,21 @@
   institution: "University of California, Los Angeles",
   location: "Los Angeles, CA",
   date: "2024–Present",
-  description: [#linebreak() Bioengineering Department]
+  description: [#linebreak() Bioengineering Department],
 )
 
 #job(
   position: "Co-Director, Amgen Scholars Program",
   institution: "University of California, Los Angeles",
   location: "Los Angeles, CA",
-  date: "2024–Present"
+  date: "2024–Present",
 )
 
 #job(
   position: "Assistant Professor",
   institution: "University of California, Los Angeles",
   location: "Los Angeles, CA",
-  date: "2017–2023"
+  date: "2017–2023",
 )
 
 #job(
@@ -77,7 +77,7 @@
   institution: "Massachusetts Institute of Technology",
   location: "Cambridge, MA",
   date: "2014–2017",
-  description: [#linebreak() Koch Institute for Integrative Cancer Research]
+  description: [#linebreak() Koch Institute for Integrative Cancer Research],
 )
 
 #job(
@@ -85,7 +85,7 @@
   institution: "Massachusetts Institute of Technology",
   location: "Cambridge, MA",
   date: "2009–2014",
-  description: [#linebreak() Department of Biological Engineering #linebreak() Koch Institute for Integrative Cancer Research]
+  description: [#linebreak() Department of Biological Engineering #linebreak() Koch Institute for Integrative Cancer Research],
 )
 
 #job(
@@ -93,7 +93,7 @@
   institution: "University of California, Los Angeles",
   location: "Los Angeles, CA",
   date: "2006–2009",
-  description: [#linebreak() In the lab of Daniel Kamei]
+  description: [#linebreak() In the lab of Daniel Kamei],
 )
 
 #section("Awards & Recognitions")
@@ -125,131 +125,130 @@ _Siebel Scholar, Class of 2014_ #h(1fr) 2013
 
 #context [
 
-#let authors = (
-  "A. A. Abraham",
-  "A. Abraham",
-  "A. C. Weiner",
-  "A. Castillo",
-  "A. J. M. Zweemer",
-  "A. M. Farhat",
-  "A. Meyer",
-  "A. Ramirez",
-  "A. S. Meyer",
-  "A. Zweemer",
-  "B. Orcutt-Jahns",
-  "B. Remigio",
-  "B. T. Orcutt-Jahns",
-  "C. Boixo",
-  "C. Wilder",
-  "E. C. Hung",
-  "E. Hodzic",
-  "E. Hung",
-  "E. J. Richards",
-  "E. Lin",
-  "E. M. Snyder",
-  "E. R. Bozich",
-  "E. Richards",
-  "F. Mohammadi",
-  "H. S. Alpay",
-  "J. E. Kay",
-  "J. L. Chin",
-  "J. Lagarde",
-  "K. Warner",
-  "L. Karginov",
-  "M. Creixell",
-  "M. Loui",
-  "M. Murphy",
-  "N. Guan",
-  "N. Thomas",
-  "P. C. Emmel",
-  "P. Shrestha",
-  "R. A. Robinett",
-  "R. Yan",
-  "S. D. Taylor",
-  "S. D. Taylor",
-  "S. Lees",
-  "S. Manole",
-  "S. Pascoe",
-  "S. Taylor",
-  "S. Visagan",
-  "S. Y. Bae",
-  "Z. C. Tan",
-  "Z. S. Kim"
-)
-#show regex(authors.join("|")): strong
-
-#let pubs_data = yaml("../_data/pubs.yaml")
-#let all_refs = pubs_data.references
-
-#let get_year(ref) = {
-  let y = ref.issued
-  if type(y) == int { y } else { int(str(y).slice(0, 4)) }
-}
-
-#let sorted_refs = all_refs.sorted(key: x => get_year(x)).rev()
-#let total = sorted_refs.len()
-
-#let init_name(given) = {
-  given.split(" ").map(p => if p.len() > 0 { p.slice(0, 1) + "." } else { "" }).filter(p => p.len() > 0).join(" ")
-}
-
-#let fmt_author(a) = {
-  if "literal" in a { return a.literal }
-  let initials = init_name(a.given)
-  if "dropping-particle" in a {
-    initials + " " + a.at("dropping-particle") + " " + a.family
-  } else {
-    initials + " " + a.family
-  }
-}
-
-#let fmt_authors(auths) = {
-  let fmted = auths.map(fmt_author)
-  if fmted.len() == 1 { fmted.at(0) }
-  else if fmted.len() == 2 { fmted.at(0) + " and " + fmted.at(1) }
-  else { fmted.slice(0, fmted.len() - 1).join(", ") + ", and " + fmted.last() }
-}
-
-#let fmt_date(issued) = {
-  let s = str(issued)
-  if s.len() == 4 { s }
-  else if s.len() >= 7 {
-    let m = int(s.slice(5, 7))
-    let months = ("Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec.")
-    months.at(m - 1) + " " + s.slice(0, 4)
-  } else { s }
-}
-
-#let clean_str(s) = s.replace("\\[", "[").replace("\\]", "]")
-
-#let make_locators(ref, dt) = {
-  let parts = ()
-  if "volume" in ref { parts.push("vol. " + str(ref.volume)) }
-  if "issue" in ref { parts.push("no. " + str(ref.issue)) }
-  if "page" in ref {
-    let p = str(ref.page)
-    parts.push((if p.contains("-") { "pp. " } else { "p. " }) + p)
-  }
-  parts.push(dt)
-  parts.join(", ")
-}
-
-#for (i, ref) in sorted_refs.enumerate() [
-  #let num = total - i
-  #let author_str = fmt_authors(ref.author)
-  #let title = clean_str(ref.title)
-  #let ct = if "container-title" in ref { clean_str(ref.at("container-title")) } else { "" }
-  #let dt = fmt_date(ref.issued)
-  #let locators = make_locators(ref, dt)
-
-  #v(0.4em)
-  #grid(
-    columns: (26pt, 1fr),
-    column-gutter: 4pt,
-    [#sym.bracket.l#num#sym.bracket.r],
-    [#author_str, "#title," #if ref.type == "chapter" [in ]#emph(ct), #locators#if "doi" in ref [, doi: #(ref.at("doi")).] else [.]]
+  #let authors = (
+    "A. A. Abraham",
+    "A. Abraham",
+    "A. C. Weiner",
+    "A. Castillo",
+    "A. J. M. Zweemer",
+    "A. M. Farhat",
+    "A. Meyer",
+    "A. Ramirez",
+    "A. S. Meyer",
+    "A. Zweemer",
+    "B. Orcutt-Jahns",
+    "B. Remigio",
+    "B. T. Orcutt-Jahns",
+    "C. Boixo",
+    "C. Wilder",
+    "E. C. Hung",
+    "E. Hodzic",
+    "E. Hung",
+    "E. J. Richards",
+    "E. Lin",
+    "E. M. Snyder",
+    "E. R. Bozich",
+    "E. Richards",
+    "F. Mohammadi",
+    "H. S. Alpay",
+    "J. E. Kay",
+    "J. L. Chin",
+    "J. Lagarde",
+    "K. Warner",
+    "L. Karginov",
+    "M. Creixell",
+    "M. Loui",
+    "M. Murphy",
+    "N. Guan",
+    "N. Thomas",
+    "P. C. Emmel",
+    "P. Shrestha",
+    "R. A. Robinett",
+    "R. Yan",
+    "S. D. Taylor",
+    "S. D. Taylor",
+    "S. Lees",
+    "S. Manole",
+    "S. Pascoe",
+    "S. Taylor",
+    "S. Visagan",
+    "S. Y. Bae",
+    "Z. C. Tan",
+    "Z. S. Kim",
   )
-]
+  #show regex(authors.join("|")): strong
+
+  #let pubs_data = yaml("../data/pubs.yaml")
+  #let all_refs = pubs_data.references
+
+  #let get_year(ref) = {
+    let y = ref.issued
+    if type(y) == int { y } else { int(str(y).slice(0, 4)) }
+  }
+
+  #let sorted_refs = all_refs.sorted(key: x => get_year(x)).rev()
+  #let total = sorted_refs.len()
+
+  #let init_name(given) = {
+    given.split(" ").map(p => if p.len() > 0 { p.slice(0, 1) + "." } else { "" }).filter(p => p.len() > 0).join(" ")
+  }
+
+  #let fmt_author(a) = {
+    if "literal" in a { return a.literal }
+    let initials = init_name(a.given)
+    if "dropping-particle" in a {
+      initials + " " + a.at("dropping-particle") + " " + a.family
+    } else {
+      initials + " " + a.family
+    }
+  }
+
+  #let fmt_authors(auths) = {
+    let fmted = auths.map(fmt_author)
+    if fmted.len() == 1 { fmted.at(0) } else if fmted.len() == 2 { fmted.at(0) + " and " + fmted.at(1) } else {
+      fmted.slice(0, fmted.len() - 1).join(", ") + ", and " + fmted.last()
+    }
+  }
+
+  #let fmt_date(issued) = {
+    let s = str(issued)
+    if s.len() == 4 { s } else if s.len() >= 7 {
+      let m = int(s.slice(5, 7))
+      let months = ("Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec.")
+      months.at(m - 1) + " " + s.slice(0, 4)
+    } else { s }
+  }
+
+  #let clean_str(s) = s.replace("\\[", "[").replace("\\]", "]")
+
+  #let make_locators(ref, dt) = {
+    let parts = ()
+    if "volume" in ref { parts.push("vol. " + str(ref.volume)) }
+    if "issue" in ref { parts.push("no. " + str(ref.issue)) }
+    if "page" in ref {
+      let p = str(ref.page)
+      parts.push((if p.contains("-") { "pp. " } else { "p. " }) + p)
+    }
+    parts.push(dt)
+    parts.join(", ")
+  }
+
+  #for (i, ref) in sorted_refs.enumerate() [
+    #let num = total - i
+    #let author_str = fmt_authors(ref.author)
+    #let title = clean_str(ref.title)
+    #let ct = if "container-title" in ref { clean_str(ref.at("container-title")) } else { "" }
+    #let dt = fmt_date(ref.issued)
+    #let locators = make_locators(ref, dt)
+
+    #v(0.4em)
+    #grid(
+      columns: (26pt, 1fr),
+      column-gutter: 4pt,
+      [#sym.bracket.l#num#sym.bracket.r],
+      [#author_str, "#title," #if ref.type == "chapter" [in ]#emph(ct), #locators#if "doi" in ref [, doi: #(ref.at("doi")).] else [.]],
+    )
+  ]
 
 ]
 
@@ -370,7 +369,8 @@ Massachusetts Institute of Technology
   date: "2018–Present",
   description: [
     - Designed and lead project-based course tailored to the background of students in the program
-  ])
+  ],
+)
 
 #job(
   position: "Instructor",
@@ -379,7 +379,8 @@ Massachusetts Institute of Technology
   date: "2018–2024",
   description: [
     - Lab-based introduction to basics of experimental design and laboratory work in bioengineering
-  ])
+  ],
+)
 
 #job(
   position: "Guest Speaker",
@@ -388,7 +389,8 @@ Massachusetts Institute of Technology
   date: "2023",
   description: [
     - Discussed our lab's research and related topics in bioinformatics.
-  ])
+  ],
+)
 
 #job(
   position: "Guest Lecturer",
@@ -397,7 +399,8 @@ Massachusetts Institute of Technology
   date: "2021, 2022",
   description: [
     - Led discussion of a paper from the lab used as a project within the class
-  ])
+  ],
+)
 
 #job(
   position: "Discussion Leader",
@@ -406,7 +409,8 @@ Massachusetts Institute of Technology
   date: "2021, 2024",
   description: [
     - Led discussion of various ethics case studies
-  ])
+  ],
+)
 
 #job(
   position: "Advisor & Instructor",
@@ -415,7 +419,8 @@ Massachusetts Institute of Technology
   date: "2019–2023",
   description: [
     - Advised program participants on developing research, presentation, and professional skills
-  ])
+  ],
+)
 
 #job(
   position: "Team Mentor",
@@ -424,7 +429,8 @@ Massachusetts Institute of Technology
   date: "2017, 2018, 2019, 2020",
   description: [
     - Poster competition winning team: 2018, 2019
-  ])
+  ],
+)
 
 #job(
   position: "Guest Speaker",
@@ -433,7 +439,8 @@ Massachusetts Institute of Technology
   date: "2017, 2019, 2020, 2023, 2024, 2025",
   description: [
     - Guest speaker to discuss research program and opportunities in bioengineering
-  ])
+  ],
+)
 
 #job(
   position: "Faculty of the Citizen Science Program",
@@ -442,14 +449,15 @@ Massachusetts Institute of Technology
   date: "2015–2016",
   description: [
     - Led a short course introducing students to the natural sciences and scientific method
-  ])
+  ],
+)
 
 #job(
   position: "Teaching Assistant",
   institution: "Thermodynamics of Biomolecular Systems",
   location: "MIT, Department of Biological Engineering",
-  date: "2010"
-  )
+  date: "2010",
+)
 
 
 #section("Conference & Invited Presentations (Last Five Years)")
@@ -475,7 +483,9 @@ Massachusetts Institute of Technology
 
 #let student_list(msteam) = {
   for post in msteam [
-    - #post.name#if "postposition" in post [~(#post.postposition)]  #h(1fr) #post.joined#sym.dash.en#if "left" in post [#post.left] else [Present]
+    - #post.name#if "postposition" in post [~(#post.postposition)]  #h(1fr) #post.joined#sym.dash.en#if (
+        "left" in post
+      ) [#post.left] else [Present]
     #if "awards" in post [
       #set list(marker: [‣], indent: 10pt)
       #for award in post.awards [
@@ -519,7 +529,7 @@ Massachusetts Institute of Technology
   #award(
     award: item.at("role", default: ""),
     date: str(item.at("date", default: "")),
-    institution: item.at("organization", default: "")
+    institution: item.at("organization", default: ""),
   )
 ]
 
@@ -531,7 +541,7 @@ Massachusetts Institute of Technology
   #award(
     award: item.at("role", default: ""),
     date: str(item.at("date", default: "")),
-    institution: item.at("organization", default: "")
+    institution: item.at("organization", default: ""),
   )
 ]
 
@@ -544,7 +554,7 @@ Massachusetts Institute of Technology
   #award(
     award: item.at("role", default: ""),
     date: str(item.at("date", default: "")),
-    institution: item.at("organization", default: "")
+    institution: item.at("organization", default: ""),
   )
 ]
 
