@@ -462,7 +462,7 @@ Massachusetts Institute of Technology
 
 #section("Conference & Invited Presentations (Last Five Years)")
 
-#let data = yaml("../_data/talks.yaml")
+#let data = yaml("../data/talks.yaml")
 #let presentations = data.presentations.sorted(key: x => x.date).rev()
 
 #let format_presentation(pres, parsed_date) = [
@@ -495,7 +495,7 @@ Massachusetts Institute of Technology
   ]
 }
 
-#let team = yaml("../_data/team.yml")
+#let team = yaml("../data/team.yml")
 #let posts = team.filter(x => x.position.contains("Postdoctoral")).sorted(key: x => x.joined).rev()
 
 #subsection("Postdoctoral Fellows")
@@ -519,7 +519,7 @@ Massachusetts Institute of Technology
 
 #section("Service")
 
-#let data = yaml("../_data/service.yaml")
+#let data = yaml("../data/service.yaml")
 
 #subsection("Profession")
 
@@ -571,7 +571,7 @@ Miller, M.A., M.J. Oudin, A.S. Meyer, L.G. Griffith, F.B. Gertler, D.A. Lauffenb
 //
 // THESIS COMMITTEE MEMBERSHIP
 
-#let data = yaml("../_data/thesis-committees.yaml")
+#let data = yaml("../data/thesis-committees.yaml")
 #let committees = data.committees
 
 #section("Thesis Committee Membership")
