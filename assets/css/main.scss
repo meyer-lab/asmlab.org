@@ -34,7 +34,6 @@ blockquote,
 table,
 img,
 hr,
-.fluid-width-video-wrapper,
 .highlight {
   margin-bottom: 20px;
 }
@@ -88,24 +87,10 @@ table {
   }
 }
 
-dt {
-  float: left;
-  width: 10%;
-  font-weight: bold;
-}
-
 dd {
   float: left;
   width: 100%;
   margin-bottom: 0.6em;
-}
-
-dd.bibliography {
-  list-style: none;
-
-  li {
-    margin-bottom: 20px;
-  }
 }
 
 footer {
@@ -144,11 +129,6 @@ footer {
 .right {
   float: right;
   margin: 0 0 20px 20px;
-}
-
-.left {
-  float: left;
-  margin: 0 20px 20px 0;
 }
 
 .top-navbar {
@@ -216,6 +196,35 @@ footer {
   fill: currentColor
 }
 
+.minilinks {
+  font-size: .9rem;
+}
+
+.abstract {
+  display: none;
+  font-size: .95rem;
+  border-left: 2px solid lighten($contrast-color, 50%);
+  padding-left: 10px;
+}
+
+.alumni-member {
+  display: none;
+}
+
+#alumni-filter-buttons .filter-btn {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+
+#alumni-filter-buttons .filter-btn.active {
+  background-color: #ddd;
+  font-weight: bold;
+}
+
 .not-found {
   margin-top: 150px;
   text-align: center;
@@ -226,15 +235,9 @@ footer {
   font-size: 8rem;
 }
 
-dl,
-.clearfix:before,
-.clearfix:after {
-    content: " ";
+dl::after {
+    content: "";
     display: table;
-}
-
-dl,
-.clearfix:after {
     clear: both;
 }
 

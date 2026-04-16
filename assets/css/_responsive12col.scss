@@ -5,19 +5,6 @@
 	LICENSE : GPL & MIT */
 
 
-/* 	SET ALL ELEMENTS TO BOX-SIZING : BORDER-BOX */
-* {
-	box-sizing: border-box;
-}
-
-
-/*	MAIN CONTAINER
-	Set the width to whatever you want the width of your site to be. */
-.container {
-	max-width: 800px;
-	margin: 0 auto;
-}
-
 /*	SELF CLEARING FLOATS - CLEARFIX METHOD */
 .container:after,
 .row:after,

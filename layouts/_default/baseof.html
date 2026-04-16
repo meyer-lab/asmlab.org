@@ -7,7 +7,7 @@
     {{ partial "icons.html" . }}
 
     <div class="container azul">
-      <header class="top row gutters{{ if eq .Title "/" }} fadeInLeft animated{{ end }}">
+      <header class="row gutters">
         <div class="col span_2 center">
           <div id="logo"></div>
         </div>
@@ -26,15 +26,6 @@
       </footer>
     </div>
 
-  <script>
-  function toggle(key) {
-    var element = document.getElementById(key)
-    if (element.style.display == 'block') {
-      element.style.display = 'none'
-    } else {
-      element.style.display = 'block'
-    }
-  }
-  </script>
+  <script src="/js/site.js"></script>
   </body>
 </html>

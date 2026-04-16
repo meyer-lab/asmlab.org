@@ -46,44 +46,13 @@ B.S., Bioengineering, University of California, Los Angeles</p>
 {{ $sortedPeople := sort hugo.Data.team "joined" "desc" }}
 {{ range $sortedPeople }}
 {{ if not .current }}
-<div class="alumni-member" data-position="{{ .position }}" style="display: none;">
+<div class="alumni-member" data-position="{{ .position }}">
 <h4>{{ .name }}, {{ .position }}{{ if .postposition }} (currently {{ .postposition }}){{ end }}</h4>
 </div>
 {{ end }}
 {{ end }}
 </div>
 
-<script>
-function filterAlumni(positions, buttonEl) {
-  document.querySelectorAll('#alumni-filter-buttons .filter-btn').forEach(button => {
-    button.classList.remove('active');
-  });
-  buttonEl.classList.add('active');
-
-  const positionsToShow = Array.isArray(positions) ? positions : [positions];
-
-  document.querySelectorAll('#alumni-list .alumni-member').forEach(member => {
-    const memberPosition = member.dataset.position;
-    const shouldShow = positionsToShow.includes(memberPosition);
-    member.style.display = shouldShow ? 'block' : 'none';
-  });
-}
-</script>
-
-<style>
-#alumni-filter-buttons .filter-btn {
-  margin: 5px;
-  padding: 8px 12px;
-  cursor: pointer;
-  border: 1px solid #ccc;
-  background-color: #f0f0f0;
-  border-radius: 5px;
-}
-#alumni-filter-buttons .filter-btn.active {
-  background-color: #ddd;
-  font-weight: bold;
-}
-</style>
 
 </article>
 {{ end }}

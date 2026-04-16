@@ -16,5 +16,5 @@
 {{ if $ref.abstract }}<a href="#" onclick="toggle('{{ $ref.id }}_abstract'); return false;">[Abstract]</a>{{ end }}
 </span>
 
-{{ if $ref.abstract }}<p class="abstract" id="{{ $ref.id }}_abstract" style="display:none"><b>Abstract:</b> {{ $ref.abstract }}</p>{{ end }}
+{{ if $ref.abstract }}<p class="abstract" id="{{ $ref.id }}_abstract"><b>Abstract:</b> {{ $ref.abstract }}</p>{{ end }}
 </dd>

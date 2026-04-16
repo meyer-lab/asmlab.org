@@ -1,11 +1,10 @@
 {{ define "main" }}
 <article class="single row gutters">
   <h2>{{ .Title }}</h2>
-  <dl>
+  <ul>
   {{ range .Pages }}
-    <dt><a href="{{ .RelPermalink }}">{{ .Title }}</a></dt>
-    <dd><time>{{ .Date.Format "January 2, 2006" }}</time></dd>
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> — <time>{{ .Date.Format "January 2, 2006" }}</time></li>
   {{ end }}
-  </dl>
+  </ul>
 </article>
 {{ end }}
