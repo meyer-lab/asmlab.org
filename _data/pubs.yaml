@@ -2850,6 +2850,7 @@ references:
     - family: Meyer
       given: Aaron S
   container-title: bioRxiv \[Preprint\]
+  url: "https://www.biorxiv.org/content/10.64898/2026.04.14.718551v1"
   id: Ramirez2026
   issued: 2026-04
   keyword: tensors, single cell
