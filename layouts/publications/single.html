@@ -3,13 +3,14 @@
   <h2>{{ .Title }}</h2>
 
 {{ $refs := sort hugo.Data.pubs.references "issued" "desc" }}
-{{ $currentYear := 0 }}
+{{ $currentYear := "" }}
 {{ range $refs }}
-  {{ if ne .issued $currentYear }}
+  {{ $year := index (split (printf "%v" .issued) "-") 0 }}
+  {{ if ne $year $currentYear }}
     {{ if $currentYear }}</dl>{{ end }}
-    <h3>{{ .issued }}</h3>
+    <h3>{{ $year }}</h3>
     <dl>
-    {{ $currentYear = .issued }}
+    {{ $currentYear = $year }}
   {{ end }}
   {{ partial "pubentry.html" (dict "ref" .) }}
 {{ end }}
