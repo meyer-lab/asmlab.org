@@ -7,16 +7,9 @@ title: Meyer Lab
 taxonomies:
   tag: tag
 
-outputFormats:
-  RSS:
-    mediatype: application/rss+xml
-    baseName: feed
-    noUgly: true
-
 outputs:
   home:
     - HTML
-    - RSS
 
 markup:
   goldmark:
