@@ -3,18 +3,29 @@
   <h2>{{ .Title }}</h2>
 
 {{ $refs := sort hugo.Data.pubs.references "issued" "desc" }}
-{{ $currentYear := "" }}
+
+{{/* Collect unique years (issued may be int or string, so normalize via printf) */}}
+{{ $years := slice }}
 {{ range $refs }}
   {{ $year := index (split (printf "%v" .issued) "-") 0 }}
-  {{ if ne $year $currentYear }}
-    {{ if $currentYear }}</dl>{{ end }}
-    <h3>{{ $year }}</h3>
-    <dl>
-    {{ $currentYear = $year }}
+  {{ if not (in $years $year) }}
+    {{ $years = $years | append $year }}
   {{ end }}
-  {{ partial "pubentry.html" (dict "ref" .) }}
 {{ end }}
-{{ if $currentYear }}</dl>{{ end }}
+{{ $years = sort $years "value" "desc" }}
+
+{{ range $years }}
+  {{ $year := . }}
+  <h3>{{ $year }}</h3>
+  <dl>
+  {{ range $refs }}
+    {{ $refYear := index (split (printf "%v" .issued) "-") 0 }}
+    {{ if eq $refYear $year }}
+      {{ partial "pubentry.html" (dict "ref" .) }}
+    {{ end }}
+  {{ end }}
+  </dl>
+{{ end }}
 
 </article>
 {{ end }}
