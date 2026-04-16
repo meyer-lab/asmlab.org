@@ -7,6 +7,6 @@
 
   {{ .Content }}
 
-  <div class="post-tag">{{ range .GetTerms "tag" }}#<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>&nbsp;&nbsp;{{ end }}</div>
+  <div class="post-tag">{{ range .GetTerms "tag" }}#<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>&nbsp;&nbsp;{{ end }}</div>
 </article>
 {{ end }}

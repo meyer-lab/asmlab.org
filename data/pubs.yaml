@@ -2098,7 +2098,7 @@ references:
     given: Forest M
   - family: Meyer
     given: Aaron S
-  container-title: bioRxiv \[Preprint\]
+  container-title: bioRxiv [Preprint]
   id: Creixell2023
   issued: 2023
   title: Dissecting signaling regulators driving AXL-mediated bypass
@@ -2279,7 +2279,7 @@ references:
     given: Zhixin Cyrillus
   - family: Meyer
     given: Aaron S
-  container-title: bioRxiv \[Preprint\]
+  container-title: bioRxiv [Preprint]
   id: Hung2024
   issued: 2024
   keyword: tensors, missing data, censored least squares
@@ -2556,7 +2556,7 @@ references:
     given: Elaine F
   - family: Meyer
     given: Aaron S
-  container-title: bioRxiv \[Preprint\]
+  container-title: bioRxiv [Preprint]
   id: Chin2025
   issued: 2025-05-24
   keyword: immunology, transplantation

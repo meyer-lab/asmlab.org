@@ -3,7 +3,7 @@
   <h2>{{ .Title }}</h2>
   <dl>
   {{ range .Pages }}
-    <dt><a href="{{ .Permalink }}">{{ .Title }}</a></dt>
+    <dt><a href="{{ .RelPermalink }}">{{ .Title }}</a></dt>
     <dd><time>{{ .Date.Format "January 2, 2006" }}</time></dd>
   {{ end }}
   </dl>
