@@ -394,8 +394,9 @@
   description: Meera is an Ph.D. student who joined the lab in Fall 2022. Before coming to UCLA, Meera worked at Stanford University where she studied the mechanisms underlying the adaptive immune response to vaccination. In her free time, Meera enjoys spending time with friends, reading, playing soccer, dancing, and binge-watching TV.
   photo: meera.webp
   joined: 2023
+  left: 2026
   orcid: 0000-0002-8895-1163
-  current: True
+  postposition: Ph.D. Student, Jason Zhang lab
 
 - name: James Popoli
   position: Ph.D. Student
@@ -444,6 +445,21 @@
   orcid: 0009-0000-8856-1539
   github: fishidaho
   current: True
+
+- name: JJ Schirle
+  position: Ph.D. Student
+  degrees:
+    - M.S., Biomathematics, University of California, Los Angeles
+    - B.S., Computational Biology, University of California, Los Angeles
+  keywords: computational, scRNAseq
+  description: JJ is a biomathematics Ph.D. student who joined the lab in Spring 2026. Prior to joining the lab, he worked in industry as a bioinformatician supporting AAV capsid engineering. He is interested in building computational models to understand how cells respond to perturbations and other stimuli. Outside the lab, he enjoys hiking and biking in the mountains, bouldering, and trying to stay calm during board game nights.
+  photo: jschirle.webp
+  joined: 2026
+  orcid: 0009-0001-6841-5144
+  github: jjschirle
+  current: True
+  awards:
+    - UCLA Genomic Analysis Training Program
 
 - name: Saki Minamino
   position: M.S. Student
