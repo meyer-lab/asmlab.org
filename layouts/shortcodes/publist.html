@@ -1,0 +1,13 @@
+{{ $keyword := .Get "keyword" }}
+{{ $refs := slice }}
+{{ range hugo.Data.pubs.references }}
+  {{ if and .keyword (in .keyword $keyword) }}
+    {{ $refs = append . $refs }}
+  {{ end }}
+{{ end }}
+{{ $sortedRefs := sort $refs "issued" "desc" }}
+<dl>
+{{ range $sortedRefs }}
+  {{ partial "pubentry.html" (dict "ref" .) }}
+{{ end }}
+</dl>

@@ -1,0 +1,22 @@
+{{ define "main" }}
+<h1 class="category">Archive of items with tag '{{ .Title }}'</h1>
+
+<section class="archive">
+
+<div class="bundle row gutters">
+  <div class="posts-by-year col span_12">
+
+  {{ range .Pages }}
+  <article class="single row gutters">
+    <h3><a href="{{ .RelPermalink }}" title="{{ .Title }}" class="col span_10">{{ .Title }}</a></h3>
+    <div class="post-date col span_2">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    </div>
+  </article>
+  {{ end }}
+
+  </div>
+</div>
+
+</section>
+{{ end }}

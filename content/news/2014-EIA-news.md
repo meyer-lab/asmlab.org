@@ -1,0 +1,7 @@
+---
+title:  "Early Investigator Award"
+date:   2014-09-10 00:00:00
+---
+
+Aaron has received the [Early Independence Award](https://commonfund.nih.gov/earlyindependence/index), a funding mechanism through the NIH Common Fund to allow recent doctoral graduates to rapidly transition to independent research careers.
+

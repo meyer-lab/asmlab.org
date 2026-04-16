@@ -1,0 +1,89 @@
+{{ define "main" }}
+<article class="single row gutters">
+  <h2>{{ .Title }}</h2>
+
+<img src="/public/photos/group2023.webp" width="100%" alt="Group photo from Marc's defense celebration." class="center" />
+
+<div class="span_3 right"><img src="/public/photos/ameyer.webp" width="150px" alt="Aaron's photo" /></div>
+
+<h3>Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="https://ameyer.me"><svg class="svg-icon"><use href="#fa-home"></use></svg></a> <a href="https://github.com/aarmey"><svg class="svg-icon"><use href="#fa-github"></use></svg></a> <a href="https://mstdn.science/@aarmey"><svg class="svg-icon"><use href="#fa-mastadon"></use></svg></a> <a href="https://orcid.org/0000-0003-4513-1840"><svg class="svg-icon"><use href="#fa-orcid"></use></svg></a> <a href="mailto:ameyer@ucla.edu"><svg class="svg-icon"><use href="#fa-envelope"></use></svg></a></h3>
+<p>Ph. D., Biological Engineering, MIT<br>
+B.S., Bioengineering, University of California, Los Angeles</p>
+
+<p>Aaron is an Associate Professor of <a href="https://www.bioeng.ucla.edu">Bioengineering</a> and a member of the <a href="https://bioinformatics.ucla.edu">Bioinformatics IDP</a>, <a href="https://www.uclahealth.org/cancer">Jonsson Comprehensive Cancer Center</a>, <a href="https://stemcell.ucla.edu">Broad Stem Cell Research Center</a>, and <a href="https://qcb.ucla.edu">Institute for Quantitative and Computational Biosciences</a>. He strives to learn how we can use computational models to control biological systems and treat disease. Outside of the lab, he can be found consuming anything that might be considered science fiction, reading about the philosophy/history of science, or cycling in the Santa Monica mountains.</p>
+
+<br />
+
+{{ range hugo.Data.team }}
+{{ if .current }}
+<div class="span_3 right"><img src="/public/photos/{{ .photo }}" alt="{{ .name }}'s photo" /></div>
+<h3>{{ .name }}, {{ .position }}&nbsp;&nbsp;&nbsp;{{ if .homepage }}<a href="{{ .homepage }}"><svg class="svg-icon"><use href="#fa-home"></use></svg></a>{{ end }}{{ if .orcid }} <a href="https://orcid.org/{{ .orcid }}"><svg class="svg-icon"><use href="#fa-orcid"></use></svg></a>{{ end }}{{ if .github }} <a href="https://github.com/{{ .github }}"><svg class="svg-icon"><use href="#fa-github"></use></svg></a>{{ end }}</h3>
+{{ if .degrees }}
+{{ range .degrees }}
+<p>{{ . }}</p>
+{{ end }}
+{{ end }}
+
+{{ if .description }}<p>{{ .description }}</p>{{ end }}
+<br />
+<br />
+<br />
+<br />
+{{ end }}
+{{ end }}
+
+<h1>Former Members</h1>
+
+<div id="alumni-filter-buttons">
+  <button class="filter-btn" onclick="filterAlumni('Undergraduate Researcher', this)">Undergraduate Students</button>
+  <button class="filter-btn" onclick="filterAlumni(['Amgen Scholar', 'Bruins in Genomics Summer Research Program', 'NCI CSBC Summer Scholar', 'UCLA Transfer Student Summer Research Program'], this)">Summer Scholars</button>
+  <button class="filter-btn" onclick="filterAlumni(['Ph.D. Student', 'M.S. Student'], this)">Graduate Students</button>
+  <button class="filter-btn" onclick="filterAlumni(['Postdoctoral Associate', 'Postdoctoral Fellow'], this)">Postdoctoral Associates</button>
+  <button class="filter-btn" onclick="filterAlumni(['Development Engineer', 'Technical Assistant'], this)">Staff</button>
+</div>
+
+<div id="alumni-list">
+{{ $sortedPeople := sort hugo.Data.team "joined" "desc" }}
+{{ range $sortedPeople }}
+{{ if not .current }}
+<div class="alumni-member" data-position="{{ .position }}" style="display: none;">
+<h4>{{ .name }}, {{ .position }}{{ if .postposition }} (currently {{ .postposition }}){{ end }}</h4>
+</div>
+{{ end }}
+{{ end }}
+</div>
+
+<script>
+function filterAlumni(positions, buttonEl) {
+  document.querySelectorAll('#alumni-filter-buttons .filter-btn').forEach(button => {
+    button.classList.remove('active');
+  });
+  buttonEl.classList.add('active');
+
+  const positionsToShow = Array.isArray(positions) ? positions : [positions];
+
+  document.querySelectorAll('#alumni-list .alumni-member').forEach(member => {
+    const memberPosition = member.dataset.position;
+    const shouldShow = positionsToShow.includes(memberPosition);
+    member.style.display = shouldShow ? 'block' : 'none';
+  });
+}
+</script>
+
+<style>
+#alumni-filter-buttons .filter-btn {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+#alumni-filter-buttons .filter-btn.active {
+  background-color: #ddd;
+  font-weight: bold;
+}
+</style>
+
+</article>
+{{ end }}

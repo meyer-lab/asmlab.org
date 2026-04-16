@@ -1,0 +1,6 @@
+---
+title: UIUC Seminar
+date: 2018-09-12 00:00:01
+---
+
+Dr. Meyer will talk about the lab's efforts to enable large receptor family mapping and manipulation at UIUC's Department of Bioengineering.

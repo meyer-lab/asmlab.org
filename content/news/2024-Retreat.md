@@ -1,0 +1,5 @@
+---
+title: Lab retreat
+date: 2024-08-16 12:00:00
+---
+The lab headed to Big Bear Lake for a weekend retreat. In addition to fun, they discussed goals for the coming year.

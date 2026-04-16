@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="single row gutters">
+  <h2>{{ .Title }}</h2>
+
+{{ $refs := sort hugo.Data.pubs.references "issued" "desc" }}
+{{ $currentYear := 0 }}
+{{ range $refs }}
+  {{ if ne .issued $currentYear }}
+    {{ if $currentYear }}</dl>{{ end }}
+    <h3>{{ .issued }}</h3>
+    <dl>
+    {{ $currentYear = .issued }}
+  {{ end }}
+  {{ partial "pubentry.html" (dict "ref" .) }}
+{{ end }}
+{{ if $currentYear }}</dl>{{ end }}
+
+</article>
+{{ end }}

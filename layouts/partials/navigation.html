@@ -1,0 +1,6 @@
+<nav class="col span_10 top-navbar">
+  {{ range hugo.Data.links }}
+  <a href="{{ .url }}" title="{{ .title }}"
+     {{ if eq $.Title .title }}class="current-page"{{ end }}>{{ .title }}</a>
+  {{ end }}
+</nav>

@@ -1,0 +1,2858 @@
+references:
+- abstract: The concentration of biomarkers, such as DNA, prior to a
+    subsequent detection step may facilitate the early detection of
+    cancer, which could significantly increase chances for survival. In
+    this study, the partitioning behavior of mammalian genomic DNA
+    fragments in a two-phase aqueous micellar system was investigated
+    using both experiment and theory. The micellar system was generated
+    using the nonionic surfactant Triton X-114 and phosphate-buffered
+    saline (PBS). Partition coefficients were measured under a variety
+    of conditions and compared with our theoretical predictions. With
+    this comparison, we demonstrated that the partitioning behavior of
+    DNA fragments in this system is primarily driven by repulsive,
+    steric, excluded-volume interactions that operate between the
+    micelles and the DNA fragments, but is limited by the entrainment of
+    micelle-poor, DNA-rich domains in the macroscopic micelle-rich
+    phase. Furthermore, the volume ratio, that is, the volume of the
+    top, micelle-poor phase divided by that of the bottom, micelle-rich
+    phase, was manipulated to concentrate DNA fragments in the top
+    phase. Specifically, by decreasing the volume ratio from 1 to 1/10,
+    we demonstrated proof-of-principle that the concentration of DNA
+    fragments in the top phase could be increased two- to nine-fold in a
+    predictive manner.
+  author:
+  - family: Mashayekhi
+    given: Foad
+  - family: Meyer
+    given: Aaron S.
+  - family: Shiigi
+    given: Stacey A.
+  - family: Nguyen
+    given: Vu
+  - family: Kamei
+    given: Daniel T.
+  container-title: Biotechnology and Bioengineering
+  doi: 10.1002/bit.22188
+  id: "Mashayekhi:2009"
+  issn: 1097-0290
+  issue: 6
+  issued: 2009
+  keyword: two-phase aqueous micellar systems, genomic DNA, Triton
+    X-114, cancer biomarkers, liquid--liquid extraction, diagnostics
+  page: 1613-1623
+  pmid: 19061237
+  title: Concentration of mammalian genomic DNA using two-phase aqueous
+    micellar systems
+  type: article-journal
+  url: "https://dx.doi.org/10.1002/bit.22188"
+  volume: 102
+- abstract: Urinary tract infections (UTIs) are a leading cause of
+    health expenditures, in part due to the expensive and lengthy
+    diagnostic method that involves culturing bacteria. A new technique
+    has been developed allowing for faster UTI diagnosis through an
+    electrochemical chip to measure unique ribosomal RNA (rRNA) found in
+    bacteria associated with UTIs. Although this technique has had
+    success, concentrating the bacterial rRNA through the use of
+    two-phase aqueous micellar systems in the urine sample prior to
+    utilizing the chip may provide increased sensitivity. This approach
+    is appealing because these systems are relatively inexpensive,
+    easily scalable, and simple to use. In this study, we examined the
+    partitioning behavior of bacterial RNA fragments, puri ed from
+    Enteroccocus faecalis, in a two-phase micellar system comprised of
+    the nonionic surfactant Triton X-114 and phosphate-buffered saline.
+    Experimentally measured results were compared to theoretical values
+    to determine the governing factors involved in RNA partitioning. We
+    demonstrated that RNA fragments partition primarily due to steric,
+    excluded-volume interactions that exist between the RNA and
+    micelles. However, the presence of entrained micelle-poor, RNA-rich
+    domains in the macroscopic micelle-rich, RNA-poor phase limits the
+    extent of RNA partitioning in this system. Additionally, by
+    manipulating the volume ratio, or the volume of the top,
+    micelle-poor phase divided by that of the bottom, micelle-rich
+    phase, we demonstrated that RNA fragments can be concentrated up to
+    four-fold in a predictive manner. Concentrating the bacterial RNA
+    with these two-phase micellar systems prior to detection with the
+    UTI chip may facilitate the earlier detection of UTIs.
+  author:
+  - family: Shiigi
+    given: Stacey A.
+  - family: Meyer
+    given: Aaron S.
+  - family: Kamei
+    given: Daniel T.
+  container-title: The UCLA USJ
+  id: shiigienhancing
+  issued: 2009
+  page: 47-56
+  title: Enhancing the detection of urinary tract infections using
+    two-phase aqueous micellar systems
+  type: article-journal
+- author:
+  - family: Tsao
+    given: Yung-Shyeng
+  - family: Merchant
+    given: AnkitA.
+  - family: Meyer
+    given: Aaron
+  - family: Liu
+    given: Zhong
+  - family: Smith
+    given: Marsha
+  - family: Levitan
+    given: Diane
+  - family: Gustafson
+    given: Eric
+  collection-title: "Animal cell technology: Basic & applied aspects"
+  container-title: "Animal cell technology: Basic & applied aspects"
+  doi: 10.1007/978-90-481-3892-0_5
+  id: Tsao
+  isbn: 978-90-481-3891-3
+  issued: 2010
+  page: 27-32
+  title: Integrated pathway analysis of genome-wide expression changes
+    associated with serum-free suspension adaptation of an
+    antibody-producing Chinese Hamster Ovary (CHO) cell line
+  type: chapter
+  url: "https://dx.doi.org/10.1007/978-90-481-3892-0_5"
+  volume: 16
+- abstract: Epithelial-mesenchymal transition (EMT), whether in
+    developmental morphogenesis or malignant transformation, prominently
+    involves modified cell motility behavior. While major advances have
+    transpired in understanding the molecular pathways regulating the
+    process of EMT induction per se by certain environmental stimuli, an
+    important outstanding question is how the activities of signaling
+    pathways governing motility yield the diverse movement behaviors
+    characteristic of pre-induction versus post-induction states across
+    a broad landscape of growth factor contexts. For the particular case
+    of EMT induction in human mammary cells by ectopic expression of the
+    transcription factor Twist, we found the migration responses to a
+    panel of growth factors (EGF, HRG, IGF, HGF) dramatically disparate
+    between confluent pre-Twist epithelial cells and sparsely
+    distributed post-Twist mesenchymal cells - but that a computational
+    model quantitatively integrating multiple key signaling node
+    activities could nonetheless account for this full range of
+    behavior. Moreover, motility in both conditions was successfully
+    predicted a priori for an additional growth factor treatment (PDGF).
+    While this signaling network state model could comprehend motility
+    behavior globally, modulation of the network interactions underlying
+    the altered pathway activities was identified by ascertaining
+    differences in quantitative topological influences among the nodes
+    between the two conditions.
+  author:
+  - family: Kim
+    given: Hyung-Do
+  - family: Meyer
+    given: Aaron S.
+  - family: Wagner
+    given: Joel P.
+  - family: Alford
+    given: Shannon K.
+  - family: Wells
+    given: Alan
+  - family: Gertler
+    given: Frank B.
+  - family: Lauffenburger
+    given: Douglas A.
+  container-title: Molecular & Cellular Proteomics
+  doi: 10.1074/mcp.M111.008433
+  id: Kim10082011
+  issue: 11
+  issued: 2011
+  page: 1-12
+  pmid: 21832255
+  title: Signaling network state predicts twist-mediated effects on
+    breast cell migration across diverse growth factor contexts
+  type: article-journal
+  url: "https://www.mcponline.org/content/10/11/M111.008433"
+  volume: 10
+- abstract: In bioprocess development, the 96-well plate format has been
+    widely used for high-throughput screening of production cell line or
+    culture conditions. However, suspension cell cultures in
+    conventional 96-well plates often fail to reach high cell density
+    under normal agitation presumably due to constraints in oxygen
+    transfer. Although more vigorous agitation can improve gas transfer
+    in 96-well plate format, it often requires specialized instruments.
+    In this report, we employed Fluorinert, a biologically inert
+    perfluorocarbon, to improve oxygen transfer in 96-well plate and to
+    enable the growth of a Chinese Hamster Ovary cell line expressing a
+    recombinant monoclonal antibody. When different amounts of
+    Fluorinert were added to the cell culture medium, a dose-dependent
+    improvement in cell growth was observed in both conventional and
+    deep square 96-well plates. When sufficient Fluorinert was present
+    in the culture, the cell growth rate, the peak cell density, and
+    recombinant protein production levels achieved in deep square
+    96-wells were comparable to cultures in ventilated shake flasks.
+    Although Fluorinert is known to dissolve gases such as oxygen and
+    CO2, it does not dissolve nor extract medium components, such as
+    glucose, lactate, or amino acids. We conclude that mixing Fluorinert
+    with culture media is a suitable model for miniaturization of cell
+    line development and process optimization. Proper cell growth and
+    cellular productivity can be obtained with a standard shaker without
+    the need for any additional aeration or vigorous agitation. © 2011
+    American Institute of Chemical Engineers Biotechnol. Prog., 2012
+  author:
+  - family: Meyer
+    given: Aaron
+  - family: Condon
+    given: Russell G. G.
+  - family: Keil
+    given: Gregory
+  - family: Jhaveri
+    given: Nikita
+  - family: Liu
+    given: Zhong
+  - family: Tsao
+    given: Yung-Shyeng
+  container-title: Biotechnology Progress
+  doi: 10.1002/btpr.712
+  id: "BTPR:BTPR712"
+  issn: 1520-6033
+  issue: 1
+  issued: 2012
+  keyword: high-throughput, microbioreactor, mammalian cell culture,
+    Fluorinert, oxygen-transfer
+  page: 171-178
+  title: Fluorinert, an oxygen carrier, improves cell culture
+    performance in deep square 96-well plates by facilitating oxygen
+    transfer
+  type: article-journal
+  url: "https://dx.doi.org/10.1002/btpr.712"
+  volume: 28
+- abstract: Growth factor--induced migration is a critical step in the
+    dissemination and metastasis of solid tumors. Although differences
+    in properties characterizing cell migration on two-dimensional (2D)
+    substrata versus within three-dimensional (3D) matrices have been
+    noted for particular growth factor stimuli, the 2D approach remains
+    in more common use as an efficient surrogate, especially for
+    high-throughput experiments. We therefore were motivated to
+    investigate which migration properties measured in various 2D assays
+    might be reflective of 3D migratory behavioral responses. We used
+    human triple-negative breast cancer lines stimulated by a panel of
+    receptor tyrosine kinase ligands relevant to mammary carcinoma
+    progression. Whereas 2D migration properties did not correlate well
+    with 3D behavior across multiple growth factors, we found that
+    increased membrane protrusion elicited by growth factor stimulation
+    did relate robustly to enhanced 3D migration properties of the
+    MDA-MB-231 and MDA-MB-157 lines. Interestingly, we observed this to
+    be a more reliable relationship than cognate receptor expression or
+    activation levels across these and two additional mammary tumor
+    lines.
+  author:
+  - family: Meyer
+    given: Aaron S.
+  - family: Hughes-Alford
+    given: Shannon K.
+  - family: Kay
+    given: Jennifer E.
+  - family: Castillo
+    given: Amalchi
+  - family: Wells
+    given: Alan
+  - family: Gertler
+    given: Frank B.
+  - family: Lauffenburger
+    given: Douglas A.
+  container-title: The Journal of Cell Biology
+  doi: 10.1083/jcb.201201003
+  id: "Meyer:2012fr"
+  issue: 6
+  issued: 2012
+  page: 721-729
+  pmid: 22665521
+  title: 2D protrusion but not motility predicts growth factor--induced
+    cancer cell migration in 3D collagen
+  type: article-journal
+  url: "https://jcb.rupress.org/content/197/6/721.abstract"
+  volume: 197
+- abstract: The relationship between drug resistance, changes in
+    signaling, and emergence of an invasive phenotype is well
+    appreciated, but the underlying mechanisms are not well understood.
+    Using machine learning analysis applied to the Cancer Cell Line
+    Encyclopedia database, we identified expression of AXL, the gene
+    that encodes the epithelial-to-mesenchymal transition
+    (EMT)-associated receptor tyrosine kinase (RTK) AXL, as
+    exceptionally predictive of lack of response to ErbB family
+    receptor-targeted inhibitors. Activation of EGFR (epidermal growth
+    factor receptor) transactivated AXL, and this ligand-independent AXL
+    activity diversified EGFR-induced signaling into additional
+    downstream pathways beyond those triggered by EGFR alone.
+    AXL-mediated signaling diversification was required for EGF
+    (epidermal growth factor)-elicited motility responses in
+    AXL-positive TNBC (triple-negative breast cancer) cells. Using
+    cross-linking coimmunoprecipitation assays, we determined that AXL
+    associated with EGFR, other ErbB receptor family members, MET
+    (hepatocyte growth factor receptor), and PDGFR (platelet-derived
+    growth factor receptor) but not IGF1R (insulin-like growth factor 1
+    receptor) or INSR (insulin receptor). From these AXL interaction
+    data, we predicted AXL-mediated signaling synergy for additional
+    RTKs and validated these predictions in cells. This alternative
+    mechanism of receptor activation limits the use of ligand-blocking
+    therapies and indicates against therapy withdrawal after acquired
+    resistance. Further, subadditive interaction between EGFR- and
+    AXL-targeted inhibitors across all AXL-positive TNBC cell lines may
+    indicate that increased abundance of EGFR is principally a means to
+    transactivation-mediated signaling.
+  author:
+  - family: Meyer
+    given: Aaron S.
+  - family: Miller
+    given: Miles A.
+  - family: Gertler
+    given: Frank B.
+  - family: Lauffenburger
+    given: Douglas A.
+  container-title: Science Signaling
+  doi: 10.1126/scisignal.2004155
+  id: Meyerra66
+  issn: 1945-0877
+  issue: 287
+  issued: 2013
+  page: ra66-ra66
+  pmid: 23921085
+  title: The receptor AXL diversifies EGFR signaling and limits the
+    response to EGFR-targeted inhibitors in triple-negative breast
+    cancer cells
+  type: article-journal
+  volume: 6
+- abstract: A Disintegrin and Metalloproteinases (ADAMs) are the
+    principal enzymes for shedding receptor tyrosine kinase (RTK)
+    ectodomains and ligands from the cell surface. Multiple layers of
+    activity regulation, feedback, and catalytic promiscuity impede our
+    understanding of context-dependent ADAM \"sheddase\" function and
+    our ability to predictably target that function in disease. This
+    study uses combined measurement and computational modeling to
+    examine how various growth factor environments influence sheddase
+    activity and cell migration in the invasive disease of
+    endometriosis. We find that ADAM-10 and -17 dynamically integrate
+    numerous signaling pathways to direct cell motility. Data-driven
+    modeling reveals that induced cell migration is a quantitative
+    function of positive feedback through EGF ligand release and
+    negative feedback through RTK shedding. Although sheddase inhibition
+    prevents autocrine ligand shedding and resultant EGF receptor
+    transactivation, it also leads to an accumulation of phosphorylated
+    receptors (HER2, HER4, and MET) on the cell surface, which
+    subsequently enhances Jnk/p38 signaling. Jnk/p38 inhibition reduces
+    cell migration by blocking sheddase activity while additionally
+    preventing the compensatory signaling from accumulated RTKs. In
+    contrast, Mek inhibition reduces ADAM-10 and -17 activities but
+    fails to inhibit compensatory signaling from accumulated RTKs, which
+    actually enhances cell motility in some contexts. Thus, here we
+    present a sheddase-based mechanism of rapidly acquired resistance to
+    Mek inhibition through reduced RTK shedding that can be overcome
+    with rationally directed combination inhibitor treatment. We
+    investigate the clinical relevance of these findings using targeted
+    proteomics of peritoneal fluid from endometriosis patients and find
+    growth-factor-driven ADAM-10 activity and MET shedding are jointly
+    dysregulated with disease.
+  author:
+  - family: Miller
+    given: Miles A
+  - family: Meyer
+    given: Aaron S
+  - family: Beste
+    given: Michael T
+  - family: Lasisi
+    given: Zainab
+  - family: Reddy
+    given: Sonika
+  - family: Jeng
+    given: Karen W
+  - family: Chen
+    given: Chia-Hung
+  - family: Han
+    given: Jongyoon
+  - family: Isaacson
+    given: Keith
+  - family: Griffith
+    given: Linda G
+  - family: Lauffenburger
+    given: Douglas A
+  container-title: Proc Natl Acad Sci U S A
+  doi: 10.1073/pnas.1222387110
+  id: "Miller:2013jt"
+  issue: 22
+  issued: 2013-05
+  page: E2074-83
+  pmid: 23674691
+  title: ADAM-10 and -17 regulate endometriotic cell migration via
+    concerted ligand and receptor shedding feedback on kinase signaling.
+  type: article-journal
+  volume: 110
+- abstract: The AXL receptor is a TAM (Tyro3, AXL, MerTK) receptor
+    tyrosine kinase (RTK) important in physiological inflammatory
+    processes such as blood clotting, viral infection, and innate
+    immune-mediated cell clearance. Overexpression of the receptor in a
+    number of solid tumors is increasingly appreciated as a key drug
+    resistance and tumor dissemination mechanism. Although the
+    ligand-receptor (Gas6-AXL) complex structure is known, literature
+    reports on ligand-mediated signaling have provided conflicting
+    conclusions regarding the influence of other factors such as
+    phosphatidylserine binding, and a detailed, mechanistic picture of
+    AXL activation has not emerged. Integrating quantitative experiments
+    with mathematical modeling, we show here that AXL operates to sense
+    local spatial heterogeneity in ligand concentration, a feature
+    consistent with its physiological role in inflammatory cell
+    responses. This effect arises as a result of an intricate
+    reaction-diffusion interaction. Our results demonstrate that AXL
+    functions distinctly from other RTK families, a vital insight for
+    the envisioned design of AXL-targeted therapeutic intervention.
+  author:
+  - family: Meyer
+    given: Aaron S.
+  - family: Zweemer
+    given: Annelien J. M.
+  - family: Lauffenburger
+    given: Douglas A.
+  container-title: Cell Systems
+  doi: 10.1016/j.cels.2015.06.002
+  id: "Meyer:CellSys"
+  issue: 1
+  issued: 2015
+  page: 25-36
+  pmid: 26236777
+  title: The AXL receptor is a sensor of ligand spatial heterogeneity
+  type: article-journal
+  url: "https://dx.doi.org/10.1016/j.cels.2015.06.002"
+  volume: 1
+- abstract: The members of the actin regulatory family of Ena/VASP
+    proteins form stable tetramers. The vertebrate members of the
+    Ena/VASP family, VASP, Mena, and EVL, have many overlapping
+    properties and expression patterns, but functional and regulatory
+    differences between paralogs have been observed. The formation of
+    mixed oligomers may serve a regulatory role to refine Ena/VASP
+    activity. While it has been assumed that family members can form
+    mixed oligomers, this possibility has not been investigated
+    systematically. Using cells expressing controlled combinations of
+    VASP, Mena, and EVL, we evaluated the composition of Ena/VASP
+    oligomers and found that VASP forms oligomers without apparent bias
+    with itself, Mena, or EVL. However, Mena and EVL showed only weak
+    hetero-oligomerization, suggesting specificity in the association of
+    Ena/VASP family members. Co-expression of VASP increased the ability
+    of Mena and EVL to form mixed oligomers. Additionally, we found that
+    the tetramerization domain at the C-termini of Ena/VASP proteins
+    conferred the observed selectivity. Finally, we demonstrate that
+    replacement of the TD with a synthetic tetramerizing coiled-coil
+    sequence supports homo-oligomerization and normal VASP subcellular
+    localization.
+  author:
+  - family: Riquelme
+    given: Daisy N
+  - family: Meyer
+    given: Aaron S
+  - family: Barzik
+    given: Melanie
+  - family: Keating
+    given: Amy
+  - family: Gertler
+    given: Frank
+  container-title: Bioscience Reports
+  doi: 10.1042/bsr20150149
+  id: RiquelmeBSR20150149
+  issn: 0144-8463
+  issue: 5
+  issued: 2015
+  pmid: 26221026
+  title: Selectivity in subunit composition of ena/VASP tetramers
+  type: article-journal
+  volume: 35
+- abstract: Dysregulation of ErbB-family signaling underlies numerous
+    pathologies and has been therapeutically targeted through inhibiting
+    ErbB-receptors themselves or their cognate ligands. For the latter,
+    "decoy" antibodies have been developed to sequester ligands
+    including heparin-binding epidermal growth factor (HB-EGF); however,
+    demonstrating sufficient efficacy has been difficult. Here, we
+    hypothesized that this strategy depends on properties such as
+    ligand-receptor binding affinity, which varies widely across the
+    known ErbB-family ligands. Guided by computational modeling, we
+    found that high-affinity ligands such as HB-EGF are more difficult
+    to target with decoy antibodies compared to low-affinity ligands
+    such as amphiregulin (AREG). To address this issue, we developed an
+    alternative method for inhibiting HB-EGF activity by targeting its
+    cleavage from the cell surface. In a model of the invasive disease
+    endometriosis, we identified A Disintegrin and Metalloproteinase 12
+    (ADAM12) as a protease implicated in HB-EGF shedding. We designed a
+    specific inhibitor of ADAM12 based on its recombinant prodomain
+    (PA12), which selectively inhibits ADAM12 but not ADAM10 or ADAM17.
+    In endometriotic cells, PA12 significantly reduced HB-EGF shedding
+    and resultant cellular migration. Overall, specific inhibition of
+    ligand shedding represents a possible alternative to decoy
+    antibodies, especially for ligands such as HB-EGF that exhibit high
+    binding affinity and localized signaling.
+  author:
+  - family: Miller
+    given: Miles A.
+  - family: Moss
+    given: Marcia L.
+  - family: Powell
+    given: Gary
+  - family: Petrovich
+    given: Robert
+  - family: Edwards
+    given: Lori
+  - family: Meyer
+    given: Aaron S.
+  - family: Griffith
+    given: Linda G.
+  - family: Lauffenburger
+    given: Douglas A.
+  container-title: Scientific Reports
+  id: "Miller:2015aa"
+  issued: 2015
+  page: 15150 Ep -
+  pmid: 26477568
+  title: Targeting autocrine HB-EGF signaling with specific ADAM12
+    inhibition using recombinant ADAM12 prodomain
+  type: article-journal
+  url: "https://www.nature.com/articles/srep15150"
+  volume: 5
+- abstract: Cancer systems biology aims to understand cancer as an
+    integrated system of genes, proteins, networks, and interactions
+    rather than an entity of isolated molecular and cellular components.
+    The inaugural Systems Approaches to Cancer Biology Conference,
+    cosponsored by the Association of Early Career Cancer Systems
+    Biologists and the National Cancer Institute of the NIH, focused on
+    the interdisciplinary field of cancer systems biology and the
+    challenging cancer questions that are best addressed through the
+    combination of experimental and computational analyses. Attendees
+    found that elucidating the many molecular features of cancer
+    inevitably reveals new forms of complexity and concluded that
+    ensuring the reproducibility and impact of cancer systems biology
+    studies will require widespread method and data sharing and,
+    ultimately, the translation of important findings to the clinic.
+  author:
+  - family: Archer
+    given: Tenley C.
+  - family: Fertig
+    given: Elana J.
+  - family: Gosline
+    given: Sara J. C.
+  - family: Hafner
+    given: Marc
+  - family: Hughes
+    given: Shannon K.
+  - family: Joughin
+    given: Brian A.
+  - family: Meyer
+    given: Aaron S.
+  - family: Piccolo
+    given: Stephen R.
+  - family: Shajahan-Haq
+    given: Ayesha N.
+  container-title: Cancer Research
+  doi: 10.1158/0008-5472.can-16-1580
+  id: Archer
+  issn: 0008-5472
+  issued: 2016
+  pmid: 27864348
+  title: Systems approaches to cancer biology
+  type: article-journal
+  url: "https://cancerres.aacrjournals.org/content/early/2016/11/18/0008-5472.CAN-16-1580"
+- abstract: Kinase inhibitor resistance often involves upregulation of
+    poorly understood "bypass" signaling pathways. Here, we show that
+    extracellular proteomic adaptation is one path to bypass signaling
+    and drug resistance. Proteolytic shedding of surface receptors,
+    which can provide negative feedback on signaling activity, is
+    blocked by kinase inhibitor treatment and enhances bypass signaling.
+    In particular, MEK inhibition broadly decreases shedding of multiple
+    receptor tyrosine kinases (RTK), including HER4, MET, and most
+    prominently AXL, an ADAM10 and ADAM17 substrate, thus increasing
+    surface RTK levels and mitogenic signaling. Progression-free
+    survival of patients with melanoma treated with clinical BRAF/MEK
+    inhibitors inversely correlates with RTK shedding reduction
+    following treatment, as measured noninvasively in blood plasma.
+    Disrupting protease inhibition by neutralizing TIMP1 improves MAPK
+    inhibitor efficacy, and combined MAPK/AXL inhibition synergistically
+    reduces tumor growth and metastasis in xenograft models. Altogether,
+    extracellular proteomic rewiring through reduced RTK shedding
+    represents a surprising mechanism for bypass signaling in cancer
+    drug resistance.
+  author:
+  - family: Miller
+    given: Miles A.
+  - family: Oudin
+    given: Madeleine J.
+  - family: Sullivan
+    given: Ryan J.
+  - family: Wang
+    given: Stephanie J.
+  - family: Meyer
+    given: Aaron S.
+  - family: Im
+    given: Hyungsoon
+  - family: Frederick
+    given: Dennie T.
+  - family: Tadros
+    given: Jenny
+  - family: Griffith
+    given: Linda G.
+  - family: Lee
+    given: Hakho
+  - family: Weissleder
+    given: Ralph
+  - family: Flaherty
+    given: Keith T.
+  - family: Gertler
+    given: Frank B.
+  - family: Lauffenburger
+    given: Douglas A.
+  container-title: Cancer Discovery
+  doi: 10.1158/2159-8290.cd-15-0933
+  id: Miller16032016
+  issue: 4
+  issued: 2016
+  page: 331-333
+  pmid: 26984351
+  title: Reduced proteolytic shedding of receptor tyrosine kinases is a
+    post-translational mechanism of kinase inhibitor resistance
+  type: article-journal
+  url: "https://cancerdiscovery.aacrjournals.org/content/early/2016/03/15/2159-8290.CD-15-0933.abstract"
+  volume: 6
+- abstract: Axons navigate long distances through complex 3D
+    environments to interconnect the nervous system during development.
+    Although the precise spatiotemporal effects of most axon guidance
+    cues remain poorly characterized, a prevailing model posits that
+    attractive guidance cues stimulate actin polymerization in neuronal
+    growth cones whereas repulsive cues induce actin disassembly.
+    Contrary to this model, we find that the repulsive guidance cue Slit
+    stimulates the formation and elongation of actin-based filopodia
+    from mouse dorsal root ganglion growth cones. Surprisingly,
+    filopodia form and elongate toward sources of Slit, a response that
+    we find is required for subsequent axonal repulsion away from Slit.
+    Mechanistically, Slit evokes changes in filopodium dynamics by
+    increasing direct binding of its receptor, Robo, to members of the
+    actin-regulatory Ena/VASP family. Perturbing filopodium dynamics
+    pharmacologically or genetically disrupts Slit-mediated repulsion
+    and produces severe axon guidance defects in vivo. Thus, Slit
+    locally stimulates directional filopodial extension, a process that
+    is required for subsequent axonal repulsion downstream of the Robo
+    receptor.
+  author:
+  - family: McConnell
+    given: RE
+  - family: Veen
+    given: JE Van
+  - family: Vidaki
+    given: M
+  - family: Kwiatkowski
+    given: AV
+  - family: Meyer
+    given: Aaron S.
+  - family: Gertler
+    given: Frank B.
+  container-title: Journal of Cell Biology
+  doi: 10.1083/jcb.201509062
+  id: filpodia
+  issue: 2
+  issued: 2016
+  page: 261-274
+  pmid: 27091449
+  title: A requirement for filopodia extension toward slit during
+    robo-mediated axon repulsion
+  type: article-journal
+  url: "https://jcb.rupress.org/content/213/2/261.long"
+  volume: 213
+- abstract: Resistance limits the effectiveness of receptor tyrosine
+    kinase (RTK)-targeted therapies. Combination therapies targeting
+    resistance mechanisms can considerably improve response, but will
+    require an improved understanding of when particular combinations
+    will be effective. One common form of resistance is bypass
+    signaling, wherein RTKs not targeted by an inhibitor can direct
+    reactivation of pathways essential for survival. Although this
+    mechanism of resistance is well appreciated, it is unclear which
+    downstream signaling events are responsible. Here, we apply a
+    combined experimental- and statistical modeling-based approach to
+    identify a set of pathway reactivation essential for RTK-mediated
+    bypass resistance. Differences in the downstream pathway activation
+    provided by particular RTKs lead to qualitative differences in the
+    capacity of each receptor to drive therapeutic resistance. We
+    identify and validate that the JNK pathway is activated during and
+    strongly modulates bypass resistance. These results identify
+    effective therapeutic combinations that block bypass-mediated
+    resistance and provide a basic understanding of this network-level
+    change in kinase dependence that will inform the design of
+    prognostic assays for identifying effective therapeutic combinations
+    in individual patients.
+  author:
+  - family: Manole
+    given: Simin
+  - family: Richards
+    given: Edward J.
+  - family: Meyer
+    given: Aaron S.
+  container-title: Cancer Research
+  doi: 10.1158/0008-5472.can-16-0123
+  id: Manole5219
+  issn: 0008-5472
+  issue: 18
+  issued: 2016
+  page: 5219-5228
+  pmid: 27450453
+  title: JNK pathway activation modulates acquired resistance to
+    EGFR/HER2-targeted therapies
+  type: article-journal
+  url: "https://cancerres.aacrjournals.org/content/76/18/5219"
+  volume: 76
+- abstract: "Metastases are a major cause of cancer mortality. AXL, a
+    receptor tyrosine kinase (RTK) aberrantly expressed in many tumors,
+    is a potent oncogenic driver of metastatic cell motility and has
+    been identified as broadly relevant in cancer drug resistance.
+    Despite its frequent association with changes in cancer phenotypes,
+    the precise mechanism leading to AXL activation is incompletely
+    understood. In addition to its ligand growth arrest specific-6
+    (Gas6), activation of AXL requires the lipid moiety
+    phosphatidylserine (PS). PS is only available to mediate AXL
+    activation when it is externalized on cell membranes, an event that
+    occurs during certain physiologic processes such as apoptosis. Here
+    it is reported that exposure of cancer cells to PS-containing
+    vesicles, including synthetic liposomes and apoptotic bodies,
+    contributes to enhanced migration of tumor cells via a PS-Gas6-AXL
+    signaling axis. These findings suggest that anti-cancer treatments
+    that induce fractional cell killing enhance the motility of
+    surviving cells in AXL-expressing tumors, which may explain the
+    widespread role of AXL in limiting therapeutic efficacy.
+    Implications: This study demonstrates that motility behavior of
+    AXL-expressing tumor cells can be elicited by Gas6-bearing apoptotic
+    bodies generated from tumor treatment with therapeutics that produce
+    killing of a portion of the tumor cells present but not all, hence
+    generating potentially problematic invasive and metastatic behavior
+    of the surviving tumor cells."
+  author:
+  - family: Zweemer
+    given: Annelien
+  - family: French
+    given: Cory B.
+  - family: Mesfin
+    given: Joshua
+  - family: Gordonov
+    given: Simon
+  - family: Meyer
+    given: Aaron S.
+  - family: Lauffenburger
+    given: Douglas A.
+  container-title: Molecular Cancer Research
+  doi: 10.1158/1541-7786.mcr-17-0012
+  id: ZweemerLauf
+  issn: 1541-7786
+  issued: 2017
+  pmid: 28923840
+  title: Apoptotic bodies elicit Gas6-mediated migration of
+    AXL-expressing tumor cells
+  type: article-journal
+  url: "https://mcr.aacrjournals.org/content/early/2017/09/16/1541-7786.MCR-17-0012"
+- abstract: Traditional drug screening methods lack features of the
+    tumor microenvironment that can contribute to resistance. There
+    remains a gap in whether extracellular signals, such as stiffness,
+    dimensionality, and cell-cell contacts act independently, or are
+    integrated within a cell, to affect drug sensitizations or
+    resistance. This is critically important, as adaptive resistance is
+    mediated, at least in part, by the extracellular matrix (ECM) of the
+    tumor microenvironment. We developed an approach to screen drug
+    responses in cells cultured on 2D and in 3D biomaterial environments
+    to explore how key features of ECM mediate drug response. This
+    approach uncovered that cells on 2D hydrogels and as spheroids
+    encapsulated in 3D hydrogels were less responsive to receptor
+    tyrosine kinase (RTK)-targeting drugs sorafenib and lapatinib, but
+    not cytotoxic drugs, compared to single cells in hydrogels and cells
+    on plastic. Transcriptomic differences between these in vitro models
+    and tumor xenografts did not reveal mechanisms of ECM-mediated
+    resistance. However, a systems biology analysis of phospho-kinome
+    data suggested that MEK phosphorylation was associated with
+    RTK-targeted drug resistance. Using sorafenib as a model drug, we
+    found that co-administration with a MEK inhibitor decreased
+    ECM-mediated resistance in vitro and reduced in vivo tumor burden
+    compared to sorafenib alone. In sum, we provide a novel strategy for
+    identifying and overcoming ECM-mediated resistance mechanisms by
+    performing drug screening, phospho-kinome analysis, and systems
+    biology across multiple biomaterial environments.
+  author:
+  - family: Schwartz
+    given: Alyssa D
+  - family: Barney
+    given: Lauren E
+  - family: Jansen
+    given: Lauren E
+  - family: Nguyen
+    given: Thuy V
+  - family: Hall
+    given: Christopher L
+  - family: Meyer
+    given: Aaron S
+  - family: Peyton
+    given: Shelly
+  container-title: Integrative Biology
+  doi: 10.1039/c7ib00128b
+  id: BarneyPeyton
+  issued: 2017
+  pmid: 29159332
+  title: A biomaterial screening approach to reveal microenvironmental
+    mechanisms of drug resistance
+  type: article-journal
+  url: "https://pubs.rsc.org/en/content/articlelanding/2017/ib/c7ib00128b"
+- abstract: Maternal Zika virus (ZIKV) infection during pregnancy is
+    recognized as the cause of an epidemic of microcephaly and other
+    neurological anomalies in human fetuses. It remains unclear how ZIKV
+    accesses the highly vulnerable population of neural progenitors of
+    the fetal central nervous system (CNS), and which cell types of the
+    CNS may be viral reservoirs. In contrast, the related dengue virus
+    (DENV) does not elicit teratogenicity. To model viral interaction
+    with cells of the fetal CNS in vitro, we investigated the tropism of
+    ZIKV and DENV for different induced pluripotent stem cell-derived
+    human cells, with a particular focus on microglia-like cells. We
+    show that ZIKV infected isogenic neural progenitors, astrocytes, and
+    microglia-like cells (pMGLs), but was only cytotoxic to neural
+    progenitors. Infected glial cells propagated ZIKV and maintained
+    ZIKV load over time, leading to viral spread to susceptible cells.
+    DENV triggered stronger immune responses and could be cleared by
+    neural and glial cells more efficiently. pMGLs, when cocultured with
+    neural spheroids, invaded the tissue and, when infected with ZIKV,
+    initiated neural infection. Since microglia derive from primitive
+    macrophages originating in proximity to the maternal vasculature,
+    they may act as a viral reservoir for ZIKV and establish infection
+    of the fetal brain. Infection of immature neural stem cells by
+    invading microglia may occur in the early stages of pregnancy,
+    before angiogenesis in the brain rudiments. Our data are also
+    consistent with ZIKV and DENV affecting the integrity of the
+    blood--brain barrier, thus allowing infection of the brain later in
+    life.
+  author:
+  - family: Muffat
+    given: Julien
+  - family: Li
+    given: Yun
+  - family: Omer
+    given: Attya
+  - family: Durbin
+    given: Ann
+  - family: Bosch
+    given: Irene
+  - family: Bakiasi
+    given: Grisilda
+  - family: Richards
+    given: Edward
+  - family: Meyer
+    given: Aaron
+  - family: Gehrke
+    given: Lee
+  - family: Jaenisch
+    given: Rudolf
+  container-title: Proceedings of the National Academy of Sciences
+  doi: 10.1073/pnas.1719266115
+  id: Muffat142497
+  issn: 0027-8424
+  issued: 2018
+  pmid: 29915057
+  title: Human induced pluripotent stem cell-derived glial cells and
+    neural progenitors display divergent responses to zika and dengue
+    infections
+  type: article-journal
+  url: "https://www.pnas.org/content/early/2018/06/15/1719266115/"
+- abstract: Many immune receptors transduce activation across the plasma
+    membrane through their clustering. With Fcγ receptors (FcγRs), this
+    clustering is driven by binding to antibodies of differing
+    affinities that are in turn bound to multivalent antigen. As a
+    consequence of this activation mechanism, accounting for and
+    rationally manipulating immunoglobulin (Ig)G effector function is
+    complicated by, among other factors, differing affinities between
+    FcγR species and changes in the valency of antigen binding. In this
+    study, we show that a model of multivalent receptor-ligand binding
+    can effectively account for the contribution of IgG-FcγR affinity
+    and immune complex valency. This model in turn enables us to make
+    specific predictions about the effect of immune complexes of defined
+    composition. In total, these results enable both rational immune
+    complex design for a desired IgG effector function and the
+    deconvolution of effector function by immune complexes.
+  author:
+  - family: Robinett
+    given: Ryan A.
+  - family: Guan
+    given: Ning
+  - family: Lux
+    given: Anja
+  - family: Biburger
+    given: Markus
+  - family: Nimmerjahn
+    given: Falk
+  - family: Meyer
+    given: Aaron S.
+  container-title: Cell Systems
+  doi: 10.1016/j.cels.2018.05.018
+  id: FcgR
+  issued: 2018
+  keyword: binding
+  pmid: 29960887
+  title: Dissecting FcγR regulation through a multivalent binding model
+  type: article-journal
+- abstract: Conjugating certain types of lentiviral vectors with
+    targeting ligands can redirect the vectors to specifically transduce
+    desired cell types. However, extensive genetic and/or biochemical
+    manipulations are required for conjugation, which hinders
+    applications for targeting lentiviral vectors for broader research
+    fields. We developed envelope proteins fused with biotin-binding
+    molecules to conjugate the pseudotyped vectors with biotinylated
+    targeting molecules by simply mixing them. The envelope proteins
+    fused with the monomeric, but not tetrameric, biotin-binding
+    molecules can pseudotype lentiviral vectors and be conjugated with
+    biotinylated targeting ligands. The conjugation is stable enough to
+    redirect lentiviral transduction in the presence of serum,
+    indicating their potential in in vivo . When a signaling molecule is
+    conjugated with the vector, the conjugation facilitates transduction
+    and signaling in a receptor-specific manner. This simple method of
+    ligand conjugation and ease of obtaining various types of
+    biotinylated ligands will make targeted lentiviral transduction
+    easily applicable to broad fields of research.
+  author:
+  - family: Situ
+    given: Kathy
+  - family: Chua
+    given: Bernadette Anne
+  - family: Bae
+    given: Song Yi
+  - family: Meyer
+    given: Aaron S.
+  - family: Morizono
+    given: Kouki
+  container-title: Virology
+  doi: 10.1016/j.virol.2018.09.017
+  id: SITU2018170
+  issn: 0042-6822
+  issued: 2018
+  page: 170-181
+  pmid: 30290312
+  title: Versatile targeting system for lentiviral vectors involving
+    biotinylated targeting molecules
+  type: article-journal
+  url: "https://www.sciencedirect.com/science/article/pii/S0042682218302964"
+  volume: 525
+- abstract: Targeted cancer therapeutics have demonstrated more limited
+    clinical efficacy than anticipated, due to both intrinsic and
+    acquired drug resistance. Underlying mechanisms have been largely
+    attributed to genetic changes, but a substantial proportion of
+    resistance observations remain unexplained by genomic properties.
+    Emerging evidence shows that receptor tyrosine kinase (RTK)
+    reprogramming is a major alternative process causing targeted drug
+    resistance, separate from genetic alterations. Hence, the
+    contributions of mechanisms leading to this process need to be more
+    rigorously assessed.
+  author:
+  - family: Claas
+    given: Allison M.
+  - family: Atta
+    given: Lyla
+  - family: Gordonov
+    given: Simon
+  - family: Meyer
+    given: Aaron S.
+  - family: Lauffenburger
+    given: Douglas A.
+  container-title: Cellular and Molecular Bioengineering
+  doi: 10.1007/s12195-018-0542-y
+  id: Claas2018
+  issn: 1865-5033
+  issued: 2018
+  pmid: 30524510
+  title: Systems modeling identifies divergent receptor tyrosine kinase
+    reprogramming to MAPK pathway inhibition
+  type: article-journal
+  url: "https://doi.org/10.1007/s12195-018-0542-y"
+- abstract: "The pharmacokinetic properties of antibodies are largely
+    dictated by the pH-dependent binding of the IgG fragment
+    crystallizable (Fc) domain to the human neonatal Fc receptor
+    (hFcRn). Engineered Fc domains that confer a longer circulation
+    half-life by virtue of more favorable pH-dependent binding to hFcRn
+    are of great therapeutic interest. Here we developed a pH Toggle
+    switch Fc variant containing the L309D/Q311H/N434S (DHS)
+    substitutions, which exhibits markedly improved pharmacokinetics
+    relative to both native IgG1 and widely used half-life extension
+    variants, both in conventional hFcRn transgenic mice and in new
+    knock-in mouse strains. engineered specifically to recapitulate all
+    the key processes relevant to human antibody persistence in
+    circulation, namely: (i) physiological expression of hFcRn, (ii) the
+    impact of hFcγRs on antibody clearance and (iii) the role of
+    competing endogenous IgG. DHS-IgG retains intact effector functions,
+    which are important for the clearance of target pathogenic cells and
+    also has favorable developability."
+  author:
+  - family: Lee
+    given: Chang-Han
+  - family: Kang
+    given: Tae Hyun
+  - family: Godon
+    given: Ophélie
+  - family: Watanabe
+    given: Makiko
+  - family: Delidakis
+    given: George
+  - family: Gillis
+    given: Caitlin M.
+  - family: Sterlin
+    given: Delphine
+  - family: Hardy
+    given: David
+  - family: Cogné
+    given: Michel
+  - family: Macdonald
+    given: Lynn E.
+  - family: Murphy
+    given: Andrew J.
+  - family: Tu
+    given: Naxin
+  - family: Lee
+    given: Jiwon
+  - family: McDaniel
+    given: Jonathan R.
+  - family: Makowski
+    given: Emily
+  - family: Tessier
+    given: Peter M.
+  - family: Meyer
+    given: Aaron S.
+  - family: Bruhns
+    given: Pierre
+  - family: Georgiou
+    given: George
+  container-title: Nature Communications
+  doi: 10.1038/s41467-019-13108-2
+  id: Lee2019
+  issue: 1
+  issued: 2019
+  page: 5031
+  pmid: 31695028
+  title: An engineered human Fc domain that behaves like a pH-toggle
+    switch for ultra-long circulation persistence
+  type: article-journal
+  url: "https://doi.org/10.1038/s41467-019-13108-2"
+  volume: 10
+- abstract: The recent wide-spread adoption of single cell profiling
+    technologies has revealed that individual cancers are not homogenous
+    collections of deregulated cells, but instead are comprised of
+    multiple genetically and phenotypically distinct cell subpopulations
+    that exhibit a wide range of responses to extracellular signals and
+    therapeutic insult. Such observations point to the urgent need to
+    understand cancer as a complex, adaptive system. Cancer systems
+    biology studies seek to develop the experimental and theoretical
+    methods required to understand how biological components work
+    together to determine how cancer cells function. Ultimately, such
+    approaches will lead to improvements in how cancer is managed and
+    treated. In this review, we discuss recent advances in cancer
+    systems biology approaches to quantify, model, and elucidate
+    mechanisms of heterogeneity.
+  author:
+  - family: Meyer
+    given: Aaron S.
+  - family: Heiser
+    given: Laura M.
+  container-title: Current Opinion in Systems Biology
+  doi: 10.1016/j.coisb.2019.09.002
+  id: Heiser2019
+  issn: 2452-3100
+  issued: 2019
+  page: 35-40
+  pmid: 32864511
+  title: Systems biology approaches to measure and model phenotypic
+    heterogeneity in cancer
+  type: article-journal
+  url: "https://doi.org/10.1016/j.coisb.2019.09.002"
+  volume: 17
+- abstract: Cancer cell sensitivity or resistance is almost universally
+    quantified through a direct or surrogate measure of cell number.
+    However, compound responses can occur through many distinct
+    phenotypic outcomes, including changes in cell growth, apoptosis,
+    and non-apoptotic cell death. These outcomes have divergent effects
+    on the tumor microenvironment, immune response, and resistance
+    mechanisms. Here, we show that quantifying cell viability alone is
+    insufficient to distinguish between these compound responses. Using
+    an alternative assay and drug-response analysis amenable to
+    high-throughput measurement, we find that compounds with identical
+    viability outcomes can have very different effects on cell growth
+    and death. Moreover, additive compound pairs with distinct
+    growth/death effects can appear synergistic when only assessed by
+    viability. Overall, these results demonstrate an approach to
+    incorporating measurements of cell death when characterizing a
+    pharmacologic response.
+  author:
+  - family: Bae
+    given: Song Yi
+  - family: Guan
+    given: Ning
+  - family: Yan
+    given: Rui
+  - family: Warner
+    given: Katrina
+  - family: Taylor
+    given: Scott D.
+  - family: Meyer
+    given: Aaron S.
+  container-title: Cell Death & Disease
+  doi: 10.1038/s41419-020-2462-8
+  id: Bae2020
+  isbn: 2041-4889
+  issue: 4
+  issued: 2020
+  keyword: experimental-example, cancer
+  page: 255
+  pmid: 32312951
+  title: Measurement and models accounting for cell death capture hidden
+    variation in compound response
+  type: article-journal
+  url: "https://doi.org/10.1038/s41419-020-2462-8"
+  volume: 11
+- abstract: A major challenge to improving outcomes for patients with
+    cancer is the identification of effective therapeutic strategies
+    that can prevent tumor cell proliferation. Here we sought to gain a
+    deeper understanding of how anti-cancer agents modulate cell cycle
+    progression in HER2+ breast cancer, a disease subtype that accounts
+    for 20% of all breast cancers. We treated HER2+ breast cancer cells
+    with a panel of drugs and tracked changes in cell number and cell
+    cycle phase, which revealed drug-specific cell cycle effects that
+    varied across time. This suggested that a computational model that
+    could account for cell cycle phase durations would provide a
+    framework to explore drug-induced changes in cell cycle changes.
+    Toward that goal, we developed a linear chain trick (LCT)
+    computational model, in which the cell cycle is partitioned into
+    subphases that faithfully captured drug-induced dynamic responses.
+    The model inferred phase-specific drug effects and independent
+    modulation of cell cycle phases, which we confirmed experimentally.
+    We then used our LCT model to predict the effect of unseen drug
+    combinations that target cells in different cell cycle phases.
+    Experimental testing confirmed several model predictions and
+    identified combination treatment strategies that may improve
+    therapeutic response in patients with HER2+ breast cancer. Overall,
+    this integrated experimental and modeling approach opens new avenues
+    for assessing drug responses, predicting effective drug
+    combinations, and identifying optimal drug sequencing strategies.
+  author:
+  - family: Gross
+    given: Sean M.
+  - family: Mohammadi
+    given: Farnaz
+  - family: Sanchez-Aguila
+    given: Crystal
+  - family: Zhan
+    given: Paulina J.
+  - family: Meyer
+    given: Aaron S.
+  - family: Heiser
+    given: Laura M.
+  container-title: Nature Communications
+  doi: 10.1101/2020.07.24.219907
+  id: Gross2021
+  issued: 2023
+  pmid: 37301933
+  title: Analysis and modeling of cancer drug responses using cell cycle
+    phase-specific rate effects
+  type: article-journal
+  url: "https://www.nature.com/articles/s41467-023-39122-z"
+- abstract: Multivalent cell surface receptor binding is a ubiquitous
+    biological phenomenon with functional and therapeutic significance.
+    Predicting the amount of ligand binding for a cell remains an
+    important question in computational biology as it can provide great
+    insight into cell-to-cell communication and rational drug design
+    toward specific targets. In this study, we extend a mechanistic,
+    two-step multivalent binding model. This model predicts the behavior
+    of a mixture of different multivalent ligand complexes binding to
+    cells expressing various types of receptors. It accounts for the
+    combinatorially large number of interactions between multiple
+    ligands and receptors, optionally allowing a mixture of complexes
+    with different valencies and complexes that contain heterogeneous
+    ligand units. We derive the macroscopic predictions and demonstrate
+    how this model enables large-scale predictions on mixture binding
+    and the binding space of a ligand. This model thus provides an
+    elegant and computationally efficient framework for analyzing
+    multivalent binding.
+  author:
+  - family: Tan
+    given: Zhixin Cyrillus
+  - family: Meyer
+    given: Aaron S.
+  container-title: Mathematical Biosciences
+  doi: 10.1016/j.mbs.2021.108714
+  id: Tan2021
+  issn: 0025-5564
+  issued: 2021
+  keyword: binding, highlight
+  page: 108714
+  pmid: 34637774
+  title: A general model of multivalent binding with ligands of
+    heterotypic subunits and multiple surface receptors
+  type: article-journal
+  url: "https://www.sciencedirect.com/science/article/pii/S002555642100122X"
+- abstract: The cytokine interleukin-2 (IL-2) has the potential to treat
+    autoimmune disease but is limited by its modest specificity toward
+    immunosuppressive regulatory T (Treg) cells. IL-2 receptors consist
+    of combinations of α, β, and γ chains of variable affinity and cell
+    specificity. Engineering IL-2 to treat autoimmunity has primarily
+    focused on retaining binding to the relatively Treg-selective,
+    high-affinity receptor while reducing binding to the less selective,
+    low-affinity receptor. However, we found that refining the designs
+    to focus on targeting the high-affinity receptor through avidity
+    effects is key to optimizing Treg selectivity. We profiled the
+    dynamics and dose dependency of signaling responses in primary human
+    immune cells induced by engineered fusions composed of either
+    wild-type IL-2 or mutant forms with altered affinity, valency, and
+    fusion to the antibody Fc region for stability. Treg selectivity and
+    signaling response variations were explained by a model of
+    multivalent binding and dimer-enhanced avidity---a combined measure
+    of the strength, number, and conformation of interaction
+    sites---from which we designed tetravalent IL-2--Fc fusions that had
+    greater Treg selectivity in culture than do current designs. Biasing
+    avidity toward IL2Rα with an asymmetrical multivalent design
+    consisting of one α/β chain--binding and one α chain--binding mutant
+    further enhanced Treg selectivity. Comparative analysis revealed
+    that IL2Rα was the optimal cell surface target for Treg selectivity,
+    indicating that avidity for IL2Rα may be the optimal route to
+    producing IL-2 variants that selectively target Tregs.
+  author:
+  - family: Orcutt-Jahns
+    given: Brian
+  - family: Emmel
+    given: Peter C.
+  - family: Snyder
+    given: Eli M.
+  - family: Taylor
+    given: Scott D.
+  - family: Meyer
+    given: Aaron S.
+  container-title: Science Signaling
+  doi: 10.1126/scisignal.adg0699
+  id: Jahns2023
+  issued: 2023
+  keyword: tensors, experimental-example, cytokines, immunology,
+    binding, highlight
+  pmid: 37847758
+  title: Multivalent, asymmetric IL-2--Fc fusions show enhanced
+    selectivity for regulatory T cells
+  type: article-journal
+  url: "https://www.science.org/stoken/author-tokens/ST-1486/full"
+- abstract: A critical property of many therapies is their selective
+    binding to target populations. Exceptional specificity can arise
+    from high-affinity binding to surface targets expressed exclusively
+    on target cell types. In many cases, however, therapeutic targets
+    are only expressed at subtly different levels relative to off-target
+    cells. More complex binding strategies have been developed to
+    overcome this limitation, including multi-specific and multivalent
+    molecules, creating a combinatorial explosion of design
+    possibilities. Guiding strategies for developing cell-specific
+    binding are critical to employ these tools. Here, we employ a
+    uniquely general multivalent binding model to dissect multi-ligand
+    and multi-receptor interactions. This model allows us to analyze and
+    explore a series of mechanisms to engineer cell selectivity,
+    including mixtures of molecules, affinity adjustments, valency
+    changes, multi-specific molecules, and ligand competition. Each of
+    these strategies can optimize selectivity in distinct cases, leading
+    to enhanced selectivity when employed together. The proposed model,
+    therefore, provides a comprehensive toolkit for the model-driven
+    design of selectively binding therapies.
+  author:
+  - family: Tan
+    given: Zhixin Cyrillus
+  - family: Orcutt-Jahns
+    given: Brian T.
+  - family: Meyer
+    given: Aaron S.
+  container-title: Integrative Biology
+  id: CellSelective
+  issued: 2021
+  pmid: 34931243
+  title: A quantitative view of strategies to engineer cell-selective
+    ligand binding
+  type: article-journal
+  url: "https://academic.oup.com/ib/advance-article/doi/10.1093/intbio/zyab019/6470588?guestAccessKey=d1740482-b50d-426f-b177-621426c0a5bc"
+- abstract: Individual cells can assume a variety of molecular and
+    phenotypic states and recent studies indicate that cells can rapidly
+    adapt in response to therapeutic stress. Such phenotypic plasticity
+    may confer resistance, but also presents opportunities to identify
+    molecular programs that could be targeted for therapeutic benefit.
+    Approaches to quantify tumor-drug responses typically focus on
+    snapshot, population-level measurements. While informative, these
+    methods lack lineage and temporal information, which are
+    particularly critical for understanding dynamic processes such as
+    cell state switching. As new technologies have become available to
+    measure lineage relationships, modeling approaches will be needed to
+    identify the forms of cell-to-cell heterogeneity present in these
+    data. Here we apply a lineage tree-based adaptation of a hidden
+    Markov model that employs single cell lineages as input to learn the
+    characteristic patterns of phenotypic heterogeneity and state
+    transitions. In benchmarking studies, we demonstrated that the model
+    successfully classifies cells within experimentally-tractable
+    dataset sizes. As an application, we analyzed experimental
+    measurements in cancer and non-cancer cell populations under various
+    treatments. We find evidence of multiple phenotypically distinct
+    states, with considerable heterogeneity and unique drug responses.
+    In total, this framework allows for the flexible modeling of single
+    cell heterogeneity across lineages to quantify, understand, and
+    control cell state switching.
+  author:
+  - family: Mohammadi
+    given: Farnaz
+  - family: Visagan
+    given: Shakthi
+  - family: Gross
+    given: Sean M.
+  - family: Karginov
+    given: Luka
+  - family: Lagarde
+    given: JC
+  - family: Heiser
+    given: Laura M.
+  - family: Meyer
+    given: Aaron S.
+  container-title: Communications Biology
+  doi: 10.1038/s42003-022-04208-9
+  id: Mohammadi2022
+  issued: 2022
+  pmid: 36396800
+  title: A lineage tree-based hidden markov model to quantify cellular
+    heterogeneity and plasticity
+  type: article-journal
+  url: "https://www.nature.com/articles/s42003-022-04208-9"
+- abstract: The γ-chain receptor dimerizes with complexes of the
+    cytokines interleukin-2 (IL-2), IL-4, IL-7, IL-9, IL-15, and IL-21
+    and their corresponding "private" receptors. These cytokines have
+    existing uses and future potential as immune therapies because of
+    their ability to regulate the abundance and function of specific
+    immune cell populations. Here, we build a binding reaction model for
+    the ligand-receptor interactions of common γ-chain cytokines, which
+    includes receptor trafficking dynamics, enabling quantitative
+    predictions of cell-type-specific response to natural and engineered
+    cytokines. We then show that tensor factorization is a powerful tool
+    to visualize changes in the input-output behavior of the family
+    across time, cell types, ligands, and concentrations. These results
+    present a more accurate model of ligand response validated across a
+    panel of immune cell types as well as a general approach for
+    generating interpretable guidelines for manipulation of
+    cell-type-specific targeting of engineered ligands.
+  author:
+  - family: Farhat
+    given: Ali M.
+  - family: Weiner
+    given: Adam C.
+  - family: Posner
+    given: Cori
+  - family: Kim
+    given: Zoe S.
+  - family: Carlson
+    given: Scott M.
+  - family: Meyer
+    given: Aaron S.
+  container-title: Cell Reports
+  doi: 10.1016/j.celrep.2021.109044
+  id: Farhat2019
+  issued: 2021
+  pmid: 33910015
+  title: Modeling cell-specific dynamics and regulation of the common
+    gamma chain cytokines
+  type: article-journal
+  url: "https://www.sciencedirect.com/science/article/pii/S2211124721003600"
+- abstract: To better understand the signaling complexity of AXL, a
+    member of the TAM receptor tyrosine kinase family, we created a
+    physical and functional map of AXL signaling interactions,
+    phosphorylation events, and target-engagement of three AXL tyrosine
+    kinase inhibitors (TKI). We assessed AXL protein-complexes using
+    BioID, effects of AXL TKI on global phosphoproteins using mass
+    spectrometry, and target engagement of AXL TKI using activity-based
+    protein profiling. BioID identifies AXL-interacting proteins that
+    are mostly involved in cell adhesion/migration. Global
+    phosphoproteomics show that AXL inhibition decreases phosphorylation
+    of peptides involved in phosphatidylinositol-mediated signaling and
+    cell adhesion/migration. Comparison of three AXL inhibitors reveals
+    that TKI RXDX-106 inhibits pAXL, pAKT and migration/invasion of
+    these cells without reducing their viability, while Bemcentinib
+    exerts AXL-independent phenotypic effects on viability. Proteomic
+    characterization of these TKIs demonstrates that they inhibit
+    diverse targets in addition to AXL, with Bemcentinib having the most
+    off-targets. AXL and EGFR TKI co-treatment did not reverse
+    resistance in cell line models of Erlotinib-resistance. However, a
+    unique vulnerability was identified in one resistant clone, wherein
+    combination of Bemcentinib and Erlotinib inhibited cell viability
+    and signaling. We also show that AXL is overexpressed in  30-40 AXL
+    expression, with basal activation detected rarely.
+  author:
+  - family: Majumder
+    given: Anurima
+  - family: Hosseinian
+    given: Sina
+  - family: Stroud
+    given: Mia J.
+  - family: Adhikari
+    given: Emma
+  - family: Saller
+    given: James J.
+  - family: Smith
+    given: Dr. Matthew A.
+  - family: Zhang
+    given: Dr. Guolin
+  - family: Agarwal
+    given: Shruti
+  - family: Creixell
+    given: Marc
+  - family: Meyer
+    given: Benjamin S.
+  - family: Kinose
+    given: Ms. Fumi
+  - family: Bowers
+    given: Kiah S.
+  - family: Fang
+    given: Bin
+  - family: Stewart
+    given: Paul A.
+  - family: Welsh
+    given: Eric A.
+  - family: Boyle
+    given: Theresa A.
+  - family: Meyer
+    given: Aaron S.
+  - family: Koomen
+    given: John M.
+  - family: Haura
+    given: Eric B.
+  container-title: Molecular Cancer Research
+  id: AXLpy
+  issued: 2022
+  pmid: 35022314
+  title: Integrated proteomics-based physical and functional mapping of
+    AXL kinase signaling pathways and inhibitors define its role in cell
+    migration
+  type: article-journal
+  url: "https://mcr.aacrjournals.org/content/early/2022/01/12/1541-7786.MCR-21-0275.abstract"
+- abstract: Systems serology provides a broad view of humoral immunity
+    by profiling both the antigen-binding and Fc properties of
+    antibodies. These studies contain structured biophysical profiling
+    across disease-relevant antigen targets, alongside additional
+    measurements made for single antigens or in an antigen-generic
+    manner. Identifying patterns in these measurements helps guide
+    vaccine and therapeutic antibody development, improve our
+    understanding of diseases, and discover conserved regulatory
+    mechanisms. Here, we report that coupled matrix-tensor factorization
+    (CMTF) can reduce these data into consistent patterns by recognizing
+    the intrinsic structure of these data. We use measurements from two
+    previous studies of HIV- and SARS-CoV-2-infected subjects as
+    examples. CMTF outperforms standard methods like principal
+    components analysis in the extent of data reduction while
+    maintaining equivalent prediction of immune functional responses and
+    disease status. Under CMTF, model interpretation improves through
+    effective data reduction, separation of the Fc and antigen-binding
+    effects, and recognition of consistent patterns across individual
+    measurements. Data reduction also helps make prediction models more
+    replicable. Therefore, we propose that CMTF is an effective general
+    strategy for data exploration in systems serology.
+  author:
+  - family: Tan
+    given: Zhixin Cyrillus
+  - family: Murphy
+    given: Madeleine
+  - family: Alpay
+    given: Hakan S.
+  - family: Taylor
+    given: Scott D.
+  - family: Meyer
+    given: Aaron S.
+  container-title: Molecular Systems Biology
+  doi: 10.15252/msb.202110243
+  id: SysSerol
+  issue: 9
+  issued: 2021
+  keyword: computational-example
+  page: e10243
+  pmid: 34487431
+  title: Tensor-structured decomposition improves systems serology
+    analysis
+  type: article-journal
+  url: "https://www.embopress.org/doi/abs/10.15252/msb.202110243"
+  volume: 17
+- abstract: Cell signaling is orchestrated in part through a network of
+    protein kinases and phosphatases. Dysregulation of kinase signaling
+    is widespread in diseases such as cancer and is readily targetable
+    through inhibitors. Mass spectrometry-based analysis can provide a
+    global view of kinase regulation but mining these data is
+    complicated by its stochastic coverage of the proteome, measurement
+    of substrates rather than kinases, and the scale of the data. Here,
+    we implement a Dual Data and Motif Clustering (DDMC) strategy that
+    simultaneously clusters peptides into similarly regulated groups
+    based on their variation and their sequence profile. We show that
+    this can help to identify putative upstream kinases and supply more
+    robust clustering. We apply this clustering to clinical proteomic
+    profiling of lung cancer and identify conserved proteomic signatures
+    of tumorigenicity, genetic mutations, and immune infiltration. We
+    propose that DDMC provides a general and flexible clustering
+    strategy for the analysis of phosphoproteomic data.
+  author:
+  - family: Creixell
+    given: Marc
+  - family: Meyer
+    given: Aaron S.
+  container-title: Cell Reports Methods
+  doi: 10.1016/j.crmeth.2022.100167
+  id: CreixellDDMC
+  issued: 2022
+  pmid: 35360705
+  title: Dual data and motif clustering improves the modeling and
+    interpretation of phosphoproteomic data
+  type: article-journal
+  url: "https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(22)00019-4"
+- abstract: Cancer drug response is heavily influenced by the
+    extracellular matrix (ECM) environment. Despite a clear appreciation
+    that the ECM influences cancer drug response and progression, a
+    unified view of how, where, and when environment-mediated drug
+    resistance contributes to cancer progression has not coalesced.
+    Here, we survey some specific ways in which the ECM contributes to
+    cancer resistance with a focus on how materials development can
+    coincide with systems biology approaches to better understand and
+    perturb this contribution. We argue that part of the reason that
+    environment-mediated resistance remains a perplexing problem is our
+    lack of a wholistic view of the entire range of environments and
+    their impacts on cell behavior. We cover a series of recent
+    experimental and computational tools that will aid exploration of
+    ECM reactions space, and how they might be synergistically
+    integrated.
+  author:
+  - family: Creixell
+    given: Marc
+  - family: Kim
+    given: Hyuna
+  - family: Mohammadi
+    given: Farnaz
+  - family: Peyton
+    given: Shelly R.
+  - family: Meyer
+    given: Aaron S.
+  container-title: Current Opinion in Solid State and Materials Science
+  doi: 10.1016/j.cossms.2022.101005
+  id: Creixell2022
+  issued: 2022
+  pmid: 36321161
+  title: Systems approaches to uncovering the contribution of
+    environment-mediated drug resistance
+  type: article-journal
+  url: "https://authors.elsevier.com/sd/article/S1359-0286(22)00025-0"
+- abstract: Low dose human interleukin-2 (hIL-2) treatment is used
+    clinically to treat autoimmune disorders due to the cytokine's
+    preferential expansion of immunosuppressive regulatory T cells
+    (TRegs). However, high toxicity, short serum half-life, and
+    off-target immune cell activation limit the clinical potential of
+    IL-2 treatment. Recent work showed that complexes comprising hIL-2
+    and the anti-hIL-2 antibody F5111 overcome these limitations by
+    preferentially stimulating TRegs over immune effector cells.
+    Although promising, therapeutic translation of this approach is
+    complicated by the need to optimize dosing ratios and by the
+    instability of the cytokine/antibody complex. We leveraged
+    structural insights to engineer a single-chain hIL-2/F5111 antibody
+    fusion protein, termed F5111 immunocytokine (IC), that potently and
+    selectively activates and expands TRegs. F5111 IC conferred
+    protection in mouse models of colitis and checkpoint
+    inhibitor-induced diabetes mellitus. These results provide a roadmap
+    for IC design and establish a TReg-biased immunotherapy that could
+    be clinically translated for autoimmune disease treatment.
+  author:
+  - family: VanDyke
+    given: Derek
+  - family: Iglesias
+    given: Marcos
+  - family: Tomala
+    given: Jakub
+  - family: Young
+    given: Arabella
+  - family: Smith
+    given: Jennifer
+  - family: Perry
+    given: Joseph A.
+  - family: Gebara
+    given: Edward
+  - family: Cross
+    given: Amy R.
+  - family: Cheung
+    given: Laurene S.
+  - family: Dykema
+    given: Arbor G.
+  - family: Orcutt-Jahns
+    given: Brian T.
+  - family: Henclová
+    given: Tereza
+  - family: Golias
+    given: Jaroslav
+  - family: Balolong
+    given: Jared
+  - family: Tomasovic
+    given: Luke M.
+  - family: Funda
+    given: David
+  - family: Meyer
+    given: Aaron S.
+  - family: Pardoll
+    given: Drew M.
+  - family: Hester
+    given: Joanna
+  - family: Issa
+    given: Fadi
+  - family: Hunter
+    given: Christopher A.
+  - family: Anderson
+    given: Mark S.
+  - family: Bluestone
+    given: Jeffrey A.
+  - family: Raimondi
+    given: Giorgio
+  - family: Spangler
+    given: Jamie B
+  container-title: Cell Reports
+  doi: 10.1016/j.celrep.2022.111478
+  id: VanDyke2022
+  issued: 2022
+  pmid: 36261022
+  title: Engineered human cytokine/antibody fusion proteins expand
+    regulatory T cells and confer autoimmune disease protection
+  type: article-journal
+  url: "https://www.cell.com/cell-reports/pdf/S2211-1247(22)01328-6.pdf"
+- abstract: Type I interferons (IFN) induce powerful antiviral and
+    innate immune responses via the transcription factor, IFN-stimulated
+    gene factor (ISGF3). However, in some pathological contexts, type I
+    IFNs are responsible for exacerbating inflammation. Here, we show
+    that a high dose of IFN-β also activates an inflammatory gene
+    expression program in contrast to IFN-λ3, a type III IFN, which
+    elicits only the common antiviral gene program. We show that the
+    inflammatory gene program depends on a second, potentiated phase in
+    ISGF3 activation. Iterating between mathematical modeling and
+    experimental analysis, we show that the ISGF3 activation network may
+    engage a positive feedback loop with its subunits IRF9 and STAT2.
+    This network motif mediates stimulus-specific ISGF3 dynamics that
+    are dependent on ligand, dose, and duration of exposure, and when
+    engaged activates the inflammatory gene expression program. Our
+    results reveal a previously underappreciated dynamical control of
+    the JAK-STAT/IRF signaling network that may produce distinct
+    biological responses and suggest that studies of type I IFN
+    dysregulation, and in turn therapeutic remedies, may focus on
+    feedback regulators within it.
+  author:
+  - family: Wilder
+    given: Catera
+  - family: Lefaudeux
+    given: Diane
+  - family: Mathenge
+    given: Raisa
+  - family: Kishimoto
+    given: Kensei
+  - family: Munoz
+    given: Alma Zuniga
+  - family: Nguyen
+    given: Minh A
+  - family: Meyer
+    given: Aaron S
+  - family: Cheng
+    given: Quen J
+  - family: Hoffmann
+    given: Alexander
+  container-title: Molecular Systems Biology
+  doi: 10.15252/msb.202211294
+  id: Wilder2022
+  issued: 2023
+  page: e11294
+  pmid: 36929731
+  title: A stimulus-contingent positive feedback loop enables IFN-β
+    dose-dependent activation of pro-inflammatory genes
+  type: article-journal
+  url: "https://www.embopress.org/doi/full/10.15252/msb.202211294"
+- abstract: The interleukin-4 (IL-4) cytokine plays a critical role in
+    modulating immune homeostasis. Although there is great interest in
+    harnessing this cytokine as a therapeutic in natural or engineered
+    formats, the clinical potential of native IL-4 is limited by its
+    instability and pleiotropic actions. Here, we design IL-4 cytokine
+    mimetics (denoted Neo-4) based on a de novo engineered IL-2 mimetic
+    scaffold and demonstrate that these cytokines can recapitulate
+    physiological functions of IL-4 in cellular and animal models. In
+    contrast with natural IL-4, Neo-4 is hyperstable and signals
+    exclusively through the type I IL-4 receptor complex, providing
+    previously inaccessible insights into differential IL-4 signaling
+    through type I versus type II receptors. Because of their
+    hyperstability, our computationally designed mimetics can directly
+    incorporate into sophisticated biomaterials that require heat
+    processing, such as three-dimensional-printed scaffolds. Neo-4
+    should be broadly useful for interrogating IL-4 biology, and the
+    design workflow will inform targeted cytokine therapeutic
+    development.
+  author:
+  - family: Yang
+    given: Huilin
+  - family: Ulge
+    given: Umut Y
+  - family: Quijano-Rubio
+    given: Alfredo
+  - family: Bernstein
+    given: Zachary J.
+  - family: David R. Maestas
+    given: Jr.
+  - family: Chun
+    given: Jung-Ho
+  - family: Wang
+    given: Wentao
+  - family: Lin
+    given: Jian-Xin
+  - family: Jude
+    given: Kevin M.
+  - family: Singh
+    given: Srujan
+  - family: Orcutt-Jahns
+    given: Brian T.
+  - family: Li
+    given: Peng
+  - family: Mou
+    given: Jody
+  - family: Chung
+    given: Liam
+  - family: Kuo
+    given: Yun-Huai
+  - family: Ali
+    given: Yasmin H.
+  - family: Meyer
+    given: Aaron S.
+  - family: Grayson
+    given: Warren L.
+  - family: Heller
+    given: Nicola M.
+  - family: Garcia
+    given: K. Christopher
+  - family: Leonard
+    given: Warren J.
+  - family: Silva
+    given: Daniel-Adriano
+  - family: Elisseeff
+    given: Jennifer H.
+  - family: Baker
+    given: David
+  - family: Spangler
+    given: Jamie B.
+  container-title: Nature Chemical Biology
+  doi: 10.1038/s41589-023-01313-6
+  id: Yang2023
+  issued: 2023
+  keyword: binding
+  page: 1552-4469
+  pmid: 37024727
+  title: Design of cell-type-specific hyperstable IL-4 mimetics via
+    modular de novo scaffolds
+  type: article-journal
+  url: "https://doi.org/10.1038/s41589-023-01313-6"
+- abstract: Methicillin-resistant Staphylococcus aureus (MRSA)
+    bacteremia is a common and life-threatening infection that imposes
+    up to 30 used. Despite in vitro efficacy determined by minimum
+    inhibitory concentration (MIC) breakpoints, antibiotics often fail
+    to resolve these infections in vivo, resulting in persistent MRSA
+    bacteremia. Recently, several genetic, epigenetic, and proteomic
+    correlates of persistent outcomes have been identified. However, the
+    extent to which single variables or their composite patterns operate
+    as independent predictors of outcome or reflect shared underlying
+    mechanisms of persistence is unknown. To explore this question, we
+    employed a tensor-based integration of host transcriptional and
+    cytokine datasets across a well-characterized cohort of patients
+    with persistent or resolving MRSA bacteremia outcomes. This method
+    yielded high correlative accuracy with outcomes and immunologic
+    signatures united by transcriptomic and cytokine datasets. Results
+    reveal that patients with persistent MRSA bacteremia exhibit signals
+    of granulocyte dysfunction, suppressed antigen presentation, and
+    deviated lymphocyte polarization. In contrast, patients with
+    resolving bacteremia heterogeneously exhibit correlates of robust
+    antigen-presenting cell trafficking and enhanced neutrophil
+    maturation corresponding to appropriate T lymphocyte polarization
+    and B lymphocyte response. These results suggest that
+    transcriptional and cytokine correlates of persistent versus
+    resolving bacteremia outcomes are complex and may not be disclosed
+    by conventional modeling. In this respect, a tensor-based
+    integration approach may help to reveal consensus molecular and
+    cellular mechanisms and their biological interpretation.
+  author:
+  - family: Chin
+    given: Jackson L
+  - family: Tan
+    given: Zhixin Cyrillus
+  - family: Chan
+    given: Liana C
+  - family: Ruffin
+    given: Felicia
+  - family: Parmar
+    given: Rajesh
+  - family: Ahn
+    given: Richard
+  - family: Taylor
+    given: Scott
+  - family: Bayer
+    given: Arnold S
+  - family: Hoffmann
+    given: Alexander
+  - family: Vance G Fowler
+    given: Jr.
+  - family: Reed
+    given: Elaine F
+  - family: Yeaman
+    given: Michael R
+  - family: Meyer
+    given: Aaron S
+  - literal: MRSA Systems Immunobiology Group
+  container-title: PNAS Nexus
+  doi: 10.1093/pnasnexus/pgae185
+  id: Chin2022
+  issued: 2024-05-04
+  page: pgae185
+  pmid: 38779114
+  title: Tensor modeling of MRSA bacteremia cytokine and transcriptional
+    patterns reveals coordinated, outcome-associated immunological
+    programs
+  type: article-journal
+  url: "https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgae185/7664540"
+- abstract: Immunoglobulin (Ig)G antibodies coordinate immune effector
+    responses by selectively binding to target antigens and then
+    interacting with various effector cells via the Fcγ receptors. The
+    Fc domain of IgG can promote or inhibit distinct effector responses
+    across several different immune cell types through variation based
+    on subclass and Fc domain glycosylation. Extensive characterization
+    of these interactions has revealed how the inclusion of certain Fc
+    subclasses or glycans results in distinct immune responses. During
+    an immune response, however, IgG is produced with mixtures of Fc
+    domain properties, so antigen-IgG immune complexes are likely to
+    almost always be comprised of a combination of Fc forms. Whether and
+    how this mixed composition influences immune effector responses has
+    not been examined. Here, we measured Fcγ receptor binding to immune
+    complexes of mixed Fc domain composition. We found that the binding
+    properties of the mixed-composition immune complexes fell along a
+    continuum between those of the corresponding pure cases. Binding
+    quantitatively matched a mechanistic binding model, except for
+    several low-affinity interactions mostly involving IgG2. We found
+    that the affinities of these interactions are different than
+    previously reported, and that the binding model could be used to
+    provide refined estimates of these affinities. Finally, we
+    demonstrated that the binding model can predict effector-cell
+    elicited platelet depletion in humanized mice, with the model
+    inferring the relevant effector cell populations. Contrary to the
+    previous view in which IgG2 poorly engages with effector
+    populations, we observe appreciable binding through avidity, but
+    insufficient amounts to observe immune effector responses. Overall,
+    this work demonstrates a quantitative framework for reasoning about
+    effector response regulation arising from IgG of mixed Fc
+    composition.
+  author:
+  - family: Tan
+    given: Zhixin Cyrillus
+  - family: Lux
+    given: Anja
+  - family: Biburger
+    given: Markus
+  - family: Varghese
+    given: Prabha
+  - family: Lees
+    given: Stephen
+  - family: Nimmerjahn
+    given: Falk
+  - family: Meyer
+    given: Aaron S
+  container-title: Cell Reports
+  doi: 10.1016/j.celrep.2023.112734
+  id: Tan2023
+  issued: 2023
+  keyword: binding
+  pmid: 37421619
+  title: Mixed IgG Fc immune complexes exhibit blended binding profiles
+    and refine FcR affinity estimates
+  type: article-journal
+  url: "https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00745-3"
+- abstract: Profiling immune responses across several dimensions,
+    including time, patients, molecular features, and tissue sites, can
+    deepen our understanding of immunity as an integrated system. These
+    studies require new analysis approaches to realize their full
+    potential. We highlight the recent application of tensor methods and
+    discuss several future opportunities.
+  author:
+  - family: Chin
+    given: Jackson L
+  - family: Chan
+    given: Liana C
+  - family: Yeaman
+    given: Michael R
+  - family: Meyer
+    given: Aaron S
+  container-title: Trends in Immunology
+  doi: 10.1016/j.it.2023.03.003
+  id: Chin2023
+  issue: 5
+  issued: 2023-05
+  page: 329-332
+  pmid: 36997459
+  title: Tensor-based insights into systems immunity and infectious
+    disease
+  type: article-journal
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S1471490623000479"
+  volume: 44
+- abstract: Abstract Breast cancer is a leading cause of global
+    cancer-related deaths, and metastasis is the overwhelming culprit of
+    poor patient prognosis. The most nefarious aspect of metastasis is
+    dormancy, a prolonged period between primary tumor resection and
+    relapse. Current therapies are insufficient at killing dormant
+    cells; thus, they can remain quiescent in the body for decades until
+    eventually undergoing a phenotypic switch, resulting in metastases
+    that are more adaptable and drug resistant. Unfortunately, dormancy
+    has few in vitro models, largely because lab-derived cell lines are
+    highly proliferative. Existing models address tumor dormancy, not
+    cellular dormancy, because tracking individual cells is technically
+    challenging. To combat this problem, a live cell lineage approach to
+    find and track individual dormant cells, distinguishing them from
+    proliferative and dying cells over multiple days, is adapted. This
+    approach is applied across a range of different in vitro
+    microenvironments. This approach reveals that the proportion of
+    cells that exhibit long-term quiescence is regulated by both cell
+    intrinsic and extrinsic factors, with the most dormant cells found
+    in 3D collagen gels. This paper envisions that this approach will
+    prove useful to biologists and bioengineers in the dormancy
+    community to identify, quantify, and study dormant tumor cells.
+  author:
+  - family: Kim
+    given: Hyuna
+  - family: Wirasaputra
+    given: Anna
+  - family: Mohammadi
+    given: Farnaz
+  - family: Kundu
+    given: Aritra Nath
+  - family: Esteves
+    given: Jennifer A. E.
+  - family: Heiser
+    given: Laura M.
+  - family: Meyer
+    given: Aaron S.
+  - family: Peyton
+    given: Shelly R.
+  container-title: Advanced Healthcare Materials
+  doi: 10.1002/adhm.202202275
+  id: Kim2023
+  issue: 14
+  issued: 2023
+  page: 2202275
+  pmid: 36625629
+  title: Live cell lineage tracing of dormant cancer cells
+  type: article-journal
+  url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/adhm.202202275"
+  volume: 12
+- abstract: The dogma that cancer is a genetic disease is being
+    questioned. Recent findings suggest that genetic/nongenetic duality
+    is necessary for cancer progression. A think tank organized by the
+    Shraman Foundation's Institute for Theoretical Biology compiled key
+    challenges and opportunities that theoreticians, experimentalists,
+    and clinicians can explore from a systems biology perspective to
+    provide a better understanding of the disease as well as help
+    discover new treatment options and therapeutic strategies.
+  author:
+  - family: Kulkarni
+    given: Prakash
+  - family: Wiley
+    given: H Steven
+  - family: Levine
+    given: Herbert
+  - family: Sauro
+    given: Herbert
+  - family: Anderson
+    given: Alexander
+  - family: Wong
+    given: Stephen T C
+  - family: Meyer
+    given: Aaron S
+  - family: Iyengar
+    given: Puneeth
+  - family: Corlette
+    given: Kevin
+  - family: Swanson
+    given: Kristin
+  - family: Mohanty
+    given: Atish
+  - family: Bhattacharya
+    given: Supriyo
+  - family: Patel
+    given: Amit
+  - family: Jain
+    given: Vinay
+  - family: Salgia
+    given: Ravi
+  container-title: Trands in Cancer
+  doi: 10.1016/j.trecan.2022.12.004
+  id: Kulkarni2023
+  issue: 3
+  issued: 2023
+  page: 185-187
+  pmid: 36635119
+  title: Addressing the genetic/nongenetic duality in cancer with
+    systems biology
+  type: article-journal
+  url: "https://www.cell.com/trends/cancer/fulltext/S2405-8033(22)00265-5"
+  volume: 9
+- abstract: Ischemia-reperfusion injury (IRI) during orthotopic liver
+    transplantation (OLT) contributes to graft rejection and poor
+    clinical outcomes. The disulfide form of high mobility group box 1
+    (diS-HMGB1), an intracellular protein released during OLT-IRI,
+    induces pro-inflammatory macrophages. How diS-HMGB1 differentiates
+    human monocytes into macrophages capable of activating adaptive
+    immunity remains unknown. We investigated if diS-HMGB1 binds TLR4
+    and TLR9 to differentiate monocytes into pro-inflammatory
+    macrophages that activate adaptive immunity and promote graft injury
+    and dysfunction. Assessment of 106 clinical liver tissue and
+    longitudinal blood samples revealed that OLT recipients were more
+    likely to experience IRI and graft dysfunction with increased
+    diS-HMGB1 released during reperfusion. Increased diS-HMGB1
+    concentration also correlated with TLR4/TLR9 activation,
+    polarization of monocytes into pro-inflammatory macrophages, and
+    production of anti-donor antibodies. In vitro, healthy volunteer
+    monocytes stimulated with purified diS-HMGB1 had increased
+    inflammatory cytokine secretion, antigen presentation machinery, and
+    ROS production. TLR4 inhibition primarily impeded cytokine/chemokine
+    and costimulatory molecule programs, whereas TLR9 inhibition
+    decreased HLA-DR/ROS production. diS-HMGB1-polarized macrophages
+    also showed increased capacity to present antigens and activate T
+    memory cells. In murine OLT, diS-HMGB1 treatment potentiated
+    IR-mediated hepatocellular injury, accompanied by increased serum
+    alanine transaminase levels. This translational study identifies the
+    diS-HMGB1/TLR4/TLR9 axis as potential therapeutic targets in OLT-IRI
+    recipients.
+  author:
+  - family: Terry
+    given: Allyson Q
+  - family: Kojima
+    given: Hidenobu
+  - family: Sosa
+    given: Rebecca A
+  - family: Kaldas
+    given: Fady M
+  - family: Chin
+    given: Jackson L
+  - family: Zhenga
+    given: Ying
+  - family: Naini
+    given: Bita V
+  - family: Noguchi
+    given: Daisuke
+  - family: Nevarez-Mejia
+    given: Jessica
+  - family: Jin
+    given: Yi-Ping
+  - family: Busuttil
+    given: Ronald W
+  - family: Meyer
+    given: Aaron S
+  - family: Gjertson
+    given: David W
+  - family: Kupiec-Weglinski
+    given: Jerzy W
+  - family: Reed
+    given: Elaine F
+  container-title: American Journal of Transplantation
+  doi: 10.1016/j.ajt.2023.08.002
+  id: Terry2023
+  issued: 2023
+  pmid: 37567451
+  title: Disulfide-HMGB1 signals through TLR4 and TLR9 to induce
+    inflammatory macrophages capable of innate-adaptive crosstalk in
+    human liver transplantation
+  type: article-journal
+  url: "https://www.amjtransplant.org/article/S1600-6135(23)00625-1/fulltext"
+- abstract: Receptor tyrosine kinase (RTK)-targeted therapies are often
+    effective but invariably limited by drug resistance. A major
+    mechanism of acquired resistance involves \"bypass\" switching to
+    alternative pathways driven by non-targeted RTKs that restore
+    proliferation. One such RTK is AXL whose overexpression, frequently
+    observed in bypass resistant tumors, drives both cell survival and
+    associated malignant phenotypes such as epithelial-to-mesenchymal
+    (EMT) transition and migration. However, the signaling molecules and
+    pathways eliciting these responses have remained elusive. To explore
+    these coordinated effects, we generated a panel of mutant lung
+    adenocarcinoma PC9 cell lines in which each AXL intracellular
+    tyrosine residue was mutated to phenylalanine. By integrating
+    measurements of phosphorylation signaling and other phenotypic
+    changes associated with resistance through multivariate modeling, we
+    mapped signaling perturbations to specific resistant phenotypes. Our
+    results suggest that AXL signaling can be summarized into two
+    clusters associated with progressive disease and poor clinical
+    outcomes in lung cancer patients. These clusters displayed favorable
+    Abl1 and SFK motifs and their phosphorylation was consistently
+    decreased by dasatinib. High-throughput kinase specificity profiling
+    showed that AXL likely activates the SFK cluster through FAK1 which
+    is known to complex with Src. Moreover, the SFK cluster overlapped
+    with a previously established focal adhesion kinase (FAK1) signature
+    conferring EMT-mediated erlotinib resistance in lung cancer cells.
+    Finally, we show that downstream of this kinase signaling, AXL and
+    YAP form a positive feedback loop that sustains drug tolerant
+    persister cells. Altogether, this work demonstrates an approach for
+    dissecting signaling regulators by which AXL drives erlotinib
+    resistance-associated phenotypic changes.
+  author:
+  - family: Creixell
+    given: Marc
+  - family: Taylor
+    given: Scott D
+  - family: Gerritsen
+    given: Jacqueline
+  - family: Bae
+    given: Song Yi
+  - family: Jiang
+    given: Mingxuan
+  - family: Augustin
+    given: Teresa
+  - family: Loui
+    given: Michelle
+  - family: Boixo
+    given: Carmen
+  - family: Creixell
+    given: Pau
+  - family: White
+    given: Forest M
+  - family: Meyer
+    given: Aaron S
+  container-title: bioRxiv [Preprint]
+  id: Creixell2023
+  issued: 2023
+  title: Dissecting signaling regulators driving AXL-mediated bypass
+    resistance and associated phenotypes by phosphosite perturbations
+  type: article-journal
+- abstract: Living materials, which are made either of or by living
+    cells, or are synthetic materials with programmable elements catered
+    to cells, are environmentally responsive and can self-repair,
+    allowing controlled and predictable interactions with biological
+    systems. Such features can be achieved in purely synthetic materials
+    using chemical approaches to create dynamic and responsive materials
+    that can undergo programmed changes, be remodelled by cells in a
+    predictive way, sense their microenvironment and report back, or
+    respond to remote triggers to rearrange in physical or chemical
+    ways. In this Perspective, we discuss synthetic approaches to design
+    such cell-responsive and environment-responsive living materials,
+    with a particular focus on their applications in cancer. We
+    highlight how synthetic and systems biology approaches can be
+    implemented in the design of synthetic living materials, and we
+    outline key cancer-related applications, including modelling of
+    tumour heterogeneity, the tumour microenvironment and tumour
+    evolution in response to therapy. Finally, we emphasize the
+    importance of inclusive designs that should be based on an
+    understanding of how health and disease manifest in and affect
+    humans from all racial and ethnic backgrounds, skin colours, sexes
+    and genders.
+  author:
+  - family: Peyton
+    given: Shelly R
+  - family: Chow
+    given: Lesley W
+  - family: Finley
+    given: Stacey D
+  - family: Versypt
+    given: Ashlee N Ford
+  - family: Hill
+    given: Reginald
+  - family: Kemp
+    given: Melissa L
+  - family: Langer
+    given: Ellen M
+  - family: McGuigan
+    given: Alison P
+  - family: Meyer
+    given: Aaron S
+  - family: Seidlits
+    given: Stephanie K
+  - family: Roy
+    given: Krishnendu
+  - family: Mumenthaler
+    given: Shannon M
+  container-title: Nature Reviews Bioengineering
+  doi: 10.1038/s44222-023-00105-w
+  id: Peyton2023
+  issued: 2023
+  keyword: synthetic biology, cancer, living materials, systems biology,
+    cancer systems biology, reviews
+  pmcid: PMC12915890
+  title: Synthetic living materials in cancer biology
+  type: article-journal
+  url: "https://www.nature.com/articles/s44222-023-00105-w"
+- abstract: Cytokines mediate cell-to-cell communication across the
+    immune system and therefore are critical to immunosurveillance in
+    cancer and other diseases. Several cytokines show dysregulated
+    abundance or signaling responses in breast cancer, associated with
+    the disease and differences in survival and progression. Cytokines
+    operate in a coordinated manner to affect immune surveillance and
+    regulate one another, necessitating a systems approach for a
+    complete picture of this dysregulation. Here, we profiled cytokine
+    signaling responses of peripheral immune cells from breast cancer
+    patients as compared to healthy controls in a multidimensional
+    manner across ligands, cell populations, and responsive pathways. We
+    find alterations in cytokine responsiveness across pathways and cell
+    types that are best defined by integrated signatures across
+    dimensions. Alterations in the abundance of a cytokine's cognate
+    receptor do not explain differences in responsiveness. Rather,
+    alterations in baseline signaling and receptor abundance suggesting
+    immune cell reprogramming are associated with altered responses.
+    These integrated features suggest a global reprogramming of immune
+    cell communication in breast cancer.
+  author:
+  - family: Orcutt-Jahns
+    given: Brian
+  - family: Junior
+    given: Joao Rodrigues Lima
+  - family: Lin
+    given: Emily
+  - family: Rockne
+    given: Russell C
+  - family: Matache
+    given: Adina
+  - family: Branciamore
+    given: Sergio
+  - family: Hung
+    given: Ethan
+  - family: Rodin
+    given: Andrei S
+  - family: Lee
+    given: Peter P
+  - family: Meyer
+    given: Aaron S
+  container-title: npj Systems Biology and Applications
+  doi: 10.1038/s41540-024-00447-0
+  id: CoH2024
+  issue: 118
+  issued: 2024
+  keyword: cytokines, breast cancer, cancer, tensors, systems
+    immunology, cancer systems biology, immunology,
+    experimental-example, highlight
+  pmid: 39389979
+  title: Systems profiling reveals recurrently dysregulated cytokine
+    signaling responses in ER+ breast cancer patients' blood
+  type: article-journal
+  url: "https://www.nature.com/articles/s41540-024-00447-0"
+- abstract: Recent biological studies have been revolutionized in scale
+    and granularity by multiplex and high-throughput assays. Profiling
+    cell responses across several experimental parameters, such as
+    perturbations, time, and genetic contexts, leads to richer and more
+    generalizable findings. However, these multidimensional datasets
+    necessitate a reevaluation of the conventional methods for their
+    representation and analysis. Traditionally, experimental parameters
+    are merged to flatten the data into a two-dimensional matrix,
+    sacrificing crucial experiment context reflected by the structure.
+    As Marshall McLuhan famously stated, "the medium is the message." In
+    this work, we propose that the experiment structure is the medium in
+    which subsequent analysis is performed, and the optimal choice of
+    data representation must reflect the experiment structure. We review
+    how tensor-structured analyses and decompositions can preserve this
+    information. We contend that tensor methods are poised to become
+    integral to the biomedical data sciences toolkit.
+  author:
+  - family: Tan
+    given: Zhixin Cyrillus
+  - family: Meyer
+    given: Aaron S
+  container-title: Cell Systems
+  doi: 10.1016/j.cels.2024.07.004
+  id: Tan2024
+  issue: 8
+  issued: 2024
+  keyword: tensors, reviews, computational-example, highlight
+  page: 679-693
+  pmid: 39173584
+  title: "The structure is the message: Preserving experimental context
+    through tensor decomposition"
+  title-short: The structure is the message
+  type: article-journal
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S2405471224002035"
+  volume: 15
+- abstract: Tensor factorization is a dimensionality reduction method
+    applied to multidimensional arrays. These methods are useful for
+    identifying patterns within a variety of biomedical datasets due to
+    their ability to preserve the organizational structure of
+    experiments and therefore aid in generating meaningful insights.
+    However, missing data in the datasets being analyzed can impose
+    challenges. Tensor factorization can be performed with some level of
+    missing data and reconstruct a complete tensor. However, while
+    tensor methods may impute these missing values, the choice of
+    fitting algorithm may influence the fidelity of these imputations.
+    Previous approaches, based on alternating least squares with
+    prefilled values or direct optimization, suffer from introduced bias
+    or slow computational performance. In this study, we propose that
+    censored least squares can better handle missing values with data
+    structured in tensor form. We ran censored least squares on four
+    different biological datasets and compared its performance against
+    alternating least squares with prefilled values and direct
+    optimization. We used the error of imputation and the ability to
+    infer masked values to benchmark their missing data performance.
+    Censored least squares appeared best suited for the analysis of
+    high-dimensional biological data by accuracy and convergence metrics
+    across several studies.
+  author:
+  - family: Hung
+    given: Ethan C
+  - family: Hodzic
+    given: Enio
+  - family: Tan
+    given: Zhixin Cyrillus
+  - family: Meyer
+    given: Aaron S
+  container-title: bioRxiv [Preprint]
+  id: Hung2024
+  issued: 2024
+  keyword: tensors, missing data, censored least squares
+  title: Censored least squares for imputing missing values in PARAFAC
+    tensor factorization
+  type: article-journal
+- abstract: Systems serology aims to broadly profile the antigen
+    binding, Fc biophysical features, immune receptor engagement, and
+    effector functions of antibodies. This experimental approach excels
+    at identifying antibody functional features that are relevant to a
+    particular disease. However, a crucial limitation of this approach
+    is its incomplete description of what structural features of the
+    antibodies are responsible for the observed immune receptor
+    engagement and effector functions. Knowing these antibody features
+    is important for both understanding how effector responses are
+    naturally controlled through antibody Fc structure and designing
+    antibody therapies with specific effector profiles. Here, we address
+    this limitation by modeling the molecular interactions occurring in
+    these assays and using this model to infer quantities of specific
+    antibody Fc species among the antibodies being profiled. We used
+    several validation strategies to show that the model accurately
+    infers antibody properties and then applied the model to infer
+    previously unavailable antibody fucosylation information from
+    existing systems serology data. Using this capability, we find that
+    COVID-19 vaccine efficacy is associated with the induction of
+    afucosylated spike protein-targeting IgG. Our results also question
+    an existing assumption that controllers of HIV exhibit
+    gp120-targeting IgG that are less fucosylated than those of
+    progressors. Additionally, we confirm that afucosylated IgG is
+    associated with membrane-associated antigens for COVID-19 and HIV,
+    and present new evidence indicating that this relationship is
+    specific to the host cell membrane. Finally, we use the model to
+    identify redundant assay measurements and subsets of
+    information-rich measurements from which Fc properties can be
+    inferred. In total, our modeling approach provides a quantitative
+    framework for the reasoning typically applied in these studies,
+    improving the ability to draw mechanistic conclusions from these
+    data.
+  author:
+  - family: Abraham
+    given: Armaan A
+  - family: Tan
+    given: Zhixin Cyrillus
+  - family: Shrestha
+    given: Priyanka
+  - family: Bozich
+    given: Emily R
+  - family: Meyer
+    given: Aaron S
+  container-title: PLoS Computational Biology
+  doi: 10.1371/journal.pcbi.1012663
+  id: Abraham2024
+  issue: 12
+  issued: 2024
+  keyword: systems serology, antibodies, fucosylation, binding,
+    highlight
+  page: e1012663
+  pmid: 39715286
+  title: A multivalent binding model infers antibody Fc species from
+    systems serology
+  type: article-journal
+  url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012663"
+  volume: 20
+- abstract: "Effective exploration and analysis tools are vital for the
+    extraction of insights from single-cell data. However, current
+    techniques for modeling single-cell studies performed across
+    experimental conditions (e.g. samples) require restrictive
+    assumptions or do not adequately deconvolute condition-to-condition
+    variation from cell-to-cell variation. Here, we report that
+    Reduction and Insight in Single-cell Exploration (RISE), an
+    adaptation of the tensor decomposition method PARAFAC2, enables the
+    dimensionality reduction and analysis of single-cell data across
+    conditions. We demonstrate the benefits of RISE across distinct
+    examples of single-cell RNA-sequencing experiments of peripheral
+    immune cells: pharmacologic drug perturbations and systemic lupus
+    erythematosus patient samples. RISE enables associations of gene
+    variation patterns with patients or perturbations, while connecting
+    each coordinated change to single cells without requiring cell type
+    annotations. The theoretical grounding of RISE suggests a unified
+    framework for many single-cell data modeling tasks, while providing
+    an intuitive dimensionality reduction approach for multi-sample
+    single-cell studies across biological contexts."
+  author:
+  - family: Ramirez
+    given: Andrew
+  - family: Orcutt-Jahns
+    given: Brian T
+  - family: Pascoe
+    given: Sean
+  - family: Abraham
+    given: Armaan
+  - family: Remigio
+    given: Breanna
+  - family: Thomas
+    given: Nathaniel
+  - family: Meyer
+    given: Aaron S
+  container-title: Cell Systems
+  doi: 10.1016/j.cels.2025.101294
+  id: Ramirez2024
+  issued: 2025-05-15
+  keyword: scRNAseq, tensors, PARAFAC2, lupus, systems immunology,
+    computational-example, highlight
+  page: 101294
+  pmid: 40378843
+  title: Integrative, high-resolution analysis of single cell gene
+    expression across experimental conditions with PARAFAC2-RISE
+  type: article-journal
+  url: "https://www.sciencedirect.com/science/article/pii/S2405471225001279"
+- abstract: Voltammetry is widely used to detect and quantify oxidizable
+    or reducible species in complex environments. The neurotransmitter
+    serotonin epitomizes an analyte that is challenging to detect in
+    situ due to its low concentrations and the co-existence of similarly
+    structured analytes and interferents. We developed rapid-pulse
+    voltammetry for brain neurotransmitter monitoring due to the high
+    information content elicited from voltage pulses. Generally, the
+    design of voltammetry waveforms remains challenging due to
+    prohibitively large combinatorial search spaces and a lack of design
+    principles. Here, we illustrate how Bayesian optimization can be
+    used to hone searches for optimized rapid pulse waveforms. Our
+    machine-learning-guided workflow (SeroOpt) outperformed random and
+    human-guided waveform designs and is tunable a priori to enable
+    selective analyte detection. We interpreted the black box optimizer
+    and found that the logic of machine-learning-guided waveform design
+    reflected domain knowledge. Our approach is straightforward and
+    generalizable for all single and multi-analyte problems requiring
+    optimized electrochemical waveform solutions. Overall, SeroOpt
+    enables data-driven exploration of the waveform design space and a
+    new paradigm in electroanalytical method development.
+  author:
+  - family: Movassaghi
+    given: Cameron S
+  - family: Perrotta
+    given: Katie A
+  - family: Curry
+    given: Maya E
+  - family: Nashner
+    given: Audrey N
+  - family: Nguyen
+    given: Katherine K
+  - family: Wesely
+    given: Mila E
+  - family: Fillol
+    given: Miguel Alcañiz
+  - family: Lui
+    given: Chong
+  - family: Meyer
+    given: Aaron S
+  - family: Andrews
+    given: Anne M
+  container-title: Digital Discovery
+  doi: 10.1039/D5DD00005J
+  id: Movassaghi2024
+  issued: 2025
+  title: Machine-learning-guided design of voltammetry waveforms
+  type: article-journal
+  url: "https://pubs.rsc.org/en/content/articlelanding/2025/dd/d5dd00005j"
+- abstract: As important immune regulatory cells, whether innate
+    lymphoid cells (ILCs) are involved in liver transplantation (LT)
+    remains unclear. In a murine orthotopic LT model, we dissected roles
+    of ILCs in liver ischemia-reperfusion injury (IRI). Wild type (WT)
+    grafts suffered significantly higher IRI in Rag2-γc double knockout
+    (DKO) than Rag2 KO recipients, in association with downregulation of
+    group 1 ILCs genes, including IFN-γ. Antibody-mediated ILC depletion
+    or IFN-γ neutralization in Rag2 KO recipients increased, while IFN-γ
+    treatment in DKO recipients reduced, liver graft injuries. At the
+    donor side, grafts from DKO mice or anti-NK1.1-treated WT mice
+    suffered significantly higher IRI, while grafts treated with IFN-γ
+    during cold preservation decreased IRI. Thus, both recipient and
+    donor group 1 ILCs protect liver grafts from IRI. Low-dose IFN-γ
+    upregulated c-FLIP expression in vitro and in vivo, and protected
+    hepatocytes from inflammatory cell death. In human liver graft
+    biopsies, single-cell RNA-sequencing analysis revealed group 1 ILCs
+    produce IFN-γ. The c-FLIP levels were positively correlated with
+    IFN-γ in pre-transplant biopsies. Grafts with higher c-FLIP were
+    associated with lower caspase-8 activation, IRI gradings, and
+    frequency of early allograft dysfunction post-LT. Our study reveals
+    a novel IFN-γ-mediated cytoprotective role of group 1 ILCs in LT.
+  author:
+  - family: Kojima
+    given: Hidenobu
+  - family: Morinelli
+    given: Thomas A
+  - family: Wang
+    given: Yue
+  - family: Chin
+    given: Jackson L
+  - family: Meyer
+    given: Aaron S
+  - family: Kao
+    given: Yi-Chu
+  - family: Kadono
+    given: Kentaro
+  - family: Yao
+    given: Siyuan
+  - family: Torgerson
+    given: Taylor
+  - family: Dery
+    given: Kenneth J
+  - family: Bhat
+    given: Adil
+  - family: Reed
+    given: Elaine F
+  - family: Kaldas
+    given: Fady M
+  - dropping-particle: van der
+    family: Windt
+    given: Dirk J
+  - family: Farmer
+    given: Douglas G
+  - family: Kupiec
+    given: Jerzy W
+  container-title: American Journal of Transplantation
+  doi: 10.1016/j.ajt.2024.11.035
+  id: Kojima2024
+  issued: 2024
+  keyword: immunology, transplantation
+  pmid: 39736469
+  title: Group 1 innate lymphoid cells protect liver transplants from
+    ischemia-reperfusion injury via an interferon-γ-mediated pathway
+  type: article-journal
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S1600613524007937"
+- abstract: For patients with end-stage liver failure, liver
+    transplantation (LT) remains the standard-of-care, though five-year
+    allograft survival rates remain below 80 reperfusion injuries (LIRI)
+    arise during transplant and contribute to allograft dysfunction.
+    While many drivers of LIRI have been well-characterized, the
+    relationships between LIRI and later immunological signatures remain
+    poorly understood, possibly because of limited integrated studies
+    examining immunological signatures across the LT process.
+    Furthermore, the role of underlying disease in LT remains poorly
+    understood as it is unknown if later immunological signatures are
+    universal or etiology dependent. To better examine etiology- and
+    LIRI-driven immunological mechanisms across the LT lifetime, we
+    collected cytokine and liver function test (LFT) measurements from
+    LT donors and recipients at multiple pre- and post-operative
+    timepoints. By developing a tensor-based factorization method to
+    integrate these longitudinal measurements, we reduced the datasets
+    to four immunological signatures that manifested across cytokines,
+    LFTs, and time. Correlative analyses revealed associations between
+    these integrated immunological signatures with etiology and LIRI.
+    Later integration of allograft survival into this factorization
+    method reduced these four signatures to two that were predictive of
+    five-year allograft survival. Examination of these signatures
+    prognostic of allograft survival found that CD4+ hyperpolarization
+    towards Th1 or Th2 subtypes impaired growth factor expression and
+    led to increased allograft loss risk. Clinical correlates revealed
+    that donor and recipient age alongside etiology and donor liver
+    health modulate this balance of CD4+ polarization in LT.
+    Collectively, these results link immunological mechanisms to
+    etiology and LIRI offering immediately actionable clinical insights
+    alongside etiology- and donor-specific therapeutic targets for
+    improving LT outcomes.
+  author:
+  - family: Chin
+    given: Jackson L
+  - family: Tan
+    given: Zhixin Cyrillus
+  - family: Sosa
+    given: Rebecca
+  - family: Zheng
+    given: Ying
+  - family: Gjertson
+    given: David W
+  - family: Hoffmann
+    given: Alexander
+  - family: Kaldas
+    given: Fady M
+  - family: Zhai
+    given: Yuan
+  - family: Kupiec-Weglinski
+    given: Jerzy W
+  - family: Reed
+    given: Elaine F
+  - family: Meyer
+    given: Aaron S
+  container-title: bioRxiv [Preprint]
+  id: Chin2025
+  issued: 2025-05-24
+  keyword: immunology, transplantation
+  title: Tensor-based integration of time-series measurements reveals
+    relationships between underlying disease, early injury, and CD4+
+    polarization in liver transplantation
+  type: article-journal
+- abstract: Retinal degeneration is the leading cause of blindness
+    worldwide. Subretinal implantation of human retinal progenitor cells
+    (hRPCs) has shown great promise in models of retinal degeneration
+    for restoration of vision but is limited by extremely low (\<2 into
+    the retina. Successful integration of implanted cells requires their
+    migration from the site of implantation into the degenerating
+    retina. Little is known about what cues promote RPC migration in the
+    context of the post-implantation microenvironment, such as cues
+    presented by a biomaterial carrier. We utilized a high-throughput
+    assay to study the migration of hRPCs in three-dimensional hydrogel
+    matrices of varying chemical composition and stiffness, and with
+    exposure to different soluble factors, to identify cues important
+    for hRPC migration and associated cell signaling events driving
+    migration. Collagen type I, collagen type I methacrylate, and
+    hyaluronic acid glycidyl methacrylate gels were developed with
+    variable stiffness. The impact of key growth factors in neural
+    development, regeneration, and cell migration such as epidermal
+    growth factor (EGF), fibroblast growth factor (FGF), stromal-derived
+    factor (SDF), and hepatocyte growth factor (HGF), was studied using
+    hRPCs in 2 mg/ml collagen type I gels. Migration of the hRPCs varied
+    significantly in gels of different composition and stiffness, with
+    higher levels of mean migration distance after 48 h in non-photo
+    crosslinked collagen-based gels with higher concentrations of gel
+    components and associated compressive moduli. In addition, the
+    presence of SDF and HGF in collagen gels increased hRPC migration
+    compared to media alone. Key signaling nodes correlating with hRPC
+    migration were identified in Akt and MAPK signal transduction
+    pathways using bead-based multiplex ELISA and partial least square
+    regression (PLSR) modeling. These results motivate the further
+    exploration of material stiffness and co-delivery of soluble
+    factors, as important design parameters in cell delivery vehicles to
+    promote transplanted hRPC migration and successful integration into
+    degenerating retina.
+  author:
+  - family: Zhao
+    given: Peng
+  - family: Kundu
+    given: Joydip
+  - family: Blanton
+    given: Douglas
+  - family: Rezaeeyazdi
+    given: Mahboobeh
+  - family: Oudin
+    given: Madeleine J
+  - family: Miller
+    given: Miles A
+  - family: Meyer
+    given: Aaron S
+  - family: Bencherif
+    given: Sidi A
+  - family: Baranov
+    given: Petr Y
+  - family: Young
+    given: Michael J
+  - family: Carrier
+    given: Rebecca L
+  container-title: Journal of Tissue Engineering and Regenerative
+    Medicine
+  doi: 10.1155/term/9963972
+  id: Zhao2025
+  issued: 2025
+  keyword: migration, retinal progenitor cells, hydrogels, tissue
+    engineering, regenerative medicine
+  pmid: 41195017
+  title: Human retinal progenitor cell migration in three-dimensional
+    environments of varying stiffness and composition
+  type: article-journal
+  url: "https://onlinelibrary.wiley.com/doi/full/10.1155/term/9963972"
+  volume: 2025
+- abstract: Cancer systems biology seeks to understand how cancer arises
+    as a system of interconnected molecules, cells, and tissues, with
+    the goal of understanding, predicting, and controlling the disease.
+    In the last decade, the field has rapidly grown as advances in
+    experimental, computational, and analytical technologies have
+    improved our ability to capture and recapitulate the complexities of
+    cancer at multiple scales. However, the field's promise to
+    understand how specific molecular changes give rise to altered
+    cancer outcomes remains incompletely fulfilled. Fortunately, an
+    opportunity exists to accelerate progress by better coordinating
+    modeling and data-gathering efforts across the cancer systems
+    biology community. This will create the foundation for building
+    accurate, multiscale cancer models that can better predict and
+    identify improved therapeutic interventions. Here, we outline some
+    of the current challenges in cancer systems biology research, how
+    they can be addressed, and actions that the community can take to
+    accelerate progress in the field.
+  author:
+  - family: Wiley
+    given: H. Steven
+  - family: Lopez
+    given: Carlos F.
+  - family: Rodin
+    given: Andrei S.
+  - family: Rockne
+    given: Russell C.
+  - family: Yankeelov
+    given: Thomas E.
+  - family: Sauro
+    given: Herbert M.
+  - family: Hassan
+    given: Ghmkin
+  - family: Prabhakaran
+    given: Sandhya
+  - family: Demir
+    given: Emek
+  - family: Hu
+    given: Mengzhou
+  - family: Fuxman Bass
+    given: Juan
+  - family: Luddy
+    given: Kimberly A.
+  - family: Newman
+    given: Hannah
+  - family: Mochel
+    given: Jonathan P.
+  - family: Costello
+    given: James C.
+  - family: Xing
+    given: Jianhua
+  - family: Afify
+    given: Said M.
+  - family: Acar
+    given: Ahmet
+  - family: Hayden Gephart
+    given: Melanie
+  - family: Feng
+    given: Song
+  - family: Banks
+    given: Orion
+  - family: Banerjee
+    given: Jineta
+  - family: Clayton
+    given: Ashley
+  - family: Hill
+    given: David E.
+  - family: Sweis
+    given: Randy F.
+  - family: Umeh-Garcia
+    given: Maxine C.
+  - family: Su
+    given: Yapeng
+  - family: Meyer
+    given: Aaron S.
+  container-title: Cancer Research
+  doi: 10.1158/0008-5472.CAN-25-0700
+  id: Wiley2025
+  issn: 0008-5472
+  issued: 2025-10
+  pmid: 41091803
+  title: A roadmap for the future of systems biology in cancer research
+  type: article-journal
+  url: "https://doi.org/10.1158/0008-5472.CAN-25-0700"
+- author:
+  - family: Meyer
+    given: Aaron S.
+  - family: Wang
+    given: Chuangqi
+  - family: Zhang
+    given: Fan
+  container-title: Frontiers in Immunology
+  doi: 10.3389/fimmu.2025.1746667
+  id: Meyer2025
+  issn: 1664-3224
+  issued: 2025
+  keyword: systems immunology
+  page: 1746667
+  pmid: 41415291
+  title: "Editorial: Systems immunology and computational omics for
+    transformative medicine"
+  title-short: Editorial
+  type: article-journal
+  url: "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1746667"
+  volume: 16
+- abstract: "BACKGROUND: AXL dysregulation is associated with both
+    intrinsic resistance in tumor cells and reprogramming of the immune
+    microenvironment. However, it is still unclear which patients would
+    benefit from AXL-targeting therapies. We conducted a clinical and
+    molecular characterization of AXL in colorectal cancer (CRC).
+    METHODS: This study integrated real-world molecular profiling (Caris
+    cohort; n=24,257) and randomized clinical trial data (phase III
+    Cancer and Leukemia Group B/Southwest Oncology Group (CALGB/SWOG)
+    80405; n=433) to assess AXL messenger RNA expression in patients
+    with CRC. Tumor samples underwent RNA sequencing and analysis of the
+    immune microenvironment. AXL expression was categorized into
+    tertiles. We assessed associations between molecular features,
+    immune biomarkers, and clinical outcomes, including overall survival
+    (OS) and progression-free survival (PFS), using Kaplan-Meier and Cox
+    proportional hazards models while adjusting for relevant covariates.
+    RESULTS: Elevated AXL expression correlated with increased
+    programmed death-ligand 1 immunohistochemistry positivity (6.2% vs
+    2.5%, q$<$0.0001), immune checkpoint-related gene expression, and
+    infiltration of immunosuppressive cell populations (T-regulatory
+    cells, M2 macrophages, monocytes, and B cells). Pathway analyses
+    demonstrated links between high AXL expression and
+    epithelial-mesenchymal transition, inflammatory signaling,
+    interferon-gamma response, and tumor necrosis factor alpha
+    signaling. In the Caris cohort, high AXL predicted worse OS in
+    patients treated with fluorouracil, leucovorin, and
+    oxaliplatin/fluorouracil, leucovorin, and irinotecan (38.0 vs
+    34.7 months, p=0.027; HR 1.07), bevacizumab (36.8 vs 32.6 months,
+    p=0.013; HR 1.21), and anti-epidermal growth factor receptor therapy
+    (28.4 vs 22.2 months, p=0.005; HR 1.21), but profoundly improved OS
+    in KRAS mutant patients treated with immunotherapy (11.6 vs
+    23.4 months, p=0.012; HR 0.65). CALGB/SWOG 80405 findings confirmed
+    shorter PFS (9.2 vs 12.9 months, p=0.001; HR 1.56) and OS (24.2 vs
+    34.7 months, p$<$0.001; HR 1.68) with high AXL expression across
+    treatment arms. CONCLUSIONS: Elevated AXL expression in CRC
+    correlated with an immunosuppressive microenvironment and worse
+    outcomes across standard treatments. However, it identifies a
+    distinct subgroup of KRAS-mutant patients who significantly benefit
+    from immunotherapy, supporting AXL as a context-specific biomarker
+    and therapeutic target."
+  author:
+  - family: Ashouri
+    given: Karam
+  - family: Millstein
+    given: Joshua
+  - family: Yang
+    given: Yan
+  - family: Xiu
+    given: Joanne
+  - family: Soni
+    given: Shivani
+  - family: Mittal
+    given: Pooja
+  - family: Algaze
+    given: Sandra
+  - family: Torres-Gonzalez
+    given: Lesly
+  - family: Jayachandran
+    given: Priya
+  - family: Zhang
+    given: Wu
+  - family: Mumenthaler
+    given: Shannon
+  - family: Shields
+    given: Anthony F.
+  - family: Goldberg
+    given: Richard
+  - family: Lou
+    given: Emil
+  - family: Weinberg
+    given: Benjamin A.
+  - family: Graeber
+    given: Thomas G.
+  - family: Marshall
+    given: John L.
+  - family: Venook
+    given: Alan P.
+  - family: Hoffmann
+    given: Alexander
+  - family: Finley
+    given: Stacey D.
+  - family: Meyer
+    given: Aaron S.
+  - family: Battaglin
+    given: Francesca
+  - family: Lenz
+    given: Heinz-Josef
+  container-title: Journal for Immunotherapy of Cancer
+  doi: 10.1136/jitc-2025-013186
+  id: Ashouri2025
+  issn: 2051-1426
+  issue: 12
+  issued: 2025-12
+  keyword: AXL, colorectal cancer, immunotherapy, tumor microenvironment
+  page: e013186
+  pmcid: PMC12719898
+  pmid: 41423272
+  title: Clinical and molecular characterization of AXL in colorectal
+    cancer, CALGB (Alliance)/SWOG 80405 and real-world data
+  type: article-journal
+  volume: 13
+- abstract: "Cell-cell communication (CCC) mediates coordinated cellular activities that vary dynamically across time, location, and biological context. While various tools exist to infer CCC, they typically aggregate data according to pre-defined cell types, obscuring critical single-cell heterogeneity. Furthermore, because signaling pathways and cell populations operate in a coordinated manner, an integrative analytical approach is essential. To address these challenges, we developed CCC-RISE, an extension of the tensor-based method Reduction and Insight in Single-cell Exploration (RISE). CCC-RISE identifies integrative patterns of single-cell variation by deconvolving communication into interpretable modules defined by unique sender cells, receiver cells, ligands, and condition associations. We applied this framework to a COVID-19 cohort with varying disease severity and a lung transplant cohort with acute allograft dysfunction. In both contexts, CCC-RISE successfully identified disease-relevant communication programs and traced them to specific cellular subpopulations, often crossing conventional cell-type boundaries. This approach offers a robust pipeline enabling the identification of disease-relevant signaling subpopulations that are invisible to aggregate methods."
+  author:
+    - family: Ramirez
+      given: Andrew
+    - family: Thomas
+      given: Nathaniel
+    - family: Calabrese
+      given: Daniel R
+    - family: Greenland
+      given: John R
+    - family: Meyer
+      given: Aaron S
+  container-title: bioRxiv \[Preprint\]
+  url: "https://www.biorxiv.org/content/10.64898/2026.04.14.718551v1"
+  id: Ramirez2026
+  issued: 2026-04
+  keyword: tensors, single cell
+  title: Tracing cell communication programs across conditions at single cell resolution with CCC-RISE
+  type: article-journal

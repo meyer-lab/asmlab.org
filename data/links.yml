@@ -1,0 +1,14 @@
+- url: /
+  title: /
+
+- url: /team
+  title: Team
+
+- url: /research
+  title: Research
+
+- url: /research/industry/
+  title: Industry
+
+- url: /contact
+  title: Contact/Operations
