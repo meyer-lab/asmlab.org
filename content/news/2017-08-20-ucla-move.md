@@ -1,0 +1,6 @@
+---
+title:  Moving
+date:   2017-08-20 14:00:00
+---
+
+The lab has packed up and moved to the [University of California, Los Angeles](https://www.ucla.edu), in the [Department of Bioengineering](https://www.bioeng.ucla.edu).
