@@ -2837,3 +2837,22 @@ references:
     cancer, CALGB (Alliance)/SWOG 80405 and real-world data
   type: article-journal
   volume: 13
+- abstract: "Cell-cell communication (CCC) mediates coordinated cellular activities that vary dynamically across time, location, and biological context. While various tools exist to infer CCC, they typically aggregate data according to pre-defined cell types, obscuring critical single-cell heterogeneity. Furthermore, because signaling pathways and cell populations operate in a coordinated manner, an integrative analytical approach is essential. To address these challenges, we developed CCC-RISE, an extension of the tensor-based method Reduction and Insight in Single-cell Exploration (RISE). CCC-RISE identifies integrative patterns of single-cell variation by deconvolving communication into interpretable modules defined by unique sender cells, receiver cells, ligands, and condition associations. We applied this framework to a COVID-19 cohort with varying disease severity and a lung transplant cohort with acute allograft dysfunction. In both contexts, CCC-RISE successfully identified disease-relevant communication programs and traced them to specific cellular subpopulations, often crossing conventional cell-type boundaries. This approach offers a robust pipeline enabling the identification of disease-relevant signaling subpopulations that are invisible to aggregate methods."
+  author:
+    - family: Ramirez
+      given: Andrew
+    - family: Thomas
+      given: Nathaniel
+    - family: Calabrese
+      given: Daniel R
+    - family: Greenland
+      given: John R
+    - family: Meyer
+      given: Aaron S
+  container-title: bioRxiv \[Preprint\]
+  url: "https://www.biorxiv.org/content/10.64898/2026.04.14.718551v1"
+  id: Ramirez2026
+  issued: 2026-04
+  keyword: tensors, single cell
+  title: Tracing cell communication programs across conditions at single cell resolution with CCC-RISE
+  type: article-journal
