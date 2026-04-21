@@ -232,3 +232,9 @@ committees:
     advisor: Anne Churchland
     start_date: 2026
     end_date: Present
+
+  - name: Sujit Silas Armstrong
+    program: Bioengineering (Ph.D.)
+    advisor: Philip Scumpia
+    start_date: 2025
+    end_date: Present
