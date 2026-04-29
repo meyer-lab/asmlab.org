@@ -2763,13 +2763,13 @@ references:
     signaling. In the Caris cohort, high AXL predicted worse OS in
     patients treated with fluorouracil, leucovorin, and
     oxaliplatin/fluorouracil, leucovorin, and irinotecan (38.0 vs
-    34.7 months, p=0.027; HR 1.07), bevacizumab (36.8 vs 32.6 months,
+    34.7 months, p=0.027; HR 1.07), bevacizumab (36.8 vs 32.6 months,
     p=0.013; HR 1.21), and anti-epidermal growth factor receptor therapy
-    (28.4 vs 22.2 months, p=0.005; HR 1.21), but profoundly improved OS
+    (28.4 vs 22.2 months, p=0.005; HR 1.21), but profoundly improved OS
     in KRAS mutant patients treated with immunotherapy (11.6 vs
-    23.4 months, p=0.012; HR 0.65). CALGB/SWOG 80405 findings confirmed
-    shorter PFS (9.2 vs 12.9 months, p=0.001; HR 1.56) and OS (24.2 vs
-    34.7 months, p$<$0.001; HR 1.68) with high AXL expression across
+    23.4 months, p=0.012; HR 0.65). CALGB/SWOG 80405 findings confirmed
+    shorter PFS (9.2 vs 12.9 months, p=0.001; HR 1.56) and OS (24.2 vs
+    34.7 months, p$<$0.001; HR 1.68) with high AXL expression across
     treatment arms. CONCLUSIONS: Elevated AXL expression in CRC
     correlated with an immunosuppressive microenvironment and worse
     outcomes across standard treatments. However, it identifies a
@@ -2856,3 +2856,39 @@ references:
   keyword: tensors, single cell
   title: Tracing cell communication programs across conditions at single cell resolution with CCC-RISE
   type: article-journal
+- abstract: High-grade serous ovarian cancer (HGSOC) represents 75% of ovarian cancer cases and 80% of deaths, with most patients relapsing despite initial treatment response. The limited effectiveness of immunotherapies in HGSOC indicates urgent need for novel therapeutic approaches. HGSOC patients produce tumor-binding autoantibodies (TBAs) with high tumor selectivity. Since effective antibody-mediated tumor cell killing requires Fc domain interactions with immune cells, we hypothesized that, although TBAs recognize tumor cells, they might still poorly elicit cell killing responses. Using a systems serology approach, we profiled TBA subclass and biophysical interactions with Fc receptors in HGSOC, comparing them to antiviral antibody responses. TBAs were consistently identified within ascites and serum and were heterogeneous in subclass composition. However, TBAs consistently lacked the capacity to bind FcγRIIIa despite abundant interaction with FcγRIIa and poorly elicited antibody-dependent cellular cytotoxicity, suggesting their Fc features prevent cell killing responses. Restoring FcγRIIIa interaction may be a promising therapeutic approach in HGSOC.
+  author:
+    - family: Loui
+      given: Michelle
+    - family: Trisal
+      given: Meera
+    - family: James-Allan
+      given: Laura B
+    - family: Taylor
+      given: Scott D
+    - family: Desai
+      given: Het
+    - family: DiBernardo
+      given: Gabriella A
+    - family: Brookhart
+      given: Allison
+    - family: Ting
+      given: Yun-Rong
+    - family: Gebraeel
+      given: Jessica
+    - family: Moatamed
+      given: Neda
+    - family: Kreeger
+      given: Pamela K
+    - family: Memarzadeh
+      given: Sanaz
+    - family: Meyer
+      given: Aaron S
+  container-title: bioRxiv \[Preprint\]
+  doi: 10.64898/2026.04.25.720834
+  id: Loui2026
+  issued: 2026-04
+  keyword: ovarian cancer, Fc-mediated immunity, systems serology
+  title: Systems serology of responses against tumor antigens in ovarian cancer reveal disrupted Fc-mediated immunity
+  type: article-journal
+  url: "https://www.biorxiv.org/content/early/2026/04/29/2026.04.25.720834"
