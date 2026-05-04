@@ -2502,37 +2502,7 @@ references:
     ischemia-reperfusion injury via an interferon-γ-mediated pathway
   type: article-journal
   url: "https://www.sciencedirect.com/science/article/abs/pii/S1600613524007937"
-- abstract: For patients with end-stage liver failure, liver
-    transplantation (LT) remains the standard-of-care, though five-year
-    allograft survival rates remain below 80 reperfusion injuries (LIRI)
-    arise during transplant and contribute to allograft dysfunction.
-    While many drivers of LIRI have been well-characterized, the
-    relationships between LIRI and later immunological signatures remain
-    poorly understood, possibly because of limited integrated studies
-    examining immunological signatures across the LT process.
-    Furthermore, the role of underlying disease in LT remains poorly
-    understood as it is unknown if later immunological signatures are
-    universal or etiology dependent. To better examine etiology- and
-    LIRI-driven immunological mechanisms across the LT lifetime, we
-    collected cytokine and liver function test (LFT) measurements from
-    LT donors and recipients at multiple pre- and post-operative
-    timepoints. By developing a tensor-based factorization method to
-    integrate these longitudinal measurements, we reduced the datasets
-    to four immunological signatures that manifested across cytokines,
-    LFTs, and time. Correlative analyses revealed associations between
-    these integrated immunological signatures with etiology and LIRI.
-    Later integration of allograft survival into this factorization
-    method reduced these four signatures to two that were predictive of
-    five-year allograft survival. Examination of these signatures
-    prognostic of allograft survival found that CD4+ hyperpolarization
-    towards Th1 or Th2 subtypes impaired growth factor expression and
-    led to increased allograft loss risk. Clinical correlates revealed
-    that donor and recipient age alongside etiology and donor liver
-    health modulate this balance of CD4+ polarization in LT.
-    Collectively, these results link immunological mechanisms to
-    etiology and LIRI offering immediately actionable clinical insights
-    alongside etiology- and donor-specific therapeutic targets for
-    improving LT outcomes.
+- abstract: A lack of integrative analyses in liver transplantation (LT) limits understanding of relationships between immunological signatures, time, and recipient/donor health factors in LT. In this exploratory study, we collected cytokine and liver function test (LFT) measurements from LT donors and recipients at multiple pre- and post-operative timepoints. We developed a tensor-based factorization method to reduce these measurements to four components that manifested across cytokines, LFTs, and time. These components associated pre-operative immune signatures with immune signatures up to a month post-operation. Integration of allograft survival into this factorization reduced these four components to two associated with five-year allograft survival. These signatures suggested that pronounced CD4+ polarization associated with impaired growth factor expression and increased allograft loss risk. Donor and recipient age modulated this CD4+ polarization. These findings provide insights into the immunological signatures of LT, identifying potential therapeutic avenues for future validation.
   author:
   - family: Chin
     given: Jackson L
@@ -2556,9 +2526,11 @@ references:
     given: Elaine F
   - family: Meyer
     given: Aaron S
-  container-title: bioRxiv [Preprint]
+  container-title: American Journal of Transplantation
   id: Chin2025
-  issued: 2025-05-24
+  issued: 2026-05-02
+  doi: 10.1016/j.ajt.2026.04.025
+  url: "https://www.sciencedirect.com/science/article/pii/S1600613526002339"
   keyword: immunology, transplantation
   title: Tensor-based integration of time-series measurements reveals
     relationships between underlying disease, early injury, and CD4+
