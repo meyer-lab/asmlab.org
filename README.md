@@ -68,4 +68,4 @@ Most of the website's content is written in Markdown and located in the `content
 
 ## Deployment
 
-The website is automatically deployed via GitHub Actions. When you push changes to the `main` branch, a workflow is triggered that builds the static site and depls it to the hosting provider.
+The website is automatically deployed via GitHub Actions. When you push changes to the `main` branch, a workflow is triggered that builds the static site and deploys it to the hosting provider.

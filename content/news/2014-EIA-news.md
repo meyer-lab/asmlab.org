@@ -1,5 +1,5 @@
 ---
-title:  "Early Investigator Award"
+title:  "Early Independence Award"
 date:   2014-09-10 00:00:00
 ---
 

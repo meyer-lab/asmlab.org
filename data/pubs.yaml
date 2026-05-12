@@ -1023,7 +1023,7 @@ references:
   url: "https://doi.org/10.1038/s41467-019-13108-2"
   volume: 10
 - abstract: The recent wide-spread adoption of single cell profiling
-    technologies has revealed that individual cancers are not homogenous
+    technologies has revealed that individual cancers are not homogeneous
     collections of deregulated cells, but instead are comprised of
     multiple genetically and phenotypically distinct cell subpopulations
     that exhibit a wide range of responses to extracellular signals and
