@@ -498,11 +498,12 @@
   keywords: cancer, serology, wet lab
   description: Victoria is an undergraduate student majoring in biochemistry. She is interested in cancer-related immunology research, protein engineering and structural analysis, and drug discovery/design. In her free time, she enjoys archery and singing.
   photo: victoria.webp
+  postposition: Ph.D. Student, Chemical and Biological Sciences, Scripps Research
   awards:
     - UCLA URC-Sciences Summer Program Scholar
     - 2025 Biomedical Research Summer Scholarship (declined)
   joined: 2023
-  current: True
+  left: 2026
 
 - name: Allison Brookhart
   position: Undergraduate Researcher
@@ -511,8 +512,8 @@
   awards:
     - CDU/UCLA Undergraduate Cancer Research & Training Program Fellow
   joined: 2022
+  left: 2026
   photo: allisonb.webp
-  current: True
 
 - name: Nathaniel Thomas
   position: Undergraduate Researcher

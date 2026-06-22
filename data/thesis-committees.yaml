@@ -105,7 +105,7 @@ committees:
     program: Bioinformatics (Ph.D.)
     advisor: Alexander Hoffmann
     start_date: 2022
-    end_date: Present
+    end_date: 2026
 
   - name: Emily Bozich
     program: Bioengineering (Ph.D.)
@@ -171,19 +171,19 @@ committees:
     program: Bioengineering (M.S.)
     advisor: Roel Ophoff
     start_date: 2024
-    end_date: Present
+    end_date: 2025
 
   - name: Dexter Lai
     program: Bioengineering (Ph.D.)
     advisor: Jun Park
     start_date: 2024
-    end_date: Present
+    end_date: 2026
 
   - name: Yuyang Han
     program: Chemistry (Ph.D.)
     advisor: Anne Andrews
     start_date: 2024
-    end_date: Present
+    end_date: 2025
 
   - name: Anjali Sivanandan
     program: Bioengineering (Ph.D.)
