@@ -2046,35 +2046,7 @@ references:
       human liver transplantation
     type: article-journal
     url: "https://www.amjtransplant.org/article/S1600-6135(23)00625-1/fulltext"
-  - abstract: Receptor tyrosine kinase (RTK)-targeted therapies are often
-      effective but invariably limited by drug resistance. A major
-      mechanism of acquired resistance involves "bypass" switching to
-      alternative pathways driven by non-targeted RTKs that restore
-      proliferation. One such RTK is AXL whose overexpression, frequently
-      observed in bypass resistant tumors, drives both cell survival and
-      associated malignant phenotypes such as epithelial-to-mesenchymal
-      (EMT) transition and migration. However, the signaling molecules and
-      pathways eliciting these responses have remained elusive. To explore
-      these coordinated effects, we generated a panel of mutant lung
-      adenocarcinoma PC9 cell lines in which each AXL intracellular
-      tyrosine residue was mutated to phenylalanine. By integrating
-      measurements of phosphorylation signaling and other phenotypic
-      changes associated with resistance through multivariate modeling, we
-      mapped signaling perturbations to specific resistant phenotypes. Our
-      results suggest that AXL signaling can be summarized into two
-      clusters associated with progressive disease and poor clinical
-      outcomes in lung cancer patients. These clusters displayed favorable
-      Abl1 and SFK motifs and their phosphorylation was consistently
-      decreased by dasatinib. High-throughput kinase specificity profiling
-      showed that AXL likely activates the SFK cluster through FAK1 which
-      is known to complex with Src. Moreover, the SFK cluster overlapped
-      with a previously established focal adhesion kinase (FAK1) signature
-      conferring EMT-mediated erlotinib resistance in lung cancer cells.
-      Finally, we show that downstream of this kinase signaling, AXL and
-      YAP form a positive feedback loop that sustains drug tolerant
-      persister cells. Altogether, this work demonstrates an approach for
-      dissecting signaling regulators by which AXL drives erlotinib
-      resistance-associated phenotypic changes.
+  - abstract: Targeted therapies for receptor tyrosine kinases are effective but invariably limited by drug resistance. In EGFR-mutant lung cancer, AXL activation drives resistance to erlotinib by restoring cell survival and migration. To map these signaling mechanisms, we generated a panel of lung adenocarcinoma PC9 cell lines with phenylalanine substitutions at each intracellular AXL tyrosine residue. By integrating phosphorylation data with phenotypic changes via multivariate modeling, we found that AXL signaling organizes into two clusters enriched for Abl1 and SFK substrate motifs. A peptide specificity screen identified FAK1 as a top proximal substrate of AXL. Downstream, AXL-mediated YAP1 activation was found to sustain drug tolerance, while combined inhibition eliminated persister cells in vitro. These AXL and YAP pathways correlate with disease progression and poor clinical outcomes in erlotinib-treated patients. Collectively, this study dissects the specific signaling regulators by which AXL drives erlotinib resistance.
     author:
       - family: Creixell
         given: Marc
@@ -2082,29 +2054,38 @@ references:
         given: Scott D
       - family: Gerritsen
         given: Jacqueline
-      - family: Bae
-        given: Song Yi
       - family: Jiang
         given: Mingxuan
+      - family: Bae
+        given: Song Yi
       - family: Augustin
         given: Teresa
       - family: Loui
         given: Michelle
       - family: Boixo
         given: Carmen
+      - family: Minamino
+        given: Saki
+      - family: Gong
+        given: Victoria
       - family: Creixell
         given: Pau
       - family: White
         given: Forest M
       - family: Meyer
         given: Aaron S
-    container-title: bioRxiv [Preprint]
+    container-title: Cell Reports
     id: Creixell2023
-    issued: 2023
-    title: Dissecting signaling regulators driving AXL-mediated bypass
-      resistance and associated phenotypes by phosphosite perturbations
+    issued: 2026
+    issue: 7
+    volume: 45
+    pmid: 42475177
+    page: 2211-1247
+    title: AXL phosphosite mapping links FAK1 and YAP1 signaling to erlotinib resistance in EGFR-mutant lung cancer
     type: article-journal
-    url: https://www.biorxiv.org/content/10.1101/2023.10.20.563266v1
+    preprint: https://www.biorxiv.org/content/10.1101/2023.10.20.563266v1
+    url: https://doi.org/10.1016/j.celrep.2026.117717
+    doi: 10.1016/j.celrep.2026.117717
   - abstract: Living materials, which are made either of or by living
       cells, or are synthetic materials with programmable elements catered
       to cells, are environmentally responsive and can self-repair,
