@@ -385,6 +385,7 @@
   awards:
     - SURF Fellowship, UCLA Graduate Division
     - JCCC Fellowship
+    - UCLA Bioengineering Department Fellowship
 
 - name: Meera Trisal
   position: Ph.D. Student
@@ -540,6 +541,8 @@
   joined: 2025
   photo: lipika.webp
   current: True
+  awards:
+    - Hu Family BIG Summer Fellowship
 
 - name: Maxence Larour-Debonneuil
   position: Undergraduate Researcher
@@ -548,6 +551,8 @@
   joined: 2025
   photo: mlarour.webp
   current: True
+  awards:
+    - URC-Sciences Summer Program
 
 - name: Breanna Remigio
   position: Undergraduate Researcher

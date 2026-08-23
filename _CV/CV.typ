@@ -253,6 +253,11 @@ _Siebel Scholar, Class of 2014_ #h(1fr) 2013
 ]
 
 
+#section("Media Coverage")
+
+#link("https://www.uclahealth.org/news/publication/ovarian-cancer-hits-below-belt-doctor-raising-army-stop-it")[_"Ovarian cancer hits below the belt: This doctor is raising an army to stop it"_], UCLA Health #h(1fr) 2025 \
+Featured lab research on Fc-mediated immunity in ovarian cancer (with S. Memarzadeh)
+
 #section("Research Support")
 
 _Contact PI on all grants unless indicated otherwise._
@@ -560,7 +565,7 @@ Massachusetts Institute of Technology
 
 #section("Patents & Disclosures")
 
-A.S. Meyer. "Methods of Identifying and Correcting Tumor Humoral Immune Dysregulation." U.S. patent application PCT/US24/32940, 2024.
+A.S. Meyer. "Methods of Identifying and Correcting Tumor Humoral Immune Dysregulation." U.S. patent application PCT/US24/32940, 2024; U.S. National Phase Application No. 19/491,103, filed December 8, 2025.
 
 Orcutt-Jahns, B., P.C. Emmel, A.S. Meyer. "Multi-specific engineered cytokines." U.S. patent application PCT/US24/32940, 2023.
 

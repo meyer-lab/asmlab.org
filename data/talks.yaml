@@ -1,4 +1,19 @@
 presentations:
+  - venue: USC, Mork Family Department of Chemical Engineering and Materials Science
+    type: Invited Seminar
+    date: 2026-11-03
+    title: "Building and integrative view of immunity through tensor decompositions"
+
+  - venue: "ASHI/AMLI Joint Member Society Symposium, FOCIS Annual Meeting"
+    type: Invited Oral Presentation
+    date: 2026-06-10
+    title: "Deciphering the Inflammatory Milieu: Tracking and Disrupting Tissue-Local Cytokine Regulation: Application to Transplantation and Beyond"
+
+  - venue: UCLA, I3T Seminar
+    type: Invited Seminar
+    date: 2026-05-01
+    title: "Building an integrative understanding of immunity and immune states"
+
   - venue: UCSD, The Bioengineering Experience
     type: Invited Keynote
     date: 2026-05-08
