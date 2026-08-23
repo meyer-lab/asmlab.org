@@ -114,10 +114,7 @@ _Career Awards at the Scientific Interface Finalist_, Burroughs Wellcome Fund #h
 
 _Fellowship_, Terri Brodeur Breast Cancer Foundation #h(1fr) 2017
 
-#link("http://www.amgenscholars.com/alumni/ten-to-watch")[_Ten to Watch_], Amgen Scholars Foundation #h(1fr) 2016
-
-_Director's Early Independence Award_, National Institutes of Health #h(1fr) 2014 \
-Highlighted by the NIH director's office (#link("https://directorsblog.nih.gov/2014/10/28/creative-minds-tackling-chemotherapy-resistance/")[link])
+_Director's Early Independence Award_, National Institutes of Health #h(1fr) 2014
 
 _Siebel Scholar, Class of 2014_ #h(1fr) 2013
 
@@ -255,8 +252,23 @@ _Siebel Scholar, Class of 2014_ #h(1fr) 2013
 
 #section("Media Coverage")
 
+#link("https://www.youtube.com/watch?v=kobv26lc2Og")[_"UCLA's Aaron Meyer shares about how cancer cells avoid the immune system"_], UCLA Technology Development Group #h(1fr) 2026 \
+Video interview on lab research into anti-tumor antibody responses
+
 #link("https://www.uclahealth.org/news/publication/ovarian-cancer-hits-below-belt-doctor-raising-army-stop-it")[_"Ovarian cancer hits below the belt: This doctor is raising an army to stop it"_], UCLA Health #h(1fr) 2025 \
 Featured lab research on Fc-mediated immunity in ovarian cancer (with S. Memarzadeh)
+
+#link("https://www.cancer.gov/about-nci/organization/dcb/research-programs/csbc/aaron-meyer")[_"Dr. Aaron Meyer: Identifying Combination Therapies for Lung Cancer"_], NCI Cancer Systems Biology Consortium #h(1fr) 2021 \
+Interview on the lab's systems approach to identifying combination therapies for lung cancer
+
+#link("https://newsroom.ucla.edu/releases/antibody-identifier-could-speed-development-of-therapies-for-cancer-other-diseases")[_"Antibody identifier could speed development of therapies for cancer, other diseases"_], UCLA Newsroom #h(1fr) 2018 \
+Coverage of the lab's antibody effector function model published in Cell Systems
+
+#link("https://amgenscholars.com/ten-to-watch/")[_"Ten to Watch"_], Amgen Scholars Foundation #h(1fr) 2016 \
+Profile recognizing top Amgen Scholars alumni poised to impact the future of science and medicine
+
+#link("https://directorsblog.nih.gov/2014/10/28/creative-minds-tackling-chemotherapy-resistance/")[_"Creative Minds: Tackling Chemotherapy Resistance"_], NIH Director's Blog #h(1fr) 2014 \
+Feature on research supported by the Director's Early Independence Award
 
 #section("Research Support")
 
