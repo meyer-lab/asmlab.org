@@ -246,6 +246,18 @@ service:
 
     - role: Ad Hoc Reviewer
       organization: EMBO Molecular Medicine
+      date: "2025, 2026"
+
+    - role: Ad Hoc Reviewer
+      organization: Frontiers in Immunology
+      date: "2026"
+
+    - role: Ad Hoc Study Section
+      organization: National Cancer Institute (R21, overflow panel)
+      date: "2026"
+
+    - role: External Reviewer
+      organization: The Royal Society
       date: "2025"
 
     - role: Poster Judge

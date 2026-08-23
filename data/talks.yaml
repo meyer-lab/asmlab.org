@@ -1,4 +1,34 @@
 presentations:
+  - venue: USC, Mork Family Department of Chemical Engineering and Materials Science
+    type: Invited Seminar
+    date: 2026-11-03
+    title: "Building and integrative view of immunity through tensor decompositions"
+
+  - venue: "Signal Transduction by Engineered Extracellular Matrices GRC (Switzerland)"
+    type: Invited Oral Presentation
+    date: 2026-06-04
+    title: "Deciphering the Inflammatory Milieu: Tracking and Disrupting Tissue-Local Cytokine Regulation"
+
+  - venue: UCLA QCBio Seminar
+    type: Invited Oral Presentation
+    date: 2026-07-31
+    title: "Building an Integrative View of Immunity with Data Tensors"
+
+  - venue: Amgen Scholars Program North America Symposium
+    type: Invited Keynote
+    date: 2026-07-17
+    title: "Design Constraints for an Unknown Future"
+
+  - venue: "ASHI/AMLI Joint Member Society Symposium, FOCIS Annual Meeting"
+    type: Invited Oral Presentation
+    date: 2026-06-10
+    title: "Deciphering the Inflammatory Milieu: Tracking and Disrupting Tissue-Local Cytokine Regulation: Application to Transplantation and Beyond"
+
+  - venue: UCLA, I3T Seminar
+    type: Invited Seminar
+    date: 2026-05-01
+    title: "Building an integrative understanding of immunity and immune states"
+
   - venue: UCSD, The Bioengineering Experience
     type: Invited Keynote
     date: 2026-05-08
