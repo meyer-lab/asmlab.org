@@ -208,6 +208,10 @@ service:
       organization: UCLA Engineering Alumni Reunion
       date: "2018"
   profession:
+    - role: Ad Hoc Reviewer
+      organization: Science
+      date: "2026"
+
     - role: Organizer
       organization: Systems Immunology in Transplantation
       date: "2024–2025"
