@@ -1,5 +1,9 @@
 {{ $ref := .ref }}
 {{ $year := $ref.issued }}
+{{ $abstract := $ref.abstract }}
+{{ if and (not $abstract) $ref.pmcid }}
+  {{ $abstract = partial "jats-abstract.html" (dict "pmcid" $ref.pmcid) }}
+{{ end }}
 
 <dd>
 {{ if $ref.url }}<b><a href="{{ $ref.url }}">{{ $ref.title }}.</a></b>
@@ -13,8 +17,8 @@
 {{ if $ref.pmid }}<a title="pubmed" href="https://pubmed.ncbi.nlm.nih.gov/{{ $ref.pmid }}/"><svg class="svg-icon"><use href="#scif-pubmed"></use></svg></a>
 {{ else if $ref.pmcid }}<a title="pubmed" href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ $ref.pmcid }}/"><svg class="svg-icon"><use href="#scif-pubmed"></use></svg></a>{{ end }}
 {{ if $ref.doi }}<a title="doi" href="https://doi.org/{{ $ref.doi }}"><svg class="svg-icon"><use href="#scif-doi"></use></svg></a>{{ end }}
-{{ if $ref.abstract }}<a href="#" onclick="toggle('{{ $ref.id }}_abstract'); return false;">[Abstract]</a>{{ end }}
+{{ if $abstract }}<a href="#" onclick="toggle('{{ $ref.id }}_abstract'); return false;">[Abstract]</a>{{ end }}
 </span>
 
-{{ if $ref.abstract }}<p class="abstract" id="{{ $ref.id }}_abstract" style="display:none"><b>Abstract:</b> {{ $ref.abstract }}</p>{{ end }}
+{{ if $abstract }}<p class="abstract" id="{{ $ref.id }}_abstract" style="display:none"><b>Abstract:</b> {{ $abstract }}</p>{{ end }}
 </dd>
