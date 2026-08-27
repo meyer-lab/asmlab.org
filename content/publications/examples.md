@@ -6,13 +6,13 @@ url: /publications/examples.html
 
 These are some especially representative publications of the lab's focus.
 
-### Computational
+## Computational
 
 These publications have a stronger focus on computational analyses and methods.
 
 {{< publist keyword="computational-example" >}}
 
-### Experimental
+## Experimental
 
 These publications are focused on experimental observations.
 

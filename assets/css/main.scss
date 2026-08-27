@@ -118,6 +118,20 @@ footer {
     &:hover { color: $azul-accent-color;
 }}}
 
+.abstract-toggle {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  cursor: pointer;
+  color: darken($azul-accent-color, 22%);
+
+  &:hover {
+    color: $azul-accent-color;
+  }
+}
+
 /*----------------------------------------------------------------------------*/
 
 .highlight {

@@ -1,12 +1,12 @@
 {{ define "main" }}
 <article class="single row gutters">
-  <h2>{{ .Title }}</h2>
+  <h1>{{ .Title }}</h1>
 
 <img src="/public/photos/group2023.webp" width="100%" alt="Group photo from Marc's defense celebration." class="center" />
 
 <div class="span_3 right"><img src="/public/photos/ameyer.webp" width="150px" alt="Aaron's photo" /></div>
 
-<h3>Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="https://ameyer.me"><svg class="svg-icon"><use href="#fa-home"></use></svg></a> <a href="https://github.com/aarmey"><svg class="svg-icon"><use href="#fa-github"></use></svg></a> <a href="https://mstdn.science/@aarmey"><svg class="svg-icon"><use href="#fa-mastadon"></use></svg></a> <a href="https://orcid.org/0000-0003-4513-1840"><svg class="svg-icon"><use href="#fa-orcid"></use></svg></a> <a href="mailto:ameyer@ucla.edu"><svg class="svg-icon"><use href="#fa-envelope"></use></svg></a></h3>
+<h2>Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="https://ameyer.me"><svg class="svg-icon"><use href="#fa-home"></use></svg></a> <a href="https://github.com/aarmey"><svg class="svg-icon"><use href="#fa-github"></use></svg></a> <a href="https://mstdn.science/@aarmey"><svg class="svg-icon"><use href="#fa-mastadon"></use></svg></a> <a href="https://orcid.org/0000-0003-4513-1840"><svg class="svg-icon"><use href="#fa-orcid"></use></svg></a> <a href="mailto:ameyer@ucla.edu"><svg class="svg-icon"><use href="#fa-envelope"></use></svg></a></h2>
 <p>Ph. D., Biological Engineering, MIT<br>
 B.S., Bioengineering, University of California, Los Angeles</p>
 
@@ -17,7 +17,7 @@ B.S., Bioengineering, University of California, Los Angeles</p>
 {{ range hugo.Data.team }}
 {{ if .current }}
 <div class="span_3 right"><img src="/public/photos/{{ .photo }}" alt="{{ .name }}'s photo" /></div>
-<h3>{{ .name }}, {{ .position }}&nbsp;&nbsp;&nbsp;{{ if .homepage }}<a href="{{ .homepage }}"><svg class="svg-icon"><use href="#fa-home"></use></svg></a>{{ end }}{{ if .orcid }} <a href="https://orcid.org/{{ .orcid }}"><svg class="svg-icon"><use href="#fa-orcid"></use></svg></a>{{ end }}{{ if .github }} <a href="https://github.com/{{ .github }}"><svg class="svg-icon"><use href="#fa-github"></use></svg></a>{{ end }}</h3>
+<h2>{{ .name }}, {{ .position }}&nbsp;&nbsp;&nbsp;{{ if .homepage }}<a href="{{ .homepage }}"><svg class="svg-icon"><use href="#fa-home"></use></svg></a>{{ end }}{{ if .orcid }} <a href="https://orcid.org/{{ .orcid }}"><svg class="svg-icon"><use href="#fa-orcid"></use></svg></a>{{ end }}{{ if .github }} <a href="https://github.com/{{ .github }}"><svg class="svg-icon"><use href="#fa-github"></use></svg></a>{{ end }}</h2>
 {{ if .degrees }}
 {{ range .degrees }}
 <p>{{ . }}</p>
@@ -32,22 +32,22 @@ B.S., Bioengineering, University of California, Los Angeles</p>
 {{ end }}
 {{ end }}
 
-<h1>Former Members</h1>
+<h2>Former Members</h2>
 
-<div id="alumni-filter-buttons">
-  <button class="filter-btn" onclick="filterAlumni('Undergraduate Researcher', this)">Undergraduate Students</button>
-  <button class="filter-btn" onclick="filterAlumni(['Amgen Scholar', 'Bruins in Genomics Summer Research Program', 'NCI CSBC Summer Scholar', 'UCLA Transfer Student Summer Research Program'], this)">Summer Scholars</button>
-  <button class="filter-btn" onclick="filterAlumni(['Ph.D. Student', 'M.S. Student'], this)">Graduate Students</button>
-  <button class="filter-btn" onclick="filterAlumni(['Postdoctoral Associate', 'Postdoctoral Fellow'], this)">Postdoctoral Associates</button>
-  <button class="filter-btn" onclick="filterAlumni(['Development Engineer', 'Technical Assistant'], this)">Staff</button>
+<div id="alumni-filter-buttons" role="group" aria-label="Filter former members by role">
+  <button class="filter-btn" aria-pressed="false" onclick="filterAlumni('Undergraduate Researcher', this)">Undergraduate Students</button>
+  <button class="filter-btn" aria-pressed="false" onclick="filterAlumni(['Amgen Scholar', 'Bruins in Genomics Summer Research Program', 'NCI CSBC Summer Scholar', 'UCLA Transfer Student Summer Research Program'], this)">Summer Scholars</button>
+  <button class="filter-btn" aria-pressed="false" onclick="filterAlumni(['Ph.D. Student', 'M.S. Student'], this)">Graduate Students</button>
+  <button class="filter-btn" aria-pressed="false" onclick="filterAlumni(['Postdoctoral Associate', 'Postdoctoral Fellow'], this)">Postdoctoral Associates</button>
+  <button class="filter-btn" aria-pressed="false" onclick="filterAlumni(['Development Engineer', 'Technical Assistant'], this)">Staff</button>
 </div>
 
 <div id="alumni-list">
 {{ $sortedPeople := sort hugo.Data.team "joined" "desc" }}
 {{ range $sortedPeople }}
 {{ if not .current }}
-<div class="alumni-member" data-position="{{ .position }}" style="display: none;">
-<h4>{{ .name }}, {{ .position }}{{ if .postposition }} (currently {{ .postposition }}){{ end }}</h4>
+<div class="alumni-member" data-position="{{ .position }}">
+<h3>{{ .name }}, {{ .position }}{{ if .postposition }} (currently {{ .postposition }}){{ end }}</h3>
 </div>
 {{ end }}
 {{ end }}
@@ -55,18 +55,25 @@ B.S., Bioengineering, University of California, Los Angeles</p>
 
 <script>
 function filterAlumni(positions, buttonEl) {
+  const alreadyActive = buttonEl.classList.contains('active');
+
   document.querySelectorAll('#alumni-filter-buttons .filter-btn').forEach(button => {
     button.classList.remove('active');
+    button.setAttribute('aria-pressed', 'false');
   });
-  buttonEl.classList.add('active');
 
   const positionsToShow = Array.isArray(positions) ? positions : [positions];
 
   document.querySelectorAll('#alumni-list .alumni-member').forEach(member => {
     const memberPosition = member.dataset.position;
-    const shouldShow = positionsToShow.includes(memberPosition);
+    const shouldShow = alreadyActive || positionsToShow.includes(memberPosition);
     member.style.display = shouldShow ? 'block' : 'none';
   });
+
+  if (!alreadyActive) {
+    buttonEl.classList.add('active');
+    buttonEl.setAttribute('aria-pressed', 'true');
+  }
 }
 </script>
 

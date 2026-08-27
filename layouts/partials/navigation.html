@@ -1,6 +1,7 @@
-<nav class="col span_10 top-navbar">
+<nav class="col span_10 top-navbar" aria-label="Main">
   {{ range hugo.Data.links }}
+  {{ $isCurrent := eq (strings.TrimSuffix "/" $.RelPermalink) (strings.TrimSuffix "/" .url) }}
   <a href="{{ .url }}" title="{{ .title }}"
-     {{ if eq $.Title .title }}class="current-page"{{ end }}>{{ .title }}</a>
+     {{ if $isCurrent }}class="current-page" aria-current="page"{{ end }}>{{ .title }}</a>
   {{ end }}
 </nav>
