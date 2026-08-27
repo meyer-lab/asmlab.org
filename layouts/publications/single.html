@@ -2,6 +2,41 @@
 <article class="single row gutters">
   <h2>{{ .Title }}</h2>
 
+  <div class="pub-search">
+    <input type="search" id="pub-search-input" placeholder="Search publications (title, abstract, full text)&hellip;" aria-label="Search publications" autocomplete="off">
+    <div id="pub-search-results"></div>
+  </div>
+  <script>
+  (function () {
+    var input = document.getElementById('pub-search-input');
+    var results = document.getElementById('pub-search-results');
+    var loaded = false;
+    function loadSearch() {
+      if (loaded) return;
+      loaded = true;
+      var link = document.createElement('link');
+      link.rel = 'stylesheet';
+      link.href = '{{ "pagefind/pagefind-ui.css" | relURL }}';
+      document.head.appendChild(link);
+      var script = document.createElement('script');
+      script.src = '{{ "pagefind/pagefind-ui.js" | relURL }}';
+      script.onload = function () {
+        new PagefindUI({ element: '#pub-search-results', showSubResults: true, showImages: false });
+        var realInput = results.querySelector('input');
+        if (realInput) {
+          realInput.value = input.value;
+          realInput.focus();
+          realInput.dispatchEvent(new Event('input', { bubbles: true }));
+        }
+        input.style.display = 'none';
+      };
+      document.head.appendChild(script);
+    }
+    input.addEventListener('focus', loadSearch, { once: true });
+    input.addEventListener('input', loadSearch, { once: true });
+  })();
+  </script>
+
 {{ $refs := sort hugo.Data.pubs.references "issued" "desc" }}
 
 {{/* Collect unique years (issued may be int or string, so normalize via printf) */}}

@@ -26,8 +26,17 @@ jobs:
       - name: Run Typst
         run: typst compile --root . _CV/CV.typ static/public/CV.pdf
 
+      - name: Install pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+
+      - name: Extract publication full text
+        run: python3 scripts/extract_fulltext.py
+
       - name: Build Hugo
         run: hugo --minify
+
+      - name: Build search index
+        run: npx -y pagefind --site _site
 
       - name: Restore lychee cache
         uses: actions/cache@v5
