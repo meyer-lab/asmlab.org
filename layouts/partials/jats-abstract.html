@@ -1,0 +1,21 @@
+{{- $pmcid := .pmcid -}}
+{{- $result := "" -}}
+{{- if $pmcid -}}
+  {{- $path := printf "data/JATS/%s.xml" $pmcid -}}
+  {{- if fileExists $path -}}
+    {{- $raw := readFile $path -}}
+    {{- $abstracts := findRE "(?s)<abstract[^>]*>.*?</abstract>" $raw -}}
+    {{- $chosen := "" -}}
+    {{- range $abstracts -}}
+      {{- if not (in . "abstract-type=") -}}{{- $chosen = . -}}{{- end -}}
+    {{- end -}}
+    {{- if and (not $chosen) $abstracts -}}{{- $chosen = index $abstracts 0 -}}{{- end -}}
+    {{- if $chosen -}}
+      {{- $chosen = replaceRE "(?s)<title>.*?</title>" "" $chosen -}}
+      {{- $chosen = replaceRE "<[^>]+>" " " $chosen -}}
+      {{- $chosen = replaceRE `\s+` " " $chosen -}}
+      {{- $result = trim ($chosen | htmlUnescape) " " -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $result -}}

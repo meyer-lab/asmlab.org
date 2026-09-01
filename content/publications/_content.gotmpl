@@ -1,0 +1,10 @@
+{{ range hugo.Data.pubs.references }}
+  {{ $ref := . }}
+  {{ $.AddPage (dict
+      "kind" "page"
+      "path" (printf "pub/%s" ($ref.id | urlize))
+      "title" $ref.title
+      "type" "pub"
+      "params" (dict "ref" $ref)
+  ) }}
+{{ end }}
