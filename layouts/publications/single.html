@@ -1,6 +1,6 @@
 {{ define "main" }}
 <article class="single row gutters">
-  <h2>{{ .Title }}</h2>
+  <h1>{{ .Title }}</h1>
 
 {{ $refs := sort hugo.Data.pubs.references "issued" "desc" }}
 
@@ -16,7 +16,7 @@
 
 {{ range $years }}
   {{ $year := . }}
-  <h3>{{ $year }}</h3>
+  <h2>{{ $year }}</h2>
   <dl>
   {{ range $refs }}
     {{ $refYear := index (split (printf "%v" .issued) "-") 0 }}

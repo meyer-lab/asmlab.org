@@ -7,7 +7,7 @@
     {{ partial "icons.html" . }}
 
     <div class="container azul">
-      <header class="top row gutters{{ if eq .Title "/" }} fadeInLeft animated{{ end }}">
+      <header class="top row gutters{{ if .IsHome }} fadeInLeft animated{{ end }}">
         <div class="col span_2 center">
           <div id="logo"></div>
         </div>
@@ -27,13 +27,11 @@
     </div>
 
   <script>
-  function toggle(key) {
+  function toggle(key, buttonEl) {
     var element = document.getElementById(key)
-    if (element.style.display == 'block') {
-      element.style.display = 'none'
-    } else {
-      element.style.display = 'block'
-    }
+    var expanded = element.style.display == 'block'
+    element.style.display = expanded ? 'none' : 'block'
+    buttonEl.setAttribute('aria-expanded', expanded ? 'false' : 'true')
   }
   </script>
   </body>

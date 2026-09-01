@@ -39,6 +39,38 @@ hr,
   margin-bottom: 20px;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.17rem;
+}
+
+.member-name {
+  font-size: 1.25rem;
+}
+
+h4 {
+  font-size: 1rem;
+}
+
+h5 {
+  font-size: .83rem;
+}
+
+h6 {
+  font-size: .67rem;
+}
+
 blockquote {
   padding: 0 30px;
   border-left: 2px solid darken($site-background-color, 15%);
@@ -117,6 +149,20 @@ footer {
 .azul { a { color: darken($azul-accent-color, 22%);
     &:hover { color: $azul-accent-color;
 }}}
+
+.abstract-toggle {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  cursor: pointer;
+  color: darken($azul-accent-color, 22%);
+
+  &:hover {
+    color: $azul-accent-color;
+  }
+}
 
 /*----------------------------------------------------------------------------*/
 
