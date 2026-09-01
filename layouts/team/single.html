@@ -6,7 +6,7 @@
 
 <div class="span_3 right"><img src="/public/photos/ameyer.webp" width="150px" alt="Aaron's photo" /></div>
 
-<h2>Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="https://ameyer.me"><svg class="svg-icon"><use href="#fa-home"></use></svg></a> <a href="https://github.com/aarmey"><svg class="svg-icon"><use href="#fa-github"></use></svg></a> <a href="https://mstdn.science/@aarmey"><svg class="svg-icon"><use href="#fa-mastadon"></use></svg></a> <a href="https://orcid.org/0000-0003-4513-1840"><svg class="svg-icon"><use href="#fa-orcid"></use></svg></a> <a href="mailto:ameyer@ucla.edu"><svg class="svg-icon"><use href="#fa-envelope"></use></svg></a></h2>
+<h2 class="member-name">Aaron Meyer, Principal Investigator&nbsp;&nbsp;&nbsp;<a href="https://ameyer.me"><svg class="svg-icon"><use href="#fa-home"></use></svg></a> <a href="https://github.com/aarmey"><svg class="svg-icon"><use href="#fa-github"></use></svg></a> <a href="https://mstdn.science/@aarmey"><svg class="svg-icon"><use href="#fa-mastadon"></use></svg></a> <a href="https://orcid.org/0000-0003-4513-1840"><svg class="svg-icon"><use href="#fa-orcid"></use></svg></a> <a href="mailto:ameyer@ucla.edu"><svg class="svg-icon"><use href="#fa-envelope"></use></svg></a></h2>
 <p>Ph. D., Biological Engineering, MIT<br>
 B.S., Bioengineering, University of California, Los Angeles</p>
 
@@ -17,7 +17,7 @@ B.S., Bioengineering, University of California, Los Angeles</p>
 {{ range hugo.Data.team }}
 {{ if .current }}
 <div class="span_3 right"><img src="/public/photos/{{ .photo }}" alt="{{ .name }}'s photo" /></div>
-<h2>{{ .name }}, {{ .position }}&nbsp;&nbsp;&nbsp;{{ if .homepage }}<a href="{{ .homepage }}"><svg class="svg-icon"><use href="#fa-home"></use></svg></a>{{ end }}{{ if .orcid }} <a href="https://orcid.org/{{ .orcid }}"><svg class="svg-icon"><use href="#fa-orcid"></use></svg></a>{{ end }}{{ if .github }} <a href="https://github.com/{{ .github }}"><svg class="svg-icon"><use href="#fa-github"></use></svg></a>{{ end }}</h2>
+<h2 class="member-name">{{ .name }}, {{ .position }}&nbsp;&nbsp;&nbsp;{{ if .homepage }}<a href="{{ .homepage }}"><svg class="svg-icon"><use href="#fa-home"></use></svg></a>{{ end }}{{ if .orcid }} <a href="https://orcid.org/{{ .orcid }}"><svg class="svg-icon"><use href="#fa-orcid"></use></svg></a>{{ end }}{{ if .github }} <a href="https://github.com/{{ .github }}"><svg class="svg-icon"><use href="#fa-github"></use></svg></a>{{ end }}</h2>
 {{ if .degrees }}
 {{ range .degrees }}
 <p>{{ . }}</p>
@@ -78,6 +78,9 @@ function filterAlumni(positions, buttonEl) {
 </script>
 
 <style>
+#alumni-list .alumni-member {
+  display: none;
+}
 #alumni-filter-buttons .filter-btn {
   margin: 5px;
   padding: 8px 12px;
