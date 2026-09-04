@@ -1981,3 +1981,91 @@ references:
         ovarian cancer reveal disrupted Fc-mediated immunity
     type: article-journal
     url: "https://www.biorxiv.org/content/early/2026/04/29/2026.04.25.720834"
+  - abstract: Plasmodium falciparum erythrocyte membrane protein-1 (PfEMP1)
+        variant antigens on P. falciparum-infected erythrocytes (IE)
+        mediate organ sequestration. Expression of specific PfEMP1s is
+        upregulated in severe malaria (SM). To determine whether a
+        combination of PfEMP1 antibody targets and Fc features could
+        distinguish between children with SM and uncomplicated malaria
+        (UM), we measured antibodies to 28 PfEMP1 domains and antibody
+        dependent THP-1 cell and neutrophil phagocytosis (ADNP) of IE in
+        children from Papua New Guinea with SM or UM, at presentation
+        and convalescence. At presentation, UM was positively associated
+        with IgG, IgG1, IgG3 and Fcgamma-RIII binding antibodies,
+        including against domains that bind endothelial protein C
+        receptor (EPCR), intercellular adhesion molecule-1 (ICAM-1) or
+        CD36, compared to severe malaria, and with ADNP of IE that bind
+        ICAM-1 and CD36. These associations were most notable when
+        compared to children with severe anaemia. By convalescence,
+        Fcgamma-RIIIb and Fcgamma-RIIb binding antibodies declined while
+        C1q binding antibodies increased. Using Elastic Net Regression
+        modelling, inclusion of functional antibody measures targeting
+        diverse PfEMP1 domains, was required to distinguish between SM
+        and UM. Using Tensor-structured decomposition, variation between
+        SM and UM was driven by functional antibodies against all
+        PfEMP1 domains. Protection against severe malaria may require
+        functional antibody to multiple PfEMP1 targets.
+    author:
+      - family: Walker
+        given: Isobel
+      - family: Haghiri
+        given: Ali
+      - family: Hasang
+        given: Wina
+      - family: Ortega Prajares
+        given: Amaya
+      - family: Feleke
+        given: Daniel
+      - family: Manning
+        given: Laurens
+      - family: Davis
+        given: Timothy M.E.
+      - family: Mueller
+        given: Ivo
+      - family: Williams
+        given: Oscar
+      - family: Rajasekhar
+        given: Megha
+      - family: Simpson
+        given: Julie A.
+      - family: Lavstsen
+        given: Thomas
+      - family: Turner
+        given: Louise
+      - family: Adams
+        given: Yvonne
+      - family: Jensen
+        given: Anja T.R.
+      - family: Olsen
+        given: Rebecca W.
+      - family: Duffy
+        given: Michael
+      - family: Rambhatla
+        given: Janavi
+      - family: Rowe
+        given: Alex
+      - family: Otoboh
+        given: Stanley
+      - family: Meyer
+        given: Aaron S
+      - family: Takashima
+        given: Eizo
+      - family: Tsuboi
+        given: Takafumi
+      - family: Lufele
+        given: Elvin
+      - family: Laman
+        given: Moses
+      - family: Chung
+        given: Amy W.
+      - family: Aitken
+        given: Elizabeth H.
+      - family: Rogerson
+        given: Stephen J.
+    container-title: Submitted
+    id: Walker2026
+    issued: 2026
+    keyword: malaria, antibodies, Fc receptors, systems serology
+    title: Antibodies against Plasmodium falciparum erythrocyte membrane
+        protein-1 that correlate with protection from severe malaria
+    type: article-journal
