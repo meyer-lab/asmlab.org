@@ -2069,3 +2069,25 @@ references:
     title: Antibodies against Plasmodium falciparum erythrocyte membrane
         protein-1 that correlate with protection from severe malaria
     type: article-journal
+  - author:
+      - family: Luo
+        given: Elizabeth
+      - family: Chen
+        given: Jonathan
+      - family: Chan
+        given: Hung
+      - family: Ramirez
+        given: Andrew
+      - family: Meyer
+        given: Aaron S
+      - family: Gallo
+        given: Richard
+      - family: Wong
+        given: Gerard
+    container-title: Submitted
+    id: Luo2026
+    issued: 2026
+    title: "Transition from antimicrobial to autoimmune TLR9 transcriptomic
+        responses driven by chaperone-induced 'superselective' DNA
+        presentation"
+    type: article-journal
