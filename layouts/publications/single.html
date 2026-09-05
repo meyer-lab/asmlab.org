@@ -37,7 +37,13 @@
   })();
   </script>
 
-{{ $refs := sort hugo.Data.pubs.references "issued" "desc" }}
+{{ $visibleRefs := slice }}
+{{ range hugo.Data.pubs.references }}
+  {{ if not (and (eq (index . "container-title") "Submitted") (not .url)) }}
+    {{ $visibleRefs = $visibleRefs | append . }}
+  {{ end }}
+{{ end }}
+{{ $refs := sort $visibleRefs "issued" "desc" }}
 
 {{/* Collect unique years (issued may be int or string, so normalize via printf) */}}
 {{ $years := slice }}
