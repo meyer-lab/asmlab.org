@@ -2091,3 +2091,90 @@ references:
         responses driven by chaperone-induced 'superselective' DNA
         presentation"
     type: article-journal
+  - abstract: High-grade serous ovarian carcinoma (HGSOC), the most prevalent
+        and lethal form of epithelial ovarian cancer, frequently recurs with
+        chemotherapy resistance and limited treatment options. While
+        previous studies have examined molecular changes following
+        treatment, the mechanisms of disease progression remain incomplete.
+        To address this, we conducted longitudinal analysis of matched
+        chemonaive, post-neoadjuvant chemotherapy, and recurrent HGSOCs
+        using bulk and single-cell RNA sequencing with histology to track
+        tumor evolution. Findings reveal progressive enrichment of
+        neuroendocrine features resembling small cell neuroendocrine (SCN)
+        carcinoma and RB1-deficiency in recurrent tumors, mirroring
+        therapy-escape mechanisms documented in lung and prostate cancers.
+        In vivo models support that repeated chemotherapy promotes SCN
+        transitions. Furthermore, serous tubal intraepithelial carcinoma
+        precursor lesions and pre-treatment tumors harboring SCN features
+        indicate that this transformation commences early in HGSOC
+        development. This study establishes SCN transition as a feature of
+        HGSOC progression, links it to RB1 loss and immune dysfunction, and
+        identifies therapeutic avenues for recurrent disease.
+    author:
+      - family: Memarzadeh
+        given: Sanaz
+      - family: Singh
+        given: Tanya
+      - family: Esedebe
+        given: Favour N.
+      - family: He
+        given: Tian
+      - family: DiBernardo
+        given: Gabriella A.
+      - family: Borujerdpur
+        given: Amir
+      - family: Liao
+        given: Yi Jou (Ruby)
+      - family: Grogan
+        given: Tristan
+      - family: Sundaram
+        given: Sneha
+      - family: Ruegg
+        given: Lauryn
+      - family: Freeland
+        given: Jack
+      - family: Thomas
+        given: Abeni
+      - family: Neal
+        given: Adam
+      - family: Yin
+        given: Lucy
+      - family: Balgovind
+        given: Ashvath
+      - family: Ta
+        given: Lisa
+      - family: Tsang
+        given: Faith
+      - family: Ochoa
+        given: Christopher J.
+      - family: Graham
+        given: Danielle M.
+      - family: Zargari
+        given: Kiana
+      - family: Sanghu
+        given: Jashan
+      - family: Rahseparian
+        given: Neela
+      - family: Lai
+        given: Tiffany
+      - family: Varuzhanyan
+        given: Grigor
+      - family: Meyer
+        given: Aaron S.
+      - family: Elashoff
+        given: David
+      - family: Witte
+        given: Owen N.
+      - family: Huang
+        given: Jiaoti
+      - family: Moatamed
+        given: Neda A.
+      - family: Graeber
+        given: Thomas G.
+    container-title: Submitted
+    id: Memarzadeh2026
+    issued: 2026-03
+    keyword: ovarian cancer, neuroendocrine, RB1, tumor evolution
+    title: Small cell neuroendocrine features and RB1-pathway deficiencies
+        are enriched in recurrent high grade serous ovarian carcinomas
+    type: article-journal
