@@ -2111,8 +2111,6 @@ references:
         HGSOC progression, links it to RB1 loss and immune dysfunction, and
         identifies therapeutic avenues for recurrent disease.
     author:
-      - family: Memarzadeh
-        given: Sanaz
       - family: Singh
         given: Tanya
       - family: Esedebe
@@ -2131,6 +2129,8 @@ references:
         given: Sneha
       - family: Ruegg
         given: Lauryn
+      - family: James-Allan
+        given: Laura
       - family: Freeland
         given: Jack
       - family: Thomas
@@ -2171,6 +2171,8 @@ references:
         given: Neda A.
       - family: Graeber
         given: Thomas G.
+      - family: Memarzadeh
+        given: Sanaz
     container-title: Submitted
     id: Memarzadeh2026
     issued: 2026-03
