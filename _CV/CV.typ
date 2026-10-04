@@ -98,6 +98,8 @@
 
 #section("Awards & Recognitions")
 
+_Editor's Choice Article_, American Journal of Transplantation #h(1fr) 2026
+
 _Diversity, Equity and Inclusion Award_, Society For Biomaterials #h(1fr) 2025
 
 _Outstanding Mentor Award_, Bruins-In-Genomics #h(1fr) 2022, 2024
