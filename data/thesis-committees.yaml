@@ -238,3 +238,9 @@ committees:
     advisor: Philip Scumpia
     start_date: 2025
     end_date: Present
+
+  - name: Mihir Joshi
+    program: Computational Medicine (M.S.)
+    advisor: Yuzhe Yang
+    start_date: 2026
+    end_date: Present
