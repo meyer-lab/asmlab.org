@@ -39,6 +39,38 @@ hr,
   margin-bottom: 20px;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.17rem;
+}
+
+.member-name {
+  font-size: 1.25rem;
+}
+
+h4 {
+  font-size: 1rem;
+}
+
+h5 {
+  font-size: .83rem;
+}
+
+h6 {
+  font-size: .67rem;
+}
+
 blockquote {
   padding: 0 30px;
   border-left: 2px solid darken($site-background-color, 15%);
@@ -117,6 +149,20 @@ footer {
 .azul { a { color: darken($azul-accent-color, 22%);
     &:hover { color: $azul-accent-color;
 }}}
+
+.abstract-toggle {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  cursor: pointer;
+  color: darken($azul-accent-color, 22%);
+
+  &:hover {
+    color: $azul-accent-color;
+  }
+}
 
 /*----------------------------------------------------------------------------*/
 
@@ -246,6 +292,36 @@ dl,
   background-size: 90px 90px;
   background-position: left center;
   background-repeat: no-repeat;
+}
+
+/*============================================================================*/
+
+.pub-search {
+  margin-bottom: 25px;
+
+  #pub-search-input {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+    max-width: 400px;
+    padding: 10px 14px 10px 36px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'%3E%3C/circle%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'%3E%3C/line%3E%3C/svg%3E") no-repeat 12px center;
+    background-size: 14px 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1rem;
+    color: $contrast-color;
+
+    &::placeholder {
+      color: #999;
+    }
+
+    &:focus {
+      outline: none;
+      border-color: $azul-accent-color;
+    }
+  }
 }
 
 /*============================================================================*/

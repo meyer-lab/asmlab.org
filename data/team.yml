@@ -64,6 +64,30 @@
 # - Jalissa Emmens (Bruins in Genomics Summer Research Program)
 # - Hamza Ahmed (Bruins in Genomics Summer Research Program)
 
+- name: Salina Adhanom
+  position: Bruins in Genomics Summer Research Program
+  joined: 2024
+  left: 2024
+  keywords:
+
+- name: Ayana Price
+  position: Bruins in Genomics Summer Research Program
+  joined: 2024
+  left: 2024
+  keywords:
+
+- name: Eden Gezehagn
+  position: SURE@UCLA Summer Research Program
+  joined: 2024
+  left: 2024
+  keywords:
+
+- name: Eduardo Gonzalez
+  position: SURE@UCLA Summer Research Program
+  joined: 2024
+  left: 2024
+  keywords:
+
 - name: Jacqueline Durney
   position: Bruins in Genomics Summer Research Program
   joined: 2023
@@ -553,6 +577,7 @@
   current: True
   awards:
     - URC-Sciences Summer Program
+    - URC-Sciences Undergraduate Research Scholars Program (URSP), 2026-2027
 
 - name: Breanna Remigio
   position: Undergraduate Researcher

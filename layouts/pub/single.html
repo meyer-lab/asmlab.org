@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ $ref := .Params.ref }}
+{{ $abstract := $ref.abstract }}
+{{ if and (not $abstract) $ref.pmcid }}
+  {{ $abstract = partial "jats-abstract.html" (dict "pmcid" $ref.pmcid) }}
+{{ end }}
+{{ $fulltext := "" }}
+{{ if $ref.pmcid }}
+  {{ $path := printf "fulltext/%s.txt" $ref.pmcid }}
+  {{ if fileExists $path }}
+    {{ $fulltext = readFile $path }}
+  {{ end }}
+{{ end }}
+<article class="single row gutters" data-pagefind-body>
+  <h2>{{ $ref.title }}</h2>
+
+  <p data-pagefind-meta="authors">{{ range $i, $a := $ref.author }}{{ if $i }}, {{ end }}{{ $a.family }} {{ substr $a.given 0 1 }}.{{ end }}</p>
+  <p><em>{{ index $ref "container-title" }}</em>{{ if $ref.volume }} {{ $ref.volume }}{{ if $ref.issue }}({{ $ref.issue }}){{ end }}{{ end }}{{ if $ref.page }}:{{ $ref.page }}{{ end }}, <span data-pagefind-meta="year">{{ $ref.issued }}</span>.</p>
+
+  <span class="minilinks">
+  {{ if $ref.pmid }}<a title="pubmed" href="https://pubmed.ncbi.nlm.nih.gov/{{ $ref.pmid }}/"><svg class="svg-icon"><use href="#scif-pubmed"></use></svg></a>
+  {{ else if $ref.pmcid }}<a title="pubmed" href="https://www.ncbi.nlm.nih.gov/pmc/articles/{{ $ref.pmcid }}/"><svg class="svg-icon"><use href="#scif-pubmed"></use></svg></a>{{ end }}
+  {{ if $ref.doi }}<a title="doi" href="https://doi.org/{{ $ref.doi }}"><svg class="svg-icon"><use href="#scif-doi"></use></svg></a>{{ else if $ref.url }}<a title="journal" href="{{ $ref.url }}"><svg class="svg-icon"><use href="#scif-doi"></use></svg></a>{{ end }}
+  </span>
+
+  {{ if $abstract }}<p><b>Abstract:</b> {{ $abstract }}</p>{{ end }}
+
+  {{ if $fulltext }}
+  <p><a href="#" onclick="toggle('fulltext'); return false;">[Show full text]</a></p>
+  <div id="fulltext" style="display:none">
+    {{ range split $fulltext "\n\n" }}<p>{{ . }}</p>{{ end }}
+  </div>
+  {{ end }}
+</article>
+{{ end }}

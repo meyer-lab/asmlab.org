@@ -1,6 +1,6 @@
 <!-- meta information -->
 <meta charset="utf-8">
-{{ if eq .Title "/" -}}
+{{ if .IsHome -}}
 <meta name="description" content="{{ .Site.Params.description }}">
 {{- else -}}
 <meta name="description" content="{{ .Content | plainify | truncate 120 }}">

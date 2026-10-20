@@ -6,4 +6,9 @@ vendor
 _site
 .ruby-version
 .aider*
+<<<<<<< HEAD
 resources
+=======
+fulltext
+.hugo_build.lock
+>>>>>>> origin/main

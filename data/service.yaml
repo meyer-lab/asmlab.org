@@ -14,7 +14,7 @@ service:
 
     - role: Member
       organization: Bioengineering Hiring Search Committee
-      date: "2021–2022, 2023–2024, 2024–2025"
+      date: "2021–2022, 2023–2024, 2024–2025, 2026–2027"
 
     - role: Department Representative
       organization: UCLA Faculty Senate Legislative Assembly

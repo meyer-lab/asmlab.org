@@ -8,7 +8,7 @@
 
   {{ range .Pages }}
   <article class="single row gutters">
-    <h3><a href="{{ .RelPermalink }}" title="{{ .Title }}" class="col span_10">{{ .Title }}</a></h3>
+    <h2><a href="{{ .RelPermalink }}" title="{{ .Title }}" class="col span_10">{{ .Title }}</a></h2>
     <div class="post-date col span_2">
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
     </div>
