@@ -6,5 +6,6 @@ vendor
 _site
 .ruby-version
 .aider*
+resources
 fulltext
 .hugo_build.lock

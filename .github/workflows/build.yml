@@ -12,16 +12,18 @@ jobs:
   hugo:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.168.0'
           extended: true
 
       - name: Install Typst
         uses: typst-community/setup-typst@v5
+        with:
+          typst-version: 0.15.1
 
       - name: Run Typst
         run: typst compile --root . _CV/CV.typ static/public/CV.pdf
@@ -39,7 +41,7 @@ jobs:
         run: npx -y pagefind --site _site
 
       - name: Restore lychee cache
-        uses: actions/cache@v5
+        uses: actions/cache@v6
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
