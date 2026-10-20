@@ -6,3 +6,4 @@ vendor
 _site
 .ruby-version
 .aider*
+resources
