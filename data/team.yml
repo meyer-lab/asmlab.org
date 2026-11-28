@@ -579,6 +579,14 @@
     - URC-Sciences Summer Program
     - URC-Sciences Undergraduate Research Scholars Program (URSP), 2026-2027
 
+- name: Saanvi Bhargava
+  position: Undergraduate Researcher
+  keywords: computational, scRNAseq
+  description: Saanvi is an undergraduate student majoring in Computer Science with a minor in Bioinformatics who joined the lab in fall 2026. Her research interests are in machine learning for computational genomics and neurotechnology, and she is working on comparing computational methods for analyzing single-cell data. In her free time, she enjoys listening to and mixing music, making coffee, and photography.
+  joined: 2026
+  photo: sbhargava.webp
+  current: True
+
 - name: Breanna Remigio
   position: Undergraduate Researcher
   keywords: computational, tensors
